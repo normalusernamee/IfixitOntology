@@ -1,0 +1,303 @@
+{
+    "Title": "Mercedes W123 Brake Hose Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22767,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "11 wrench",
+            "Url": "https://www.amazon.com/TEKTON-WRN53111-Ratcheting-Combination-Wrench/dp/B01F511MB4/ref=sr_1_1?ie=UTF8&qid=1487888260&sr=8-1&keywords=11mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "14 mm socket wrench",
+            "Url": "/Item/14_mm_wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "locking pliers",
+            "Url": "http://amzn.com/B00004SBAT",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wire cutter",
+            "Url": "http://www.ifixit.com/Tools/Flush-Wire-Cutter/IF145-056",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "aerosol brake cleaner",
+            "Url": "https://www.amazon.com/CRC-Brakleen-Brake-Parts-Cleaner/dp/B000LDR9HI/ref=sr_1_2?ie=UTF8&qid=1488060548&sr=8-2&keywords=brake+cleaner",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "penetrating lubricant",
+            "Url": "http://www.amazon.com/Blaster-16-PB-Penetrating-Catalyst-oz/dp/B000I2079E/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889196&sr=1-1&keywords=PB+blaster",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": "https://www.ifixit.com/Store/Parts/54-Bit-Driver-Kit/IF145-299",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "chisel",
+            "Url": "http://www.amazon.com/Stanley-16-150-Series-3-Piece-Chisel/dp/B00002X1YO/ref=sr_1_1?ie=UTF8&qid=1407452845&sr=8-1&keywords=chisel",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Brake+Hose+Replacement/22767",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before beginning you will need to remove the wheel ( s ) that are in the way of each brake hose you want to replace ."
+                }
+            ],
+            "Text_raw": "Before beginning you will need to remove the wheel(s) that are in the way of each brake hose you want to replace.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EUZLHbT6ckRAEB5M.standard"
+            ],
+            "StepId": 59630,
+            "Tools_extracted": [
+                "aerosol brake cleaner"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "before removing the hoses , the brake fluid on that caliper should be allowed to drain ."
+                },
+                {
+                    "Text": "this is done through the bleed screw on each caliper . the following bleed screws are shown :"
+                },
+                {
+                    "Text": "front caliper bleed screw"
+                },
+                {
+                    "Text": "rear caliper bleed screw"
+                },
+                {
+                    "Text": "allow the fluid to drain by loosening the screw just two or three turns until the fluid is dripping quickly . use a 9 mm box end wrench for this job ."
+                }
+            ],
+            "Text_raw": "Before removing the hoses, the brake fluid on that caliper should be allowed to drain. This is done through the bleed screw on each caliper. The following bleed screws are shown: Front caliper bleed screw Rear caliper bleed screw Allow the fluid to drain by loosening the screw just two or three turns until the fluid is dripping quickly. Use a 9mm box end wrench for this job.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GiZ1LO6bO12WBoAB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xmcU2Q6wJmXVJMZa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AcAjntRQy2dyf2AZ.standard"
+            ],
+            "StepId": 59631,
+            "Tools_extracted": [
+                "wrench",
+                "aerosol brake cleaner"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "now it's time to begin working on removing the soft rubber hoses ."
+                },
+                {
+                    "Text": "they connect to the caliper , and then to the hard lines at a bracket on the car ."
+                },
+                {
+                    "Text": "you can see here where it connects to the caliper on the rear driver's side . it will be similar on all four calipers ."
+                },
+                {
+                    "Text": "this is how they connect to the two front hard lines . they are located near the top of the inside of the fender wells ."
+                },
+                {
+                    "Text": "and this is how they connect to the rear hard lines . soft line already disconnected in this picture . they are located just behind the fender well , accessible through an opening ."
+                }
+            ],
+            "Text_raw": "Now it's time to begin working on removing the soft rubber hoses. They connect to the caliper, and then to the hard lines at a bracket on the car. You can see here where it connects to the caliper on the rear driver's side. It will be similar on all four calipers. This is how they connect to the two front hard lines. They are located near the top of the inside of the fender wells. And this is how they connect to the rear hard lines. Soft line already disconnected in this picture. They are located just behind the fender well, accessible through an opening.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VXpVRHe1nJgmtPMV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/boaSBbAAknK5mQ1I.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/b4PHPITMXmRgNtw3.standard"
+            ],
+            "StepId": 59632,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "it's often the case that dirt , road grime , etc . has collected within the bracket that holds the two hoses where they connect to the hard lines ."
+                },
+                {
+                    "Text": "in order to more easily remove the hose this should be cleaned out . a small screwdriver or center punch can be used to gently push out the dirt ."
+                }
+            ],
+            "Text_raw": "It's often the case that dirt, road grime, etc. has collected within the bracket that holds the two hoses where they connect to the hard lines. In order to more easily remove the hose this should be cleaned out. A small screwdriver or center punch can be used to gently push out the dirt.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GnrVeSkfDsqAsefi.standard"
+            ],
+            "StepId": 59633,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "dirt and grime will also often collect around the smaller upper nut , that of the hard brake line , making it difficult to place a wrench over it ."
+                },
+                {
+                    "Text": "this can be carefully scraped away with the tip of a small chisel or a large flat blade screwdriver ."
+                },
+                {
+                    "Text": "after scraping out all the debris in steps 4 and 5 , spray the connection with some brake cleaner to remove small particles . you want to avoid introducing dirt in to your brake system ."
+                }
+            ],
+            "Text_raw": "Dirt and grime will also often collect around the smaller upper nut, that of the hard brake line, making it difficult to place a wrench over it. This can be carefully scraped away with the tip of a small chisel or a large flat blade screw driver. After scraping out all the debris in steps 4 and 5, spray the connection with some brake cleaner to remove small particles. You want to avoid introducing dirt in to your brake system.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KPK4DbbCjQZDqbBn.standard"
+            ],
+            "StepId": 59634,
+            "Tools_extracted": [
+                "wrench",
+                "chisel",
+                "aerosol brake cleaner"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "since these hose connections are exposed to the elements under the car , and up near the wheels , they often get sprayed with water , road salt , and other corrosive materials ."
+                },
+                {
+                    "Text": "in an effort to ease the removal of these hoses each of the connection points should be sprayed thoroughly with a penetrating lubricant ."
+                },
+                {
+                    "Text": "note that where the soft hose connects to the hard line the threaded area is between the lower and upper pieces of the bracket . this is the place to focus the spray of the penetrating lubricant ."
+                }
+            ],
+            "Text_raw": "Since these hose connections are exposed to the elements under the car, and up near the wheels, they often get sprayed with water, road salt, and other corrosive materials. In an effort to ease the removal of these hoses each of the connection points should be sprayed thoroughly with a penetrating lubricant. Note that where the soft hose connects to the hard line the threaded area is between the lower and upper pieces of the bracket. This is the place to focus the spray of the penetrating lubricant.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KJOeeywhs6pAuCYA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1wTIAAPUSyUuCnAr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2OV1Q1HxbxWeTxI1.standard"
+            ],
+            "StepId": 59635,
+            "Tools_extracted": [
+                "penetrating lubricant"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "once the penetrating lubricant has had time to soak in to the threads you can begin removing the hose ."
+                },
+                {
+                    "Text": "start at the upper end of the hose where they connect to the hard lines ."
+                },
+                {
+                    "Text": "the upper nut , on the hard line , takes an 11 mm line wrench or open-end wrench ."
+                },
+                {
+                    "Text": "the lower nut , on the soft hose , takes a 14 mm open-end wrench ."
+                },
+                {
+                    "Text": "loosen the upper nut on the hard line until the soft rubber hose comes loose from it . the 14 mm wrench on the lower nut of the soft hose is simply used to hold the soft hose in place so it does not twist as you loosen the upper hard line nut ."
+                },
+                {
+                    "Text": "note that due to corrosion , this connection can be very difficult to loosen . often , the 11 mm nut on the hard line rounds off . if this happens , you may need to use locking pliers to remove it . this is covered later in this guide ."
+                }
+            ],
+            "Text_raw": "Once the penetrating lubricant has had time to soak in to the threads you can begin removing the hose. Start at the upper end of the hose where they connect to the hard lines. The upper nut, on the hard line, takes an 11mm line wrench or open-end wrench. The lower nut, on the soft hose, takes a 14mm open-end wrench. Loosen the upper nut on the hard line until the soft rubber hose comes loose from it. The 14mm wrench on the lower nut of the soft hose is simply used to hold the soft hose in place so it does not twist as you loosen the upper hard line nut. Note that due to corrosion, this connection can be very difficult to loosen. Often, the 11mm nut on the hard line rounds off. If this happens, you may need to use locking pliers to remove it. This is covered later in this guide.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gQJ2SIVSpXX2EOdC.standard"
+            ],
+            "StepId": 59636,
+            "Tools_extracted": [
+                "locking pliers",
+                "11 wrench",
+                "penetrating lubricant",
+                "14 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "with the upper connection free , now loosen the connection of the soft rubber hose at the caliper . this is done with a 14 mm open-end wrench ."
+                }
+            ],
+            "Text_raw": "With the upper connection free, now loosen the connection of the soft rubber hose at the caliper. This is done with a 14mm open-end wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fUbDMWD3GUsBW5TQ.standard"
+            ],
+            "StepId": 59637,
+            "Tools_extracted": [
+                "14 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "in the occasion that the upper connection of the hose , where it connects to the hard line , is corroded to the extent where the 11 mm nut rounds off while attempting to remove the line you may need to clamp the 11 mm rounded off nut in a pair of locking pliers in order to get enough of a hold on it to break the lower 14 mm nut on the soft line free ."
+                },
+                {
+                    "Text": "in this case you'll use the locking pliers to hold the 11 mm nut while backing the soft line off of it ."
+                },
+                {
+                    "Text": "you may find that it is difficult to remove the hose in this way as the soft hose begins to twist . you will be working against the twisting motion of the hose this way . since you are replacing the soft hose anyway , simply cut the hose with a suitable pair of wire cutters or a utility knife ."
+                }
+            ],
+            "Text_raw": "In the occasion that the upper connection of the hose, where it connects to the hard line, is corroded to the extent where the 11mm nut rounds off while attempting to remove the line you may need to clamp the 11mm rounded off nut in a pair of locking pliers in order to get enough of a hold on it to break the lower 14mm nut on the soft line free. In this case you'll use the locking pliers to hold the 11mm nut while backing the soft line off of it. You may find that it is difficult to remove the hose in this way as the soft hose begins to twist. You will be working against the twisting motion of the hose this way. Since you are replacing the soft hose anyway, simply cut the hose with a suitable pair of wire cutters or a utility knife.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yrvwB3nTUlVev2iW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MmLMZXUfTCUaS5av.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xUCkIaGMg1xKgkC5.standard"
+            ],
+            "StepId": 59638,
+            "Tools_extracted": [
+                "locking pliers",
+                "wire cutter"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "then simply remove the now cut lower portion of the hose ."
+                },
+                {
+                    "Text": "please be aware that if you are forced to resort to using vice grips to hold the small upper 11 mm nut on the hard line to remove the soft line you will then need to replace the hard line as well ."
+                },
+                {
+                    "Text": "after installing the new hoses you must bleed your brake system to remove air . never drive the car without bleeding it . guide ."
+                }
+            ],
+            "Text_raw": "Then simply remove the now cut lower portion of the hose. Please be aware that if you are forced to resort to using vice grips to hold the small upper 11mm nut on the hard line to remove the soft line you will then need to replace the hard line as well. After installing the new hoses you must bleed your brake system to remove air. Never drive the car without bleeding it. [guide|21442|See the brake bleeding guide].",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tJRyA5EKENTcZbay.standard"
+            ],
+            "StepId": 59639,
+            "Tools_extracted": [
+                "aerosol brake cleaner",
+                "11 wrench"
+            ]
+        }
+    ],
+    "Subject": "Brake Hose"
+}

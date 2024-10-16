@@ -1,0 +1,164 @@
+{
+    "Title": "Mercedes W123 Battery Maintenance",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20575,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "wire brush",
+            "Url": "https://www.amazon.com/eBoot-Brush-Cleaning-Welding-Stainless/dp/B01M34Q848/ref=sr_1_10?ie=UTF8&qid=1488831304&sr=8-10&keywords=wire+brush",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "13 wrench",
+            "Url": "https://www.amazon.com/GearWrench-9113-Combination-Ratcheting-Wrench/dp/B0002NYD7Q/ref=sr_1_3?ie=UTF8&qid=1487798994&sr=8-3&keywords=13mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "dielectric grease",
+            "Url": "http://www.amazon.com/dp/B000AL8VD2/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "shop towels",
+            "Url": "http://www.amazon.com/Kimberly-Scott%C2%AE-Towels-In-A-Box-75190/dp/B00004TBJD/ref=sr_1_2?ie=UTF8&qid=1387822380&sr=8-2&keywords=shop+towels",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Battery+Maintenance/20575",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the battery on diesel w123 cars is located in the far rear left corner of the engine bay , as you face it from the front of the car ."
+                },
+                {
+                    "Text": "this battery is in fairly good shape , but has not been maintained in several years and has gotten dirty and could use some love . . ."
+                },
+                {
+                    "Text": "to begin , disconnect the positive and negative battery terminals . this will be covered further in step 3."
+                },
+                {
+                    "Text": "be aware that batteries contain corrosive materials , release potentially explosive gasses , and can output a painful and potentially dangerous 12 v shock . use common sense , keep away from open flames , don't use strong chemicals around the battery , wear gloves and safety glasses etc ."
+                }
+            ],
+            "Text_raw": "The battery on diesel W123 cars is located in the far rear left corner of the engine bay, as you face it from the front of the car. This battery is in fairly good shape, but has not been maintained in several years and has gotten dirty and could use some love... To begin, disconnect the positive and negative battery terminals. This will be covered further in Step 3. Be aware that batteries contain corrosive materials, release potentially explosive gasses, and can output a painful and potentially dangerous 12v shock. Use common sense, keep away from open flames, don't use strong chemicals around the battery, wear gloves and safety glasses etc.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vFeebBuRu2XAJpQF.standard"
+            ],
+            "StepId": 56551,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "make note of which terminal is which . on many new cars , the positive terminal is marked with red while the negative is black ."
+                },
+                {
+                    "Text": "on a w123 however you may need to depend on the small + sign to find the positive terminal ."
+                }
+            ],
+            "Text_raw": "Make note of which terminal is which. On many new cars, the positive terminal is marked with red while the negative is black. On a W123 however you may need to depend on the small \"+\" sign to find the positive terminal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fKfHRqLGhdXsTdUQ.standard"
+            ],
+            "StepId": 56552,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a crescent wrench to loosen the nuts on the battery terminals . do not remove the nut fully , just loosen it enough to remove the terminal . on w123 's , this nut is likely a 13 mm ."
+                },
+                {
+                    "Text": "pull the terminals off , starting with the negative - terminal , then the positive + terminal ."
+                },
+                {
+                    "Text": "never remove the positive terminal first , or you risk injury from electric shock ."
+                }
+            ],
+            "Text_raw": "Use a crescent wrench to loosen the nuts on the battery terminals. Do not remove the nut fully, just loosen it enough to remove the terminal. On W123's, this nut is likely a 13mm. Pull the terminals off, starting with the Negative \"-\" terminal, then the Positive \"+\" terminal. Never remove the positive terminal first, or you risk injury from electric shock.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UXMeUm6RS5YniTK4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ecgQALS26JvcZ2AS.standard"
+            ],
+            "StepId": 56553,
+            "Tools_extracted": [
+                "13 wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use a soft metal brush , like the brass brush shown , to clean any corrosion off of the inside of the terminal . follow this up with a spray of electric contact cleaner ."
+                }
+            ],
+            "Text_raw": "Use a soft metal brush, like the brass brush shown, to clean any corrosion off of the inside of the terminal. Follow this up with a spray of electric contact cleaner.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nE3QlAwLwWMRXJgZ.standard"
+            ],
+            "StepId": 56554,
+            "Tools_extracted": [
+                "wire brush"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use a soft metal brush to clean any corrosion or dirt from the battery posts ."
+                },
+                {
+                    "Text": "then use some mild cleaner on a damp shop towel to wipe down the rest of the battery of dirt and corrosion ."
+                },
+                {
+                    "Text": "if your battery is really dirty , and has lots of corrosion , consider purchasing a spray can of battery cleaner designed for heavier cleaning ."
+                }
+            ],
+            "Text_raw": "Use a soft metal brush to clean any corrosion or dirt from the battery posts. Then use some mild cleaner on a damp shop towel to wipe down the rest of the battery of dirt and corrosion. If your battery is really dirty, and has lots of corrosion, consider purchasing a spray can of battery cleaner designed for heavier cleaning.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/klBegitlZPh2pobg.standard"
+            ],
+            "StepId": 56555,
+            "Tools_extracted": [
+                "shop towels",
+                "wire brush"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "reconnect the terminals to their appropriate posts and enjoy the fresh clean battery !"
+                },
+                {
+                    "Text": "optional but recommended - cover the battery terminals with a light coat of dielectric silicone grease after tightening them in place . this will help prevent future corrosion ."
+                },
+                {
+                    "Text": "do not put dielectric grease between the terminals and the posts , only on the outside of the terminals . any grease between the posts and terminals will add resistance to the flow of electricity as dielectric grease does not conduct electricity by design ."
+                }
+            ],
+            "Text_raw": "Reconnect the terminals to their appropriate posts and enjoy the fresh clean battery! Optional but recommended - cover the battery terminals with a light coat of dielectric silicone grease after tightening them in place. This will help prevent future corrosion. Do not put dielectric grease between the terminals and the posts, only on the outside of the terminals. Any grease between the posts and terminals will add resistance to the flow of electricity as dielectric grease does not conduct electricity by design.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EABHaM1N2F1SBLcP.standard"
+            ],
+            "StepId": 56556,
+            "Tools_extracted": [
+                "dielectric grease"
+            ]
+        }
+    ],
+    "Subject": ""
+}

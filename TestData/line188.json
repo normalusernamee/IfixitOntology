@@ -1,0 +1,257 @@
+{
+    "Title": "Mercedes W123 Fuel Lines (Rear) Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 33386,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "19 mm box end wrench",
+            "Url": "http://www.amazon.com/TEKTON-21361-19mm-Combination-Wrench/dp/B000NPUL24/ref=sr_1_2?ie=UTF8&qid=1407525712&sr=8-2&keywords=19mm+box+end+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "long neck funnel",
+            "Url": "https://www.amazon.com/Hopkins-FloTool-10701-Multi-Purpose-Funnel/dp/B0000AXRH5/ref=sr_1_5?s=automotive&ie=UTF8&qid=1487885962&sr=1-5&keywords=funnel",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "vice grips",
+            "Url": "https://www.amazon.com/VISE-GRIP-Release-Curved-Locking-11T/dp/B001MXV9PO/ref=sr_1_6?ie=UTF8&qid=1499292751&sr=8-6&keywords=vise+grips",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Fuel+Lines+%28Rear%29+Replacement/33386",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before replacing any of the lines at the rear of the car the fuel tank must be drained of any fuel . it is obviously best to perform this work when the fuel tank is near empty to avoid having to store too much fuel during the rest of the job ."
+                },
+                {
+                    "Text": "the tank is most easily drained from the main fuel feed line which comes out of the bottom of the tank just above the rear passenger side axle ."
+                },
+                {
+                    "Text": "it has a metal fitting on the top end that threads in to the tank screen ."
+                },
+                {
+                    "Text": "the other end is rubber hose and clamps to the main metal feed line going towards the front of the car ."
+                },
+                {
+                    "Text": "to limit fuel spillage when removing the clamped rubber end of the line , pinch the fuel hose between some vice grips as pictured ."
+                }
+            ],
+            "Text_raw": "Before replacing any of the lines at the rear of the car the fuel tank must be drained of any fuel. It is obviously best to perform this work when the fuel tank is near empty to avoid having to store too much fuel during the rest of the job. The tank is most easily drained from the main fuel feed line which comes out of the bottom of the tank just above the rear passenger side axle. It has a metal fitting on the top end that threads in to the tank screen. The other end is rubber hose and clamps to the main metal feed line going towards the front of the car. To limit fuel spillage when removing the clamped rubber end of the line, pinch the fuel hose between some vice grips as pictured.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KWGxws2WJG6oHI5d.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nVpJlHTioEiCjEYO.standard"
+            ],
+            "StepId": 78191,
+            "Tools_extracted": [
+                "vice grips",
+                "19 mm box end wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "position your catch container near the main fuel feed line . using a container that you can insert a long funnel in will be helpful . it should be large enough to hold the amount of fuel you estimate to be in the tank . or , you should have multiple containers on hand ."
+                }
+            ],
+            "Text_raw": "Position your catch container near the main fuel feed line. Using a container that you can insert a long funnel in will be helpful. It should be large enough to hold the amount of fuel you estimate to be in the tank. Or, you should have multiple containers on hand.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JE6QE2sDBph31QXL.standard"
+            ],
+            "StepId": 78195,
+            "Tools_extracted": [
+                "long neck funnel"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "next , unscrew the hose clamp at the rubber end of the main fuel feed line . this usually takes a phillips or flathead screwdriver ."
+                },
+                {
+                    "Text": "then pull that end of hose off the metal fuel line ( fuel should not flow out thanks to the vice grip pinching the line ) . aim the hose at your catch container/funnel . then remove the vice grip and let the fuel flow in to the container ."
+                }
+            ],
+            "Text_raw": "Next, unscrew the hose clamp at the rubber end of the main fuel feed line. This usually takes a Phillips or flathead screwdriver. Then pull that end of hose off the metal fuel line (fuel should not flow out thanks to the vice grip pinching the line). Aim the hose at your catch container/funnel. Then remove the vice grip and let the fuel flow in to the container.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dCbqcIwydgEeZCkd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5RP4sjOeZNYSiHSr.standard"
+            ],
+            "StepId": 78196,
+            "Tools_extracted": [
+                "vice grips",
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "once the tank is fully drained you will need to use a 19 mm wrench to remove the main fuel feed line from the tank ."
+                }
+            ],
+            "Text_raw": "Once the tank is fully drained you will need to use a 19mm wrench to remove the main fuel feed line from the tank.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/urTpCMOejxKqnJos.standard"
+            ],
+            "StepId": 78197,
+            "Tools_extracted": [
+                "19 mm box end wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "you will be left with an opening in the bottom of the tank . this will likely slowly drip for some time . leave a catch pan underneath or place some shop towels or rags underneath to catch the drips ."
+                }
+            ],
+            "Text_raw": "You will be left with an opening in the bottom of the tank. This will likely slowly drip for some time. Leave a catch pan underneath or place some shop towels or rags underneath to catch the drips.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Eoajm1aQtatMNFTQ.standard"
+            ],
+            "StepId": 78199,
+            "Tools_extracted": [
+                "drain pan"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "next , you'll remove the two short lengths of fuel hose for the tank return lines ."
+                },
+                {
+                    "Text": "if the clamps look as rusty as these , consider spraying them with some penetrating lubricant before removing them ."
+                }
+            ],
+            "Text_raw": "Next, you'll remove the two short lengths of fuel hose for the tank return lines. If the clamps look as rusty as these, consider spraying them with some penetrating lubricant before removing them.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CkSuXC3ZxP1Fmb1V.standard"
+            ],
+            "StepId": 78201,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "loosen all four of the hose clamps on both fuel lines using a phillips or flathead screwdriver as needed ."
+                }
+            ],
+            "Text_raw": "Loosen all four of the hose clamps on both fuel lines using a Phillips or flathead screwdriver as needed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EKoc2NsYJKHvTSa2.standard"
+            ],
+            "StepId": 78202,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "with all four clamps loosened , pull both lines off . you can see here what the metal fuel lines look like with the lines removed ."
+                }
+            ],
+            "Text_raw": "With all four clamps loosened, pull both lines off. You can see here what the metal fuel lines look like with the lines removed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LoCRHVWs4xepKFZn.standard"
+            ],
+            "StepId": 78203,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "now it is time to proceed with installation of the new lines . installation is generally the reverse of removal . however , following are some helpful tips ."
+                },
+                {
+                    "Text": "start with the main fuel feed line . it has a metal fitting on one end that screws in to the tank . screw this in , the opposite of removal ."
+                },
+                {
+                    "Text": "the new line likely comes with excess rubber line . you should cut the hose short enough to avoid touching any other parts like the axles or differential , but long enough to make a graceful bend to the fuel line it attaches to . use your best judgement , and start longer than you think . you can always make it shorter ."
+                },
+                {
+                    "Text": "then , clamp the rubber end to the metal fuel line . use a new hose clamp , if available ."
+                }
+            ],
+            "Text_raw": "Now it is time to proceed with installation of the new lines. Installation is generally the reverse of removal. However, following are some helpful tips. Start with the main fuel feed line. It has a metal fitting on one end that screws in to the tank. Screw this in, the opposite of removal. The new line likely comes with excess rubber line. You should cut the hose short enough to avoid touching any other parts like the axles or differential, but long enough to make a graceful bend to the fuel line it attaches to. Use your best judgement, and start longer than you think. You can always make it shorter. Then, clamp the rubber end to the metal fuel line. Use a new hose clamp, if available.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/foaiBvr4qO4w1IUE.standard"
+            ],
+            "StepId": 78204,
+            "Tools_extracted": [
+                "long neck funnel",
+                "19 mm box end wrench"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "next , cut new lengths of hose to fit the rear return lines . use the old hose as a guide for cutting your new lengths ."
+                },
+                {
+                    "Text": "push the fuel line over the metal hose ends with the clamps over the new line . then tighten the clamps . be mindful that the clamps don't touch the adjacent line at the risk of the clamp rubbing through the line over time ."
+                }
+            ],
+            "Text_raw": "Next, cut new lengths of hose to fit the rear return lines. Use the old hose as a guide for cutting your new lengths. Push the fuel line over the metal hose ends with the clamps over the new line. Then tighten the clamps. Be mindful that the clamps don't touch the adjacent line at the risk of the clamp rubbing through the line over time.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wCCZ36Q44nIQClx3.standard"
+            ],
+            "StepId": 78207,
+            "Tools_extracted": [
+                "19 mm box end wrench"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "you can now proceed to refill your fuel tank with the fuel you drained ."
+                }
+            ],
+            "Text_raw": "You can now proceed to refill your fuel tank with the fuel you drained.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BSi3ktE2RZEKiMA2.standard"
+            ],
+            "StepId": 78208,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Fuel Lines, Rear"
+}

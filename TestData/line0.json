@@ -1,0 +1,321 @@
+{
+    "Title": "2001-2007 Dodge Caravan Brake Pads and Rotors Replacement",
+    "Ancestors": [
+        "Dodge Caravan",
+        "Dodge",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 2178,
+    "Category": "2001-2007 Dodge Caravan",
+    "Toolbox": [
+        {
+            "Name": "lug wrench",
+            "Url": "http://www.amazon.com/Wilmar-W2-Metric-Lug-Wrench/dp/B000FW2NU8/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889157&sr=1-1&keywords=lug+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "13 16 socket",
+            "Url": "/Item/13_16%22_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "c-clamp",
+            "Url": "http://www.amazon.com/Tradespro-835137-C-Clamp-Set-3-Piece/dp/B004QO9ABQ/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889785&sr=1-1&keywords=c-clamp",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 2 drive breaker bar",
+            "Url": "https://www.amazon.com/Neiko-00206A-Drive-Premium-Breaker/dp/B001222378/ref=sr_1_2?ie=UTF8&qid=1487799347&sr=8-2&keywords=1+2+breaker+bar",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "brake pad spreader tool",
+            "Url": "http://www.amazon.com/Capri-Tools-Disc-Brake-Spreader/dp/B00KCT1XMI",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2001+2002+2003+2004+2005+2006+2007+Dodge+Caravan+Brake+Pads+and+Rotors+Replacement/2178",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "loosen the lug nuts one half turn while the tire is still on the ground . a large amount of force may be required and the tire will just rotate if the car is on jackstands ."
+                }
+            ],
+            "Text_raw": "Loosen the lug nuts one half turn while the tire is still on the ground.  A large amount of force may be required and the tire will just rotate if the car is on jackstands.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3hwhTqPfuSFZ1YgP.standard"
+            ],
+            "StepId": 11033,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "after jacking up the car place jack stand ( s ) under the car for safety , then take off the wheel ."
+                },
+                {
+                    "Text": "take a 13 /16 socket and breaker bar to remove the lower caliper bolt . a large amount of force may be required ."
+                },
+                {
+                    "Text": "take the 13 /16 socket and remove the upper caliper bolt . a large amount of force may be required ."
+                },
+                {
+                    "Text": "when reassembling the torque for these bolts is 126 ft lb ."
+                },
+                {
+                    "Text": "be ready when the two bolts are backed out enough , as the caliper will be free to fall . the bolts don't have to come out all the way for the caliper to be free ."
+                },
+                {
+                    "Text": "you must not allow the caliper to hang by the brake line . have a milk crate and wood ready to hold it up ."
+                }
+            ],
+            "Text_raw": "After jacking up the car PLACE JACK STAND(S) under the car for safety, THEN take off the wheel. Take a 13/16\" socket and breaker bar to remove the lower caliper bolt.  A large amount of force may be required. Take the 13/16\" socket and remove the upper caliper bolt.  A large amount of force may be required. When reassembling the torque for these bolts is 126 ft lb. Be ready when the two bolts are backed out enough, as the caliper will be free to fall.  The bolts don't have to come out all the way for the caliper to be free. You MUST not allow the caliper to hang by the brake line.  Have a milk crate and wood ready to hold it up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mQsvNRXANIrLi4WC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tUuvUGy2Ldd6BZSg.standard"
+            ],
+            "StepId": 11034,
+            "Tools_extracted": [
+                "brake pad spreader tool",
+                "13 16 socket",
+                "jack stand",
+                "1 2 drive breaker bar",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "this is the caliper freed from the car and supported ."
+                },
+                {
+                    "Text": "one should take off the brake fluid resevoir cap , since later we'll be pushing old pads back , and raising the overall level ."
+                },
+                {
+                    "Text": "the cap itself says to clean it first ."
+                },
+                {
+                    "Text": "if the fluid has been topped off at any time , then one will have to pay attention to overflow during later steps . if the fluid hasn't been altered since new , then there should be no worries ."
+                }
+            ],
+            "Text_raw": "This is the caliper freed from the car and supported. One should take off the brake fluid resevoir cap, since later we'll be pushing old pads back, and raising the overall level. The cap itself says to clean it first. If the fluid has been \"topped off\" at any time, then one will have to pay attention to overflow during later steps.  If the fluid hasn't been altered since new, then there should be no worries.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WH4C3qtPGqZdXjru.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DTuSVbKyclyneoIl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4xkAHUGOWjYl5iFU.standard"
+            ],
+            "StepId": 11036,
+            "Tools_extracted": [
+                "brake pad spreader tool"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "the new pads are thicker than the old , so the piston will have to be pushed back . leave the old pad in place for now since the piston is hollow . use the c-clamp or a disc caliper tool to gently push the piston back . go slow and steady - you are forcing brake fluid back up to the reservoir and it needs time to equalize the pressure ."
+                }
+            ],
+            "Text_raw": "The new pads are thicker than the old, so the piston will have to be pushed back.  Leave the old pad in place for now since the piston is hollow.  Use the C-clamp or a disc caliper tool to gently push the piston back.  Go slow and steady - you are forcing brake fluid back up to the reservoir and it needs time to equalize the pressure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HdEcsYdusoeVSrI3.standard"
+            ],
+            "StepId": 11037,
+            "Tools_extracted": [
+                "brake pad spreader tool"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "the old pads now come out by hand . some jiggling may be necessary , but in my application , i didn't even have to tap them with anything . the pads sit passively in little channels , and come out towards the inside . there should be little clips remaining ."
+                },
+                {
+                    "Text": "the new pads are thicker than the old , obviously ."
+                }
+            ],
+            "Text_raw": "The old pads now come out by hand.  Some jiggling may be necessary, but in my application, I didn't even have to tap them with anything.  The pads sit passively in little channels, and come out towards the inside.  There should be little clips remaining. The new pads are thicker than the old, obviously.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DDKgLPvDnoES1gsy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IyvCJWFpEqeyTqKJ.standard"
+            ],
+            "StepId": 11038,
+            "Tools_extracted": [
+                "brake pad spreader tool"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "the pads ride in a carrier that's free to move in and out . these two shots show fully in , and fully out . we will later have to grease these slides ."
+                }
+            ],
+            "Text_raw": "The pads ride in a carrier that's free to move in and out.  These two shots show fully IN, and fully OUT.  We will later have to grease these slides.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PXTSTGlK6YBLPPWV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1Bx3DQ3vBsOEcBpQ.standard"
+            ],
+            "StepId": 11039,
+            "Tools_extracted": [
+                "brake pad spreader tool"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "the new pads will come with little clips that help secure the pads in place . look carefully at the clips as they come out by hand , and match the new ones ( that come with the pads ) accordingly ."
+                },
+                {
+                    "Text": "the 2nd shot shows a new clip peeking out from the near side of the carrier ."
+                }
+            ],
+            "Text_raw": "The new pads will come with little clips that help secure the pads in place.  Look carefully at the clips as they come out by hand, and match the new ones (that come with the pads) accordingly. The 2nd shot shows a new clip peeking out from the near side of the carrier.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wD2B64ZQVdtyZQnV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KIHPsDOYQkriDxOX.standard"
+            ],
+            "StepId": 11040,
+            "Tools_extracted": [
+                "brake pad spreader tool"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "if the carrier can't move freely back and forth , uneven pad wear can result . the pads should come with a tiny tube of high temperature grease . carefully ease back the boots from the slides , and grease both rails . there's 2 for each side of the car , so budget accordingly ."
+                }
+            ],
+            "Text_raw": "If the carrier can't move freely back and forth, uneven pad wear can result.  The pads should come with a tiny tube of high temperature grease.  Carefully ease back the boots from the slides, and grease both rails.  There's 2 for each side of the car, so budget accordingly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FKEOaIImPiMphQFV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VdoDJnIFWjEN1JQW.standard"
+            ],
+            "StepId": 11041,
+            "Tools_extracted": [
+                "brake pad spreader tool"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "with the caliper moved aside and supported , the rotor comes right off by hand . in my case , it was not rusted solid in any way ."
+                },
+                {
+                    "Text": "a peek at the old rotor alongside for no reason ."
+                },
+                {
+                    "Text": "make sure to use a good quality brake cleaner on the new rotors and do not touch it with your bare hands after cleaning ."
+                }
+            ],
+            "Text_raw": "With the caliper moved aside and supported, the rotor comes right off by hand.  In my case, it was not rusted solid in any way. A peek at the old rotor alongside for no reason. Make sure to use a good quality brake cleaner on the new rotors and do not touch it with your bare hands after cleaning.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jlTZbVDyV2gAMhwm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yti64wyQ2pDOWhTy.standard"
+            ],
+            "StepId": 11042,
+            "Tools_extracted": [
+                "brake pad spreader tool"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "the red/pink goo is anti-squeal , which when put on the back of the pad , can later prevent high pitch squealing . it takes a while to dry , so one might put a light coating on the pads before beginning . . . ."
+                },
+                {
+                    "Text": "the pad goes into the carrier , inside the channels defined by the clips , and up against the retracted piston . one can see here the tabbed-end of the pad , in the carrier's channel , and the clip peeking out , keeping order . . . ."
+                },
+                {
+                    "Text": "the business end of the new pad ."
+                }
+            ],
+            "Text_raw": "The red/pink goo is Anti-Squeal, which when put on the back of the pad, can later prevent high pitch squealing.  It takes a while to dry, so one might put a light coating on the pads before beginning.... The pad goes into the carrier, inside the channels defined by the clips, and up against the retracted piston.  One can see here the tabbed-end of the pad, in the carrier's channel, and the clip peeking out, keeping order.... The business end of the new pad.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/y4ubvGkF3YloPOCQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fPZGNTnMUiFWMCkp.standard"
+            ],
+            "StepId": 11043,
+            "Tools_extracted": [
+                "brake pad spreader tool"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "the partner-pad also slips in fairly easily . it would angle around a bit trying to get it in right , but not enough to have to pick up a tool to tap it in ."
+                },
+                {
+                    "Text": "it's remarkable the ferocious heat and energy going through brakes , and it's all in there by hand ."
+                }
+            ],
+            "Text_raw": "The partner-pad also slips in fairly easily.  It would angle around a bit trying to get it in right, but not enough to have to pick up a tool to tap it in. It's remarkable the ferocious heat and energy going through brakes, and it's all in there by hand.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hq41gBHxE4H5Q4WI.standard"
+            ],
+            "StepId": 11044,
+            "Tools_extracted": [
+                "brake pad spreader tool"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "with the two 13 /16 bolts back in , it's done !"
+                },
+                {
+                    "Text": "you might choose a smidge of anti-seize on the 13 /16 bolts , so that they'll come off next time ."
+                },
+                {
+                    "Text": "the other side of the car is done the same way of course ."
+                },
+                {
+                    "Text": "don't forget to close up your brake fluid resevoir !"
+                },
+                {
+                    "Text": "after the car is safely lowered and you start it up , the brake pedal will go the floor several times as the system pressurizes . you'll hear a noticeable clicking from the pedal . this is the apply brake to shift mechanism . it will settle down as the brake pedal firms up . it took about 5 or 6 slow/gentle applications ."
+                }
+            ],
+            "Text_raw": "With the two 13/16\" bolts back in, it's DONE! You might choose a smidge of anti-seize on the 13/16\" bolts, so that they'll come off next time. The other side of the car is done the same way of course. DON'T FORGET TO CLOSE UP YOUR BRAKE FLUID RESEVOIR! After the car is safely lowered and you start it up, the brake pedal will go the floor several times as the system pressurizes.  You'll hear a noticeable clicking from the pedal.  This is the \"Apply brake to shift\" mechanism.  It will settle down as the brake pedal firms up.  It took about 5 or 6 slow/gentle applications.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YRvrC4MrmCZBGoye.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2VGEJeUKDGP1Gs1L.standard"
+            ],
+            "StepId": 11045,
+            "Tools_extracted": [
+                "brake pad spreader tool",
+                "lug wrench"
+            ]
+        }
+    ],
+    "Subject": "Brake Pads and Rotors"
+}

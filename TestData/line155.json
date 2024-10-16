@@ -1,0 +1,125 @@
+{
+    "Title": "Disassembling Mercedes W123 Kick Panel",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22838,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Disassembling+Mercedes+W123+Kick+Panel/22838",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "begin by gently prying out the covers for the screws on the upper edge of the kick panel ."
+                }
+            ],
+            "Text_raw": "Begin by gently prying out the covers for the screws on the upper edge of the kick panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kwuRobYQQRBQJxRo.standard"
+            ],
+            "StepId": 59837,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "then remove these screws ."
+                }
+            ],
+            "Text_raw": "Then remove these screws.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/STihXWhAJOQiGZZW.standard"
+            ],
+            "StepId": 59838,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "then remove any metal screws , and any plastic trim screws , at the sides of the kick panel below the dash ."
+                }
+            ],
+            "Text_raw": "Then remove any metal screws, and any plastic trim screws, at the sides of the kick panel below the dash.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TkUR1JVvTRkQXIHm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Q1OYTViAkycGs3yX.standard"
+            ],
+            "StepId": 59839,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "now lower the panel down and rest if on the floor ."
+                },
+                {
+                    "Text": "it can be removed full for further ease of access , depending on the job at hand ."
+                }
+            ],
+            "Text_raw": "Now lower the panel down and rest if on the floor. It can be removed full for further ease of access, depending on the job at hand.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TDQSfTjdttZuO2sa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dMeJutA5CvtW2DBF.standard"
+            ],
+            "StepId": 59841,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "now you'll want to identify some of the components you are looking at so you can begin working on the one that is having issues ."
+                },
+                {
+                    "Text": "here are some of the ones you may find . this car is a 1985 300 d ; if you have an older model the items are likely a bit different ."
+                },
+                {
+                    "Text": "heater blower motor"
+                },
+                {
+                    "Text": "over-voltage protection relay"
+                },
+                {
+                    "Text": "air-conditioning expansion valve"
+                }
+            ],
+            "Text_raw": "Now you'll want to identify some of the components you are looking at so you can begin working on the one that is having issues. Here are some of the ones you may find. This car is a 1985 300D; if you have an older model the items are likely a bit different. Heater blower motor Over-voltage protection relay Air-conditioning expansion valve",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NL5ihcUJuOWPMvRR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mZfpDntaVjvLkCZd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TEO4VRyrB3jvVjCY.standard"
+            ],
+            "StepId": 59843,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Kick Panel"
+}

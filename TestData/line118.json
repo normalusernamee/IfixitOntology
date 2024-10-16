@@ -1,0 +1,307 @@
+{
+    "Title": "Disassembling Mercedes W123 Door Panel",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20198,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "tri- removal tool kit",
+            "Url": "http://amzn.com/B000V664V2",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Disassembling+Mercedes+W123+Door+Panel/20198",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "begin by removing the door lock knob . it unscrews counter-clockwise ."
+                }
+            ],
+            "Text_raw": "Begin by removing the door lock knob. It unscrews counter-clockwise.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KKPiCgLGyAfi2P1n.standard"
+            ],
+            "StepId": 56017,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the two screws that attach the chrome trim around the door latch . the chrome trim will come loose afterwards . set aside ."
+                },
+                {
+                    "Text": "note : the screws shown are not original . phillips head screws are the original equipment . these are 2.5 mm allen head screws ."
+                }
+            ],
+            "Text_raw": "Remove the two screws that attach the chrome trim around the door latch. The chrome trim will come loose afterwards. Set aside. Note: the screws shown are not original. Phillips head screws are the original equipment. These are 2.5mm allen head screws.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZM6WPAGO5S3tbIlR.standard"
+            ],
+            "StepId": 56016,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a flat blade screwdriver to gently pry out the black plastic cover behind the door pull ."
+                }
+            ],
+            "Text_raw": "Use a flat blade screwdriver to gently pry out the black plastic cover behind the door pull.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VG1GuXjAlZACdWLZ.standard"
+            ],
+            "StepId": 56018,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the screw that holds the chrome plate behind the door pull ."
+                },
+                {
+                    "Text": "once again , the 2.5 mm allen screw shown is not original . this will normally be a phillips screw ."
+                },
+                {
+                    "Text": "on the driver's side door , with no upper section of the arm on the door panel , the chrome panel behind the door pull can simply be removed and set aside at this point ."
+                }
+            ],
+            "Text_raw": "Remove the screw that holds the chrome plate behind the door pull. Once again, the 2.5mm allen screw shown is not original. This will normally be a Phillips screw. On the driver's side door, with no upper section of the arm on the door panel, the chrome panel behind the door pull can simply be removed and set aside at this point.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/W5GyTQWsy5RdyVQR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iJUrpOHHeLaZQHGE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KOMegCZsSQGEELiS.standard"
+            ],
+            "StepId": 56019,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "on the other three doors , the chrome panel is a part of the upper arm on the door panel . pull the chrome panel out from behind the door pull . you will need to pull the door pull away from the door to get the chrome panel around it . it will move down the arm on the door panel ."
+                }
+            ],
+            "Text_raw": "On the other three doors, the chrome panel is a part of the upper arm on the door panel. Pull the chrome panel out from behind the door pull. You will need to pull the door pull away from the door to get the chrome panel around it. It will move down the arm on the door panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lwEJXYgKdiakvr2S.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XVyWjy1bEACja2xW.standard"
+            ],
+            "StepId": 56020,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the large phillips head screw at the very top of the arm on the panel ."
+                },
+                {
+                    "Text": "this step does not apply to the driver's door ."
+                }
+            ],
+            "Text_raw": "Remove the large Phillips head screw at the very top of the arm on the panel. This step does not apply to the driver's door.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AlwHORbfFRvdXPdc.standard"
+            ],
+            "StepId": 56021,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "under the arms on all four doors , there are two large phillips screws . they are hidden out of sight up in holes like the one pictured . making sure to properly seat the screwdriver in the head , as to not strip the screw , loosen these screws ."
+                },
+                {
+                    "Text": "there is no need to remove the screws from the holes in the arm ; in fact , doing so will make it more difficult to re-install them . just loosen them enough to remove the arms from the panels ."
+                }
+            ],
+            "Text_raw": "Under the arms on all four doors, there are two large Phillips screws. They are hidden out of sight up in holes like the one pictured. Making sure to properly seat the screwdriver in the head, as to not strip the screw, loosen these screws. There is no need to remove the screws from the holes in the arm; in fact, doing so will make it more difficult to re-install them. Just loosen them enough to remove the arms from the panels.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/t11LMfqtli5H2BUb.standard"
+            ],
+            "StepId": 56022,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "for doors with manual windows , you will need to remove the crank before removing the panel ."
+                },
+                {
+                    "Text": "use a finger to push the tab that holds the trim piece to the crank out until it clears the crank ."
+                },
+                {
+                    "Text": "pull trim toward the knob on the crank to release the trim ."
+                },
+                {
+                    "Text": "the trim piece will release from the peg at the base of the crank . the crank will now slide off ."
+                },
+                {
+                    "Text": "when reassembling the manual window crank , make sure the tapered end of the washer is facing away from the door ."
+                },
+                {
+                    "Text": "the tapered washer is sometimes missing . it is used to protect the panel from wear ."
+                }
+            ],
+            "Text_raw": "For doors with manual windows, you will need to remove the crank before removing the panel. Use a finger to push the tab that holds the trim piece to the crank out until it clears the crank. Pull trim toward the knob on the crank to release the trim. The trim piece will release from the peg at the base of the crank.  The crank will now slide off. When reassembling the manual window crank, make sure the tapered end of the washer is facing away from the door. The tapered washer is sometimes missing.  It is used to protect the panel from wear.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZH4j4RMHZPKwImBj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2eNGZAFadDiDSguH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KBnyQVRmMMBSOuSB.standard"
+            ],
+            "StepId": 56199,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "using a wide pry tool , like this trim removal tool , go around the edge of the panel between it and the metal part of the door . you will find it held in place by plastic clips . gently pry each clip out all the way around ."
+                },
+                {
+                    "Text": "on an older car like the w123 , there will likely be some broken clips . some times , panels are being held in place by only two or three clips ."
+                },
+                {
+                    "Text": "be aware that even though there should be no screws holding the panel to the door at this point , you will want to carefully check that someone didn't use a screw in the past to make up for broken clips . if you try and pull it off without removing the screw , you could damage your panel ."
+                }
+            ],
+            "Text_raw": "Using a wide pry tool, like this trim removal tool, go around the edge of the panel between it and the metal part of the door. You will find it held in place by plastic clips. Gently pry each clip out all the way around. On an older car like the W123, there will likely be some broken clips. Some times, panels are being held in place by only two or three clips. Be aware that even though there should be no screws holding the panel to the door at this point, you will want to carefully check that someone didn't use a screw in the past to make up for broken clips. If you try and pull it off without removing the screw, you could damage your panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/X1Smsc6inoOgiloV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lPAUCpWOyLsA4DPH.standard"
+            ],
+            "StepId": 56023,
+            "Tools_extracted": [
+                "tri- removal tool kit"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "on the rear doors , you will need to unplug the window switch from the plug and wire harness in the door before finally removing the panel ."
+                }
+            ],
+            "Text_raw": "On the rear doors, you will need to unplug the window switch from the plug and wire harness in the door before finally removing the panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mAbMBAP2IkwswkGJ.standard"
+            ],
+            "StepId": 56025,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "remove the panel by pulling up on it . do not pull straight out on the panel , or it may bend . this cannot be repaired . pulling up on the panel before pulling out on it will also help ensure that you do not damage the plastic clips on the back of the map pocket on the door panel ( only applies to front panels ; rear panel shown in this picture ) ."
+                }
+            ],
+            "Text_raw": "Remove the panel by pulling up on it. Do not pull straight out on the panel, or it may bend. This cannot be repaired. Pulling up on the panel before pulling out on it will also help ensure that you do not damage the plastic clips on the back of the map pocket on the door panel (only applies to front panels; rear panel shown in this picture).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FjqDdbFDbyyBG6oI.standard"
+            ],
+            "StepId": 56297,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "pictured is the back of your door panel once removed . notice the white plastic clips around the edge . notice that many are missing . there should be several more on this door . also , notice that some are broken ."
+                },
+                {
+                    "Text": "once the panel is removed , there should be a plastic vapor barrier between the panel and the door shell . this will need to be removed . if removed gently , it may be able to be reused . otherwise , replace it with any thick plastic and 3 m spray adhesive or contact cement . ( not pictured )"
+                }
+            ],
+            "Text_raw": "Pictured is the back of your door panel once removed. Notice the white plastic clips around the edge. Notice that many are missing. There should be several more on this door. Also, notice that some are broken. Once the panel is removed, there should be a plastic vapor barrier between the panel and the door shell. This will need to be removed. If removed gently, it may be able to be reused. Otherwise, replace it with any thick plastic and 3M Spray Adhesive or contact cement. (Not pictured)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BgXmPQOjRGQWTtdO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KT46YJFRsrQKw3nV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/d1ZKYTe3xN5ThQg3.standard"
+            ],
+            "StepId": 56024,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "this is a list of the major components within the door ( front passenger side shown ) :"
+                },
+                {
+                    "Text": "window regulator ( note , the rear window regulators are designed differently and are not immediately visible )"
+                },
+                {
+                    "Text": "door lock vacuum actuator , early style ( does not apply to driver's door , which is equipped with the master vacuum switch instead , see attached picture ) . on later w123 's , the actuators are in similar locations but look different ."
+                },
+                {
+                    "Text": "door pull"
+                },
+                {
+                    "Text": "door latch and lock mechanisms"
+                },
+                {
+                    "Text": "master vacuum switch ( driver's door ) . note that on later models the master switch will be oriented vertically instead of horizontally ."
+                }
+            ],
+            "Text_raw": "This is a list of the major components within the door (front passenger side shown): Window regulator (note, the rear window regulators are designed differently and are not immediately visible) Door lock vacuum actuator, early style (does not apply to driver's door, which is equipped with the master vacuum switch instead, see attached picture). On later W123's, the actuators are in similar locations but look different. Door pull Door latch and lock mechanisms Master vacuum switch (driver's door). Note that on later models the master switch will be oriented vertically instead of horizontally.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WmnRhvARhDYLFNqv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JEd4QmxGQymMocyU.standard"
+            ],
+            "StepId": 56026,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Door Panel"
+}

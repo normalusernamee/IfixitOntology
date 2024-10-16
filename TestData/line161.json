@@ -1,0 +1,546 @@
+{
+    "Title": "2010-2014 Subaru Legacy Rear Door Speaker Replacement",
+    "Ancestors": [
+        "Subaru Legacy",
+        "Subaru",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 24384,
+    "Category": "2010-2014 Subaru Legacy",
+    "Toolbox": [
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "door panel removal tool",
+            "Url": "https://www.amazon.com/KINGLAKE-Panel-Removal-Radio-Installer/dp/B00HNMLQAG/ref=sr_1_3?ie=UTF8&qid=1490310225&sr=8-3&keywords=panel+removal+tool",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "spudger",
+            "Url": "http://www.ifixit.com/Tools/Spudger/IF145-002",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/fIQ3oZSjd1yLgqpX.mini"
+        },
+        {
+            "Name": "drill",
+            "Url": "https://www.amazon.com/DEWALT-DC970K-2-18-Volt-Compact-Driver/dp/B002RLR0EY/ref=sr_1_6?s=power-hand-tools&rps=1&ie=UTF8&qid=1487961385&sr=1-6&keywords=cordless+drill&refinements=p_85%3A2470955011",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2010+2011+2012+2013+2014+Subaru+Legacy+Rear+Door+Speaker+Replacement/24384",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "lift the hood of your subaru so you can access the battery ."
+                },
+                {
+                    "Text": "use a 10 mm hex wrench to loosen the black ground terminal screw ."
+                },
+                {
+                    "Text": "remember : righty-tighty , lefty-loosey ."
+                },
+                {
+                    "Text": "lift the terminal up and off the battery lead , taking care not to touch the positive terminal ."
+                },
+                {
+                    "Text": "move the ground terminal out of the way so that it has no chance of accidentally reconnecting , or touching the positive terminal ."
+                }
+            ],
+            "Text_raw": "Lift the hood of your Subaru so you can access the battery. Use a 10 mm hex wrench to loosen the black Ground terminal screw. Remember: righty-tighty, lefty-loosey. Lift the terminal up and off the battery lead, taking care not to touch the Positive terminal. Move the ground terminal out of the way so that it has no chance of accidentally reconnecting, or touching the Positive terminal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wl1XV4NuDthIyK15.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CRQaygjElqCqN4vV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HqKXXDCOCEsTy4g4.standard"
+            ],
+            "StepId": 62310,
+            "Tools_extracted": [
+                "10 mm wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a spudger or a flat-blade screwdriver to unlatch the plastic screw cover residing within the door pull handle ."
+                },
+                {
+                    "Text": "move the plastic cover out of the way so that the phillips screw is fully revealed ."
+                },
+                {
+                    "Text": "use a 2 phillips screwdriver to unscrew the screw residing underneath the plastic cover ."
+                }
+            ],
+            "Text_raw": "Use a spudger or a flat-blade screwdriver to unlatch the plastic screw cover residing within the door pull handle. Move the plastic cover out of the way so that the Phillips screw is fully revealed. Use a #2 Phillips screwdriver to unscrew the screw residing underneath the plastic cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PwfqnVfXQtIFeXgE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/spAUj4vWcB3RmD4W.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oTPGKGUhvEmQuCVQ.standard"
+            ],
+            "StepId": 62311,
+            "Tools_extracted": [
+                "spudger",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a spudger or a flat-blade screwdriver to unlatch the plastic screw cover residing within the door arm rest ."
+                },
+                {
+                    "Text": "move the plastic cover out of the way so that the phillips screw is fully revealed ."
+                },
+                {
+                    "Text": "use a 2 phillips screwdriver to unscrew the screw residing underneath the plastic cover ."
+                }
+            ],
+            "Text_raw": "Use a spudger or a flat-blade screwdriver to unlatch the plastic screw cover residing within the door arm rest. Move the plastic cover out of the way so that the Phillips screw is fully revealed. Use a #2 Phillips screwdriver to unscrew the screw residing underneath the plastic cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GwlZhTWAiWyZ4bJi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/54DtqipWYUNlcZNX.standard"
+            ],
+            "StepId": 62312,
+            "Tools_extracted": [
+                "spudger",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "there are several retaining clips holding the door panel in place . their locations are roughly outlined by the red circles ."
+                },
+                {
+                    "Text": "youll find a notch in the door panel on the bottom of the door . this is where you should insert your door panel pry tool . you can also use a couple of flat-blade screwdrivers or a paint scraper in lieu of of a door panel pry tool , but you may accidentally damage your door panels paint ."
+                },
+                {
+                    "Text": "optional ( if the tool is metal ) : wrap the pry tool in blue masking tape or another type of tape in order to minimize scratches to the car ."
+                }
+            ],
+            "Text_raw": "There are several retaining clips holding the door panel in place. Their locations are roughly outlined by the red circles. You\u2019ll find a notch in the door panel on the bottom of the door. This is where you should insert your door panel pry tool. You can also use a couple of flat-blade screwdrivers or a paint scraper in lieu of of a door panel pry tool, but you may accidentally damage your door panel\u2019s paint. Optional (if the tool is metal): Wrap the pry tool in blue masking tape \u2014 or another type of tape \u2014 in order to minimize scratches to the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Kgjrudp6bVD3YNBp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wQoVM2sYrVsKZOQg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2ednipZkPpEukCSh.standard"
+            ],
+            "StepId": 62313,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "insert the door panel pry tool into the notch found on the bottom of the door panel ."
+                },
+                {
+                    "Text": "once fully inserted , pull towards you in order to disconnect the first retaining clip ."
+                },
+                {
+                    "Text": "the door panel should now be slightly looser on the bottom . re-insert the pry tool on the bottom-right of the panel , and pull toward you to disconnect the second retaining clip ."
+                }
+            ],
+            "Text_raw": "Insert the door panel pry tool into the notch found on the bottom of the door panel. Once fully inserted, pull towards you in order to disconnect the first retaining clip. The door panel should now be slightly looser on the bottom. Re-insert the pry tool on the bottom-right of the panel, and pull toward you to disconnect the second retaining clip.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RlWcKQbnTce1ea1i.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UevO1VLkBjAOrMrM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HIEhyWjw1ZAqSNai.standard"
+            ],
+            "StepId": 62314,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "re-insert the pry tool in the following sections of the door panel ( and pull toward you ) to disconnect the remaining retaining clips :"
+                },
+                {
+                    "Text": "bottom-left of the door panel"
+                },
+                {
+                    "Text": "far-right of the door panel"
+                },
+                {
+                    "Text": "far-left of the door panel"
+                }
+            ],
+            "Text_raw": "Re-insert the pry tool in the following sections of the door panel (and pull toward you) to disconnect the remaining retaining clips: Bottom-left of the door panel Far-right of the door panel Far-left of the door panel",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cAEkrWNqoMdFKbGU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BlAO1cIBNLkHTGgE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ga6xUdOVYvJryB2B.standard"
+            ],
+            "StepId": 62315,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "the door panel should now be loose on all sides but do not pull it off completely just yet ! there are cables attached to it on the inside ."
+                },
+                {
+                    "Text": "grab the door panel with your hands on both sides ."
+                },
+                {
+                    "Text": "lift the panel about one inch upwards , and then gently pull it away from the metal door frame ."
+                }
+            ],
+            "Text_raw": "The door panel should now be loose on all sides \u2014 but do not pull it off completely just yet! There are cables attached to it on the inside. Grab the door panel with your hands on both sides. Lift the panel about one inch upwards, and then gently pull it away from the metal door frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KnY1ZVwOn52f6HWT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/S1pWxrGBlWBLOXWS.standard"
+            ],
+            "StepId": 62316,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "two cables operate the door lock and door pull handle a blue cable for the door lock , and a black one for the door pull handle . each cable has a plastic sleeve that needs to be disconnected , as well as a metal cable ball that has to be de-routed from the door handle ."
+                },
+                {
+                    "Text": "firmly grip the plastic blue sleeve and disconnect it by pulling it perpendicularly away from the plastic bracket ."
+                },
+                {
+                    "Text": "lift the sleeve upwards so that the metal ball at the end of the cable is removed from its housing ."
+                },
+                {
+                    "Text": "pull the entire cable away from the door panel ."
+                }
+            ],
+            "Text_raw": "Two cables operate the door lock and door pull handle  \u2014 a blue cable for the door lock, and a black one for the door pull handle. Each cable has a plastic sleeve that needs to be disconnected, as well as a metal cable ball that has to be de-routed from the door handle. Firmly grip the plastic blue sleeve and disconnect it by pulling it perpendicularly away from the plastic bracket. Lift the sleeve upwards so that the metal ball at the end of the cable is removed from its housing. Pull the entire cable away from the door panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ntAuWFwgNZpgkkvM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/p6JWOZOFVMRAP6cu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vycG1TMOKGlVCwwg.standard"
+            ],
+            "StepId": 62317,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "repeat the same procedure above with the black cable . first disconnect the black sleeve , then the ball , and finally move the entire cable away from the door panel ."
+                }
+            ],
+            "Text_raw": "Repeat the same procedure above with the black cable. First disconnect the black sleeve, then the ball, and finally move the entire cable away from the door panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qXGAX6hg3yDSeXkK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iR1gCZnUrFmIhl3j.standard"
+            ],
+            "StepId": 62318,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "there is one more connector on the bottom of the door panel that needs to be disconnected ."
+                },
+                {
+                    "Text": "depress the white plastic tab that resides on top of the connector ."
+                },
+                {
+                    "Text": "with the plastic tab depressed , pull the connector away from its socket ."
+                }
+            ],
+            "Text_raw": "There is one more connector on the bottom of the door panel that needs to be disconnected. Depress the white plastic tab that resides on top of the connector. With the plastic tab depressed, pull the connector away from its socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WK2FGjgajyWFqX5a.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/W1qKnWhIdM3VMH3T.standard"
+            ],
+            "StepId": 62319,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "the speaker is connected on the back with speaker wire , so do not yank it out of its housing once you remove the screws ."
+                },
+                {
+                    "Text": "use a 2 phillips screwdriver to unscrew the three phillips retaining screws ."
+                },
+                {
+                    "Text": "gently pull the speaker an inch or two from the door in order to expose the wire and connector on the back of the speaker ."
+                }
+            ],
+            "Text_raw": "The speaker is connected on the back with speaker wire, so do not yank it out of its housing once you remove the screws. Use a #2 Phillips screwdriver to unscrew the three Phillips retaining screws. Gently pull the speaker an inch or two from the door in order to expose the wire and connector on the back of the speaker.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vwad22JRrglZVfXr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ujZoCT2rSqw3tcuh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ogGwTla1SDBCxUVF.standard"
+            ],
+            "StepId": 62320,
+            "Tools_extracted": [
+                "door panel removal tool",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "rotate the speaker enough so you can access the speaker connector on the back ."
+                },
+                {
+                    "Text": "depress the plastic tab that resides on top of the speaker connector ."
+                },
+                {
+                    "Text": "with the plastic tab depressed , pull the connector away from its socket ."
+                }
+            ],
+            "Text_raw": "Rotate the speaker enough so you can access the speaker connector on the back. Depress the plastic tab that resides on top of the speaker connector. With the plastic tab depressed, pull the connector away from its socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hPAtFHN3QHdX2BDa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/g2CtWfygVMYrKYYM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nGlH6yNALmvWYerL.standard"
+            ],
+            "StepId": 62321,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "you can use aftermarket speaker harnesses instead of cutting the factory speaker connectors . each set is usually 10+ and simplifies the process -- but then you have extra wires and connectors jiggling in the door . the steps below are the simpler , cheaper route ."
+                },
+                {
+                    "Text": "i also knew i would not ever return to the factory speakers , so this was a simple choice for me ."
+                },
+                {
+                    "Text": "use a pair of wire cutters to cut the factory speaker connector from the rest of the speaker wiring . leave a bit of wire on the connector side , should you ever need to put it back onto the wires ."
+                }
+            ],
+            "Text_raw": "You can use aftermarket speaker harnesses instead of cutting the factory speaker connectors. Each set is usually $10+ and simplifies the process -- but then you have extra wires and connectors jiggling in the door. The steps below are the simpler, cheaper route. I also knew I would not ever return to the factory speakers, so this was a simple choice for me. Use a pair of wire cutters to cut the factory speaker connector from the rest of the speaker wiring. Leave a bit of wire on the connector side, should you ever need to put it back onto the wires.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wqW6tVPJDNKAKMUU.standard"
+            ],
+            "StepId": 62322,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "strip each wire using the 16 gauge setting on the wire strippers by clamping down on the wire with the strippers , and then pulling the strippers perpendicularly away from the wire ."
+                },
+                {
+                    "Text": "crimp one side of a butt connector to one of the two wires ."
+                }
+            ],
+            "Text_raw": "Strip each wire using the \"16 gauge\" setting on the wire strippers by clamping down on the wire with the strippers, and then pulling the strippers perpendicularly away from the wire. Crimp one side of a butt connector to one of the two wires.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PFFtArX4gqZV4SMj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4H2iSbXylxaFaUtl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mAZr25365EQV1tYI.standard"
+            ],
+            "StepId": 62323,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "trim the new speaker wire ( that should've come with the speakers ) to appropriate length . i usually leave six inches of wire from the spade terminals so that they can be easily stripped ."
+                },
+                {
+                    "Text": "strip the new speaker wire ends in the same fashion as the door speaker wire ."
+                },
+                {
+                    "Text": "connect the other side of each butt connector to the new speaker wire :"
+                },
+                {
+                    "Text": "red to black-gray"
+                },
+                {
+                    "Text": "white to gray"
+                }
+            ],
+            "Text_raw": "Trim the new speaker wire (that should've come with the speakers) to appropriate length. I usually leave [http://d3nevzfk7ii3be.cloudfront.net/igi/5ThDlKpbGEWMG4gG.huge|about six inches of wire] from the spade terminals so that they can be easily stripped. Strip the new speaker wire ends in the same fashion as the door speaker wire. Connect the other side of each butt connector to the new speaker wire: Red to black-gray White to gray",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bPFTSFk6kI6ZZWSs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vDKTCRDuVJhDEnCK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KOQwtp3weiFuE2i6.standard"
+            ],
+            "StepId": 62324,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "'''this step is completely optional . ''' adding a sound deadener like will provide a better seal around the speaker ."
+                },
+                {
+                    "Text": "a alternative is either rubber or foam weather stripping tape ."
+                },
+                {
+                    "Text": "cut an approximately 1 wide strip of dynamat and press it into both sides of the speaker opening ."
+                },
+                {
+                    "Text": "work your way around with more strips up until all of the speaker opening is covered in dynamat or weather stripping tape ."
+                }
+            ],
+            "Text_raw": "'''This step is completely optional.''' Adding a sound deadener like [http://www.amazon.com/dp/B00020CAVA/|Dynamat] will provide a better seal around the speaker. A [http://www.amazon.com/dp/B000OZT84K/|low-cost alternative] is either rubber or foam weather stripping tape. Cut an approximately 1\" wide strip of Dynamat and press it into both sides of the speaker opening. Work your way around with more strips up until all of the speaker opening is covered in Dynamat or weather stripping tape.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MgYB4ItxFqZNYXJF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IMJAOCkGCqIrZGvN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GbnxWKeTH3C4NenL.standard"
+            ],
+            "StepId": 62325,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "you're not connecting the speaker right now -- just getting holes drilled in order to mount it ."
+                },
+                {
+                    "Text": "center the speaker in the speaker opening , and press it firmly against the door so it doesn't move out of place ."
+                },
+                {
+                    "Text": "use a drill tip or another sharp , slender object to mark the top speaker hole -- but do not drill the hole just yet !"
+                }
+            ],
+            "Text_raw": "You're not connecting the speaker right now -- just getting holes drilled in order to mount it. Center the speaker in the speaker opening, and press it firmly against the door so it doesn't move out of place. Use a drill tip or another sharp, slender object to mark the top speaker hole -- but do not drill the hole just yet!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gBCjuraPsPHYaZBU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4SdwNLNKpvn3Y4j4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eDeUTmne5AFC5mtZ.standard"
+            ],
+            "StepId": 62327,
+            "Tools_extracted": [
+                "drill",
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "move the speaker out of the way . if you used dynamat , it will be fairly evident where the top mounting hole was marked ."
+                },
+                {
+                    "Text": "use a drill ( with a bit one size smaller than the screw diameter ) to drill the top mounting hole ."
+                }
+            ],
+            "Text_raw": "Move the speaker out of the way. If you used  Dynamat, it will be fairly evident where the top mounting hole was marked. Use a drill (with a bit one size smaller than the screw diameter) to drill the top mounting hole.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5Tq3gXMWPEMgFXr5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UEBTAWPRMw54JAX1.standard"
+            ],
+            "StepId": 62328,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "connect the spade terminals of the speaker -- big for big , small for small ."
+                },
+                {
+                    "Text": "place the speaker into the speaker opening on the door ."
+                }
+            ],
+            "Text_raw": "Connect the spade terminals of the speaker -- big for big, small for small. Place the speaker into the speaker opening on the door.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sdlGNFrdwwHIEPcN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/STHV1uHgmICVZBPB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OB2XORZNvNmDgFkW.standard"
+            ],
+            "StepId": 62329,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 19,
+            "Lines": [
+                {
+                    "Text": "use a 2 phillips screwdriver to '''hand tighten''' the top mounted screw . do not use a drill or power driver for this task -- you'll have a bad time if you strip the hole ."
+                }
+            ],
+            "Text_raw": "Use a #2 Phillips screwdriver to '''hand tighten''' the top mounted screw. Do not use a drill or power driver for this task -- you'll have a bad time if you strip the hole.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sTfxjoLxMWxqh2xY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XG2iN1PQ6OKRqnRa.standard"
+            ],
+            "StepId": 62330,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 20,
+            "Lines": [
+                {
+                    "Text": "use a drill bit to mark the second , third , and fourth holes ."
+                },
+                {
+                    "Text": "this time around i just marked and drilled each hole with the speaker in place . '''do this at your own risk . '''"
+                },
+                {
+                    "Text": "alternatively , you can just mark the holes first , take the speaker off once more , drill the pilot holes , and remount the speaker with all four screws . just make sure to hand-tighten every screw , instead of using a powered driver ."
+                }
+            ],
+            "Text_raw": "Use a drill bit to mark the second, third, and fourth holes. This time around I just marked and drilled each hole with the speaker in place. '''Do this at your own risk.''' Alternatively, you can just mark the holes first, take the speaker off once more, drill the pilot holes, and remount the speaker with all four screws. Just make sure to hand-tighten every screw, instead of using a powered driver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TNH1JZSNgQGaKrAH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3TSvEVJyfsBqNIjx.standard"
+            ],
+            "StepId": 62331,
+            "Tools_extracted": [
+                "drill"
+            ]
+        }
+    ],
+    "Subject": "Rear Door Speaker"
+}

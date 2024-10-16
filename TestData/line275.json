@@ -1,0 +1,204 @@
+{
+    "Title": "2008-2012 Honda Accord Engine Oil Change",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 96470,
+    "Category": "2008-2012 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "vehicle ramps",
+            "Url": "http://www.autozone.com/engine-and-vehicle-lift/ramp/hopkins-12000-lbs-rhinoramps-max/89618_0_0",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "17 mm socket",
+            "Url": "/Item/17_mm_Socket_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "latex or nitrile gloves",
+            "Url": "http://www.amazon.com/dp/B00J084MHA/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil filter wrench",
+            "Url": "http://amzn.com/B0009WG5SU",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2008+2009+2010+2011+2012+Honda+Accord+Engine+Oil+Change/96470",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "always set the parking brake and place the gear selector in park ( for a manual , place it in gear ) . this stops the vehicle from rolling ."
+                },
+                {
+                    "Text": "always inspect jacks , ramps , tires and wrenches . park the car on a clean , level surface before lifting it with a jack or ramp . ++'''serious injury can result from improper jacking of your vehicle ! '''++"
+                }
+            ],
+            "Text_raw": "Always set the parking brake and place the gear selector in Park (for a manual, place it in gear). This stops the vehicle from rolling. Always inspect jacks, ramps, tires and wrenches. Park the car on a clean, level surface before lifting it with a jack or ramp. ++'''Serious injury can result from improper jacking of your vehicle!'''++",
+            "Images": [],
+            "StepId": 178160,
+            "Tools_extracted": [
+                "vehicle ramps"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "'''oil may be hot ! ''' wait and allow the engine to cool . if the engine is too hot to touch , do not remove the oil drain plug . hot oil will burn you !"
+                },
+                {
+                    "Text": "remove the oil dipstick and oil fill cap from under the hood . place them in a safe place and save them for after you have refilled the engine with oil ."
+                },
+                {
+                    "Text": "place an oil drain pan beneath the oil drain plug . when safe , loosen the plug with an 17 mm socket wrench ."
+                },
+                {
+                    "Text": "as soon as the plug turns a little , switch to loosening it by hand . '''oil will begin to drain ! ''' adjust the oil pan if necessary to catch the draining oil ."
+                },
+                {
+                    "Text": "the video skips to removing the oil filter : first remove the oil drain plug when safe , then allow the oil to drain until it slows to a trickle ."
+                },
+                {
+                    "Text": "finally go ahead and remove the oil filter with an oil filter wrench . the video shows this at around 1 min 27 sec ."
+                },
+                {
+                    "Text": "the filter is filled with old oil too . dump its contents into the oil drain pan , and discard the old filter ."
+                }
+            ],
+            "Text_raw": "'''Oil may be hot!''' Wait and allow the engine to cool. If the engine is too hot to touch, do not remove the oil drain plug. Hot oil will burn you! Remove the oil dipstick and oil fill cap from under the hood. Place them in a safe place and save them for after you have refilled the engine with oil. Place an oil drain pan beneath the oil drain plug. When safe, loosen the plug with an 17 mm socket wrench. As soon as the plug turns a little, switch to loosening it by hand. '''Oil will begin to drain!''' Adjust the oil pan if necessary to catch the draining oil. The video skips to removing the oil filter:   first remove the oil drain plug when safe, then allow the oil to drain until it slows to a trickle. Finally go ahead and remove the oil filter with an oil filter wrench. The video shows this at around 1 min 27 sec. The filter is filled with old oil too. Dump its contents into the oil drain pan, and discard the old filter.",
+            "Images": [],
+            "StepId": 178161,
+            "Tools_extracted": [
+                "oil drain pan",
+                "oil filter wrench",
+                "oil"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "place a little oil on the rubber gasket of the new oil filter . then install the new filter only hand-tighten ."
+                },
+                {
+                    "Text": "tighten the new oil filter one-half turn further than hand-tight , using an oil filter wrench ."
+                },
+                {
+                    "Text": "the oil drain plug has a crush washer that needs to be replaced . then put the plug back on and tighten it to 29 ft-lb of torque using a torque wrench . ( it is best to under-tighten the oil drain plug . if it is over-tightened you may crack the oil pan ! )"
+                },
+                {
+                    "Text": "pour 3 quarts ( not all 4 ) into the oil tank ."
+                },
+                {
+                    "Text": "check for leaks ."
+                },
+                {
+                    "Text": "remove the used oil in the drain pan under the car . clean up under the car ."
+                },
+                {
+                    "Text": "lower your vehicle so it is resting on the ground and is level ."
+                },
+                {
+                    "Text": "use the dipstick to check the oil level . add a little of the remaining oil , and check the dipstick again . continue adding some oil until the dipstick shows the oil level is full ."
+                }
+            ],
+            "Text_raw": "Place a little oil on the rubber gasket of the new oil filter. Then install the new filter only hand-tighten. Tighten the new oil filter one-half turn further than hand-tight, using an oil filter wrench. The oil drain plug has a crush washer that needs to be replaced. Then put the plug back on and tighten it to 29 ft-lb of torque using a torque wrench. (It is best to under-tighten the oil drain plug. If it is over-tightened you may crack the oil pan!) Pour 3 quarts (not all 4) into the oil tank. Check for leaks. Remove the used oil in the drain pan under the car. Clean up under the car. Lower your vehicle so it is resting on the ground and is level. Use the dipstick to check the oil level. Add a little of the remaining oil, and check the dipstick again. Continue adding some oil until the dipstick shows the oil level is full.",
+            "Images": [],
+            "StepId": 178162,
+            "Tools_extracted": [
+                "oil drain pan",
+                "vehicle ramps",
+                "oil filter wrench",
+                "oil"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "'''be careful not to over-fill your oil tank . '''"
+                },
+                {
+                    "Text": "start the vehicle and let it idle for 2 minutes . if the oil level light illuminates , '''stop the engine immediately . ''' ( if the oil level light illuminates , the engine has lost oil and must be serviced before being started again . )"
+                },
+                {
+                    "Text": "wait 5 minutes for the oil to flow down into the tank . check the dipstick again ."
+                },
+                {
+                    "Text": "add more oil until the dipstick again shows the oil level is full . '''do not over-fill the oil tank . '''"
+                }
+            ],
+            "Text_raw": "'''Be careful not to over-fill your oil tank.''' Start the vehicle and let it idle for 2 minutes. If the oil level light illuminates, '''stop the engine immediately.''' (If the oil level light illuminates, the engine has lost oil and must be serviced before being started again.) Wait 5 minutes for the oil to flow down into the tank. Check the dipstick again. Add more oil until the dipstick again shows the oil level is full. '''Do not over-fill the oil tank.'''",
+            "Images": [],
+            "StepId": 178163,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "many quick oil change businesses will take your used oil for free , since they can sell their used oil to an oil recycler . in some us states ( such as ca ) , businesses may refuse to accept your used oil . if they do , try different businesses ! mechanics and some gas stations may accept your used oil ."
+                },
+                {
+                    "Text": "please don't dump used oil into rivers , lakes , and watershed ! please recycle ."
+                }
+            ],
+            "Text_raw": "Many \"quick oil change\" businesses will take your used oil for free, since they can sell their used oil to an oil recycler. In some US States (such as CA), businesses may refuse to accept your used oil. If they do, try different businesses! Mechanics and some gas stations may accept your used oil. Please don't dump used oil into rivers, lakes, and watershed! Please recycle.",
+            "Images": [],
+            "StepId": 178164,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "the odometer / instrument cluster has an oil life indicator selectable with the trip odometer sel / reset button ."
+                },
+                {
+                    "Text": "to reset the oil life percent , press and hold the sel/reset button for about 10 seconds until the oil life message begins to flash ."
+                },
+                {
+                    "Text": "release the sel/reset button , and hold it again for about 5 seconds until the oil life percent resets ."
+                },
+                {
+                    "Text": "it should now show 100."
+                }
+            ],
+            "Text_raw": "The odometer / instrument cluster has an oil life indicator selectable with the trip odometer \"SEL / RESET\" button. To reset the Oil Life percent, press and hold the SEL/RESET button for about 10 seconds until the Oil Life message begins to flash. Release the SEL/RESET button, and hold it again for about 5 seconds until the Oil Life percent resets. It should now show \"100%\".",
+            "Images": [],
+            "StepId": 206512,
+            "Tools_extracted": [
+                "oil"
+            ]
+        }
+    ],
+    "Subject": "Engine Oil"
+}

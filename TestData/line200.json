@@ -1,0 +1,266 @@
+{
+    "Title": "1999-2007 Ford Super Duty Seat Replacement",
+    "Ancestors": [
+        "Ford F-Series",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 38901,
+    "Category": "1999-2007 Ford Super Duty",
+    "Toolbox": [
+        {
+            "Name": "drill",
+            "Url": "https://www.amazon.com/DEWALT-DC970K-2-18-Volt-Compact-Driver/dp/B002RLR0EY/ref=sr_1_6?s=power-hand-tools&rps=1&ie=UTF8&qid=1487961385&sr=1-6&keywords=cordless+drill&refinements=p_85%3A2470955011",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 18 mm",
+            "Url": "http://www.amazon.com/TEKTON-14151-Shallow-Socket-6-Point/dp/B000NPULCY/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "t6 torx screwdriver",
+            "Url": "http://www.amazon.com/Lisle-26520-T-60-Torx-Socket/dp/B0002NYBW8/ref=sr_1_4?ie=UTF8&qid=1427374015&sr=8-4&keywords=t60+torx+bit",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "https://www.ifixit.com/Store/Parts/Phillips-2-Screwdriver/IF145-032-1",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "18 wrench",
+            "Url": "http://www.amazon.com/Point-18MM-Metric-Combination-Wrench/dp/B00ARARE52",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1999+2000+2001+2002+2003+2004+2005+2006+2007+Ford+Super+Duty+Seat+Replacement/38901",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before shot of bench seat in a 2005 ford f-350 super duty . removal of the seat requires an 18 mm socket . preferably a deep wall socket and a t60 torx bit w/ratchet or impact wrench ."
+                }
+            ],
+            "Text_raw": "Before shot of bench seat in a 2005 Ford F-350 Super Duty.  Removal of the seat requires an 18mm socket.  Preferably a deep wall socket and a T60 Torx Bit w/ratchet or impact wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JVyAEPiItTvWrgKE.standard"
+            ],
+            "StepId": 87812,
+            "Tools_extracted": [
+                "socket 18 mm"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "adjust the seat as far back as you can . using an 18 mm deep wall socket , remove the bolts on the front that attachs the seat to the floor . on my bench seat there were only two bolts . if you have a 60 /40 seat or bucket seats there will be more ."
+                }
+            ],
+            "Text_raw": "Adjust the seat as far back as you can.  Using an 18mm deep wall socket, remove the bolts on the front that attachs the seat to the floor.  On my bench seat there were only two bolts.  If you have a 60/40 seat or bucket seats there will be more.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fKTgNPkGAQXMjqrV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/h1kcIIQtUFlsFlpX.standard"
+            ],
+            "StepId": 87830,
+            "Tools_extracted": [
+                "socket 18 mm"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "adjust seat to it's most forward position . look for a stud with a plastic protection cap . remove the cap with a screwdriver . using an 18 mm wrench or socket ( if space allows ) remove the bolt from the stud . on my bench seat there were only two studs/bolts . other style seats will have more . lift seat off studs and position seat forward of studs ."
+                }
+            ],
+            "Text_raw": "Adjust seat to it's most forward position. Look for a stud with a plastic protection cap.  Remove the cap with a screwdriver. Using an 18mm wrench or socket (if space allows) remove the bolt from the stud.  On my bench seat there were only two studs/bolts.  Other style seats will have more. Lift seat off studs and position seat forward of studs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bWWRaGBQTGo5mje2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wXw64BFJQ4WnsOK1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mwBobJbHn5nIUqXN.standard"
+            ],
+            "StepId": 87836,
+            "Tools_extracted": [
+                "18 wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "using the t60 torx bit , remove the bolts attaching the seat belt receivers to the floor and remove the seat belt receivers ."
+                }
+            ],
+            "Text_raw": "Using the T60 Torx bit, remove the bolts attaching the seat belt receivers to the floor and remove the seat belt receivers.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xBqMw6IkHmibUSGB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eiPpyuxK6Pt1VHne.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5aZwkenQQbfvweDk.standard"
+            ],
+            "StepId": 88206,
+            "Tools_extracted": [
+                "t6 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "unplug the seat belt receiver from the vehicle seat belt buzzer plug . it will be just under the back side of the seat ."
+                }
+            ],
+            "Text_raw": "Unplug the seat belt receiver from the vehicle seat belt buzzer plug.  it will be just under the back side of the seat.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PYPApRmUbBSmBLYf.standard"
+            ],
+            "StepId": 88208,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "you may now remove the old seat from the truck . if you have a bench seat like in this guide , you will need someone to help ."
+                }
+            ],
+            "Text_raw": "You may now remove the old seat from the truck.  if you have a bench seat like in this guide, you will need someone to help.",
+            "Images": [],
+            "StepId": 88209,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "next , if your truck was only using the outter body holes you will need to locate the two close to the transmission tunnel . you can press your finger in the center and locate the opening . take a razor knife and gently cut an x over the hole . gently remove each of the triangle shaped tabs exposing the additional hole . repeat on opposite side ."
+                }
+            ],
+            "Text_raw": "Next, if your truck was only using the outter body holes you will need to locate the two close to the transmission tunnel.  You can press your finger in the center and locate the opening.  Take a razor knife and gently cut an X over the hole.  Gently remove each of the triangle shaped tabs exposing the additional hole.  Repeat on opposite side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IDnA6imyK6BRIFVB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/L6YkwBDsAURgtLbK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rSpe1MX2nRgb6REk.standard"
+            ],
+            "StepId": 88210,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "next place your jump seat in the middle on top of the transmission tunnel . the rear holes will line up with two of the existing holes where the seat belts were attached . place two bolts in the holes but don't tighten completely . lift the bottom seat up exposing the two bolt holes in the bottom of the jump seat ."
+                }
+            ],
+            "Text_raw": "Next place your jump seat in the middle on top of the transmission tunnel.  The rear holes will line up with two of the existing holes where the seat belts were attached. Place two bolts in the holes but don't tighten completely.  Lift the bottom seat up exposing the two bolt holes in the bottom of the jump seat.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VNAoUSPlLjmpQNXv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2Xk5WveOA3MkXRJV.standard"
+            ],
+            "StepId": 88211,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "now mark and drill two holes in the transmission tunnel . carefully check what is below the tunnel to make sure you don't damage wiring or other system that may be run along the path . this is best done with one person drilling and one person watching underneath . these are the only holes you must drill for 2011 to 2014 seats to fit ."
+                }
+            ],
+            "Text_raw": "Now mark and drill two holes in the transmission tunnel.  Carefully check what is below the tunnel to make sure you don't damage wiring or other system that may be run along the path.  This is best done with one person drilling and one person watching underneath.  These are the only holes you must drill for 2011 to 2014 seats to fit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yI1xGCsMOoys2IPT.standard"
+            ],
+            "StepId": 88213,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "notice the jump seat is a little lower than the buckets . place your buckets in temporarily and use washers or other spacers between the floor and jump seat frame to adjust the jump seat to the same level as the buckets ."
+                }
+            ],
+            "Text_raw": "Notice the jump seat is a little lower than the buckets.  Place your buckets in temporarily and use washers or other spacers between the floor and jump seat frame to adjust the jump seat to the same level as the buckets.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cWWm4agieueNfUGk.standard"
+            ],
+            "StepId": 88214,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "place your bucket seats in the truck . you should be able to line up all 4 holes in the seat frame with a hole in the truck body . you may use the same bolts you removed from the old seat to bolt the new seats down . replace the plastic bolt covers on the new bucket seats ."
+                }
+            ],
+            "Text_raw": "Place your bucket seats in the truck.  You should be able to line up all 4 holes in the seat frame with a hole in the truck body.  You may use the same bolts you removed from the old seat to bolt the new seats down.  Replace the plastic bolt covers on the new bucket seats.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IVJt3fuEAPpgW4Ev.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FKWFESq3MRoeSaKS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VUkKVbqBfZJIVLMP.standard"
+            ],
+            "StepId": 88215,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "in my case the seat belt buzzer on the new seat didn't match the vehicle plug . simply remove the seat belt receiver from the side of the seat with a t60 torq bit and re-attach your old seat belt receiver to the floor bolt . using the old seat belt receiver gives you the proper connector and allows the buzzer to work properly ."
+                }
+            ],
+            "Text_raw": "In my case the seat belt buzzer on the new seat didn't match the vehicle plug.  Simply remove the seat belt receiver from the side of the seat with a T60 Torq bit and re-attach your old seat belt receiver to the floor bolt.  Using the old seat belt receiver gives you the proper connector and allows the buzzer to work properly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PfvZsLQesAZTBIZa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BfmTRhuk4KARe1uP.standard"
+            ],
+            "StepId": 88216,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "be sure to tighten all bolts properly . your safety depends on it . you now have modern much more comfortable seats in your truck . enjoy . before and after pics below ."
+                }
+            ],
+            "Text_raw": "Be sure to tighten all bolts properly.  Your safety depends on it.  You now have modern much more comfortable seats in your truck.  Enjoy.  Before and After pics below.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ud1KO6xRXYGMmmGg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vXERwAQGDCBclgyc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gscyDussTJUsEyEQ.standard"
+            ],
+            "StepId": 88220,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Seat"
+}

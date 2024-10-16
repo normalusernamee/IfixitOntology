@@ -1,0 +1,259 @@
+{
+    "Title": "2006 Ford F-150 Door Handle Cable Replacement",
+    "Ancestors": [
+        "Ford F-Series",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 78306,
+    "Category": "2004-2008 Ford F-150",
+    "Toolbox": [
+        {
+            "Name": "6 allen wrench",
+            "Url": "http://www.amazon.com/TEKTON-1376-Drive-Socket-Cr-V/dp/B000NY4SGK/ref=sr_1_3?ie=UTF8&qid=1388418550&sr=8-3&keywords=6mm+allen+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "2.5mm flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Flathead-3-32-Inch-or-2-5-mm-Screwdriver/IF145-011",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/IRnGQ4e2ZPBSxpuB.mini"
+        },
+        {
+            "Name": "basic pliers",
+            "Url": "http://www.amazon.com/Stanley-84-097-6-Inch-Joint-Plier/dp/B0001IW892/ref=sr_1_3?s=hi&ie=UTF8&qid=1420940347&sr=1-3",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_1?ie=UTF8&qid=1487787284&sr=8-1&keywords=3+8+ratchet",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2006+Ford+F-150+Door+Handle+Cable+Replacement/78306",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "remove the plastic cover from the door handle using a 7.6 cm slotted screwdriver ."
+                },
+                {
+                    "Text": "insert the screwdriver into the small opening found at the top of the plastic cover ."
+                },
+                {
+                    "Text": "carefully tilt the screwdriver upward to remove the plastic cover ."
+                }
+            ],
+            "Text_raw": "Remove the plastic cover from the door handle using a 7.6 cm slotted screwdriver. Insert the screwdriver into the small opening found at the top of the plastic cover. Carefully tilt the screwdriver upward to remove the plastic cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fTEhwKagl4k1ABwm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/S5TxfRCqlq4D3I5S.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uCai1VeroOUNtF1p.standard"
+            ],
+            "StepId": 156443,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the two 6 mm hex screws using a 6 mm socket ."
+                },
+                {
+                    "Text": "turn the screwdriver counter-clockwise to loosen and remove the screws ."
+                },
+                {
+                    "Text": "grab the door handle and remove it from its location ."
+                }
+            ],
+            "Text_raw": "Remove the two 6 mm hex screws using a 6mm socket. Turn the screwdriver counter-clockwise to loosen and remove the screws. Grab the door handle and remove it from its location.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UWqZhbJcsL6cpgMK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4VZkPxHuBTBmpEnV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HuMcA1hTY1HIlTVs.standard"
+            ],
+            "StepId": 156445,
+            "Tools_extracted": [
+                "screwdriver",
+                "6 allen wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the top plastic cover by pulling outward to snap it out of its location ."
+                },
+                {
+                    "Text": "there are not any screws to remove in this part ."
+                }
+            ],
+            "Text_raw": "Remove the top plastic cover by pulling outward to snap it out of its location. There are not any screws to remove in this part.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZtlkZjvZetamBUlI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vMXhUTDiJGLVEC3X.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VGOxAqoygSZ2BsSO.standard"
+            ],
+            "StepId": 156446,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the other plastic cover by pulling outward to snap it out of its location ."
+                },
+                {
+                    "Text": "there are not any screws to remove in this part ."
+                }
+            ],
+            "Text_raw": "Remove the other plastic cover by pulling outward to snap it out of its location. There are not any screws to remove in this part.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cDriW1L3alneQlKS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5wokLTPWponLIp3k.standard"
+            ],
+            "StepId": 156447,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the three 6 mm hex screws off the main door cover using a 6 mm socket . there are two screws at the top and one at the bottom ."
+                },
+                {
+                    "Text": "the panel itself should stay in place even after the screws have been removed ."
+                },
+                {
+                    "Text": "the door panel is maintained in place by plastic hooks behind it ."
+                }
+            ],
+            "Text_raw": "Remove the three 6 mm hex screws off the main door cover using a 6 mm socket. There are two screws at the top and one  at the bottom. The panel itself should stay in place even after the screws have been removed. The door panel is maintained in place by plastic hooks behind it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dIIqYnQXwdM1e65D.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FLWLIgmrXGGdKGpL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AY5vsLGvfs4cguNc.standard"
+            ],
+            "StepId": 156448,
+            "Tools_extracted": [
+                "6 allen wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "gently , but with a strong force , lift the door cover about an inch or two high . then , carefully pull it outward ."
+                },
+                {
+                    "Text": "be careful not to damage the plastic hooks that are keeping the door in place ."
+                }
+            ],
+            "Text_raw": "Gently, but with a strong force, lift the door cover about an inch or two high. Then, carefully pull it outward. Be careful not to damage the plastic hooks that are keeping the door in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/okBwYHFCKcqKQvCH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eA1B1dGreZRZHtAL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6uaKhgekQU34CYVx.standard"
+            ],
+            "StepId": 156449,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "snap out the upper end of the cable out of its location ."
+                },
+                {
+                    "Text": "the upper end of the cable has a shape of a little ball . the little ball is found by where the door handle was removed ."
+                },
+                {
+                    "Text": "using a plier , lift the cable high enough so that the little ball can come out through the round opening above it ."
+                }
+            ],
+            "Text_raw": "Snap out the upper end of the cable out of its location. The upper end of the cable has a shape of a little ball. The little ball is found by where the door handle was removed. Using a plier, lift the cable high enough so that the little ball can come out through the round opening above it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RFUZMlvAdtbGyw3J.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xsMf5ddjKKqkBt4v.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NRRPeilbcDi3OXNF.standard"
+            ],
+            "StepId": 156450,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "remove the three t27 hex star screws using a tamper torx screwdriver . the screws are found at the bottom of the door ."
+                },
+                {
+                    "Text": "you may need a mechanic creeper to lay under the door ."
+                },
+                {
+                    "Text": "wear protective goggles if you lay down under the door to do this step ."
+                }
+            ],
+            "Text_raw": "Remove the three T27 hex star screws using a tamper torx screw driver. The screws are found at the bottom of the door. You may need a mechanic creeper to lay under the door. Wear protective goggles if you lay down under the door to do this step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BldtGWlkdPZJWcGp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BSckJVde3y4nsLNx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/I4bP6p5iYDYZQeYB.standard"
+            ],
+            "StepId": 156451,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "insert your hand inside the bottom of the door to retrieve the door latch ."
+                }
+            ],
+            "Text_raw": "Insert your hand inside the bottom of the door to retrieve the door latch.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mp6v6hqyKMZpseqO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ERwI6jtkZoEapOaO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uoiDGdkAGZBoVdsk.standard"
+            ],
+            "StepId": 156452,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "remove the end of the cable out of its location ."
+                }
+            ],
+            "Text_raw": "Remove the end of the cable out of its location.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CRPWBoTZIqUA3Kqd.standard"
+            ],
+            "StepId": 156453,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

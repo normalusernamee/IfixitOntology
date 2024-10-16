@@ -1,0 +1,162 @@
+{
+    "Title": "Mercedes W123 Diesel Fuel Filter, Secondary Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22555,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "22 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14261-2-Inch-Socket-6-Point/dp/B000NQ17YO/ref=sr_1_2?ie=UTF8&qid=1407446188&sr=8-2&keywords=22mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "24 mm socket",
+            "Url": "/Item/24mm_socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Diesel+Fuel+Filter+Secondary+Replacement/22555",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "shown here is the large secondary fuel filter on a w123 diesel . it looks similar to oil filters you may have seen on other cars ."
+                }
+            ],
+            "Text_raw": "Shown here is the large secondary fuel filter on a W123 diesel. It looks similar to oil filters you may have seen on other cars.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BXcKTNPgsALGKVD6.standard"
+            ],
+            "StepId": 58912,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "begin by loosening the large bolt on the top of the filter housing . there are two styles . this one is a later style , that has a 24 mm bolt . an earlier style uses a 22 mm bolt . you'll need to verify yours before beginning ."
+                },
+                {
+                    "Text": "once the bolt begins to loosen , you'll need to use your other hand to hold the filter ."
+                }
+            ],
+            "Text_raw": "Begin by loosening the large bolt on the top of the filter housing. There are two styles. This one is a later style, that has a 24mm bolt. An earlier style uses a 22mm bolt. You'll need to verify yours before beginning. Once the bolt begins to loosen, you'll need to use your other hand to hold the filter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lBdEOKqOUQViq1ux.standard"
+            ],
+            "StepId": 58913,
+            "Tools_extracted": [
+                "mm socket"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "once the bolt is fully removed , you can now carefully remove the old filter . be aware that fuel is at the very top of the filter and may spill if you tip it ."
+                }
+            ],
+            "Text_raw": "Once the  bolt is fully removed, you can now carefully remove the old filter. Be aware that fuel is at the very top of the filter and may spill if you tip it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GfnMoEM3GCKVrMDn.standard"
+            ],
+            "StepId": 58914,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "inspect the bolt . on the newer style , as pictured , there are two different sizes of o-rings to seal the bolt . one the earlier style , there is only one o-ring ."
+                },
+                {
+                    "Text": "on this bolt , the o-rings are old , brittle , and flattened . they need to be replaced , there are o-rings in most metric o-ring kits that will fit ."
+                },
+                {
+                    "Text": "on the early style housing there is also a copper crush washer that goes under the head of the bolt , in place of the second o-ring . this should be replaced with every filter change ."
+                },
+                {
+                    "Text": "see the new o-rings installed here ."
+                }
+            ],
+            "Text_raw": "Inspect the bolt. On the newer style, as pictured, there are two different sizes of o-rings to seal the bolt. One the earlier style, there is only one o-ring. On this bolt, the o-rings are old, brittle, and flattened. They need to be replaced, there are o-rings in most metric o-ring kits that will fit. On the early style housing there is also a copper crush washer that goes under the head of the bolt, in place of the second o-ring. This should be replaced with every filter change. See the new o-rings installed here.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/T5MyNyNLdVany5BM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3FifxwVuRYTcveV6.standard"
+            ],
+            "StepId": 58915,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "fill the new filter with fuel . diesel , or anything else that will burn safely in a diesel engine , such as virgin motor oil , virgin vegetable oil , clean automatic transmission fluid , or some diesel purge ."
+                },
+                {
+                    "Text": "doing this will reduce the amount of fuel system priming that is necessary ."
+                }
+            ],
+            "Text_raw": "Fill the new filter with fuel. Diesel, or anything else that will burn safely in a diesel engine, such as virgin motor oil, virgin vegetable oil, clean automatic transmission fluid, or some diesel purge. Doing this will reduce the amount of fuel system priming that is necessary.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RlhjQ3KmmYUYy2mR.standard"
+            ],
+            "StepId": 58916,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "re-install the filter , following this guide in reverse order ."
+                }
+            ],
+            "Text_raw": "Re-install the filter, following this guide in reverse order.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5ldphKCxIlWo3WGB.standard"
+            ],
+            "StepId": 58917,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "prime the system using the primer pump until the fuel pressure release valve opens . you'll be able to tell by the squeaking noise from the injection pump ."
+                },
+                {
+                    "Text": "now is also a good time to replace the clear plastic primary fuel filter . if you'd like to do this , and need guidance , guide ."
+                }
+            ],
+            "Text_raw": "Prime the system using the primer pump until the fuel pressure release valve opens. You'll be able to tell by the squeaking noise from the injection pump. Now is also a good time to replace the clear plastic primary fuel filter. If you'd like to do this, and need guidance, [guide|22553|see the primary fuel filter replacement guide].",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2gvRvZHuWFi5qMNX.standard"
+            ],
+            "StepId": 58918,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Fuel Filter, Secondary"
+}

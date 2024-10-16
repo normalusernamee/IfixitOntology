@@ -1,0 +1,105 @@
+{
+    "Title": "Mercedes W123 Fuel Sending Unit Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 33384,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "1 and 13 16 socket",
+            "Url": "/Item/1_and_13_16%22_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Fuel+Sending+Unit+Replacement/33384",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before being able to proceed you will need to remove the first aid box . this guide does not cover this step , but basically , when you remove the first aid kit you will see several phillips screws in the bottom of the box . remove those and the first aid box lifts out ."
+                }
+            ],
+            "Text_raw": "Before being able to proceed you will need to remove the first aid box. This guide does not cover this step, but basically, when you remove the first aid kit you will see several Phillips screws in the bottom of the box. Remove those and the first aid box lifts out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XJMFe1yOoSro4J3j.standard"
+            ],
+            "StepId": 78151,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "with the box out , you will see the top of the sending unit where it screws in to the fuel tank ."
+                },
+                {
+                    "Text": "on top of the sending unit is a large black plastic plug for the wiring that goes to the fuel gauge . start by removing this ( not pictured ) by pulling straight up on it ."
+                }
+            ],
+            "Text_raw": "With the box out, you will see the top of the sending unit where it screws in to the fuel tank. On top of the sending unit is a large black plastic plug for the wiring that goes to the fuel gauge. Start by removing this (not pictured) by pulling straight up on it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FcmfPucJCOAaoxGU.standard"
+            ],
+            "StepId": 78152,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use your large socket ( 1 and 13 /16 ) and a ratchet to unscrew the fuel sending unit ."
+                },
+                {
+                    "Text": "optionally , you can use a large adjustable wrench or channel locks though when using tools like this there is always the potential for damaging the top of the fuel sending unit . having the correct size socket is always preferable ."
+                }
+            ],
+            "Text_raw": "Use your large socket (1 and 13/16\") and a ratchet to unscrew the fuel sending unit. Optionally, you can use a large adjustable wrench or channel locks though when using tools like this there is always the potential for damaging the top of the fuel sending unit. Having the correct size socket is always preferable.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qmte6IifjTxPyPyi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VocYyebIcFIsyDar.standard"
+            ],
+            "StepId": 78154,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "you can now begin to pull the fuel sending unit out . do it slowly ."
+                },
+                {
+                    "Text": "before removing it all the way , let the fuel in the unit drain out . you should hear it slowly draining as you pull it up . the more fuel that is in your tank the longer it will take to drain the unit ."
+                },
+                {
+                    "Text": "once it's drained you can remove it all the way to service it or to proceed at installing your replacement part ."
+                }
+            ],
+            "Text_raw": "You can now begin to pull the fuel sending unit out. Do it slowly. Before removing it all the way, let the fuel in the unit drain out. You should hear it slowly draining as you pull it up. The more fuel that is in your tank the longer it will take to drain the unit. Once it's drained you can remove it all the way to service it or to proceed at installing your replacement part.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JtmrYFsBQcNbnTEI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jHNvSZc1PHPU6HGf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xfPVqmklTWC2tIVu.standard"
+            ],
+            "StepId": 78155,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Fuel Sending Unit"
+}

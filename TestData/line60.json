@@ -1,0 +1,411 @@
+{
+    "Title": "1986-1993 Volvo 240 Front Struts Replacement",
+    "Ancestors": [
+        "Volvo",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 7576,
+    "Category": "1986-1993 Volvo 240",
+    "Toolbox": [
+        {
+            "Name": "socket 12 mm",
+            "Url": "http://www.amazon.com/TEKTON-14144-Shallow-Socket-6-Point/dp/B000NY7A1A/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "13 mm deep socket",
+            "Url": "/Item/13_mm_Deep_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 15 mm",
+            "Url": "http://www.amazon.com/TEKTON-14147-Shallow-Socket-6-Point/dp/B000NPR4BA/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "18 mm box end wrench",
+            "Url": "/Item/18_mm_Box_End_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-Shallow-Socket-6-Point/dp/B000NPULD8/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "24 mm impact socket",
+            "Url": "/Item/24_mm_Impact_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "channellock groove joint pliers",
+            "Url": "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Channellock%20Groove%20Joint%20Pliers",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "impact wrench",
+            "Url": "http://www.amazon.com/Kawasaki-841337-2-Inch-Impact-12-Volt/dp/B00544EZQ2/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356974328&sr=1-1&keywords=electric+impact+gun",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "locking pliers",
+            "Url": "http://amzn.com/B00004SBAT",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "macpherson strut spring compressor",
+            "Url": "http://www.amazon.com/OEM-25550-Strut-Spring-Compressor/dp/B000CMDPLM/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356974688&sr=1-1&keywords=spring+compressor",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "/Item/Socket_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "tie rod end puller",
+            "Url": "http://www.amazon.com/OTC-6296-Pitman-Arm-Puller/dp/B000KITTYU/ref=sr_1_3?s=automotive&ie=UTF8&qid=1356974780&sr=1-3&keywords=tie+rod+end+puller",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 18 mm",
+            "Url": "http://www.amazon.com/TEKTON-14151-Shallow-Socket-6-Point/dp/B000NPULCY/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1986+1987+1988+1989+1990+1991+1992+1993+Volvo+240+Front+Struts+Replacement/7576",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "jack up the front of the car and place it on jack stands ."
+                },
+                {
+                    "Text": "never work on or underneath a car that is only supported by a jack . the jack may slip or fail , resulting in serious injury or even death ."
+                },
+                {
+                    "Text": "use an impact wrench or tire iron to remove the five 19 mm lug nuts from the front wheel ."
+                },
+                {
+                    "Text": "pull the front wheel off the wheel lugs and set it aside ."
+                }
+            ],
+            "Text_raw": "Jack up the front of the car and place it on jack stands. Never work on or underneath a car that is only supported by a jack. The jack may slip or fail, resulting in serious injury or even death. Use an impact wrench or tire iron to remove the five 19 mm lug nuts from the front wheel. Pull the front wheel off the wheel lugs and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2ITpwQjUe1mCUaFB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MnbcZn2DtrCjgaZc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/htRKImZeGJLCEtrM.standard"
+            ],
+            "StepId": 31567,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a socket wrench or impact gun to remove the 15 mm nut on the front sway bar endlink ."
+                }
+            ],
+            "Text_raw": "Use a socket wrench or impact gun to remove the 15 mm nut on the front sway bar endlink.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4tVDwaLQnrY3IYIW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eq4xmOOrR2mGImNm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/m4deFpg36h5khxky.standard"
+            ],
+            "StepId": 31568,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "the front brake lines are attached to the body by a small bracket near the strut ."
+                },
+                {
+                    "Text": "grab the front edge of the bracket with a pair of locking pliers ."
+                },
+                {
+                    "Text": "without the locking pliers to hold the bracket in place , it may twist back and forth . this twisting could fracture the rigid brake lines ."
+                },
+                {
+                    "Text": "remove the 12 mm bolt that holds the bracket in place with a socket wrench ."
+                }
+            ],
+            "Text_raw": "The front brake lines are attached to the body by a small bracket near the strut. Grab the front edge of the bracket with a pair of locking pliers. Without the locking pliers to hold the bracket in place, it may twist back and forth. This twisting could fracture the rigid brake lines. Remove the 12 mm bolt that holds the bracket in place with a socket wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/x46nEWLfFKjxJSHu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SbRJiNFsAhYyhM66.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OvHPmM2IsTWZg3hC.standard"
+            ],
+            "StepId": 31569,
+            "Tools_extracted": [
+                "locking pliers",
+                "socket wrench",
+                "macpherson strut spring compressor"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use a socket wrench or impact gun to remove the 19 mm tie rod end nut ."
+                }
+            ],
+            "Text_raw": "Use a socket wrench or impact gun to remove the 19 mm tie rod end nut.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2ruIOgZ1BVyK2iXH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mmmVwvLT3Yy4bEZb.standard"
+            ],
+            "StepId": 31570,
+            "Tools_extracted": [
+                "tie rod end puller"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "place a tie rod end puller over the exposed threads of the tie rod end and turn the puller with a socket wrench to push the tie rod end out of the steering knuckle ."
+                }
+            ],
+            "Text_raw": "Place a tie rod end puller over the exposed threads of the tie rod end and turn the puller with a socket wrench to push the tie rod end out of the steering knuckle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jxfGi6mfQnIWNQqQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/143ZqueNVRemk1jj.standard"
+            ],
+            "StepId": 31572,
+            "Tools_extracted": [
+                "tie rod end puller"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "the ball joint is held to the control arm by three 18 mm bolts ."
+                },
+                {
+                    "Text": "remove the bottom two nuts with a breaker bar or long wrench ."
+                },
+                {
+                    "Text": "place a breaker bar over the gold nut on the bottom of the control arm ."
+                },
+                {
+                    "Text": "the breaker bar alone will not be able to loosen the nut , since the bolt is free to rotate ."
+                },
+                {
+                    "Text": "place an 18 mm box end wrench over the bolt on top of the control arm ."
+                },
+                {
+                    "Text": "turn the breaker bar and the wrench in their respective counterclockwise directions to loosen and remove the third ball joint-to-control arm bolt ."
+                }
+            ],
+            "Text_raw": "The ball joint is held to the control arm by three 18 mm bolts. Remove the bottom two nuts with a breaker bar or long wrench. Place a breaker bar over the gold nut on the bottom of the control arm. The breaker bar alone will not be able to loosen the nut, since the bolt is free to rotate. Place an 18 mm box end wrench over the bolt on top of the control arm. Turn the breaker bar and the wrench in their respective counterclockwise directions to loosen and remove the third ball joint-to-control arm bolt.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XNJhQtLL3vRYbUpT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AFTfnEJ3niifugZ6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cifYGLtqnJmbqkYW.standard"
+            ],
+            "StepId": 31573,
+            "Tools_extracted": [
+                "channellock groove joint pliers",
+                "wrench",
+                "18 mm box end wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "place a jack underneath the ball joint to support it once you remove the 3 ball joint-to-control arm bolts ."
+                }
+            ],
+            "Text_raw": "Place a jack underneath the ball joint to support it once you remove the 3  ball joint-to-control arm bolts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oVHrMsIUKTJSiVVq.standard"
+            ],
+            "StepId": 31574,
+            "Tools_extracted": [
+                "channellock groove joint pliers"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "open the hood and locate the three strut mounting bolts on the strut tower ."
+                },
+                {
+                    "Text": "make an alignment mark on the shoe at the dimple in the top of the strut tower before removing the mounting nuts ."
+                },
+                {
+                    "Text": "use a ratcheting socket wrench or impact wrench with a 13 mm deep socket to remove the three nuts ."
+                }
+            ],
+            "Text_raw": "Open the hood and locate the three strut mounting bolts on the strut tower. Make an alignment mark on the shoe at the dimple in the top of the strut tower before removing the mounting nuts. Use a ratcheting socket wrench or impact wrench with a 13 mm deep socket to remove the three nuts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2qciYaGBPNKDKRAr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/e5IQMEURXtrctjJZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/trp6YyjUyKyaoPVN.standard"
+            ],
+            "StepId": 31575,
+            "Tools_extracted": [
+                "13 mm deep socket",
+                "macpherson strut spring compressor"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "slowly lower the jack and guide the strut assembly down and out of the car ."
+                }
+            ],
+            "Text_raw": "Slowly lower the jack and guide the strut assembly down and out of the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FosahdlYD2e6j2dc.standard"
+            ],
+            "StepId": 31576,
+            "Tools_extracted": [
+                "jack"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "place spring compressors on opposite sides of the spring ."
+                },
+                {
+                    "Text": "make sure you are using spring compressors that are meant for macpherson struts . internal-type spring compressors will not work ."
+                },
+                {
+                    "Text": "alternate tightening the spring compressors evenly until you are able to move the entire spring up and down ."
+                }
+            ],
+            "Text_raw": "Place spring compressors on opposite sides of the spring. Make sure you are using spring compressors that are meant for MacPherson struts. Internal-type spring compressors will not work. Alternate tightening the spring compressors evenly until you are able to move the entire spring up and down.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/luX2LgHRtoCBpbBN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rEWmCH1mivbJIesG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/U3EPkwBrwbfXYZJK.standard"
+            ],
+            "StepId": 31577,
+            "Tools_extracted": [
+                "macpherson strut spring compressor"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "use an impact wrench to remove the 24 mm nut at the top of the strut assembly ."
+                },
+                {
+                    "Text": "remove the strut mount from the strut assembly ."
+                }
+            ],
+            "Text_raw": "Use an impact wrench to remove the 24 mm nut at the top of the strut assembly. Remove the strut mount from the strut assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/m6AgYIhqd1fbVJIx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hVFuuZnFEp6Qq41Y.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZNu16pwfLpnhF4PW.standard"
+            ],
+            "StepId": 31579,
+            "Tools_extracted": [
+                "macpherson strut spring compressor",
+                "impact wrench"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "remove the upper spring seat and pull the spring off the strut assembly ."
+                },
+                {
+                    "Text": "if you are installing new springs you will need to remove the spring compressors . loosen each spring compressor evenly , alternating from side to side until they are off the spring completely ."
+                },
+                {
+                    "Text": "when installing new springs you will need to compress them with the spring compressors before placing them on the strut assembly ."
+                },
+                {
+                    "Text": "if you are reinstalling the same springs you may keep the compressors in place until it is time to reassemble the suspension ."
+                }
+            ],
+            "Text_raw": "Remove the upper spring seat and pull the spring off the strut assembly. If you are installing new springs you will need to remove the spring compressors. Loosen each spring compressor evenly, alternating from side to side until they are off the spring completely. When installing new springs you will need to compress them with the spring compressors before placing them on the strut assembly. If you are reinstalling the same springs you may keep the compressors in place until it is time to reassemble the suspension.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YhpiMXAPyYnsLM2B.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eKIhOUJqMHvOiVWV.standard"
+            ],
+            "StepId": 31586,
+            "Tools_extracted": [
+                "macpherson strut spring compressor"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "remove the rubber bump stop from the strut assembly ."
+                }
+            ],
+            "Text_raw": "Remove the rubber bump stop from the strut assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/L3x3vRaJmBmAMn3i.standard"
+            ],
+            "StepId": 31587,
+            "Tools_extracted": [
+                "macpherson strut spring compressor"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "use a large adjustable wrench or pair of groove joint pliers to remove the strut gland nut ."
+                }
+            ],
+            "Text_raw": "Use a large adjustable wrench or pair of groove joint pliers to remove the strut gland nut.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wJGd4EmCYL5mxnrK.standard"
+            ],
+            "StepId": 31588,
+            "Tools_extracted": [
+                "channellock groove joint pliers"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "grab the top of the strut and pull it out of the strut assembly ."
+                }
+            ],
+            "Text_raw": "Grab the top of the strut and pull it out of the strut assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1URsPf6SXJxaENZe.standard"
+            ],
+            "StepId": 31589,
+            "Tools_extracted": [
+                "macpherson strut spring compressor"
+            ]
+        }
+    ],
+    "Subject": "Front Struts"
+}

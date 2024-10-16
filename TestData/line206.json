@@ -1,0 +1,208 @@
+{
+    "Title": "2011-2013 Scion tC Mid-Range Door Speaker Replacement",
+    "Ancestors": [
+        "Scion",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 42164,
+    "Category": "2011-2013 Scion tC",
+    "Toolbox": [
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        },
+        {
+            "Name": "soldering station",
+            "Url": "https://www.ifixit.com/Tools/Soldering-Station/IF145-018",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/OiyVpTEtEQyw1Ije.mini"
+        },
+        {
+            "Name": "solder",
+            "Url": "http://www.ifixit.com/Tools/Solder/IF145-077",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "14 mm socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-14146-8-Inch-Shallow-6-Point/dp/B000NY8PVO/ref=sr_1_1?ie=UTF8&qid=1431007752&sr=8-1&keywords=14+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "opening tool",
+            "Url": "https://www.ifixit.com/Store/Parts/iFixit-Opening-Tool/IF145-335",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2011+2012+2013+Scion+tC+Mid-Range+Door+Speaker+Replacement/42164",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "using plastic pry tool . pry silver cover from handle ."
+                }
+            ],
+            "Text_raw": "Using plastic pry tool. Pry silver cover from handle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LoSjUhWPPxTcIkpd.standard"
+            ],
+            "StepId": 97419,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "using plastic pry tool . pry control panel off which controls locking , unlocking and windows ."
+                }
+            ],
+            "Text_raw": "Using plastic pry tool. Pry Control panel off which controls locking, unlocking and windows.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/skmyGWcwbFvGQIaR.standard"
+            ],
+            "StepId": 97420,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "un-attach white header ( connector ) from control panel . push side tab on side of white connector if a little stuck ."
+                }
+            ],
+            "Text_raw": "Un-attach white header(connector) from control panel. Push side tab on side of white connector if a little stuck.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lBss4kQGPRtovyIB.standard"
+            ],
+            "StepId": 97421,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "using pry tool . pry off plastic plate in section of door lock or pull handle ."
+                }
+            ],
+            "Text_raw": "Using pry tool. Pry off plastic plate in section of door lock or pull handle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MOnwN1oytYEankHN.standard"
+            ],
+            "StepId": 97423,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the 4 25 mm screw and the 2 25 mm screw on panel with a standard phillips screwdriver ."
+                }
+            ],
+            "Text_raw": "Remove the #4 25mm screw and the #2 25mm screw on panel with a standard Phillips Screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HHCPmuCpcTwFRYdF.standard"
+            ],
+            "StepId": 97427,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "pry off full door panel starting at bottom and working up the side , pulling fairly hard waiting . clicking noises are a good sign the door panel is unlocking ."
+                }
+            ],
+            "Text_raw": "Pry Off Full Door Panel starting at bottom and working up the side, pulling fairly hard waiting. Clicking noises are a good sign the door panel is unlocking.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1OXva4NwTCGbUlvm.standard"
+            ],
+            "StepId": 97430,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "once door panel is free , remember to remove header from the tweeter in upper right hand corner of panel ."
+                }
+            ],
+            "Text_raw": "Once door panel is free, remember to remove header from the tweeter in upper right hand corner of panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vHKhAPhFH6J1pGit.standard"
+            ],
+            "StepId": 97431,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "remove bracket from door by unscrewing the two 14 mm nuts pictured here connected to the speaker unit ."
+                }
+            ],
+            "Text_raw": "Remove bracket from door by unscrewing the two 14 mm nuts pictured here connected to the speaker unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jVgbigYCHftPYWwm.standard"
+            ],
+            "StepId": 97432,
+            "Tools_extracted": [
+                "14 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "remove speaker from bracket by unscrewing the two 2 12 mm screws using a phillips head screwdriver ."
+                }
+            ],
+            "Text_raw": "Remove speaker from bracket by unscrewing the two #2 12mm screws using a Phillips head screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4CFCZcROFCADpF6M.standard"
+            ],
+            "StepId": 97433,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "desolder wires to new speaker unit using solder wick or a desoldering tool ."
+                },
+                {
+                    "Text": "if you don't have experience soldering , make sure to check out soldering guide ."
+                },
+                {
+                    "Text": "soldering uses high temperatures . be careful not to damage the components or injure yourself in the process ."
+                }
+            ],
+            "Text_raw": "Desolder wires to new speaker unit using solder wick or a desoldering tool. If you don't have experience soldering, make sure to check out [https://www.ifixit.com/Guide/How+To+Solder+and+Desolder+Connections/750|this soldering guide]. Soldering uses high temperatures. Be careful not to damage the components or injure yourself in the process.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1EMuaoDTYPLeoUch.standard"
+            ],
+            "StepId": 97434,
+            "Tools_extracted": [
+                "solder",
+                "soldering station"
+            ]
+        }
+    ],
+    "Subject": "Mid-Range Door Speaker"
+}

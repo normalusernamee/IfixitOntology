@@ -1,0 +1,290 @@
+{
+    "Title": "2000-2006 BMW M3 Oil & Filter Change",
+    "Ancestors": [
+        "BMW",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 27871,
+    "Category": "2000-2006 BMW M3",
+    "Toolbox": [
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "/Item/Socket_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "13 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-14145-8-Inch-Shallow-6-Point/dp/B000NY5CQK/ref=sr_1_1?ie=UTF8&qid=1488830200&sr=8-1&keywords=13mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "2.5mm flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Flathead-3-32-Inch-or-2-5-mm-Screwdriver/IF145-011",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/IRnGQ4e2ZPBSxpuB.mini"
+        },
+        {
+            "Name": "macro bit set",
+            "Url": "http://www.ifixit.com/Tools/Macro-Bit-Set/IF145-220",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2000+2001+2002+2003+2004+2005+2006+BMW+M3+Oil+%26+Filter+Change/27871",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "raise and support the car using ramps or jack stands . never work under a car supported only by a jack ."
+                },
+                {
+                    "Text": "the e46 m3 has four factory jack points ( two per side ) , but you can also jack up the car using these two center points ( one in front and one in the rear ) . then you can easily place jack stands under the lift pads on the sideskirts/rocker panels ."
+                },
+                {
+                    "Text": "use this image for reference , but note that your exhaust configuration may look different . the car pictured is a euro-spec m3 with cats in section i , whereas us-spec m3 s have cats only in the headers ."
+                }
+            ],
+            "Text_raw": "Raise and support the car using ramps or jack stands. Never work under a car supported only by a jack. The E46 M3 has four factory jack points (two per side), but you can also jack up the car using these two center points (one in front and one in the rear). Then you can easily place jack stands under the lift pads on the sideskirts/rocker panels. Use this image for reference, but note that your exhaust configuration may look different. The car pictured is a Euro-spec M3 with cats in section I, whereas US-spec M3s have cats only in the headers.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/x2QYGNISy4KCWfR6.standard"
+            ],
+            "StepId": 67792,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "open the hood to access the engine bay ."
+                },
+                {
+                    "Text": "note the oil filler cap ( the large black plastic cap on the left ) and the oil filter housing ( the metal cylinder with the star pattern top on the lower right ) ."
+                }
+            ],
+            "Text_raw": "Open the hood to access the engine bay. Note the oil filler cap (the large black plastic cap on the left) and the oil filter housing (the metal cylinder with the star pattern top on the lower right).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NoBnQU1elsEUg2En.standard"
+            ],
+            "StepId": 67796,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "disconnect the throttle position sensor ( simply pinch the clip and pull ) ."
+                }
+            ],
+            "Text_raw": "Disconnect the throttle position sensor (simply pinch the clip and pull).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PvsPK2JUlX2FYejY.standard"
+            ],
+            "StepId": 67797,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the oil filler cap by unscrewing it counter-clockwise ."
+                }
+            ],
+            "Text_raw": "Remove the oil filler cap by unscrewing it counter-clockwise.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vCJEsnRTMyhXLFCo.standard"
+            ],
+            "StepId": 67798,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use a 13 mm socket to loosen the oil filter housing bolt ."
+                },
+                {
+                    "Text": "remove the bolt and set it aside . some oil will drip , so have a shop rag or towel ready ."
+                }
+            ],
+            "Text_raw": "Use a 13 mm socket to loosen the oil filter housing bolt. Remove the bolt and set it aside. Some oil will drip, so have a shop rag or towel ready.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/etyFErryk4tnROiI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3ZmvnhRCGRpqtLMw.standard"
+            ],
+            "StepId": 67799,
+            "Tools_extracted": [
+                "13 mm socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "beneath the car , remove the small round plastic cover that hides the oil drain plug ( it's located in the middle of the aluminum underpanel , near the front center jack point ) ."
+                },
+                {
+                    "Text": "use a 6 mm hex/allen socket to loosen the oil drain bolt , but don't remove it completely ."
+                },
+                {
+                    "Text": "position your oil drain pan below the bolt so that it will catch the used oil as it flows out ."
+                },
+                {
+                    "Text": "remove the bolt and allow the oil to drain ."
+                }
+            ],
+            "Text_raw": "Beneath the car, remove the small round plastic cover that hides the oil drain plug (it's located in the middle of the aluminum underpanel, near the front center jack point). Use a 6 mm hex/Allen socket to loosen the oil drain bolt, but don't remove it completely. Position your oil drain pan below the bolt so that it will catch the used oil as it flows out. Remove the bolt and allow the oil to drain.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LNaLtWCm6wEpmGOH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bfGXgkfm3XQdDTt1.standard"
+            ],
+            "StepId": 67800,
+            "Tools_extracted": [
+                "socket",
+                "jack"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "the oil filter kit comes with a replacement washer ( sealing ring ) for the drain bolt ."
+                },
+                {
+                    "Text": "with the bolt removed , discard the old washer and replace it with the new one ."
+                },
+                {
+                    "Text": "reinstall the drain plug and torque it to 18 ft lbs ."
+                },
+                {
+                    "Text": "reinstall the plastic cover hiding the drain plug ."
+                }
+            ],
+            "Text_raw": "The oil filter kit comes with a replacement washer (sealing ring) for the drain bolt. With the bolt removed, discard the old washer and replace it with the new one. Reinstall the drain plug and torque it to 18 ft lbs. Reinstall the plastic cover hiding the drain plug.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/H21aDhVDJSIIpbFH.standard"
+            ],
+            "StepId": 68286,
+            "Tools_extracted": [
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "replace the rubber o-ring on the oil filter housing cap ."
+                },
+                {
+                    "Text": "give the new o-ring a light coating of fresh oil ."
+                }
+            ],
+            "Text_raw": "Replace the rubber O-ring on the oil filter housing cap. Give the new O-ring a light coating of fresh oil.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jajvCoBrM1cyqXCs.standard"
+            ],
+            "StepId": 67802,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "replace the washer at the top of the oil filter housing bolt ."
+                },
+                {
+                    "Text": "replace the small rubber o-ring at the tip of the oil filter housing bolt ."
+                },
+                {
+                    "Text": "you may need a pry tool to remove the old o-ring ."
+                }
+            ],
+            "Text_raw": "Replace the washer at the top of the oil filter housing bolt. Replace the small rubber O-ring at the tip of the oil filter housing bolt. You may need a pry tool to remove the old O-ring.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/P1FjKpK1AOWTiBOA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mv51hLHjRS3ig1EQ.standard"
+            ],
+            "StepId": 67803,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "replace the oil filter ."
+                },
+                {
+                    "Text": "put the cap back on the oil filter housing , and torque the bolt down to 24 ft lbs ."
+                }
+            ],
+            "Text_raw": "Replace the oil filter. Put the cap back on the oil filter housing, and torque the bolt down to 24 ft lbs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jHCQ1dSEyGmMHZBI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IUHJcjWAqcbQnNJI.standard"
+            ],
+            "StepId": 68285,
+            "Tools_extracted": [
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "using a funnel , pour about 5.75 liters of fresh oil into the oil fill hole ."
+                },
+                {
+                    "Text": "check the oil level and top up as needed . ( the car should be level to the ground for an accurate reading . )"
+                },
+                {
+                    "Text": "close the oil filler cap ."
+                },
+                {
+                    "Text": "plug in the throttle position sensor ."
+                },
+                {
+                    "Text": "close the hood and lower the car . re-check the oil level after a short drive and top up as needed ."
+                },
+                {
+                    "Text": "dispose of the old oil , filter , and any contaminated rags responsibly by taking them to a household hazardous waste facility . many auto parts stores will also accept your used oil for disposal ."
+                }
+            ],
+            "Text_raw": "Using a funnel, pour about 5.75 liters of fresh oil into the oil fill hole. Check the oil level and top up as needed. (The car should be level to the ground for an accurate reading.) Close the oil filler cap. Plug in the throttle position sensor. Close the hood and lower the car. Re-check the oil level after a short drive and top up as needed. Dispose of the old oil, filter, and any contaminated rags responsibly by taking them to a household hazardous waste facility. Many auto parts stores will also accept your used oil for disposal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rCJHhDCuBDKnWY11.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pAKSYCYFvVlyeMxV.standard"
+            ],
+            "StepId": 67804,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

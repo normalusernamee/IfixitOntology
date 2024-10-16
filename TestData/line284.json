@@ -1,0 +1,158 @@
+{
+    "Title": "Pioneer MXT-X366BT Metal Case Replacement",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 107780,
+    "Category": "Pioneer MXT-X366BT",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "opening tool",
+            "Url": "https://www.ifixit.com/Store/Parts/iFixit-Opening-Tool/IF145-335",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Pioneer+MXT-X366BT+Metal+Case+Replacement/107780",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "apply small amount of pressure inward with a plastic opening tool to release bottom clip ."
+                },
+                {
+                    "Text": "pry the top clip with the plastic opening tool to release it ."
+                },
+                {
+                    "Text": "the head unit is symmetrical and has the same amount of clips on the other side ."
+                }
+            ],
+            "Text_raw": "Apply small amount of pressure inward with a plastic opening tool to release bottom clip. Pry the top clip with the plastic opening tool to release it. The head unit is symmetrical and has the same amount of clips on the other side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YEmCvLLLZCvZ1YhY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Frkn3ymgAXtyrZp1.standard"
+            ],
+            "StepId": 207112,
+            "Tools_extracted": [
+                "opening tool"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the face plate holder ."
+                }
+            ],
+            "Text_raw": "Remove the face plate holder.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DprAlLn3YWvhhaOF.standard"
+            ],
+            "StepId": 207123,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the six 5 mm phillips-head screws with phillips 2 screwdriver ."
+                }
+            ],
+            "Text_raw": "Remove the six 5mm Phillips-head screws with Philips #2 screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/piqqTXReQuVwKIOy.standard"
+            ],
+            "StepId": 207124,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the inner three 5 mm phillips head screws , with a phillips 2 screwdriver , attached to the metal backing ."
+                },
+                {
+                    "Text": "remove the metal backing that is now free ."
+                }
+            ],
+            "Text_raw": "Remove the inner three 5mm Phillips head screws, with a Phillips #2 screwdriver, attached to the metal backing. Remove the metal backing that is now free.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HkHusIBuv3mjOe6E.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YMWAqBEjg1MAc4UA.standard"
+            ],
+            "StepId": 207125,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "carefully slide the metal casing forward ."
+                },
+                {
+                    "Text": "metal piece standing is the rear of the head unit ."
+                },
+                {
+                    "Text": "edges are sharp ."
+                }
+            ],
+            "Text_raw": "Carefully slide the metal casing forward. Metal piece standing is the rear of the head unit. Edges are sharp.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZQWvnggo3lnmvFRh.standard"
+            ],
+            "StepId": 207127,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "lift the metal casing from the rear and pull it away ."
+                },
+                {
+                    "Text": "edges are sharp ."
+                }
+            ],
+            "Text_raw": "Lift the metal casing from the rear and pull it away. Edges are sharp.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GUMPJjG2uKRnwTJ6.standard"
+            ],
+            "StepId": 207128,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "the metal casing is now fully removed ."
+                }
+            ],
+            "Text_raw": "The metal casing is now fully removed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Xb6CHdKdmbVmDs54.standard"
+            ],
+            "StepId": 207130,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Metal Casing"
+}

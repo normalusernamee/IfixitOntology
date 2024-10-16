@@ -1,0 +1,213 @@
+{
+    "Title": "1996-1998 Acura TL Front Door Panel Replacement",
+    "Ancestors": [
+        "Acura TL",
+        "Acura",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11092,
+    "Category": "1996-1998 Acura TL",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1996+1997+1998+Acura+TL+Front+Door+Panel+Replacement/11092",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "roll the window down all the way and open the door as far as it can go ."
+                },
+                {
+                    "Text": "locate the screw cap in the bottom of the armrest cavity ."
+                },
+                {
+                    "Text": "remove the cap by finger or pry it off with a flathead screwdriver if necessary to reveal the screws beneath ."
+                }
+            ],
+            "Text_raw": "Roll the window down all the way and open the door as far as it can go. Locate the screw cap in the bottom of the armrest cavity. Remove the cap by finger or pry it off with a flathead screwdriver if necessary to reveal the screws beneath.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kfct3HfSklNj5US2.standard"
+            ],
+            "StepId": 41332,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate the screw cap inside of the door opening cavity ."
+                },
+                {
+                    "Text": "remove the cap by finger or pry it off if necessary to reveal the screws beneath ."
+                }
+            ],
+            "Text_raw": "Locate the screw cap inside of the door opening cavity. Remove the cap by finger or pry it off if necessary to reveal the screws beneath.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VRsldPOmEsLZZyBx.standard"
+            ],
+            "StepId": 41363,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "unscrew both of the screws that are now uncovered ."
+                },
+                {
+                    "Text": "one of the screws is in the armrest cavity , the other is in the back of the door handle's cavity ."
+                }
+            ],
+            "Text_raw": "Unscrew both of the screws that are now uncovered. One of the screws is in the armrest cavity, the other is in the back of the door handle's cavity.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ntLGdGWNKEHnQBkc.standard"
+            ],
+            "StepId": 41333,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "wtth the screw gone , slide the entire wooden armrest unit to the right ( away from the car ) ."
+                },
+                {
+                    "Text": "once the armrest can not go any further lift straight up out of its spot ."
+                },
+                {
+                    "Text": "before lifting too far reach under and remove the wiring from the wire harness by pinching down on the white tab and pulling straight back ."
+                },
+                {
+                    "Text": "the window control is now removed and you can set the wooden door panel unit aside ."
+                }
+            ],
+            "Text_raw": "Wtth the screw gone, slide the entire wooden armrest unit to the right (away from the car). Once the armrest can not go any further lift straight up out of its spot. Before lifting too far reach under and remove the wiring from the wire harness  by pinching down on the white tab and pulling straight back. The window control is now removed and you can set the wooden door panel unit aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VcQhwEIRaBMiOGyv.standard"
+            ],
+            "StepId": 41334,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "similarly wiggle the door handle frame to its right to remove ."
+                },
+                {
+                    "Text": "you must move the handle out of the way as if opening the door to get the frame around it and out of the door ."
+                },
+                {
+                    "Text": "just like last time reach behind , pinch the tab and pull straight back to remove the circuitry for the door lock ."
+                },
+                {
+                    "Text": "once the entire frame is removed from the door and the circuitry , place it to the side with the armrest part ."
+                }
+            ],
+            "Text_raw": "Similarly wiggle the door handle frame to its right to remove. You must move the handle out of the way as if opening the door to get the frame around it and out of the door. Just like last time reach behind, pinch the tab and pull straight back to remove the circuitry for the door lock. Once the entire frame is removed from the door and the circuitry, place it to the side with the armrest part.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DFKDhHoFcQpoSZRs.standard"
+            ],
+            "StepId": 41335,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "pry the inside door frame off of the actual metal exterior door ."
+                },
+                {
+                    "Text": "use a flathead screwdriver for leverage to pop all of the plugs off . do not be afraid to use force as they are just snaps that will not break and will go back into place perfectly ."
+                },
+                {
+                    "Text": "the locations of the plugs have been circled for your convenience . although applying leverage at all points around the sides and bottom will pop them off just as easily and safely ."
+                }
+            ],
+            "Text_raw": "Pry the inside door frame off of the actual metal exterior door. Use a flathead screw driver for leverage to pop all of the plugs off. Do not be afraid to use force as they are just snaps that will not break and will go back into place perfectly. The locations of the plugs have been circled for your convenience. Although applying leverage at all points around the sides and bottom will pop them off just as easily and safely.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/L5ZQQm4m3rRHQAKG.standard"
+            ],
+            "StepId": 41368,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "lift the door panel straight up and off . the metal strip on the top of the door panel will come with the panel as you remove it from the door ."
+                },
+                {
+                    "Text": "it should slide off quite easily if all the plugs are unsnapped . do not pull past the tension of the circuitry , as the wires are still plugged into the harness ."
+                }
+            ],
+            "Text_raw": "Lift the door panel straight up and off. The metal strip on the top of the door panel will come with the panel as you remove it from the door. It should slide off quite easily if all the plugs are unsnapped. Do not pull past the tension of the circuitry, as the wires are still plugged into the harness.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/33AiWt3RnKjdUxNF.standard"
+            ],
+            "StepId": 41369,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "unplug the harness to the interior door light in the bottom right corner ( farthest from the car )"
+                },
+                {
+                    "Text": "simply push down on the grey tab and pull straight out ."
+                }
+            ],
+            "Text_raw": "Unplug the harness to the interior door light in the bottom right corner (farthest from the car) Simply push down on the grey tab and pull straight out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Q3C41KFZEhCJpKBs.standard"
+            ],
+            "StepId": 41370,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "remove the interior door panel completely , exposing the inside of the door and the front speaker ."
+                }
+            ],
+            "Text_raw": "Remove the interior door panel completely, exposing the inside of the door and the front speaker.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/j1GMjvvCKFWa1tyg.standard"
+            ],
+            "StepId": 41371,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Front Door Panel"
+}

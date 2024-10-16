@@ -1,0 +1,204 @@
+{
+    "Title": "1998-2002 Honda Accord Tail Lights Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 7301,
+    "Category": "1998-2002 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_2?ie=UTF8&qid=1431005020&sr=8-2&keywords=3%2F8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "8 mm deep socket",
+            "Url": "http://www.amazon.com/TEKTON-1220-Socket-5-5-12mm-Sockets/dp/B000NPUJF8/ref=sr_1_1?ie=UTF8&qid=1390863785&sr=8-1&keywords=8+mm+deep+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1998+1999+2000+2001+2002+Honda+Accord+Tail+Lights+Replacement/7301",
+    "Steps": [
+        {
+            "Order": 0,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "open the trunk using your key in the trunk key slot or by using the lever under the driver's console ."
+                }
+            ],
+            "Text_raw": "Open the trunk using your key in the trunk key slot or by using the lever under the driver's console.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YUVpxgnUTl5BCmjt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Z6haxYAVoyUWAqQt.standard"
+            ],
+            "StepId": 31071,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Tools_annotated": [
+                "2.5mm flathead screwdriver"
+            ],
+            "Lines": [
+                {
+                    "Text": "remove the small plastic screw along the vertical edge of the trunk entrance using a flathead screwdriver ."
+                },
+                {
+                    "Text": "carefully peel back the trunk liner from around the edge of trunk opening by the light ."
+                },
+                {
+                    "Text": "locate the two panel tail light connectors located between the liner and the panel tail light assembly ."
+                }
+            ],
+            "Text_raw": "Remove the small plastic screw along the vertical edge of the trunk entrance using a flathead screwdriver. Carefully peel back the trunk liner from around the edge of trunk opening by the light. Locate the two panel tail light connectors located between the liner and the panel tail light assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fVrtMONQfRJwECeS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QWYZOXGCfU34GRGI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/umADZaAUxkZHpXOD.standard"
+            ],
+            "StepId": 31072,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "grab a light bulb socket and turn it counterclockwise until it can be removed from its hole ."
+                },
+                {
+                    "Text": "repeat this process for the other light bulb socket ."
+                }
+            ],
+            "Text_raw": "Grab a light bulb socket and turn it counterclockwise until it can be removed from its hole. Repeat this process for the other light bulb socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JwUTamFkaGgxBZ6v.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/M4EqBS5ScuUFoNZF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HRJ5K36fuFlmeSis.standard"
+            ],
+            "StepId": 31073,
+            "Tools_extracted": [
+                "socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "locate the light bulb sockets in the trunk lid , located on the back side of the trunk tail lights ."
+                },
+                {
+                    "Text": "turn the light bulb sockets counterclockwise and remove them from their holes ."
+                }
+            ],
+            "Text_raw": "Locate the light bulb sockets in the trunk lid, located on the back side of the trunk tail lights. Turn the light bulb sockets counterclockwise and remove them from their holes.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/l3fm5lH5YtQGZ5iA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VXS2Z6oOJ1kFJ5PT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sqmFVXj6yBml6vg2.standard"
+            ],
+            "StepId": 31075,
+            "Tools_extracted": [
+                "socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the connector at the bottom of the panel tail light assembly ."
+                },
+                {
+                    "Text": "locate the three 8 mm nuts holding the panel tail light assembly to the car and use an 8 mm socket wrench or box end wrench to remove the them ."
+                }
+            ],
+            "Text_raw": "Remove the connector at the bottom of the panel tail light assembly. Locate the three 8 mm nuts holding the panel tail light assembly to the car and use an 8 mm socket wrench or box end wrench to remove the them.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NNAjKGgxhs4opC3J.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dR26SS3Cw5IxaV2Z.standard"
+            ],
+            "StepId": 31077,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the panel tail light assembly by pulling it straight away from the car ."
+                },
+                {
+                    "Text": "if you are having troubles removing the light , try wiggling it back and forth as you pull it out ."
+                }
+            ],
+            "Text_raw": "Remove the panel tail light assembly by pulling it straight away from the car. If you are having troubles removing the light, try wiggling it back and forth as you pull it out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5AHYfDbLjgfdHMSe.standard"
+            ],
+            "StepId": 31078,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the three 8 mm hex nuts securing the trunk tail light using a socket wrench or box end wrench ."
+                },
+                {
+                    "Text": "the black nut at the edge of the trunk lid has an extended round end that prevents a standard 8 mm socket from seating fully . you can use a regular socket if you can keep the bit level while rotating , but a deep socket is recommended to prevent stripping ."
+                }
+            ],
+            "Text_raw": "Remove the three 8 mm hex nuts securing the trunk tail light using a socket wrench or box end wrench. The black nut at the edge of the trunk lid has an extended round end that prevents a standard 8 mm socket from seating fully. You can use a regular socket if you can keep the bit level while rotating, but a deep socket is recommended to prevent stripping.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5KLMIKR4WCOVfDlJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TnWeOJslxVPAArJf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ldJYu1dAdOYmirGV.standard"
+            ],
+            "StepId": 31082,
+            "Tools_extracted": [
+                "8 mm deep socket",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "lift the trunk tail light up from the outer edge , being careful not to break the plastic locator on the inside edge ."
+                }
+            ],
+            "Text_raw": "Lift the trunk tail light up from the outer edge, being careful not to break the plastic locator on the inside edge.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ynFRQVJqGTpYxAsJ.standard"
+            ],
+            "StepId": 31083,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Tail Lights"
+}

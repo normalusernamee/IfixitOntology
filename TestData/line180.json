@@ -1,0 +1,262 @@
+{
+    "Title": "Mercedes W123 Turbo Air Cleaner Housing Bracket Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 31682,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431007689&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "13 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-14145-8-Inch-Shallow-6-Point/dp/B000NY5CQK/ref=sr_1_1?ie=UTF8&qid=1488830200&sr=8-1&keywords=13mm+socket",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Turbo+Air+Cleaner+Housing+Bracket+Replacement/31682",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "to access the air cleaner bracket the housing must be removed . in order to remove the housing the cover must come off . to remove the cover , start by pulling off the breather hose . it will just pull off ."
+                }
+            ],
+            "Text_raw": "To access the air cleaner bracket the housing must be removed. In order to remove the housing the cover must come off. To remove the cover, start by pulling off the breather hose. It will just pull off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OoKP1R3YKeDPjTlO.standard"
+            ],
+            "StepId": 73694,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "with the breather tube removed , undo all four clips on the cover ."
+                },
+                {
+                    "Text": "remove the wing nut ( or , sometimes , this is a 10 mm nut that you'll need to remove with a socket wrench ) ."
+                },
+                {
+                    "Text": "pull off the cover and set it aside ."
+                }
+            ],
+            "Text_raw": "With the breather tube removed, undo all four clips on the cover. Remove the wing nut (or, sometimes, this is a 10mm nut that you'll need to remove with a socket wrench). Pull off the cover and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2RAwLRRVONGQOFqr.standard"
+            ],
+            "StepId": 73695,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the flexible hose that is between the air cleaner housing and the air intake nozzle above the passenger/right side headlight . it will contract enough to pull off ."
+                }
+            ],
+            "Text_raw": "Remove the flexible hose that is between the air cleaner housing and the air intake nozzle above the passenger/right side headlight. It will contract enough to pull off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DCIWgGMIlEqlRb4x.standard"
+            ],
+            "StepId": 73696,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the air cleaner ( not pictured ) . it pulls straight up and out ."
+                },
+                {
+                    "Text": "inside the housing , at the bottom , you will find three 10 mm nuts . use a 10 mm socket on an extension and a socket wrench to remove these three nuts ."
+                }
+            ],
+            "Text_raw": "Remove the air cleaner (not pictured). It pulls straight up and out. Inside the housing, at the bottom, you will find three 10mm nuts. Use a 10mm socket on an extension and a socket wrench to remove these three nuts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ps2BGSNZaLHgGDJM.standard"
+            ],
+            "StepId": 73697,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "to finish removing the housing , loosen the clamp around the lower end of the tube that goes to the turbo ."
+                },
+                {
+                    "Text": "use a 10 mm socket over the nut on the clamp to loosen it ."
+                },
+                {
+                    "Text": "you will now be able to pull up the air cleaner housing , and then wiggle the hose off the turbo where you loosened the clamp . pull the housing off all the way and set it aside ."
+                }
+            ],
+            "Text_raw": "To finish removing the housing, loosen the clamp around the lower end of the tube that goes to the turbo. Use a 10mm socket over the nut on the clamp to loosen it. You will now be able to pull up the air cleaner housing, and then wiggle the hose off the turbo where you loosened the clamp. Pull the housing off all the way and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NLbCymvJopMbHQHw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VI4TpIL3YAE1R14A.standard"
+            ],
+            "StepId": 73698,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "underneath the air cleaner housing you'll find the bracket . it bolts to the exhaust manifold ."
+                },
+                {
+                    "Text": "not pictured are the three rubber buffers that screw in to the bracket , which the 10 mm nuts in the air cleaner housing were attached to . they help absorbs some of the vibration to the housing ."
+                },
+                {
+                    "Text": "if the rubber buffers don't unscrew by hand use a pair of pliers to grip them and unscrew them from the bracket before continuing ."
+                },
+                {
+                    "Text": "then use a 13 mm socket and socket wrench to remove the two 13 mm bolts on top of the bracket , and then switch to a 10 mm socket to remove the bolt that holds the oil feed line for the turbo to the bracket ."
+                }
+            ],
+            "Text_raw": "Underneath the air cleaner housing you'll find the bracket. It bolts to the exhaust manifold. Not pictured are the three rubber buffers that screw in to the bracket, which the 10mm nuts in the air cleaner housing were attached to. They help absorbs some of the vibration to the housing. If the rubber buffers don't unscrew by hand use a pair of pliers to grip them and unscrew them from the bracket before continuing. Then use a 13mm socket and socket wrench to remove the two 13mm bolts on top of the bracket, and then switch to a 10mm socket to remove the bolt that holds the oil feed line for the turbo to the bracket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NQBK5OtbiImQSSrk.standard"
+            ],
+            "StepId": 73699,
+            "Tools_extracted": [
+                "socket wrench",
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "now for the trickiest part of this job . there is one more 13 mm bolt to remove and it is on the bottom of the bracket , hidden from view . it's up inside the bracket in the area highlighted ."
+                },
+                {
+                    "Text": "reach down and feel for the bolt head first with your hand to get an idea of its location , then use a long extension with a wobble on the end and a 13 mm socket to loosen and remove this bolt . note that there is a washer on the bolt - try not to drop it as you remove it ."
+                }
+            ],
+            "Text_raw": "Now for the trickiest part of this job. There is one more 13 mm bolt to remove and it is on the bottom of the bracket, hidden from view. It's up inside the bracket in the area highlighted. Reach down and feel for the bolt head first with your hand to get an idea of its location, then use a long extension with a wobble on the end and a 13 mm socket to loosen and remove this bolt. Note that there is a washer on the bolt - try not to drop it as you remove it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Jqo1WoCCEtdmkgGT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IMPuhBxKa6cMu3sp.standard"
+            ],
+            "StepId": 73702,
+            "Tools_extracted": [
+                "13 mm socket"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "compare the bracket removed ( right ) to the spare bracket that will be installed . this is where the bracket seems to always break ."
+                },
+                {
+                    "Text": "this is the other piece of the bracket , with the heat shield and rubber buffer still installed ."
+                }
+            ],
+            "Text_raw": "Compare the bracket removed (right) to the spare bracket that will be installed. This is where the bracket seems to always break. This is the other piece of the bracket, with the heat shield and rubber buffer still installed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MCuvaBvbmrVVH2J3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rWtBxHaHYXZYR2QT.standard"
+            ],
+            "StepId": 73704,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "while on the subject , here is one of the other buffers ( in this case , the front most ) . it was a cheap uro brand buffer . the metal part separated from the rubber . i believe it was this that put extra stress on the rear portion of the bracket leading to the fracture . keeping your rubber buffers in good shape should prolong the life of the bracket ."
+                },
+                {
+                    "Text": "this is a place to probably consider using on genuine mercedes buffers , which should be higher quality rubber pieces ."
+                }
+            ],
+            "Text_raw": "While on the subject, here is one of the other buffers (in this case, the front most). It was a cheap URO brand buffer. The metal part separated from the rubber. I believe it was this that put extra stress on the rear portion of the bracket leading to the fracture. Keeping your rubber buffers in good shape should prolong the life of the bracket. This is a place to probably consider using on Genuine Mercedes buffers, which should be higher quality rubber pieces.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PoxGSxRC41IGPkYg.standard"
+            ],
+            "StepId": 73706,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "slip the replacement bracket back under the oil feed tube . it can be a bit of a puzzle getting it in just the right way , but you'll get it ."
+                },
+                {
+                    "Text": "then start the upper three bolts but leave some room for the bracket to move so you can start the lower bolt ."
+                },
+                {
+                    "Text": "start the lower bolt by hand . you'll need to do it by feel - just take your time . make sure to get it in part way by hand before switching to your wrench to avoid cross threading it ."
+                },
+                {
+                    "Text": "finishing up by tightening down all the bolts ."
+                }
+            ],
+            "Text_raw": "Slip the replacement bracket back under the oil feed tube. It can be a bit of a puzzle getting it in just the right way, but you'll get it. Then start the upper three bolts but leave some room for the bracket to move so you can start the lower bolt. Start the lower bolt by hand. You'll need to do it by feel - just take your time. Make sure to get it in part way by hand before switching to your wrench to avoid cross threading it. Finishing up by tightening down all the bolts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1aoEHEJSeJomUFaV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/F1SbgJA6NlmmExps.standard"
+            ],
+            "StepId": 73707,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "then re-install the rubber buffers with heat shields . if your heat shields are missing ( and they often are ) consider replacing them in the near future . they should help prolong the life of the rubber buffers by keeping both heat and oil away from them ."
+                },
+                {
+                    "Text": "you can now re-install the air cleaner housing the opposite way of removal , put the air cleaner back in , put the cover back on , and re-install the breather hose ."
+                }
+            ],
+            "Text_raw": "Then re-install the rubber buffers with heat shields. If your heat shields are missing (and they often are) consider replacing them in the near future. They should help prolong the life of the rubber buffers by keeping both heat and oil away from them. You can now re-install the air cleaner housing the opposite way of removal, put the air cleaner back in, put the cover back on, and re-install the breather hose.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gs6YWBl2BFsoq3Dv.standard"
+            ],
+            "StepId": 73710,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Turbo Air Cleaner Housing Bracket"
+}

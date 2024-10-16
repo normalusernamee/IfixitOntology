@@ -1,0 +1,94 @@
+{
+    "Title": "1996-1998 Acura TL Rear Speaker Replacement",
+    "Ancestors": [
+        "Acura TL",
+        "Acura",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11089,
+    "Category": "1996-1998 Acura TL",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1996+1997+1998+Acura+TL+Rear+Speaker+Replacement/11089",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "remove the three screws holding the speaker panel in place ."
+                }
+            ],
+            "Text_raw": "Remove the three screws holding the speaker panel in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QnXr1LcSesn2SYpv.standard"
+            ],
+            "StepId": 41006,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "disconnect the wiring harness in trunk ."
+                }
+            ],
+            "Text_raw": "Disconnect the wiring harness in trunk.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kCodLSktaariEDIc.standard"
+            ],
+            "StepId": 41009,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "slide the speaker panel towards the center of car and pull it out ."
+                }
+            ],
+            "Text_raw": "Slide the speaker panel towards the center of car and pull it out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/s2VNYQuAWyaYGjW1.standard"
+            ],
+            "StepId": 41007,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the four screws holding the speaker in ."
+                },
+                {
+                    "Text": "lift the speaker out and removal is complete ."
+                }
+            ],
+            "Text_raw": "Remove the four screws holding the speaker in. Lift the speaker out and removal is complete.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2JABtZ6IeRETBGRh.standard"
+            ],
+            "StepId": 41008,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Rear Speaker"
+}

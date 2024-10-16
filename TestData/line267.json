@@ -1,0 +1,100 @@
+{
+    "Title": "2000-2006 Audi A4 (B6) Radiator Replacement",
+    "Ancestors": [
+        "Audi A4",
+        "Audi",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 88504,
+    "Category": "2000-2006 Audi A4 (B6)",
+    "Toolbox": [
+        {
+            "Name": "3 8 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_1?ie=UTF8&qid=1487787284&sr=8-1&keywords=3+8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 ratchet extension",
+            "Url": "http://www.amazon.com/TEKTON-14267-2-Inch-10-Inch-Extension/dp/B000NPZ5TI/ref=sr_1_1?ie=UTF8&qid=1407776986&sr=8-1&keywords=10%22+Ratchet+Extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "t45 torx",
+            "Url": "https://www.amazon.com/Crescent-CDTS7-Drive-Internal-Socket/dp/B00I987WYW/ref=sr_1_2?ie=UTF8&qid=1493664350&sr=8-2&keywords=t45+torx",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "t30 torx driver",
+            "Url": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=t30+torx&rh=i%3Aaps%2Ck%3At30+torx",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "t20 torx screwdriver",
+            "Url": "https://www.ifixit.com/Store/Tools/54-Bit-Driver-Kit/IF145-299",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "6 allen wrench",
+            "Url": "http://www.amazon.com/TEKTON-1376-Drive-Socket-Cr-V/dp/B000NY4SGK/ref=sr_1_3?ie=UTF8&qid=1388418550&sr=8-3&keywords=6mm+allen+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 allen wrench",
+            "Url": "http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=allen+wrench&rh=i%3Aaps%2Ck%3Aallen+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "basic pliers",
+            "Url": "http://www.amazon.com/Stanley-84-097-6-Inch-Joint-Plier/dp/B0001IW892/ref=sr_1_3?s=hi&ie=UTF8&qid=1420940347&sr=1-3",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2000+2001+2002+2003+2004+2005+2006+Audi+A4+%28B6%29+Radiator+Replacement/88504",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "insert wisdom here ."
+                }
+            ],
+            "Text_raw": "Insert wisdom here.",
+            "Images": [],
+            "StepId": 167850,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "insert wisdom here ."
+                }
+            ],
+            "Text_raw": "Insert wisdom here.",
+            "Images": [],
+            "StepId": 167851,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Radiator"
+}

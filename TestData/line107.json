@@ -1,0 +1,258 @@
+{
+    "Title": "1997-2003 Pontiac Grand Prix GT Fuel Filter Replacement",
+    "Ancestors": [
+        "Pontiac Grand Prix",
+        "Pontiac",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 14153,
+    "Category": "1997-2003 Pontiac Grand Prix",
+    "Toolbox": [
+        {
+            "Name": "13 mm open-ended wrench",
+            "Url": "/Item/13_mm_Open-Ended_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 8 open-ended wrench",
+            "Url": "/Item/5_8_Open-Ended_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drip pan",
+            "Url": "/Item/Drip_pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "eye protection",
+            "Url": "/Item/Eye_Protection",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1997+1998+1999+2000+2001+2002+2003+Pontiac+Grand+Prix+GT+Fuel+Filter+Replacement/14153",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "'''unless you are smaller like myself , you will need to lift the grand prix further off the ground with jack stands or ramps . '''"
+                },
+                {
+                    "Text": "on the driver's side , under the rear ."
+                },
+                {
+                    "Text": "''approximately where the cardboard box is located . ''"
+                },
+                {
+                    "Text": "in the second image is a what you will see when first coming under the grand prix ."
+                },
+                {
+                    "Text": "third image is a little further back , showing the fuel filter and brace ."
+                }
+            ],
+            "Text_raw": "'''Unless you are smaller like myself, you will need to lift the Grand Prix further off the ground with jack stands or ramps.''' On the driver's side, under the rear. ''Approximately where the cardboard box is located.'' In the second image is a what you will see when first coming under the Grand Prix. Third image is a little further back, showing the fuel filter and brace.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MK2rJmsGsWG5ohfW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Yt16CGUJRCFZ4pEl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lcGHkPHrCEa6y5eR.standard"
+            ],
+            "StepId": 46823,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "de-pressurizing the fuel line will keep from gas shooting out of the fuel line and covering your face with gas ."
+                },
+                {
+                    "Text": "lift your hood and locate the housing for your fuses and relays . next , remove the cover from the housing ."
+                },
+                {
+                    "Text": "turn on your grand prix and walk over to the housing . find the fuel pump relay . for my grand prix , it was the black box shaped one in the center of the second photo ."
+                },
+                {
+                    "Text": "'''''the inside of the fuse housing is a diagram that labels the fuses and relays . be sure to make sure you are pulling the correct relay . '''''"
+                },
+                {
+                    "Text": "now , pull out the fuel pump relay . it doesn't like to come out without a fight . just be sure not to break any of the prongs on the relay . put the relay somewhere that you will not lose it ."
+                },
+                {
+                    "Text": "'''your engine will stall and stop running . this is what we want . '''"
+                },
+                {
+                    "Text": "'''turn off your car and remove the key before continuing ! '''"
+                }
+            ],
+            "Text_raw": "De-pressurizing the fuel line will keep from gas shooting out of the fuel line and covering your face with gas. Lift your hood and locate the housing for your fuses and relays. Next, remove the cover from the housing. Turn on your Grand Prix and walk over to the housing. Find the fuel pump relay. For my Grand Prix, it was the black box shaped one in the center of the second photo. '''''The inside of the fuse housing is a diagram that labels the fuses and relays. Be sure to make sure you are pulling the correct relay.''''' Now, pull out the fuel pump relay. it doesn't like to come out without a fight. Just be sure not to break any of the prongs on the relay. Put the relay somewhere that you will not lose it. '''Your engine will stall and stop running. This is what we want.''' '''TURN OFF YOUR CAR AND REMOVE THE KEY BEFORE CONTINUING!'''",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XMpJeNRUcSYhy1mE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/i2HHMAPYkcAUWDMv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2U2VoqUbXpbWh2dZ.standard"
+            ],
+            "StepId": 46825,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the bolt holding the fuel filter brace in place . put this bolt somewhere you will not lose ."
+                },
+                {
+                    "Text": "on the left side of the fuel filter ( the end facing towards the engine ) , there is a nut you must unscrew ."
+                },
+                {
+                    "Text": "''if your fuel filter hasn't been changed for a long while , it may not come off too easily . if so , use a second wrench to hold the fuel filter in place . ''"
+                },
+                {
+                    "Text": "'''dirt may fall loose from the bottom of the grand prix and get into your eyes . wear something to protect your eyes if necessary ! '''"
+                },
+                {
+                    "Text": "when the line gets unscrewed , some gas will come out of both the line and the filter . use something to catch the gas and keep it from getting all over the ground and yourself ."
+                }
+            ],
+            "Text_raw": "Remove the bolt holding the fuel filter brace in place. Put this bolt somewhere you will not lose. On the left side of the fuel filter (The end facing towards the engine), there is a nut you must unscrew. ''If your fuel filter hasn't been changed for a long while, it may not come off too easily. If so, use a second wrench to hold the fuel filter in place.'' '''Dirt may fall loose from the bottom of the Grand Prix and get into your eyes. Wear something to protect your eyes if necessary!''' When the line gets unscrewed, some gas will come out of both the line and the filter. Use something to catch the gas and keep it from getting all over the ground and yourself.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/voBKZnnxCoKUt5DP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CoYWQfgP3oesy3LU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DLcm2EwX2jxpRlOE.standard"
+            ],
+            "StepId": 46826,
+            "Tools_extracted": [
+                "eye protection",
+                "open-ended wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "removing this end is the easiest part . simply push in the two tabs on the plastic piece and pull the filter off ."
+                },
+                {
+                    "Text": "''more gas will come out once this is out . be sure to have your drip pan ready . ''"
+                },
+                {
+                    "Text": "'''there''' , the old fuel filter is no longer attached to your car ."
+                },
+                {
+                    "Text": "'''be sure to remove the brace from the old filter . it must be attached to the new one . '''"
+                }
+            ],
+            "Text_raw": "Removing this end is the easiest part. Simply push in the two tabs on the plastic piece and pull the filter off. ''More gas will come out once this is out. Be sure to have your drip pan ready.'' '''There''', the old fuel filter is no longer attached to your car. '''Be sure to remove the brace from the old filter. it must be attached to the new one.'''",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LsSJwQX6WQ5rv3Xy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DeuGHPNBXHfrlDmi.standard"
+            ],
+            "StepId": 46827,
+            "Tools_extracted": [
+                "drip pan"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "''put the brace on the new filter before going any further . ''"
+                },
+                {
+                    "Text": "''before putting on the new fuel filter , use a rag and clean the gas off of the two fuel lines . ''"
+                },
+                {
+                    "Text": "''remember to put the brace on the new fuel filter . look at the photo to know which direction it should go on . ''"
+                },
+                {
+                    "Text": "screw the fuel filter onto the fuel line nearer to the engine . be sure to make it tight so that no gas will leak ."
+                },
+                {
+                    "Text": "now attach the end with the clip on it . simply push the fuel line onto the filter end . you will hear a small click when it is all the way on ."
+                },
+                {
+                    "Text": "'''now you must attach the brace onto the frame . '''"
+                },
+                {
+                    "Text": "screw the bolt back in , and the brace is back on ."
+                }
+            ],
+            "Text_raw": "''Put the brace on the new filter before going any further.'' ''Before putting on the new fuel filter, use a rag and clean the gas off of the two fuel lines.'' ''Remember to put the brace on the new fuel filter. Look at the photo to know which direction it should go on.'' Screw the fuel filter onto the fuel line nearer to the engine. Be sure to make it tight so that no gas will leak. Now attach the end with the clip on it. Simply push the fuel line onto the filter end. You will hear a small click when it is all the way on. '''Now you must attach the brace onto the frame.''' Screw the bolt back in, and the brace is back on.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EFNOCjRAOg5GyXhF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4XFKZqdxitJyYKyX.standard"
+            ],
+            "StepId": 46829,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "pick up your tools from the ground and make your way to the housing for the fuses and relays ."
+                },
+                {
+                    "Text": "reinsert the relay for the fuel pump ."
+                },
+                {
+                    "Text": "close up the housing and shut the hood ."
+                },
+                {
+                    "Text": "'''do not turn on the car'''"
+                },
+                {
+                    "Text": "get into the driver's seat and turn the '''key''' on . '''do not turn the engine on'''"
+                },
+                {
+                    "Text": "now , keep just the key on and keep it on . this will re-pressurize your fuel line ."
+                },
+                {
+                    "Text": "get out of the car , with the key still on , and head back to the fuel filter . feel around both ends of the fuel filter to make sure there are no leaks ."
+                }
+            ],
+            "Text_raw": "Pick up your tools from the ground and make your way to the housing for the fuses and relays. Reinsert the relay for the fuel pump. Close up the housing and shut the hood. '''DO NOT TURN ON THE CAR''' Get into the driver's seat and turn the '''KEY''' on. '''DO NOT TURN THE ENGINE ON''' Now, keep just the key on and keep it on. This will re-pressurize your fuel line. Get out of the car, with the key still on, and head back to the fuel filter. Feel around both ends of the fuel filter to make sure there are no leaks.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aPXPTbXjZZUhmUqH.standard"
+            ],
+            "StepId": 46831,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "if no leaks are present , then turn the engine on . it may stutter for a second as fuel re-enters the engine ."
+                },
+                {
+                    "Text": "let the engine idle for a few seconds to ensure everything fills back up and pressurizes correctly ."
+                },
+                {
+                    "Text": "now , get out with the engine on , and check the fuel filter once more . make sure again there are no leaks present ."
+                },
+                {
+                    "Text": "if still no leaks , then it's time for the fun part . test drive that thing !"
+                },
+                {
+                    "Text": "if your fuel filter has not been changed in a while , you will notice a bit of an increase in performance !"
+                },
+                {
+                    "Text": "as soon as your test drive is over , check the fuel filter one last time for any leaks . if no leaks are there , then congratulations , you successfully changed your fuel filter !"
+                }
+            ],
+            "Text_raw": "If no leaks are present, then turn the engine on. It may stutter for a second as fuel re-enters the engine. Let the engine idle for a few seconds to ensure everything fills back up and pressurizes correctly. Now, get out with the engine on, and check the fuel filter once more. Make sure again there are no leaks present. If still no leaks, then it's time for the fun part. Test drive that thing! If your fuel filter has not been changed in a while, you will notice a bit of an increase in performance! As soon as your test drive is over, check the fuel filter one last time for any leaks. If no leaks are there, then congratulations, you successfully changed your fuel filter!",
+            "Images": [],
+            "StepId": 46832,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Fuel Filter"
+}

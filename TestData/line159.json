@@ -1,0 +1,251 @@
+{
+    "Title": "2010-2014 Subaru Legacy Rear Door Panel Replacement",
+    "Ancestors": [
+        "Subaru Legacy",
+        "Subaru",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 24382,
+    "Category": "2010-2014 Subaru Legacy",
+    "Toolbox": [
+        {
+            "Name": "spudger",
+            "Url": "http://www.ifixit.com/Tools/Spudger/IF145-002",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/fIQ3oZSjd1yLgqpX.mini"
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "door panel removal tool",
+            "Url": "https://www.amazon.com/KINGLAKE-Panel-Removal-Radio-Installer/dp/B00HNMLQAG/ref=sr_1_3?ie=UTF8&qid=1490310225&sr=8-3&keywords=panel+removal+tool",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2010+2011+2012+2013+2014+Subaru+Legacy+Rear+Door+Panel+Replacement/24382",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "use a spudger or a flat-blade screwdriver to unlatch the plastic screw cover residing within the door pull handle ."
+                },
+                {
+                    "Text": "move the plastic cover out of the way so that the phillips screw is fully revealed ."
+                },
+                {
+                    "Text": "use a 2 phillips screwdriver to unscrew the screw residing underneath the plastic cover ."
+                }
+            ],
+            "Text_raw": "Use a spudger or a flat-blade screwdriver to unlatch the plastic screw cover residing within the door pull handle. Move the plastic cover out of the way so that the Phillips screw is fully revealed. Use a #2 Phillips screwdriver to unscrew the screw residing underneath the plastic cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PwfqnVfXQtIFeXgE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/spAUj4vWcB3RmD4W.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oTPGKGUhvEmQuCVQ.standard"
+            ],
+            "StepId": 62311,
+            "Tools_extracted": [
+                "spudger",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a spudger or a flat-blade screwdriver to unlatch the plastic screw cover residing within the door arm rest ."
+                },
+                {
+                    "Text": "move the plastic cover out of the way so that the phillips screw is fully revealed ."
+                },
+                {
+                    "Text": "use a 2 phillips screwdriver to unscrew the screw residing underneath the plastic cover ."
+                }
+            ],
+            "Text_raw": "Use a spudger or a flat-blade screwdriver to unlatch the plastic screw cover residing within the door arm rest. Move the plastic cover out of the way so that the Phillips screw is fully revealed. Use a #2 Phillips screwdriver to unscrew the screw residing underneath the plastic cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GwlZhTWAiWyZ4bJi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/54DtqipWYUNlcZNX.standard"
+            ],
+            "StepId": 62312,
+            "Tools_extracted": [
+                "spudger",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "there are several retaining clips holding the door panel in place . their locations are roughly outlined by the red circles ."
+                },
+                {
+                    "Text": "youll find a notch in the door panel on the bottom of the door . this is where you should insert your door panel pry tool . you can also use a couple of flat-blade screwdrivers or a paint scraper in lieu of of a door panel pry tool , but you may accidentally damage your door panels paint ."
+                },
+                {
+                    "Text": "optional ( if the tool is metal ) : wrap the pry tool in blue masking tape or another type of tape in order to minimize scratches to the car ."
+                }
+            ],
+            "Text_raw": "There are several retaining clips holding the door panel in place. Their locations are roughly outlined by the red circles. You\u2019ll find a notch in the door panel on the bottom of the door. This is where you should insert your door panel pry tool. You can also use a couple of flat-blade screwdrivers or a paint scraper in lieu of of a door panel pry tool, but you may accidentally damage your door panel\u2019s paint. Optional (if the tool is metal): Wrap the pry tool in blue masking tape \u2014 or another type of tape \u2014 in order to minimize scratches to the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Kgjrudp6bVD3YNBp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wQoVM2sYrVsKZOQg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2ednipZkPpEukCSh.standard"
+            ],
+            "StepId": 62313,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "insert the door panel pry tool into the notch found on the bottom of the door panel ."
+                },
+                {
+                    "Text": "once fully inserted , pull towards you in order to disconnect the first retaining clip ."
+                },
+                {
+                    "Text": "the door panel should now be slightly looser on the bottom . re-insert the pry tool on the bottom-right of the panel , and pull toward you to disconnect the second retaining clip ."
+                }
+            ],
+            "Text_raw": "Insert the door panel pry tool into the notch found on the bottom of the door panel. Once fully inserted, pull towards you in order to disconnect the first retaining clip. The door panel should now be slightly looser on the bottom. Re-insert the pry tool on the bottom-right of the panel, and pull toward you to disconnect the second retaining clip.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RlWcKQbnTce1ea1i.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UevO1VLkBjAOrMrM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HIEhyWjw1ZAqSNai.standard"
+            ],
+            "StepId": 62314,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "re-insert the pry tool in the following sections of the door panel ( and pull toward you ) to disconnect the remaining retaining clips :"
+                },
+                {
+                    "Text": "bottom-left of the door panel"
+                },
+                {
+                    "Text": "far-right of the door panel"
+                },
+                {
+                    "Text": "far-left of the door panel"
+                }
+            ],
+            "Text_raw": "Re-insert the pry tool in the following sections of the door panel (and pull toward you) to disconnect the remaining retaining clips: Bottom-left of the door panel Far-right of the door panel Far-left of the door panel",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cAEkrWNqoMdFKbGU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BlAO1cIBNLkHTGgE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ga6xUdOVYvJryB2B.standard"
+            ],
+            "StepId": 62315,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "the door panel should now be loose on all sides but do not pull it off completely just yet ! there are cables attached to it on the inside ."
+                },
+                {
+                    "Text": "grab the door panel with your hands on both sides ."
+                },
+                {
+                    "Text": "lift the panel about one inch upwards , and then gently pull it away from the metal door frame ."
+                }
+            ],
+            "Text_raw": "The door panel should now be loose on all sides \u2014 but do not pull it off completely just yet! There are cables attached to it on the inside. Grab the door panel with your hands on both sides. Lift the panel about one inch upwards, and then gently pull it away from the metal door frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KnY1ZVwOn52f6HWT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/S1pWxrGBlWBLOXWS.standard"
+            ],
+            "StepId": 62316,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "two cables operate the door lock and door pull handle a blue cable for the door lock , and a black one for the door pull handle . each cable has a plastic sleeve that needs to be disconnected , as well as a metal cable ball that has to be de-routed from the door handle ."
+                },
+                {
+                    "Text": "firmly grip the plastic blue sleeve and disconnect it by pulling it perpendicularly away from the plastic bracket ."
+                },
+                {
+                    "Text": "lift the sleeve upwards so that the metal ball at the end of the cable is removed from its housing ."
+                },
+                {
+                    "Text": "pull the entire cable away from the door panel ."
+                }
+            ],
+            "Text_raw": "Two cables operate the door lock and door pull handle  \u2014 a blue cable for the door lock, and a black one for the door pull handle. Each cable has a plastic sleeve that needs to be disconnected, as well as a metal cable ball that has to be de-routed from the door handle. Firmly grip the plastic blue sleeve and disconnect it by pulling it perpendicularly away from the plastic bracket. Lift the sleeve upwards so that the metal ball at the end of the cable is removed from its housing. Pull the entire cable away from the door panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ntAuWFwgNZpgkkvM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/p6JWOZOFVMRAP6cu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vycG1TMOKGlVCwwg.standard"
+            ],
+            "StepId": 62317,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "repeat the same procedure above with the black cable . first disconnect the black sleeve , then the ball , and finally move the entire cable away from the door panel ."
+                }
+            ],
+            "Text_raw": "Repeat the same procedure above with the black cable. First disconnect the black sleeve, then the ball, and finally move the entire cable away from the door panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qXGAX6hg3yDSeXkK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iR1gCZnUrFmIhl3j.standard"
+            ],
+            "StepId": 62318,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "there is one more connector on the bottom of the door panel that needs to be disconnected ."
+                },
+                {
+                    "Text": "depress the white plastic tab that resides on top of the connector ."
+                },
+                {
+                    "Text": "with the plastic tab depressed , pull the connector away from its socket ."
+                }
+            ],
+            "Text_raw": "There is one more connector on the bottom of the door panel that needs to be disconnected. Depress the white plastic tab that resides on top of the connector. With the plastic tab depressed, pull the connector away from its socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WK2FGjgajyWFqX5a.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/W1qKnWhIdM3VMH3T.standard"
+            ],
+            "StepId": 62319,
+            "Tools_extracted": [
+                "door panel removal tool"
+            ]
+        }
+    ],
+    "Subject": "Rear Door Panel"
+}

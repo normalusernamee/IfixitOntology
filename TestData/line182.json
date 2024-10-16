@@ -1,0 +1,253 @@
+{
+    "Title": "2011 Dodge Journey Brake Rotor Replacement",
+    "Ancestors": [
+        "Dodge",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 31779,
+    "Category": "Dodge Journey",
+    "Toolbox": [
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wheel chocks",
+            "Url": "https://www.amazon.com/gp/product/B008CE0R5E/ref=oh_aui_search_detailpage?ie=UTF8&psc=1",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-Shallow-Socket-6-Point/dp/B000NPULD8/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "/Item/Socket_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "13 wrench",
+            "Url": "https://www.amazon.com/GearWrench-9113-Combination-Ratcheting-Wrench/dp/B0002NYD7Q/ref=sr_1_3?ie=UTF8&qid=1487798994&sr=8-3&keywords=13mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "15 mm socket wrench",
+            "Url": "https://www.amazon.com/TEKTON-WRN53115-Ratcheting-Combination-Wrench/dp/B01F511MCI/ref=sr_1_9?ie=UTF8&qid=1488911028&sr=8-9&keywords=15mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "21 mm socket",
+            "Url": "/Item/21_mm_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hammer",
+            "Url": "http://www.amazon.com/dp/B0000224VG/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "brake pad spreader tool",
+            "Url": "http://www.amazon.com/Capri-Tools-Disc-Brake-Spreader/dp/B00KCT1XMI",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 18 mm",
+            "Url": "http://www.amazon.com/TEKTON-14151-Shallow-Socket-6-Point/dp/B000NPULCY/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "rear caliper wind back tool",
+            "Url": "http://www.amazon.com/Capri-Tools-Disc-Brake-Caliper/dp/B00DZW4OP2",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2011+Dodge+Journey+Brake+Rotor+Replacement/31779",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "chock ( forcefully wedge an object , such as a wood block , between tire and pavement ) the wheel on the opposite corner of the wheel you are working on , so that the vehicle cannot roll forward or backward ."
+                }
+            ],
+            "Text_raw": "Chock (forcefully wedge an object, such as a wood block, between tire and pavement) the wheel on the opposite corner of the wheel you are working on, so that the vehicle cannot roll forward or backward.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VVWlmkEKOoETfrRI.standard"
+            ],
+            "StepId": 73895,
+            "Tools_extracted": [
+                "wheel chocks"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "using the ratchet and the 19 mm socket , loosen each of the lugnuts 2-3 turns"
+                },
+                {
+                    "Text": "when tightening lugnuts to reassemble , tighten in a star pattern with a torque wrench to 100 ft-lbs ."
+                }
+            ],
+            "Text_raw": "Using the ratchet and the 19mm socket, loosen each of the lugnuts 2-3 turns When tightening lugnuts to reassemble, tighten in a star pattern with a torque wrench to 100 ft-lbs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ayiuWA6E2yrQACIQ.standard"
+            ],
+            "StepId": 73897,
+            "Tools_extracted": [
+                "socket 19 mm",
+                "wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use the hydraulic jack to lift the vehicle , place the jack stand , and lower the car so that it rests on the jack stand ."
+                },
+                {
+                    "Text": "the bumps in the frame rail are the reinforced areas for lifting the car - lift at one of these umps circled in red , and place the jack stand at the other like in the picture ."
+                },
+                {
+                    "Text": "you can now remove the wheel lugnuts the rest of the way and set the wheel to the side"
+                }
+            ],
+            "Text_raw": "Use the hydraulic jack to lift the vehicle, place the jack stand, and lower the car so that it rests on the jack stand. The bumps in the frame rail are the reinforced areas for lifting the car - lift at one of these umps circled in red, and place the jack stand at the other like in the picture. You can now remove the wheel lugnuts the rest of the way and set the wheel to the side",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HrLZJdXWDRYuX4Cs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/U1yqeKKmYsf2nGfM.standard"
+            ],
+            "StepId": 73931,
+            "Tools_extracted": [
+                "wheel chocks",
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use the open end of the 15 mm wrench to hold the slide pin , and use the 13 mm wrench to loosen both bolts , then completely remove the bolts"
+                }
+            ],
+            "Text_raw": "Use the open end of the 15mm wrench to hold the slide pin, and use the 13mm wrench to loosen both bolts, then completely remove the bolts",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Q3DKdkSLFOU4bMgP.standard"
+            ],
+            "StepId": 73932,
+            "Tools_extracted": [
+                "13 wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "wiggle the caliper out and off of the pads/rotor , and place out of the way - do not let it dangle by the brake hose ."
+                },
+                {
+                    "Text": "use the brake spreader tool on the front or the caliper wind back tool on the rear to push the piston back into the caliper for assembly ."
+                },
+                {
+                    "Text": "pay close attention that the hose is not twisted when re-installing ( flip caliper as necessary to remove twists ) . a twisted hose will overheat the brakes , causing damage and a reduction or loss of braking performance ."
+                }
+            ],
+            "Text_raw": "Wiggle the caliper out and off of the pads/rotor, and place out of the way - do not let it dangle by the brake hose. Use the brake spreader tool on the front or the caliper wind back tool on the rear to push the piston back into the caliper for assembly. Pay close attention that the hose is not twisted when re-installing (flip caliper as necessary to remove twists). A twisted hose will overheat the brakes, causing damage and a reduction or loss of braking performance.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZcOH11q4tQuG3R2V.standard"
+            ],
+            "StepId": 73936,
+            "Tools_extracted": [
+                "brake pad spreader tool"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the brake pads , being careful not to lose clips on caliper bracket ."
+                },
+                {
+                    "Text": "the clips will need to be cleaned if reusing , and the tabs on the new brake pads will need to be lubed to allow them to easily slide in the bracket ."
+                },
+                {
+                    "Text": "make sure there is no lubricant on the pad or rotor surface during and after reassembly"
+                }
+            ],
+            "Text_raw": "Remove the brake pads, being careful not to lose clips on caliper bracket. The clips will need to be cleaned if reusing, and the tabs on the new brake pads will need to be lubed to allow them to easily slide in the bracket. Make sure there is no lubricant on the pad or rotor surface during and after reassembly",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HABJLiEyjegaYnMf.standard"
+            ],
+            "StepId": 73938,
+            "Tools_extracted": [
+                "brake pad spreader tool"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "using the ratchet and socket ( 21 mm for the front , 18 mm for the rear ) , and remove the bolts holding the caliper mounting bracket . again , it may be helpful to loosen both bolts before complete removal ."
+                }
+            ],
+            "Text_raw": "Using the ratchet and socket (21mm for the front, 18mm for the rear), and remove the bolts holding the caliper mounting bracket. Again, it may be helpful to loosen both bolts before complete removal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yJ2DOGQtBiI3R14j.standard"
+            ],
+            "StepId": 73940,
+            "Tools_extracted": [
+                "rear caliper wind back tool"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "pull the boot from the caliper bracket and slide the pin out to inspect . if there is heavy pitting or rust , you will want to replace the slide pins and bracket . otherwise , lube with brake lubricant grease for reassembly ."
+                }
+            ],
+            "Text_raw": "Pull the boot from the caliper bracket and slide the pin out to inspect. If there is heavy pitting or rust, you will want to replace the slide pins and bracket. Otherwise, lube with brake lubricant grease for reassembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NTXUTqU4SOLeH4Ba.standard"
+            ],
+            "StepId": 73942,
+            "Tools_extracted": [
+                "tool"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "a hard rap with the hammer at the location shown should dislodge the rotor from the hub . if not , try alternating hammer strikes back and forth from opposite ends of the rotor hat until the rotor breaks free ."
+                },
+                {
+                    "Text": "if you miss the rotor and hit the wheel stud , you can damage the threads , requiring replacement of the stud ."
+                },
+                {
+                    "Text": "use the 3 m scotch brite pad to clean the rust from the surface of the hub that contacts the rotor ( where the wheel studs poke through the hub - see second pic ) , and to clean any shipping protectant from the new rotor's contact surface ( the large flat outer ring surface where the brake pads contact the rotor )"
+                }
+            ],
+            "Text_raw": "A hard rap with the hammer at the location shown should dislodge the rotor from the hub. If not, try alternating hammer strikes back and forth from opposite ends of the rotor hat until the rotor breaks free. If you miss the rotor and hit the wheel stud, you can damage the threads, requiring replacement of the stud. Use the 3M Scotch Brite pad to clean the rust from the surface of the hub that contacts the rotor (where the wheel studs poke through the hub - see second pic), and to clean any shipping protectant from the new rotor's contact surface (the large flat outer ring surface where the brake pads contact the rotor)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2yeUG2V31MYtMkeo.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/U1QMaigcQViDAVDD.standard"
+            ],
+            "StepId": 73944,
+            "Tools_extracted": [
+                "wheel chocks",
+                "brake pad spreader tool",
+                "hammer"
+            ]
+        }
+    ],
+    "Subject": "Brake Rotor"
+}

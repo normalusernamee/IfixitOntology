@@ -1,0 +1,232 @@
+{
+    "Title": "Mercedes W123 Brake Line, Rear Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 21521,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "11 wrench",
+            "Url": "https://www.amazon.com/TEKTON-WRN53111-Ratcheting-Combination-Wrench/dp/B01F511MB4/ref=sr_1_1?ie=UTF8&qid=1487888260&sr=8-1&keywords=11mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "14 mm socket wrench",
+            "Url": "https://www.amazon.com/TEKTON-WRN53114-Ratcheting-Combination-Wrench/dp/B01F511MHI/ref=sr_1_4?ie=UTF8&qid=1487884372&sr=8-4&keywords=14mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "penetrating lubricant",
+            "Url": "http://www.amazon.com/Blaster-16-PB-Penetrating-Catalyst-oz/dp/B000I2079E/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889196&sr=1-1&keywords=PB+blaster",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Brake+Line+Rear+Replacement/21521",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before beginning to remove the hard brake lines you'll need to drain the fluid from your rear caliper ( s ) . you only need to drain the fluid from the side you're working on ; if you're doing both lines , drain both ."
+                },
+                {
+                    "Text": "to drain them loosen the bleed screw and let the fluid drip in to a pan ."
+                }
+            ],
+            "Text_raw": "Before beginning to remove the hard brake lines you'll need to drain the fluid from your rear caliper(s). You only need to drain the fluid from the side you're working on; if you're doing both lines, drain both. To drain them loosen the bleed screw and let the fluid drip in to a pan.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CJPGEQWcU2pG13Pd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XUuLutj5pyLNJNyH.standard"
+            ],
+            "StepId": 57475,
+            "Tools_extracted": [
+                "drain pan"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "spray the area where the hard brake lines and the soft rubber hoses connect at the rear of the car with penetrating lubricant ."
+                }
+            ],
+            "Text_raw": "Spray the area where the hard brake lines and the soft rubber hoses connect at the rear of the car with penetrating lubricant.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VANx2yBjSfQnwbDA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/T2NZrYMXpbGxeacu.standard"
+            ],
+            "StepId": 57476,
+            "Tools_extracted": [
+                "penetrating lubricant"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "find the brake line distributor at the rear of the car where the two hard lines split off to each wheel . it is just up behind the driver's side axle ."
+                },
+                {
+                    "Text": "spray this with penetrating lubricant ."
+                },
+                {
+                    "Text": "the components shown include :"
+                },
+                {
+                    "Text": "hard line to front of car , connects to master cylinder ."
+                },
+                {
+                    "Text": "hard line to rear driver's side caliper ."
+                },
+                {
+                    "Text": "hard line to rear passenger side caliper ."
+                },
+                {
+                    "Text": "distributor ."
+                }
+            ],
+            "Text_raw": "Find the brake line distributor at the rear of the car where the two hard lines split off to each wheel. It is just up behind the driver's side axle. Spray this with penetrating lubricant. The components shown include: Hard line to front of car, connects to master cylinder. Hard line to rear driver's side caliper. Hard line to rear passenger side caliper. Distributor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sX4DvfTgEhfgZd4G.standard"
+            ],
+            "StepId": 57477,
+            "Tools_extracted": [
+                "penetrating lubricant"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "this guide will start on the driver's side line . you may begin on either side ."
+                },
+                {
+                    "Text": "begin by removing the soft rubber hose where it connects to the hard line ."
+                },
+                {
+                    "Text": "for information on removing these soft rubber hoses the rubber brake hose removal guide . consider replacing these hoses at this time since you already have them disconnected halfway ."
+                }
+            ],
+            "Text_raw": "This guide will start on the driver's side line. You may begin on either side. Begin by removing the soft rubber hose where it connects to the hard line. For information on removing these soft rubber hoses [http://www.ifixit.com/Guide/Mercedes+W123+Rubber+Brake+Hose+Replacement/21345|see the rubber brake hose removal guide]. Consider replacing these hoses at this time since you already have them disconnected halfway.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mcyAEwM2wdG4kseW.standard"
+            ],
+            "StepId": 57478,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use an 11 mm line wrench or open end wrench to loosen the connection for the driver's side brake line at the distributor ."
+                },
+                {
+                    "Text": "this line can then be removed from the car ."
+                }
+            ],
+            "Text_raw": "Use an 11mm line wrench or open end wrench to loosen the connection for the driver's side brake line at the distributor. This line can then be removed from the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/j2AcVW6cJnCsrRPK.standard"
+            ],
+            "StepId": 57479,
+            "Tools_extracted": [
+                "11 wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "repeat with the passenger side line . loosen it from the distributor ."
+                },
+                {
+                    "Text": "note that this line may be routed through a bracket that holds both the hard brake line and the hard fuel line from the fuel tank in place with a rubber buffer . this is located directly up from and behind the rear differential ."
+                },
+                {
+                    "Text": "if you find this on your car , loosen the 10 mm bolt on the bracket . you do not need to fully remove the bracket , just loosen it enough that it releases the brake line . it can then be pulled out of the car ."
+                }
+            ],
+            "Text_raw": "Repeat with the passenger side line. Loosen it from the distributor. Note that this line may be routed through a bracket that holds both the hard brake line and the hard fuel line from the fuel tank in place with a rubber buffer. This is located directly up from and behind the rear differential. If you find this on your car, loosen the 10mm bolt on the bracket. You do not need to fully remove the bracket, just loosen it enough that it releases the brake line. It can then be pulled out of the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RsNGCWIr1BxpqOsA.standard"
+            ],
+            "StepId": 57480,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "your distributor will now look like this ."
+                }
+            ],
+            "Text_raw": "Your distributor will now look like this.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VUJjZ5a2m53HNItM.standard"
+            ],
+            "StepId": 57481,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "you can now begin installing the new lines ."
+                },
+                {
+                    "Text": "starting with the passenger side line , note that it should go in behind the rubber drain hose just inside the rear fender ."
+                },
+                {
+                    "Text": "the driver's side simply sets in place as the old line did ."
+                }
+            ],
+            "Text_raw": "You can now begin installing the new lines. Starting with the passenger side line, note that it should go in behind the rubber drain hose just inside the rear fender. The driver's side simply sets in place as the old line did.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IsrKCAqTLxLZpJxT.standard"
+            ],
+            "StepId": 57482,
+            "Tools_extracted": [
+                "drain pan"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "clean all the end connections of the hard lines , at the distributor and at the brackets for the soft rubber hose connection , with brake cleaner to remove any dirt . you do not want to introduce dirt in to your brake system ."
+                },
+                {
+                    "Text": "let the brake cleaner dry . you can then begin reconnecting the soft rubber hoses , and can connect the hard lines to the distributor ."
+                },
+                {
+                    "Text": "before driving your car you will need to bleed the system to remove the air that has been introduced . never drive your car after doing work on the brake lines without first bleeding it properly . the brake flush/bleeding guide for help with this ."
+                }
+            ],
+            "Text_raw": "Clean all the end connections of the hard lines, at the distributor and at the brackets for the soft rubber hose connection, with brake cleaner to remove any dirt. You do not want to introduce dirt in to your brake system. Let the brake cleaner dry. You can then begin reconnecting the soft rubber hoses, and can connect the hard lines to the distributor. Before driving your car you will need to bleed the system to remove the air that has been introduced. Never drive your car after doing work on the brake lines without first bleeding it properly. [http://www.ifixit.com/Guide/Mercedes+W123+Brake+Fluid+Flush-Bleeding/21442|See the brake flush/bleeding guide for help with  this.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Jdvf1QlJda3Wl6Kn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/T2chdQMdJEqY1NOL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IVapIAfW4ToEKe6i.standard"
+            ],
+            "StepId": 57484,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Brake Line, Rear"
+}

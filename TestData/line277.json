@@ -1,0 +1,148 @@
+{
+    "Title": "Volvo Throttle Body fix",
+    "Ancestors": [
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 97486,
+    "Category": "Volvo",
+    "Toolbox": [
+        {
+            "Name": "wire cutter",
+            "Url": "/Item/Wire_cutters_side_cutters",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "soldering station",
+            "Url": "https://www.ifixit.com/Tools/Soldering-Station/IF145-018",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/OiyVpTEtEQyw1Ije.mini"
+        },
+        {
+            "Name": "rtv silicone",
+            "Url": "/Item/RTV_Silicone",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Volvo+Throttle+Body+fix/97486",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "remove the throttle body from the engine . remove the cover plate by prying up on the edges with a small screwdriver . it is glued down with silicone . under the cover plate you will see a computer module that is also siliconed in place ."
+                }
+            ],
+            "Text_raw": "Remove the throttle body from the engine. Remove the cover plate by prying up on the edges with a small screwdriver.  It is glued down with silicone. Under the cover plate you will see a computer module that is also siliconed in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kUh3YAvxvdlwhcT5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tbtlZKGgp5csUA1t.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KXK21Oha3eQRd1DX.standard"
+            ],
+            "StepId": 178960,
+            "Tools_extracted": [
+                "rtv silicone"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "dig the silicone sealer out of the right side to expose the position sensor wire terminals . the terminals are spot welded ( yes , welded ) together to the leads from the computer module . use small sharp diagonal cutters to separate the terminal leads ."
+                }
+            ],
+            "Text_raw": "Dig the silicone sealer out of the right side to expose the position sensor wire terminals. The terminals are spot welded (yes, WELDED) together to the leads from the computer module. Use small sharp diagonal cutters to separate the terminal leads.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nGvbynmNOZ61NGKx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nhi4CW5mctWpdVeh.standard"
+            ],
+            "StepId": 178961,
+            "Tools_extracted": [
+                "wire cutter"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "the inside of the housing and the position sensor will both have an oily mess . clean them by spraying with carb spray or contact cleaner ."
+                }
+            ],
+            "Text_raw": "The inside of the housing and the position sensor will both have an oily mess. Clean them by spraying with carb spray or contact cleaner.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TNlVLPObejFgckeE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XeXZfrhTGKKFxZlD.standard"
+            ],
+            "StepId": 178962,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "carefully pry out the metal ring that protects the sliding contacts . you can clean them with some spray cleaner ."
+                }
+            ],
+            "Text_raw": "Carefully pry out the metal ring that protects the sliding contacts. You can clean them with some spray cleaner.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Hkw2PEjKbIxFbPr6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QtILGFOfxaYT2GAu.standard"
+            ],
+            "StepId": 178964,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "reassemble the metal ring . apply silicone adhesive around the outside edge , then reinstall the sensor into the throttle body ."
+                }
+            ],
+            "Text_raw": "Reassemble the metal ring. Apply silicone adhesive around the outside edge, then reinstall the sensor into the throttle body.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WDWCuX5eJ6XfsHDS.standard"
+            ],
+            "StepId": 178965,
+            "Tools_extracted": [
+                "rtv silicone"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "wrap some wire strands around the terminal ends to help hold them together tightly . solder the terminals together ( but not to each other ! ) ."
+                }
+            ],
+            "Text_raw": "Wrap some wire strands around the terminal ends to help hold them together tightly. Solder the terminals together (but NOT to each other!).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tM2BQEw4jXkHDOVj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tdrkaOrXiXLpNaYa.standard"
+            ],
+            "StepId": 178966,
+            "Tools_extracted": [
+                "wire cutter"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "use silicone to reattach the cover plate and to seal up the side access hole . allow the silicone to set up before reinstalling the throttle body to the engine ."
+                }
+            ],
+            "Text_raw": "Use silicone to reattach the cover plate and to seal up the side access hole. Allow the silicone to set up before reinstalling the throttle body to the engine.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TgHgvHFuwJnoNWT4.standard"
+            ],
+            "StepId": 178967,
+            "Tools_extracted": [
+                "rtv silicone"
+            ]
+        }
+    ],
+    "Subject": ""
+}

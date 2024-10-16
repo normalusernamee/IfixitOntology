@@ -1,0 +1,187 @@
+{
+    "Title": "Troubleshooting & Repairing the Nissan Xterra Air Conditioning",
+    "Ancestors": [
+        "Nissan",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 9644,
+    "Category": "Nissan Xterra",
+    "Toolbox": [
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "long needle nose pliers",
+            "Url": "/Item/Long_Needle_Nose_Pliers",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "spring clamp",
+            "Url": "/Item/Spring_Clamp",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "digital multimeter",
+            "Url": "http://www.ifixit.com/Tools/Digital-Multimeter/IF145-035",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xNFyZme2DEF2H5ZE.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Troubleshooting+%26+Repairing+the+Nissan+Xterra+Air+Conditioning/9644",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the thermistor connector is located below the glove box . you can see the white connector hanging out from under the dash ."
+                },
+                {
+                    "Text": "the purpose of the thermistor is to keep the evaporator from freezing . it does this by measuring the temperature and turning off the compressor when the evaporator gets below approx . 40 degrees f allowing the evaporator to defrost ."
+                },
+                {
+                    "Text": "locate your air conditioning compressor . the clutch is the center area . if the clutch is engaged the center area will be turning . it will be turned off by the thermistor to prevent the evaporator from freezing ."
+                },
+                {
+                    "Text": "here are the tools that you'll need to complete this guide ."
+                }
+            ],
+            "Text_raw": "The Thermistor connector is located below the glove box. You can see the white connector hanging out from under the dash. The purpose of the Thermistor is to keep the Evaporator from freezing. It does this by measuring the temperature and turning off the Compressor when the Evaporator gets below approx. 40 degrees F allowing the Evaporator to defrost. Locate your Air Conditioning Compressor. The clutch is the center area. If the clutch is engaged the center area will be turning. It will be turned off by the Thermistor to prevent the Evaporator from Freezing. Here are the tools that you'll need to complete this guide.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SJClD21uNgyTmeDc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YOdMcDi5Ya3AORlg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rmrkNU2vQgSdDLCC.standard"
+            ],
+            "StepId": 36587,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "test the thermistor by turning the engine on and the air conditioner on ."
+                },
+                {
+                    "Text": "using a voltmeter ( set to dc volts ) , the green/orange wire will have battery voltage ( around 13.5 vdc ) from fuse 29 in the under hood fuse box ."
+                },
+                {
+                    "Text": "the blue wire will have battery ground from the ac control assembly ."
+                },
+                {
+                    "Text": "the most important wire is the blue/black wire . the voltmeter will show less than . 5 volts with the thermistor on ( temperature above 45 degrees f ) . it will show a nominal 4-5 volts with the thermistor off ( temperature below 40 degrees f ) ."
+                },
+                {
+                    "Text": "during inital operation , the temperature at the evaporator will be above 45 degrees and the voltmeter should read less than . 5 volts . when the temperature of the evaporator is below 40 degrees f , the voltmeter will read 4-5 volts which turns the air conditioner compressor off . this keeps the evaporator from freezing ."
+                },
+                {
+                    "Text": "if your thermistor is reading 4-5 volts when you first turn the ac on then your thermistor is defective and needs to be replaced ."
+                }
+            ],
+            "Text_raw": "Test the thermistor by turning the Engine ON and the Air Conditioner ON. Using a Voltmeter (set to DC Volts), the Green/Orange wire will have battery voltage (around 13.5vdc) from fuse #29 in the under hood fuse box. The Blue wire will have battery ground from the AC control assembly. The most important wire is the Blue/Black wire. The Voltmeter will show less than .5 volts with the thermistor on (temperature above 45 degrees F). It will show a nominal 4-5 volts with the thermistor off (temperature below 40 degrees F). During inital operation, the temperature at the  evaporator will be above 45 degrees and the Voltmeter should read less than .5 volts. When the temperature of the evaporator is below 40 degrees F, the Voltmeter will read 4-5 volts which turns the Air Conditioner Compressor OFF. This keeps the Evaporator from freezing. If your Thermistor is reading 4-5 volts when you first turn the AC on then your Thermistor is defective and needs to be replaced.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uSv5xquTbGLNmLbo.standard"
+            ],
+            "StepId": 36590,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "replacing the thermistor requires removal of the glove box ."
+                },
+                {
+                    "Text": "remove the four upper screws and the two lower screws as indicated ."
+                }
+            ],
+            "Text_raw": "Replacing the Thermistor requires removal of the glove box. Remove the four upper screws and the two lower screws as indicated.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jWlwtUePYqUVhnoy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ntX2tFXJRVVerESL.standard"
+            ],
+            "StepId": 36591,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "using a phillips screwdriver , remove three screws . ( as indicated by the orange circles )"
+                },
+                {
+                    "Text": "using a 10 mm socket , remove four bolts ( as indicated by the blue squares ) the two on the right are easy to see but the two on the left are difficult to see and are behind structure ."
+                }
+            ],
+            "Text_raw": "Using a philips screwdriver, remove three screws. (as indicated by the orange circles) Using a 10mm socket, remove four bolts (as indicated by the blue squares) The two on the right are easy to see but the two on the left are difficult to see and are behind structure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HOpJlFnTPvlZZJZu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IYnOQRijMKMviViV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rjyG4Cl1X3jRsj52.standard"
+            ],
+            "StepId": 36593,
+            "Tools_extracted": [
+                "phillips 2 screwdriver",
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "here's were it can get tricky . of course the correct way to replace this is to completely evacuate the system and remove the evaporator but with a little ingenuity you can have it replaced in 10 minutes ."
+                },
+                {
+                    "Text": "open the evaporate shell by splitting the halves . i used a spring clamp , backwards , to help me hold the halves open ."
+                },
+                {
+                    "Text": "using a long pair of needle nose pliers , gently work the thermistor out of the evaporate fins ."
+                }
+            ],
+            "Text_raw": "Here's were it can get tricky. Of course the correct way to replace this is to completely evacuate the system and remove the evaporator but with a little ingenuity you can have it replaced in 10 minutes. Open the evaporate shell by splitting the halves. I used a spring clamp, backwards, to help me hold the halves open. Using a long pair of needle nose pliers, gently work the Thermistor out of the evaporate fins.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eqpHAXVv5xhNDSkq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Wp1BsEVFHDkcKYe4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DPrDieXjB26DcN5U.standard"
+            ],
+            "StepId": 36595,
+            "Tools_extracted": [
+                "spring clamp",
+                "long needle nose pliers",
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "i purchased a new thermistor for 52 at the dealership . install the new thermistor by using the long needle nose pliers to insert into the evaporator fins ."
+                },
+                {
+                    "Text": "removing the connector from the bracket was difficult and i broke the bracket . i was happy to see that a new a mounting bracket came with the new thermistor . you will need a small sheet metal screw to attach the mounting bracket in a hole next to the existing mounting bracket . they provided a hole for you to mount the new bracket . ( i guess they al"
+                }
+            ],
+            "Text_raw": "I purchased a new Thermistor for $52 at the dealership. Install the new thermistor by using the Long Needle Nose Pliers to insert into the evaporator fins. Removing the connector from the bracket was difficult and I broke the bracket. I was happy to see that a new a mounting bracket came with the new thermistor. You will need a small sheet metal screw to attach the mounting bracket in a hole next to the existing mounting bracket. They provided a hole for you to mount the new bracket. ( I guess they al",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/x2JTNki2JCnsW2ss.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uwlpmFRAAkllEZpX.standard"
+            ],
+            "StepId": 36596,
+            "Tools_extracted": [
+                "long needle nose pliers"
+            ]
+        }
+    ],
+    "Subject": ""
+}

@@ -1,0 +1,166 @@
+{
+    "Title": "1986-1993 Volvo 240 Spark Plugs Replacement",
+    "Ancestors": [
+        "Volvo",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 9121,
+    "Category": "1986-1993 Volvo 240",
+    "Toolbox": [
+        {
+            "Name": "13 16 spark plug socket",
+            "Url": "http://www.amazon.com/Powerbuilt-640855-8-Inch-Socket-5-Piece/dp/B004QO9F0W/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356975241&sr=1-2&keywords=13%2F16%22+spark+plug+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "compressed air",
+            "Url": "http://www.amazon.com/CRC-Compressed-Air-Duster-05185/dp/B0002JMCEQ/ref=sr_1_6?s=automotive&ie=UTF8&qid=1407345044&sr=1-6&keywords=compressed+air",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "spark plug gap gauge",
+            "Url": "http://www.amazon.com/Lisle-67870-Spark-Plug-Gauge/dp/B0002STS2Q/ref=sr_1_5?s=automotive&ie=UTF8&qid=1356975161&sr=1-5&keywords=spark+plug+gap+gauge",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1986+1987+1988+1989+1990+1991+1992+1993+Volvo+240+Spark+Plugs+Replacement/9121",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the four spark plugs are located on the passenger side of the engine near the exhaust manifold . replace the spark plugs one at a time ."
+                }
+            ],
+            "Text_raw": "The four spark plugs are located on the passenger side of the engine near the exhaust manifold. Replace the spark plugs one at a time.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EfZ4WR3cH2HbsXNK.standard"
+            ],
+            "StepId": 35213,
+            "Tools_extracted": [
+                "spark plug"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "twist the spark plug boot back and forth and pull up to remove it from the spark plug ."
+                },
+                {
+                    "Text": "make sure that you are pulling on the boot and not the wire . spark plug wires are delicate and will break if you pull on them directly ."
+                }
+            ],
+            "Text_raw": "Twist the spark plug boot back and forth and pull up to remove it from the spark plug. Make sure that you are pulling on the boot and not the wire. Spark plug wires are delicate and will break if you pull on them directly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HTuWKLcKgDJPAeKq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yFxp2rsu2UtQSiNm.standard"
+            ],
+            "StepId": 35214,
+            "Tools_extracted": [
+                "spark plug"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "before removing the spark plug , used compressed air to clear the area around the plug of any dirt or debris ."
+                },
+                {
+                    "Text": "it's important to keep debris out of the cylinders , as it could cause serious engine damage ."
+                },
+                {
+                    "Text": "place a 13 /16 spark plug socket over the spark plug and make sure the spark plug is securely seated in the socket ."
+                },
+                {
+                    "Text": "spark plug sockets have a rubber seat that protects the brittle spark plug when it's being removed from the engine ."
+                },
+                {
+                    "Text": "gently loosen the spark plug by slowly turning the wrench counterclockwise . once the spark plug is free , remove it and set it aside ."
+                },
+                {
+                    "Text": "never use air tools to remove spark plugs , as the large amount of torque will break the spark plugs while they are still in the engine ."
+                }
+            ],
+            "Text_raw": "Before removing the spark plug, used compressed air to clear the area around the plug of any dirt or debris. It's important to keep debris out of the cylinders, as it could cause serious engine damage. Place a 13/16\" spark plug socket over the spark plug and make sure the spark plug is securely seated in the socket. Spark plug sockets have a rubber seat that protects the brittle spark plug when it's being removed from the engine. Gently loosen the spark plug by slowly turning the wrench counterclockwise. Once the spark plug is free, remove it and set it aside. Never use air tools to remove spark plugs, as the large amount of torque will break the spark plugs while they are still in the engine.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DJftJMCwtkSBNWZV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UHVQr4W3MjdFvftY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/t2Ea2bSFpuIJDPBI.standard"
+            ],
+            "StepId": 35215,
+            "Tools_extracted": [
+                "13 16 spark plug socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "in order to fire correctly , the gap between the two electrodes on the new spark plug must be properly set . use a gap tool to adjust the side electrode ( the one that hovers over the center electrode ) until the gap is between 0.028 and 0.032."
+                },
+                {
+                    "Text": "before installing the spark plug , cover the threads with a thin layer of anti-seize compound . this will ensure that the spark plugs come out easily at the next change ."
+                },
+                {
+                    "Text": "be sure not to get any anti-seize compound on the electrodes , as this could inhibit firing ."
+                },
+                {
+                    "Text": "place the spark plug into the spark plug socket until it is firmly seated and reinstall it into the engine . work slowly to avoid cross-threading . tighten the plug until it is finger-tight and then provide an additional 1 /2 turn with the wrench ( about 20 ft-lbs ) ."
+                }
+            ],
+            "Text_raw": "In order to fire correctly, the gap between the two electrodes on the new spark plug must be properly set. Use a gap tool to adjust the side electrode (the one that hovers over the center electrode) until the gap is between 0.028\" and 0.032\". Before installing the spark plug, cover the threads with a thin layer of anti-seize compound. This will ensure that the spark plugs come out easily at the next change. Be sure not to get any anti-seize compound on the electrodes, as this could inhibit firing. Place the spark plug into the spark plug socket until it is firmly seated and reinstall it into the engine. Work slowly to avoid cross-threading. Tighten the plug until it is finger-tight and then provide an additional 1/2 turn with the wrench (about 20 ft-lbs).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MSoMfiGuHo5FGGaY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BcsNNwRXxcBMktMB.standard"
+            ],
+            "StepId": 35217,
+            "Tools_extracted": [
+                "spark plug gap gauge"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "before placing the boot back on the spark plug , spread a layer of dielectric grease on the opening of the boot . this will keep moisture and corrosion away from the spark plug , as well as make the boot easier to remove in the future ."
+                },
+                {
+                    "Text": "place the boot over the plug and push it down until it snaps into place ."
+                },
+                {
+                    "Text": "repeat this procedure for the other three spark plugs , and you're done !"
+                },
+                {
+                    "Text": "after installing your new spark plugs , compare the old ones to a plug wear chart to determine if there are any issues with the way your engine is running . a similar chart can be found in the back of all haynes repair manuals ."
+                }
+            ],
+            "Text_raw": "Before placing the boot back on the spark plug, spread a layer of dielectric grease on the opening of the boot. This will keep moisture and corrosion away from the spark plug, as well as make the boot easier to remove in the future. Place the boot over the plug and push it down until it snaps into place. Repeat this procedure for the other three spark plugs, and you're done! After installing your new spark plugs, compare the old ones to a [http://www.bikebandit.com/assets/digital_assets/How-to-Read-a-Spark-Plug.gif|spark plug wear chart] to determine if there are any issues with the way your engine is running. A similar chart can be found in the back of all Haynes repair manuals.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/R255IhCfwObvpVMp.standard"
+            ],
+            "StepId": 35478,
+            "Tools_extracted": [
+                "spark plug"
+            ]
+        }
+    ],
+    "Subject": "Spark Plugs"
+}

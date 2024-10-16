@@ -1,0 +1,167 @@
+{
+    "Title": "Changing a Tire on the 2007-2012 Jeep Wrangler",
+    "Ancestors": [
+        "Jeep Wrangler",
+        "Jeep",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11689,
+    "Category": "2007-2012 Jeep Wrangler",
+    "Toolbox": [
+        {
+            "Name": "auto jack",
+            "Url": "/Item/Auto_Jack",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "lug wrench",
+            "Url": "http://www.amazon.com/Wilmar-W2-Metric-Lug-Wrench/dp/B000FW2NU8/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889157&sr=1-1&keywords=lug+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Changing+a+Tire+on+the+2007+2008+2009+2010+2011+2012+Jeep+Wrangler/11689",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "(picture 2 , view from rear bumper ) open the trunk and remove the trunk's carpeting by simply reaching underneath and pulling up . the tools needed for changing a spare tire are located underneath the carpeting . take out the following tools :"
+                },
+                {
+                    "Text": "the jack , which is used to lift the car ( top of picture 3 )"
+                },
+                {
+                    "Text": "the jack handle driver and its extension rod , which are used to turn the clasp ( middle of picture 3 )"
+                },
+                {
+                    "Text": "a lug wrench , which is used to release lug nuts on the hubcap ( bottom of picture 3 )"
+                },
+                {
+                    "Text": "the tire in this picture was not flat for the purposes of making this guide ."
+                }
+            ],
+            "Text_raw": "(Picture 2, view from rear bumper) Open the trunk and remove the trunk's carpeting by simply reaching underneath and pulling up.  The tools needed for changing a spare tire are located underneath the carpeting.  Take out the following tools: The jack, which is used to lift the car (top of picture 3) The jack handle driver and its extension rod, which are used to turn the clasp (middle of picture 3) A lug wrench, which is used to release lug nuts on the hubcap (bottom of picture 3) The tire in this picture was not flat for the purposes of making this guide.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BUiDle3ifaLF1aRE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eMT1WOUGLmAPECHG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CtiSIrIBOfJUVTBr.standard"
+            ],
+            "StepId": 41867,
+            "Tools_extracted": [
+                "auto jack",
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "the jack will be holding up the car so that the car does not fall on you . make sure that the vehicle is secure on the jack . check that your vehicle is in park and has the emergency brake/parking brake on ."
+                },
+                {
+                    "Text": "place the jack in the proper location on the axle between either the front or rear tires , depending on which tire is flat ."
+                },
+                {
+                    "Text": "refer to your jeep manual to determine the proper location for the jack under your vehicle ."
+                },
+                {
+                    "Text": "in this case , the rear driver's side tire was the flat tire so the jack will be placed on the axle between the rear tires on the driver's side of the jeep ."
+                }
+            ],
+            "Text_raw": "The jack will be holding up the car so that the car does not fall on you. Make sure that the vehicle is secure on the jack.  Check that your vehicle is in park and has the emergency brake/parking brake on. Place the jack in the proper location on the axle between either the front or rear tires, depending on which tire is flat. Refer to your Jeep manual to determine the proper location for the jack under your vehicle. In this case, the rear driver's side tire was the \"flat tire\" so the jack will be placed on the axle between the rear tires on the driver's side of the Jeep.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JhqFQjI6kVpsrJAY.standard"
+            ],
+            "StepId": 41868,
+            "Tools_extracted": [
+                "auto jack"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "on the end of the jack is a rotatable clasp . spin that clasp counter-clockwise using the jack handle driver and extension rod . the jack will begin to rise ."
+                },
+                {
+                    "Text": "continue spinning the clasp counter-clockwise until the vehicle is lifted enough so that your wheel is no longer on the ground ."
+                }
+            ],
+            "Text_raw": "On the end of the jack is a rotatable clasp.  Spin that clasp counter-clockwise using the jack handle driver and extension rod.  The jack will begin to rise. Continue spinning the clasp counter-clockwise until the vehicle is lifted enough so that your wheel is no longer on the ground.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/24GOjTSvEgbGdQYH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1W5gbrnkCTgUeJZw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vZCSnVIxTlhf5vjx.standard"
+            ],
+            "StepId": 41869,
+            "Tools_extracted": [
+                "auto jack"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use the lug wrench in a star pattern to properly loosen the lug nuts . refer to picture 1 regarding the loosening pattern ."
+                },
+                {
+                    "Text": "to physically loosen the lug nuts , use the lug wrench and push down very hard in a counter-clockwise direction ."
+                }
+            ],
+            "Text_raw": "Use the lug wrench in a star pattern to properly loosen the lug nuts.  Refer to picture 1 regarding the loosening pattern. To physically loosen the lug nuts, use the lug wrench and push down very hard in a counter-clockwise direction.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MvXFeFfJCSKpIpoX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/apkcywptubitYUVB.standard"
+            ],
+            "StepId": 41870,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "take all 5 lug nuts off and remove the wheel by pulling it straight away from the vehicle ."
+                },
+                {
+                    "Text": "pull straight out and off in order to not damage any of the wheel studs that the wheel is resting on ."
+                }
+            ],
+            "Text_raw": "Take all 5 lug nuts off and remove the wheel by pulling it straight away from the vehicle. Pull straight out and off in order to not damage any of the wheel studs that the wheel is resting on.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UUAQHibIbBXMUyZu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dyyMlROyjpelPnVB.standard"
+            ],
+            "StepId": 41871,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "locate the spare tire on the back of the jeep ."
+                },
+                {
+                    "Text": "push hard in a counter-clockwise motion to remove the three lug nuts using the lug wrench ."
+                },
+                {
+                    "Text": "pull spare wheel straight off of the back of the jeep ( picture 2 has wheel off ) ."
+                }
+            ],
+            "Text_raw": "Locate the spare tire on the back of the Jeep. Push hard in a counter-clockwise motion to remove the three lug nuts using the lug wrench. Pull spare wheel straight off of the back of the Jeep (picture 2 has wheel off).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DYgvX6kKLOo2ZUd5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ifCs3IuQnZ5GJgJR.standard"
+            ],
+            "StepId": 41922,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        }
+    ],
+    "Subject": "Changing a Tire on the 2007-2012 Jeep Wrangler"
+}

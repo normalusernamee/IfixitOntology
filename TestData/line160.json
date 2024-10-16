@@ -1,0 +1,229 @@
+{
+    "Title": "1991-1996 Chevrolet Caprice Battery Replacement",
+    "Ancestors": [
+        "Chevrolet Caprice",
+        "Chevrolet",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 24383,
+    "Category": "1991-1996 Chevrolet Caprice",
+    "Toolbox": [
+        {
+            "Name": "13 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-14145-8-Inch-Shallow-6-Point/dp/B000NY5CQK/ref=sr_1_1?ie=UTF8&qid=1488830200&sr=8-1&keywords=13mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 ratchet extension",
+            "Url": "http://www.amazon.com/TEKTON-14267-2-Inch-10-Inch-Extension/dp/B000NPZ5TI/ref=sr_1_1?ie=UTF8&qid=1407776986&sr=8-1&keywords=10%22+Ratchet+Extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "15 mm socket wrench",
+            "Url": "https://www.amazon.com/TEKTON-WRN53115-Ratcheting-Combination-Wrench/dp/B01F511MCI/ref=sr_1_9?ie=UTF8&qid=1488911028&sr=8-9&keywords=15mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "8 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-21251-8mm-Combination-Wrench/dp/B000NY3384/ref=sr_1_1?ie=UTF8&qid=1387823202&sr=8-1&keywords=8mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "/Item/Socket_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "smart wrench",
+            "Url": "https://www.ifixit.com/Store/Parts/Smart-Wrench/IF145-231",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/bIqPGgt6wXCOMSeU.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1991+1992+1993+1994+1995+1996+Chevrolet+Caprice+Battery+Replacement/24383",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "find the hood lever , this is normally under the dash , to the left of the steering wheel ."
+                }
+            ],
+            "Text_raw": "Find the hood lever, this is normally under the dash, to the left of the steering wheel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AbVWmXTBZrANxTHy.standard"
+            ],
+            "StepId": 62339,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "pull the lever and the hood will pop up ."
+                }
+            ],
+            "Text_raw": "Pull the lever and the hood will pop up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/archvVLAT5yRaQib.standard"
+            ],
+            "StepId": 62340,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "go to the front of the car and push the lever up to unlatch the hood , you may need to feel around for a minute to find this ."
+                }
+            ],
+            "Text_raw": "Go to the front of the car and push the lever up to unlatch the hood, you may need to feel around for a minute to find this.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mSasjBT56y2escND.standard"
+            ],
+            "StepId": 62341,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "find the battery , this is normally to the left front of the engine ."
+                }
+            ],
+            "Text_raw": "Find the battery, this is normally to the left front of the engine.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CKOaBewSfheoeF5L.standard"
+            ],
+            "StepId": 62342,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "once you have found the battery . it is time to unscrew the bolts holding in the wires ."
+                },
+                {
+                    "Text": "the red circle is positive and the black circle is the negative ."
+                },
+                {
+                    "Text": "if you see battery acid on the terminal bolts remove this be using baking soda mixed with water and a tooth brush ."
+                }
+            ],
+            "Text_raw": "Once you have found the battery. It is time to unscrew the bolts holding in the wires. The red circle is positive and the black circle is the negative. If you see battery acid on the terminal  bolts remove this be using baking soda mixed with water and a tooth brush.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1ZYORDvrWjHs15Ne.standard"
+            ],
+            "StepId": 62343,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "with your 8 mm wrench remove the negative terminal bolt ."
+                },
+                {
+                    "Text": "make sure the negative and positive terminals do not touch !"
+                }
+            ],
+            "Text_raw": "With your 8mm wrench remove the negative terminal bolt. Make sure the negative and positive terminals do not touch!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Y3obauNcrx5iXXoV.standard"
+            ],
+            "StepId": 62344,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "now with your 15 mm wrench remove the positive terminal bolt , the same way you removed the negative terminal bolt ."
+                },
+                {
+                    "Text": "make sure the negative and positive terminals do not touch !"
+                }
+            ],
+            "Text_raw": "Now with your 15mm wrench remove the positive terminal bolt, the same way you removed the negative terminal bolt. Make sure the negative and positive terminals do not touch!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5Gg6W6TBkMMQRUVD.standard"
+            ],
+            "StepId": 62345,
+            "Tools_extracted": [
+                "15 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "with your 13 mm socket , remove the bolt that holds the block , that holds the battery in . this bolt will not come out completely . once you feel slack in the bolt you may remove the whole block ."
+                },
+                {
+                    "Text": "make sure you do not touch the positive and negative terminals , you might get shocked !"
+                }
+            ],
+            "Text_raw": "With your 13mm socket, remove the bolt that holds the block, that holds the battery in. This bolt will not come out completely. Once you feel slack in the bolt you may remove the whole block. Make sure you do not touch the positive and negative terminals, you might get shocked!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cdtMfFOFOdGFuXFP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oD1c1QRT3KujjZRu.standard"
+            ],
+            "StepId": 62346,
+            "Tools_extracted": [
+                "13 mm socket"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "now lift out the battery using the handle shown ."
+                },
+                {
+                    "Text": "to recycle your old battery take it back to the store where you bought the new battery ."
+                }
+            ],
+            "Text_raw": "Now lift out the battery using the handle shown. To recycle your old battery take it back to the store where you bought the new battery.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ylNytNTbFLVaeXr2.standard"
+            ],
+            "StepId": 62349,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "to install the new battery follow these steps in reverse order from step 8-5."
+                },
+                {
+                    "Text": "when putting the battery bolts back in , make sure you put the negative bolt in first and then the positive bolt in second ."
+                }
+            ],
+            "Text_raw": "To install the new battery follow these steps in reverse order from step 8-5. When putting the battery bolts back in, make sure you put the negative bolt in first and then the positive bolt in second.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AHeeOEEURwZHKagT.standard"
+            ],
+            "StepId": 62350,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Battery"
+}

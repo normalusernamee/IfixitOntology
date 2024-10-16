@@ -1,0 +1,120 @@
+{
+    "Title": "Repairing TOYOTA COROLLA Dashboard Clock",
+    "Ancestors": [
+        "Toyota Corolla",
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 5848,
+    "Category": "2000-2007 Toyota Corolla",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "putty knife",
+            "Url": "http://amzn.com/B003ZDOO06",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "soldering station",
+            "Url": "https://www.ifixit.com/Tools/Soldering-Station/IF145-018",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/OiyVpTEtEQyw1Ije.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Repairing+TOYOTA+COROLLA+Dashboard+Clock/5848",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "first , pry the trim up from around the shift lever , lifting straight up . then , pull the fan speed knob out from the dashboard . remove the screw from behind it ."
+                }
+            ],
+            "Text_raw": "First, pry the trim up from around the shift lever, lifting straight up. Then, pull the fan speed knob out from the dashboard. Remove the screw from behind it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OqX5N16JUK4g6Lw1.standard"
+            ],
+            "StepId": 25859,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "you'll need to carefully pull the whole instrument cluster out of the dashboard . the plastic clips circled in red are what is holding it in , so carefully pry there . a putty knife or other thin blade may help ."
+                }
+            ],
+            "Text_raw": "You'll need to carefully pull the whole instrument cluster out of the dashboard. The plastic clips circled in red are what is holding it in, so carefully pry there. A putty knife or other thin blade may help.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3WgWr6pHqV1fWANj.standard"
+            ],
+            "StepId": 25860,
+            "Tools_extracted": [
+                "putty knife"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "there are little plastic tabs that hold the clock into the dash panel , so pull them back a little to release the clock . remove the electical connector by pressing the tab on the side of the connector ."
+                }
+            ],
+            "Text_raw": "There are little plastic tabs that hold the clock into the dash panel, so pull them back a little to release the clock. Remove the electical connector by pressing the tab on the side of the connector.",
+            "Images": [],
+            "StepId": 25861,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "pry up the black tabs , 2 top and 2 bottom , to release the face of the clock ."
+                },
+                {
+                    "Text": "find the 5 black devices on the circuit board . here they are labeled 270 , 510 , and 3 at 181. these are what need to be resoldered ."
+                },
+                {
+                    "Text": "carefully remelt the solder at each end of each device . you probably don't need to add any solder , and you don't want to make any solder bridges where they shouldn't be ."
+                }
+            ],
+            "Text_raw": "Pry up the black tabs, 2 top and 2 bottom, to release the face of the clock. Find the 5 black devices on the circuit board. Here they are labeled 270, 510, and 3 at 181. These are what need to be resoldered. Carefully remelt the solder at each end of each device. You probably don't need to add any solder, and you don't want to make any solder bridges where they shouldn't be.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JBHLMZf3vCittNKa.standard"
+            ],
+            "StepId": 25862,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "you can now plug the clock back in and see if it works . if so , put it all back together :"
+                },
+                {
+                    "Text": "snap the clock back together , and back into its place in the dashboard ."
+                },
+                {
+                    "Text": "snap the dashboard back in place . put the screw back in behind the fan knob . put the fan knob back in ."
+                }
+            ],
+            "Text_raw": "You can now plug the clock back in and see if it works. If so, put it all back together: Snap the clock back together, and back into its place in the dashboard. Snap the dashboard back in place. Put the screw back in behind the fan knob. Put the fan knob back in.",
+            "Images": [],
+            "StepId": 25863,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Dashboard Clock"
+}

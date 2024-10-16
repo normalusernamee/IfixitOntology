@@ -1,0 +1,256 @@
+{
+    "Title": "2013 Kia Forte Wheel Replacement",
+    "Ancestors": [
+        "Kia",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 40577,
+    "Category": "Kia Forte",
+    "Toolbox": [
+        {
+            "Name": "lug wrench",
+            "Url": "http://www.amazon.com/Wilmar-W2-Metric-Lug-Wrench/dp/B000FW2NU8/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889157&sr=1-1&keywords=lug+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack hook",
+            "Url": "/Item/Jack_hook",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "car jack",
+            "Url": "/Item/Car_jack",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2013+Kia+Forte+Wheel+Replacement/40577",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "open trunk . most 2013 models do not have a trunk button on the remote . in order to open trunk , hold down unlock button ."
+                }
+            ],
+            "Text_raw": "Open trunk.  Most 2013 models do not have a trunk button on the remote.  In order to open trunk, hold down unlock button.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HgyqoB6BXTOyYiFA.standard"
+            ],
+            "StepId": 93135,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the three trunk mats , shown in order ."
+                },
+                {
+                    "Text": "the bottom , hard plastic mat serves as a surface to lay on , if need , whilst changing tire ."
+                }
+            ],
+            "Text_raw": "Remove the three trunk mats, shown in order. The bottom, hard plastic mat serves as a surface to lay on, if need, whilst changing tire.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hwyWHq3NS3HgDSUS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BWYLSu5vtoEUQATY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/o3EPODKXRyBJ22vQ.standard"
+            ],
+            "StepId": 93137,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "spare tire and tools needed to change tire are located under the trunk mats ."
+                },
+                {
+                    "Text": "the jack and lug wrench are placed in a styrofoam container on top of the spare tire ."
+                }
+            ],
+            "Text_raw": "Spare tire and tools needed to change tire are located under the trunk mats. The jack and lug wrench are placed in a styrofoam container on top of the spare tire.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BxrXkrlkUpUtQlPV.standard"
+            ],
+            "StepId": 93138,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "turning counterclockwise , unscrew and remove plastic place holder in center of spare tire ."
+                }
+            ],
+            "Text_raw": "Turning counterclockwise, unscrew and remove plastic place holder in center of spare tire.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SoktKc2FHebYIPxJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kymophBMNkG4if3n.standard"
+            ],
+            "StepId": 93139,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "loosen lug nuts turning counterclockwise , one turn each ."
+                },
+                {
+                    "Text": "do not loosen lug nuts by circling the tire . loosen them first in the 1 , 3 and 5 positions ( shown in red circles ; the '1 ' position pointing north ) . after loosening the 1 , 3 and 5 positions , loosen 2 and 4."
+                },
+                {
+                    "Text": "do not completely remove any lug nuts until tire is raised from ground ."
+                }
+            ],
+            "Text_raw": "Loosen lug nuts turning counterclockwise, one turn each. Do not loosen lug nuts by circling the tire.  Loosen them first in the 1, 3 and 5 positions (shown in red circles; the '1' position pointing north).  After loosening the 1, 3 and 5 positions, loosen 2 and 4. Do not completely remove ANY lug nuts until tire is raised from ground.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/J6KSY21JvQkdDVOl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WR2Xwyc2nZ2DUM2m.standard"
+            ],
+            "StepId": 93140,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "place jack under jack plate , under appropriate tire ."
+                },
+                {
+                    "Text": "jack plates are welded to frame with two tabs and raised dots to indicate index with jack ."
+                }
+            ],
+            "Text_raw": "Place jack under jack plate, under appropriate tire. Jack plates are welded to frame with two tabs and raised dots to indicate index with jack.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5Vv1EnCTngTXkTPa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Pu3ZxpCEUepVtlqT.standard"
+            ],
+            "StepId": 93142,
+            "Tools_extracted": [
+                "jack"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "insert jack hook into loop on jack ."
+                },
+                {
+                    "Text": "insert end of jack hook into lug wrench ."
+                },
+                {
+                    "Text": "to raise vehicle turn the lug wrench , attached to jack hook , clockwise . turn until tire is one inch ( approximately 30 mm ) off ground ."
+                }
+            ],
+            "Text_raw": "Insert jack hook into loop on jack. Insert end of jack hook into lug wrench. To raise vehicle turn the lug wrench, attached to jack hook, clockwise.  Turn until tire is one inch (approximately 30mm) off ground.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ESHirnTUtngP4WeS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GK3HysEIM3mrTfiP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dhQHAqt3HLUEAtEV.standard"
+            ],
+            "StepId": 93151,
+            "Tools_extracted": [
+                "jack hook",
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "once tire is elevated , remove lug nuts by hand ."
+                },
+                {
+                    "Text": "be aware that the tire will shift as lug nuts are removed ."
+                },
+                {
+                    "Text": "after removing lug nuts , carefully take tire off of frame ."
+                }
+            ],
+            "Text_raw": "Once tire is elevated, remove lug nuts by hand. Be aware that the tire will shift as lug nuts are removed. After removing lug nuts, carefully take tire off of frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Z52jcrDwJMpxgXue.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rtPjZ6KSZsmKwEKE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rOnQfoqeZlwbXIX2.standard"
+            ],
+            "StepId": 93159,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "place spare tire onto frame ."
+                },
+                {
+                    "Text": "hand tighten lug nuts ( the 1 , 3 and 5 positions first ) until secure ."
+                }
+            ],
+            "Text_raw": "Place spare tire onto frame. Hand tighten lug nuts (the 1, 3 and 5 positions first) until secure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SYA5EFNC5boeabMV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/M1BRsNLLjDXxxQER.standard"
+            ],
+            "StepId": 93161,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "lower vehicle , turning jack counterclockwise , until tire touches ground ."
+                },
+                {
+                    "Text": "tighten lug nuts ( again , beginning with the 1 , 3 and 5 positions ) with lug wrench until secure ."
+                }
+            ],
+            "Text_raw": "Lower vehicle, turning jack counterclockwise, until tire touches ground. Tighten lug nuts (again, beginning with the 1, 3 and 5 positions) with lug wrench until secure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZHcestXCogTQ2Vto.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NbQkJ5DiS1ePZdH3.standard"
+            ],
+            "StepId": 93163,
+            "Tools_extracted": [
+                "lug wrench",
+                "jack"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "congratulations , your tire is changed !"
+                },
+                {
+                    "Text": "note : obey the speed limitations of your spare tire . exceeding the recommended speed is dangerous and can damage the spare ."
+                }
+            ],
+            "Text_raw": "Congratulations, your tire is changed! NOTE: obey the speed limitations of your spare tire.  Exceeding the recommended speed is dangerous and can damage the spare.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Z52Mqvx1gQM2ZVgT.standard"
+            ],
+            "StepId": 93164,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Wheel"
+}

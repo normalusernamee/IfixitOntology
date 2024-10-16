@@ -1,0 +1,112 @@
+{
+    "Title": "Repairing Toyota Sienna air filter vacuum connector",
+    "Ancestors": [
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 10556,
+    "Category": "Toyota Sienna",
+    "Toolbox": [
+        {
+            "Name": "drill",
+            "Url": "/Item/9_32_drill",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "loctite glue",
+            "Url": "/Item/Loctite_glue",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "box wrenches",
+            "Url": "/Item/Small_box_wrenches",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Repairing+Toyota+Sienna+air+filter+vacuum+connector/10556",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "2008 toyota sienna airfilter with broken plastic vacuum connector thanks to a reckless oil change facility ."
+                }
+            ],
+            "Text_raw": "2008 Toyota Sienna airfilter with broken plastic vacuum connector thanks to a reckless oil change facility.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3vYNN1lLloVbSg5R.standard"
+            ],
+            "StepId": 38344,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove cover for the vehicle and carefully saw off the rest of the broken connector so it is flush with the cover and will be easier to drill out ."
+                }
+            ],
+            "Text_raw": "Remove cover for the vehicle and carefully saw off the rest of the broken connector so it is flush with the cover and will be easier to drill out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/61SVlsLGJ1I4lIEa.standard"
+            ],
+            "StepId": 38345,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "drill out the old remaining connector with a 9 /32 inch drill bit . you must use a 9 /32 only so that the new metal connector with fit snug ."
+                }
+            ],
+            "Text_raw": "Drill out the old remaining connector with a 9/32 inch drill bit. ** you must use a 9/32 only so that the new metal connector with fit snug.**",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cTDnaA1DTny3JNj1.standard"
+            ],
+            "StepId": 38346,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "insert new metal connector with a little loctite glue using a small box wrench ."
+                }
+            ],
+            "Text_raw": "Insert new metal connector with a little loctite glue using a small box wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/w1MpAkhNFxkUNWYm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ELeMDt1XeFJiWwaM.standard"
+            ],
+            "StepId": 38347,
+            "Tools_extracted": [
+                "loctite glue"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "replace airfilter ( new one if needed ) and re-attach vacuum hoses to housing in car . pat self on the back for saving 400."
+                }
+            ],
+            "Text_raw": "Replace airfilter (new one if needed) and re-attach vacuum hoses to housing in car. Pat self on the back for saving $400.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ww4vdJeXfCLadwKu.standard"
+            ],
+            "StepId": 38348,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

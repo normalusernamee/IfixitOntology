@@ -1,0 +1,133 @@
+{
+    "Title": "2000 Jeep Grand Cherokee spark plug replacement",
+    "Ancestors": [
+        "Jeep Grand Cherokee",
+        "Jeep",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 15113,
+    "Category": "1999-2004 Jeep Grand Cherokee",
+    "Toolbox": [
+        {
+            "Name": "13 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-14145-8-Inch-Shallow-6-Point/dp/B000NY5CQK/ref=sr_1_1?ie=UTF8&qid=1488830200&sr=8-1&keywords=13mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 8 spark plug socket",
+            "Url": "http://www.amazon.com/dp/B004QO9F0W/ref=cm_sw_su_dp",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2000+Jeep+Grand+Cherokee+spark+plug+replacement/15113",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the 4.0 l 6cylinder engine uses a one-piece coil rail containing three independent coils . located on the right hand side ( passenger side ) of the engine ."
+                },
+                {
+                    "Text": "the one-piece coil bolts directly to the cylinder head with 4 13 mm hex bolt ( m8 x50 ) . 3 of the bolts are immediately visible ."
+                },
+                {
+                    "Text": "the fourth one is somewhat hidden in the back , under the coolant lines for the heater . the hoses can easily be moved out of the way ."
+                }
+            ],
+            "Text_raw": "The 4.0L 6\u2013cylinder engine uses a one-piece coil rail containing three independent coils. Located on the right hand side (passenger side) of the engine. The one-piece coil bolts directly to the cylinder head with 4 13mm hex bolt (M8X50). 3 of the bolts are immediately visible. The fourth one is somewhat hidden in the back, under the coolant lines for the heater. The hoses can easily be moved out of the way.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tRE1PltGOMkDakaC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PShcbAFtf52uxLby.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vOtbbxbGCAEKNSf6.standard"
+            ],
+            "StepId": 49185,
+            "Tools_extracted": [
+                "socket"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "start removing the 13 mm bolts from the coil rail . use an extension will make it easier to clear the radiator hoses and throttle cables ."
+                },
+                {
+                    "Text": "use a smaller extension to remove the 4th bolt in the back of the rail ."
+                },
+                {
+                    "Text": "all 4 bolts are identical in size and need not to be separated ."
+                }
+            ],
+            "Text_raw": "Start removing the 13mm bolts from the coil rail. Use an extension will make it easier to clear the radiator hoses and throttle cables. Use a smaller extension to remove the 4th bolt in the back of the rail. All 4 bolts are identical in size and need not to be separated.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IFPNnJRQPkCgldAd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/E2kuIVBNPVORhNBH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vX2JfO2GlMndHfxE.standard"
+            ],
+            "StepId": 49186,
+            "Tools_extracted": [
+                "3 8 inch drive socket ratchet extension"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "with all 4 bolts removed , the rail should easily pull off the spark plugs . one electrical connector ( located at the rear end of the coil rail ) is used for all three coils . it is not necessary to totally remove the rail for a spark plug change ."
+                },
+                {
+                    "Text": "rubber boots seal the secondary terminal ends of the coils to the top of all 6 spark plugs ."
+                },
+                {
+                    "Text": "use a 5 /8 inch spark plug socket and extension to remove the spark plug . again , the ignition rail can be easily moved out of the way ."
+                }
+            ],
+            "Text_raw": "With all 4 bolts removed, the rail should easily pull off the spark plugs.  One electrical connector (located at the rear end of the coil rail) is used for all three coils. It is not necessary to totally remove the rail for a spark plug change. Rubber boots seal the secondary terminal ends of the coils to the top of all 6 spark plugs. Use a 5/8inch spark plug socket and extension to remove the spark plug. Again, the ignition rail can be easily moved out of the way.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MYyOxHSqCIB34wNA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PC1JnFRoO4nadHRq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Hyi1fJ6XCAjZOIHD.standard"
+            ],
+            "StepId": 49187,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "continue to remove all spark plugs ."
+                },
+                {
+                    "Text": "to remove the last spark plug in the rear , use a longer extension . always ensure that the socket is properly seated on the spark plug ."
+                },
+                {
+                    "Text": "with all spark plugs removed , it is clearly visible that these plugs were in definite need to be replaced ."
+                }
+            ],
+            "Text_raw": "Continue to remove all spark plugs. To remove the last spark plug in the rear, use a longer extension. Always ensure that the socket is properly seated on the spark plug. With all spark plugs removed, it is clearly visible that these plugs were in definite need to be replaced.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MANsNKKliBUBWQZQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MTGqXHtqZAu11ZtG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/m1NM6KHtWgffF65V.standard"
+            ],
+            "StepId": 49188,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        }
+    ],
+    "Subject": "Spark Plugs"
+}

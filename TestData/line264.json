@@ -1,0 +1,155 @@
+{
+    "Title": "Kenwood KDC-BT565U LCD Screen Replacement",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 87397,
+    "Category": "Kenwood KDC-BT565U",
+    "Toolbox": [
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        },
+        {
+            "Name": "opening tool",
+            "Url": "https://www.ifixit.com/Store/Parts/iFixit-Opening-Tool/IF145-335",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Kenwood+KDC-BT565U+LCD+Screen+Replacement/87397",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "press the eject button on the bottom left corner of the face plate ."
+                }
+            ],
+            "Text_raw": "Press the eject button on the bottom left corner of the face plate.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1YeglOXTEBVthbGG.standard"
+            ],
+            "StepId": 165156,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "begin by slightly lifting the face plate out from the side located by the release button ."
+                },
+                {
+                    "Text": "slide towards the side of the eject button , ''then'' completely lift out ."
+                }
+            ],
+            "Text_raw": "Begin by slightly lifting the face plate out from the side located by the release button. Slide towards the side of the eject button, ''then'' completely lift out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YY2AZG4xbVUhNHTm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vDWPP3ofgFH2PQyO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2wd4yIIiOE1HHLoP.standard"
+            ],
+            "StepId": 165160,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the four 7.5 mm phillips 0 screws on the back of the face-plate ."
+                }
+            ],
+            "Text_raw": "Remove the four 7.5mm Phillips #0 screws on the back of the face-plate.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/o1ITJvKic5VId3bm.standard"
+            ],
+            "StepId": 165167,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use a spudger or prying tool to open the back of the face plate . pry the back at multiple points around the edge of the face plate . this will take some patience . applying too much force risks breaking the plastic ."
+                }
+            ],
+            "Text_raw": "Use a spudger or prying tool to open the back of the face plate. Pry the back at multiple points around the edge of the face plate. This will take some patience. Applying too much force risks breaking the plastic.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3Xlq2eOEJaNrVURX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gjdJAIvYek2HOSbb.standard"
+            ],
+            "StepId": 165168,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "lift and remove the motherboard to reveal the inside of the front panel ."
+                },
+                {
+                    "Text": "you might need to pry the right side up with the spudger ."
+                }
+            ],
+            "Text_raw": "Lift and remove the motherboard to reveal the inside of the front panel. You might need to pry the right side up with the spudger.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hMxUlMQAEXX4cp5V.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GvLvtsB6IWIJUYCh.standard"
+            ],
+            "StepId": 165170,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "use the plastic spudger to straighten out the six pegs to allow the removal of the lcd screen ."
+                },
+                {
+                    "Text": "make sure to use an prying tool when working on electrical boards . here , we are using a plastic tool , not a metal one ."
+                }
+            ],
+            "Text_raw": "Use the plastic spudger to straighten out the six pegs to allow the removal of the LCD screen. Make sure to use an [https://en.wikipedia.org/wiki/Electrostatic_discharge|ESD]-safe prying tool when working on electrical boards. Here, we are using a plastic tool, not a metal one.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZiFjMVADA3aO1bLK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KvqS4k6PZ5TXuk5W.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DRr6GYgUXURnbx6I.standard"
+            ],
+            "StepId": 165172,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "lift the lcd screen to remove and replace it ."
+                }
+            ],
+            "Text_raw": "Lift the LCD screen to remove and replace it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/E11CtKLU2p3kdw1D.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/havsOqIqMZmDxLXh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZUDjWkcebmjyYDPj.standard"
+            ],
+            "StepId": 165173,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "LCD Screen"
+}

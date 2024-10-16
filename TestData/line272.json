@@ -1,0 +1,80 @@
+{
+    "Title": "2012-2017 Toyota Camry Oil and Oil Filter Replacement",
+    "Ancestors": [
+        "Toyota Camry",
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 95166,
+    "Category": "2012-2017 Toyota Camry",
+    "Toolbox": [
+        {
+            "Name": "3 8 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_1?ie=UTF8&qid=1487787284&sr=8-1&keywords=3+8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "14 mm socket wrench",
+            "Url": "/Item/14_mm_socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8-inch drive extension bar",
+            "Url": "https://www.amazon.com/TEKTON-1601-8-Inch-Extension-3-Piece/dp/B00943KFTA/ref=sr_1_1?ie=UTF8&qid=1487786894&sr=8-1&keywords=3+8+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "toyota 64 mm oil filter wrench",
+            "Url": "https://www.amazon.com/Toyota-Filter-Wrench-Lexus-Vehicles/dp/B01E0H5WWY",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "long neck funnel",
+            "Url": "https://www.amazon.com/Hopkins-FloTool-10701-Multi-Purpose-Funnel/dp/B0000AXRH5/ref=sr_1_5?s=automotive&ie=UTF8&qid=1487885962&sr=1-5&keywords=funnel",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "paper towels",
+            "Url": "http://www.amazon.com/Sparkle-Paper-Towels-Giant-Pick-A-Size/dp/B00BGN8PLG/ref=sr_1_1?ie=UTF8&qid=1390949049&sr=8-1&keywords=paper+towel",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2012+2013+2014+2015+2016+2017+Toyota+Camry+Oil+and+Oil+Filter+Replacement/95166",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "insert wisdom here ."
+                }
+            ],
+            "Text_raw": "Insert wisdom here.",
+            "Images": [],
+            "StepId": 176610,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "insert wisdom here ."
+                }
+            ],
+            "Text_raw": "Insert wisdom here.",
+            "Images": [],
+            "StepId": 176611,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Oil and Oil Filter"
+}

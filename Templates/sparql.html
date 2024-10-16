@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPARQL Queries</title>
+</head>
+<body>
+    <h1>Predefined SPARQL Queries</h1>
+    <ul>
+        <li>
+            <h2>Find all procedures with more than 6 steps</h2>
+            <pre>
+PREFIX ex: &lt;http://example.org/ifixit.owl#&gt;
+SELECT ?procedure
+WHERE {
+    ?procedure a ex:Procedure .
+    ?procedure ex:has_step ?step .
+}
+GROUP BY ?procedure
+HAVING (COUNT(?step) &gt; 6)
+            </pre>
+        </li>
+        <li>
+            <h2>Find all items with more than 10 procedures</h2>
+            <pre>
+PREFIX ex: &lt;http://example.org/ifixit.owl#&gt;
+SELECT ?item
+WHERE {
+    ?procedure a ex:Procedure .
+    ?procedure ex:has_Item ?item .
+}
+GROUP BY ?item
+HAVING (COUNT(?procedure) &gt; 10)
+            </pre>
+        </li>
+        <li>
+            <h2>Find procedures including tools not mentioned in steps</h2>
+            <pre>
+PREFIX ex: &lt;http://example.org/ifixit.owl#&gt;
+SELECT ?procedure ?tool WHERE {
+    ?procedure a ex:Procedure .
+    ?procedure ex:has_step ?step .
+    ?procedure ex:requiresTool ?tool .
+    FILTER NOT EXISTS {
+        ?step ex:requiresTool ?tool .
+    }
+}
+            </pre>
+        </li>
+    </ul>
+    <p><a href="{{ url_for('home') }}">Back to Home</a></p>
+</body>
+</html>

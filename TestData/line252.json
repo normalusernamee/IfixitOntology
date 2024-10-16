@@ -1,0 +1,207 @@
+{
+    "Title": "1999 Buick Century Window Regulator and Motor Replacement",
+    "Ancestors": [
+        "Buick Century",
+        "Buick",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 74107,
+    "Category": "1997\u20132005 Buick Century",
+    "Toolbox": [
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "gloves",
+            "Url": "/Item/Gloves",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1999+Buick+Century+Window+Regulator+and+Motor+Replacement/74107",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "lower window to about \u00be of the way down or until the frame that the window sits on is visible in the lower opening ."
+                }
+            ],
+            "Text_raw": "Lower window to about \u00be of the way down or until the frame that the window sits on is visible in the lower opening.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/e6R1UFkJoXTFDFLf.standard"
+            ],
+            "StepId": 149662,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate the 3 screws in the door ."
+                },
+                {
+                    "Text": "1 screw is in the door latch ( phillips head )"
+                },
+                {
+                    "Text": "the other 2 are in the door tray ( 10 mm socket )"
+                }
+            ],
+            "Text_raw": "Locate the 3 screws in the door. 1 screw is  in the door latch (phillips head) The other 2 are in the door tray (10mm socket)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RafOxkcUOIhAnYEF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/X2vwELW1lJMkP1p2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HT65KoPrYoxuFfud.standard"
+            ],
+            "StepId": 149597,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver",
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "pry away the door ( a flat head can be used as seen in the image , but any wedge like object would work . )"
+                }
+            ],
+            "Text_raw": "Pry away the door (a flat head can be used as seen in the image, but any wedge like object would work.)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XFpn2LsmM2Bdp6KY.standard"
+            ],
+            "StepId": 149618,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "tweeter connection ( circled in red )"
+                },
+                {
+                    "Text": "disconnect the tweeter connection where the red arrow is pointing ."
+                },
+                {
+                    "Text": "automatic lock connection ( circled in green )"
+                },
+                {
+                    "Text": "disconnect the automatic lock connection from its location in the green circle ."
+                }
+            ],
+            "Text_raw": "Tweeter Connection (circled in red) Disconnect the tweeter connection where the red arrow is pointing. Automatic Lock Connection (circled in green) Disconnect the automatic lock connection from its location in the green circle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TU1rItLuj1LxeDRx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Jss33ZUUdBicfN1o.standard"
+            ],
+            "StepId": 149604,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "if the internal door panel is covered with protective plastic , remove it before proceeding ."
+                }
+            ],
+            "Text_raw": "If the internal door panel is covered with protective plastic, remove it before proceeding.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MFlKnX2UUEGS4Be2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CBqSxF5TO3JiPQrm.standard"
+            ],
+            "StepId": 149607,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "locate and remove the 3 screws holding the window motor in place ( wrench and 10 mm socket needed ) ."
+                },
+                {
+                    "Text": "disconnect the window motor connection wiring ."
+                },
+                {
+                    "Text": "wedge in-between the outer shell of the door and the window to hold the window in place ( be careful not to damage the window . may have to stick it in at an angle ) ."
+                }
+            ],
+            "Text_raw": "Locate and remove the 3 screws holding the window motor in place (Wrench and 10mm socket needed). Disconnect the window motor connection wiring. Wedge in-between the outer shell of the door and the window to hold the window in place (be careful not to damage the window. May have to stick it in at an angle).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fsy13jJKBlfLsdvn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4kErSpBpy5A3xCvV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/smCZNR2MeQwWqnI5.standard"
+            ],
+            "StepId": 149615,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "locate and remove the four 10 mm screws below the interior door latch ."
+                },
+                {
+                    "Text": "locate and remove the two 10 mm screws on the window frame ."
+                },
+                {
+                    "Text": "remove the motor and the regulator through the hole ."
+                }
+            ],
+            "Text_raw": "Locate and Remove the four 10mm screws below the interior door latch. Locate and remove the two 10mm screws on the window frame. Remove the motor and the regulator through the hole.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KTJGQg3t1hKtZ53n.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YlaFCWi5l2wj4KaR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HIwIqClYgauFlV3S.standard"
+            ],
+            "StepId": 149617,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "follow steps in reverse order to connect the new window motor and regulator and to reassemble the door panel ."
+                }
+            ],
+            "Text_raw": "Follow steps in reverse order to connect the new window motor and regulator and to reassemble the door panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RCMQVufUbD4VCFHQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TVS1tn2WO2IupbhT.standard"
+            ],
+            "StepId": 149640,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Window Regulator and Motor"
+}

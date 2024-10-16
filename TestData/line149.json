@@ -1,0 +1,234 @@
+{
+    "Title": "How to change Mercedes W123 coolant",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22768,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431007052&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=3%2F8%20socket%20wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+change+Mercedes+W123+coolant/22768",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "with the hood on your car up , begin by opening the radiator cap to allow the radiator to drain more efficiently ."
+                },
+                {
+                    "Text": "for this step , and every step going forward , remember to never work on your cooling system when it is hot . hot coolant can easily scald and lead to serious injuries ."
+                }
+            ],
+            "Text_raw": "With the hood on your car up, begin by opening the radiator cap to allow the radiator to drain more efficiently. For this step, and every step going forward, remember to never work on your cooling system when it is hot. Hot coolant can easily scald and lead to serious injuries.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SORK54d62DnKDRIU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oJrMxbHtouEwCMam.standard"
+            ],
+            "StepId": 59640,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "under the car , just behind the front bumper , find the radiator drain plug ."
+                },
+                {
+                    "Text": "remove it with a large phillips head screwdriver ."
+                },
+                {
+                    "Text": "notice that the drain plug has a small hook on it . this keeps it from falling in to your drain pan as you drain the radiator . you will have to pull it out once the radiator has stopped draining ."
+                }
+            ],
+            "Text_raw": "Under the car, just behind the front bumper, find the radiator drain plug. Remove it with a large Phillips head screwdriver. Notice that the drain plug has a small hook on it. This keeps it from falling in to your drain pan as you drain the radiator. You will have to pull it out once the radiator has stopped draining.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hkuUPSaQsUlGTLtN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WlglVVFrlEBIAfRM.standard"
+            ],
+            "StepId": 59641,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "allow the radiator to fully drain . a high-sided collection pan is helpful since it can splash a good bit as it drains rapidly ."
+                },
+                {
+                    "Text": "once the radiator has drained fully , install a new drain plug . it is recommended that you not re-use the old plug since it is plastic ."
+                }
+            ],
+            "Text_raw": "Allow the radiator to fully drain. A high-sided collection pan is helpful since it can splash a good bit as it drains rapidly. Once the radiator has drained fully, install a new drain plug. It is recommended that you not re-use the old plug since it is plastic.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bfcePnH1T2GkvAwU.standard"
+            ],
+            "StepId": 59642,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "the radiator only holds approximately half of the coolant in the system . in order to completely drain the system you will need to also drain the engine block through its coolant drain plug ."
+                },
+                {
+                    "Text": "begin by moving your catch pan back beneath the passenger side engine mount area , which is also just below the exhaust pipe ."
+                }
+            ],
+            "Text_raw": "The radiator only holds approximately half of the coolant in the system. In order to completely drain the system you will need to also drain the engine block through its coolant drain plug. Begin by moving your catch pan back beneath the passenger side engine mount area, which is also just below the exhaust pipe.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qlM5Nad3hhRlqZVH.standard"
+            ],
+            "StepId": 59643,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "the coolant drain plug on the side of the engine block cannot be seen from above the car . even on this non-turbo the exhaust pipe is in the way , and it's beneath the throttle linkages that go to the transmission . it is located in the approximate location noted , behind the exhaust pipe ."
+                },
+                {
+                    "Text": "it can be seen , with some effort , from below the car up through the tie-rods and other components ."
+                },
+                {
+                    "Text": "if possible , as it is on the non-turbo cars , remove this bolt from above so as to not be in the way of the coolant as it drains . it can be done by feel once you've oriented yourself to the location of the bolt . it is removed using a 19 mm socket , an extension , and a ratchet wrench ."
+                },
+                {
+                    "Text": "it may be necessary to remove the bolt from below the car on turbo engine cars . if this is the case be prepared to quickly move out of the way and place the drain pan underneath . coolant drains from this very rapidly ."
+                }
+            ],
+            "Text_raw": "The coolant drain plug on the side of the engine block cannot be seen from above the car. Even on this non-turbo the exhaust pipe is in the way, and it's beneath the throttle linkages that go to the transmission. It is located in the approximate location noted, behind the exhaust pipe. It can be seen, with some effort, from below the car up through the tie-rods and other components. If possible, as it is on the non-turbo cars, remove this bolt from above so as to not be in the way of the coolant as it drains. It can be done by feel once you've oriented yourself to the location of the bolt. It is removed using a 19mm socket, an extension, and a ratchet wrench. It may be necessary to remove the bolt from below the car on turbo engine cars. If this is the case be prepared to quickly move out of the way and place the drain pan underneath. Coolant drains from this very rapidly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/STUL4xefanPMJ22K.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IvbVWvoFfFjJPv36.standard"
+            ],
+            "StepId": 59644,
+            "Tools_extracted": [
+                "3 8 inch drive socket ratchet extension"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "shown here is the coolant drain bolt from the block . plan to replace the washer after removal ."
+                },
+                {
+                    "Text": "note how short this bolt is . this means it will come out of the block sooner than you may expect it to . for this reason , as soon as it begins to feel loose enough when using the wrench to switch to turning it out by hand , this should be done . otherwise your wrench , extension , socket , etc . may be in the way and will get covered in coolant ."
+                },
+                {
+                    "Text": "when this drains the spray from the hole will hit the exhaust pipe , splash off of the engine cross-member , etc . it's definitely the messiest fluid change on these cars . catch as much as you can in the catch pan and use kitty litter to soak up any that lands on your driveway ."
+                }
+            ],
+            "Text_raw": "Shown here is the coolant drain bolt from the block. Plan to replace the washer after removal. Note how short this bolt is. This means it will come out of the block sooner than you may expect it to. For this reason, as soon as it begins to feel loose enough when using the wrench to switch to turning it out by hand, this should be done. Otherwise your wrench, extension, socket, etc. may be in the way and will get covered in coolant. When this drains the spray from the hole will hit the exhaust pipe, splash off of the engine cross-member, etc. It's definitely the messiest fluid change on these cars. Catch as much as you can in the catch pan and use kitty litter to soak up any that lands on your driveway.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CSje1hgHBmd2pMXC.standard"
+            ],
+            "StepId": 59645,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "before filling the engine with new coolant be sure to replace the block drain plug and tighten it down ."
+                },
+                {
+                    "Text": "use only genuine mercedes coolant or an appropriate formulation if using another brand . these coolants are designed to be compatible with the materials used in the w123 cooling system ."
+                },
+                {
+                    "Text": "pre-mix the coolant and water in a clean container . mix up a total of 3 gallons . on this car this meant using 1 gallon of coolant and 2 gallons of water , but it will depend on your climate . the system will take about 2.5 gallons of coolant/water mix at first , and then the remainder after some bleeding and driving for a few days ."
+                }
+            ],
+            "Text_raw": "Before filling the engine with new coolant be sure to replace the block drain plug and tighten it down. Use only Genuine Mercedes coolant or an appropriate formulation if using another brand. These coolants are designed to be compatible with the materials used in the W123 cooling system. Pre-mix the coolant and water in a clean container. Mix up a total of 3 gallons. On this car this meant using 1 gallon of coolant and 2 gallons of water, but it will depend on your climate. The system will take about 2.5 gallons of coolant/water mix at first, and then the remainder after some bleeding and driving for a few days.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qXA4DYVeXvnggUAp.standard"
+            ],
+            "StepId": 59646,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "the radiator is full when it reaches the bottom of the radiator fill neck ."
+                },
+                {
+                    "Text": "it can help shorten the bleeding process if you pour in the coolant very slowly . this allows it to displace the air more effectively . you can also squeeze the upper and lower radiator hoses to burp the system ."
+                },
+                {
+                    "Text": "once you've filled the system with coolant it must be bled . to do this , start the car with the radiator cap off as shown ."
+                },
+                {
+                    "Text": "then , turn on the climate control to the def ( defrost ) setting . this will open the flow of coolant to move it through the heater core ."
+                },
+                {
+                    "Text": "run the engine until it reaches about 60 c / 140 f . you'll see bubbles from the coolant neck . if it gets low , top it off ."
+                }
+            ],
+            "Text_raw": "The radiator is full when it reaches the bottom of the radiator fill neck. It can help shorten the bleeding process if you pour in the coolant very slowly. This allows it to displace the air more effectively. You can also squeeze the upper and lower radiator hoses to \"burp\" the system. Once you've filled the system with coolant it must be bled. To do this, start the car with the radiator cap off as shown. Then, turn on the climate control to the DEF (defrost) setting. This will open the flow of coolant to move it through the heater core. Run the engine until it reaches about 60\u00b0C / 140\u00b0F. You'll see bubbles from the coolant neck. If it gets low, top it off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fCGYaui1UlxwK54X.standard"
+            ],
+            "StepId": 59647,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "at this time replace the radiator cap . take the car out for a test drive . when you return , check for leaks from the two drain plugs and the radiator cap ."
+                },
+                {
+                    "Text": "over the next few days , the morning after you've driven the car and it's had time to cool off fully , open the cap and check the level . it will continue to work out a bit of air and the level may drop . keep it topped off until it is finished fully bleeding ."
+                }
+            ],
+            "Text_raw": "At this time replace the radiator cap. Take the car out for a test drive. When you return, check for leaks from the two drain plugs and the radiator cap. Over the next few days, the morning after you've driven the car and it's had time to cool off fully, open the cap and check the level. It will continue to work out a bit of air and the level may drop. Keep it topped off until it is finished fully bleeding.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DBXyM2ysr3ZsfJpm.standard"
+            ],
+            "StepId": 59648,
+            "Tools_extracted": [
+                "3 8 inch drive socket ratchet extension"
+            ]
+        }
+    ],
+    "Subject": ""
+}

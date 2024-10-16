@@ -1,0 +1,273 @@
+{
+    "Title": "How to Rotate Your Tires",
+    "Ancestors": [
+        "Auto Part",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 10943,
+    "Category": "Tire",
+    "Toolbox": [
+        {
+            "Name": "3 4 socket",
+            "Url": "/Item/3_4%27%27_socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "/Item/Socket_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+Rotate+Your+Tires/10943",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "place the hydraulic floor jack under the vehicle until the '''''saddle''''' is directly under the '''''crossmember''''' ."
+                },
+                {
+                    "Text": "the '''''crossmember''''' is the long metal support beam that runs underneath from the front fender to the rear fender on both sides of the car ."
+                },
+                {
+                    "Text": "the '''''saddle''''' is the round metal part of the jack that moves upward as you pump the jack up ."
+                }
+            ],
+            "Text_raw": "Place the hydraulic floor jack under the vehicle until the '''''saddle''''' is directly under the '''''crossmember'''''. The '''''crossmember''''' is the long metal support beam that runs underneath from the front fender to the rear fender on both sides of the car. The '''''saddle''''' is the round metal part of the jack that moves upward as you pump the jack up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UFHnKqTQJabuV5As.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lSNqNbjkuDKB6ebD.standard"
+            ],
+            "StepId": 39942,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "push downward on the jack's lever to lift the saddle upward so that it contacts the crossmember . continue pushing downward on the lever to lift the car upward ."
+                }
+            ],
+            "Text_raw": "Push downward on the jack's lever to lift the saddle upward so that it contacts the crossmember. Continue pushing downward on the lever to lift the car upward.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QM4J4SBHnfjcqotk.standard"
+            ],
+            "StepId": 41974,
+            "Tools_extracted": [
+                "jack"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "place the jack stand under the jack mounting point ."
+                },
+                {
+                    "Text": "the jack mounting point is a metallic protrusion beneath each of the car doors ."
+                }
+            ],
+            "Text_raw": "Place the jack stand under the jack mounting point. The jack mounting point is a metallic protrusion beneath each of the car doors.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cktSsXVpOBuwdDRO.standard"
+            ],
+            "StepId": 39943,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "raise the jack stand until it contacts the jack mounting point ."
+                },
+                {
+                    "Text": "in the event the floor jack fails , the jack stand is designed to prevent the car from falling ."
+                }
+            ],
+            "Text_raw": "Raise the jack stand until it contacts the jack mounting point. In the event the floor jack fails, the jack stand is designed to prevent the car from falling.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vEtKlH5OqX1U56Xd.standard"
+            ],
+            "StepId": 41989,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "once the car is raised , remove the lug nuts with the ratchet attached to a 3 /4 '' socket ."
+                }
+            ],
+            "Text_raw": "Once the car is raised, remove the lug nuts with the ratchet attached to a 3/4'' socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ukFXLX53Ygbcqqqa.standard"
+            ],
+            "StepId": 40956,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the tire off the '''''wheel studs''''' and place it aside ."
+                },
+                {
+                    "Text": "the '''''wheel studs''''' are the metal bolts sticking out of the wheel hub in the center ."
+                }
+            ],
+            "Text_raw": "Remove the tire off the '''''wheel studs''''' and place it aside. The '''''wheel studs''''' are the metal bolts sticking out of the wheel hub in the center.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JrE3IBFvstErdq4A.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZSdTqld4SXEYDKmj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VJWWjZvUKoTvcGfx.standard"
+            ],
+            "StepId": 40957,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "on the same side of the vehicle , go to the rear tire ."
+                },
+                {
+                    "Text": "using a ratchet attached to a 3 /4 socket , loosen wheel lug nuts . do not remove them ."
+                },
+                {
+                    "Text": "loosening the lug nuts while the tire is on the ground prevents the tire from spinning ."
+                }
+            ],
+            "Text_raw": "On the same side of the vehicle, go to the rear tire. Using a ratchet attached to a 3/4\" socket, loosen wheel lug nuts. Do not remove them. Loosening the lug nuts while the tire is on the ground prevents the tire from spinning.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HLIZNTutOjDyqfpf.standard"
+            ],
+            "StepId": 40079,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "place the floor jack under the frame in front of the rear tire ."
+                },
+                {
+                    "Text": "make sure that you are not pressed against the plastic and you are directly on the metal frame of the vehicle ."
+                },
+                {
+                    "Text": "raise the jack until the tire is off the ground ."
+                }
+            ],
+            "Text_raw": "Place the floor jack under the frame in front of the rear tire. Make sure that you are not pressed against the plastic and you are directly on the metal frame of the vehicle. Raise the jack until the tire is off the ground.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ThT5TJyCay5V6Ie1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1iKau4q3DIQNpbJk.standard"
+            ],
+            "StepId": 40080,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "remove the lug nuts by loosening them with your hands ."
+                }
+            ],
+            "Text_raw": "Remove the lug  nuts by loosening them with your hands.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/C22SvQBIA1CGNP2A.standard"
+            ],
+            "StepId": 40081,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "remove the rear tire . roll and place the tire onto the wheel studs on the front wheel ."
+                },
+                {
+                    "Text": "tighten the lug nuts using your hand until they are tight ."
+                },
+                {
+                    "Text": "roll the previous front tire to the rear and repeat the tightening process"
+                }
+            ],
+            "Text_raw": "Remove the rear tire. Roll and place the tire onto the wheel studs on the front wheel. Tighten the lug nuts using your hand until they are tight. Roll the previous front tire to the rear and repeat the tightening process",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tgrlKISLu1xGMgyg.standard"
+            ],
+            "StepId": 40686,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "using a torque wrench , tighten the lug nuts on each wheel to 80 ft-lbs ."
+                },
+                {
+                    "Text": "if a torque wrench is not available , use the ratchet attached to the 3 /4 '' socket to hand-tighten the lug nuts until very tight ."
+                }
+            ],
+            "Text_raw": "Using a torque wrench, tighten the lug nuts on each wheel to 80 ft-lbs. If a torque wrench is not available, use the ratchet attached to the 3/4'' socket to hand-tighten the lug nuts until very tight.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XZ63CKdHEXgEhvkT.standard"
+            ],
+            "StepId": 40082,
+            "Tools_extracted": [
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "using an air compressor and the air pressure gauge , fill the front and rear tires to appropriate amount ."
+                }
+            ],
+            "Text_raw": "Using an air compressor and the air pressure gauge, fill the front and rear tires to appropriate amount.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OCkisEpMyEVeUQdv.standard"
+            ],
+            "StepId": 40302,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

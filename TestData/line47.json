@@ -1,0 +1,141 @@
+{
+    "Title": "Sony Xplod CDX-MP30 Front Screen Motherboard Replacement",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 6645,
+    "Category": "Sony Xplod CDX-MP30",
+    "Toolbox": [
+        {
+            "Name": "heavy-duty spudger",
+            "Url": "http://www.ifixit.com/Tools/Heavy-duty-Spudger/IF145-013",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/LnfuKliDtunRwbQ2.mini"
+        },
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Sony+Xplod+CDX-MP30+Front+Screen+Motherboard+Replacement/6645",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "press down the release button on the bottom left corner of the face plate ."
+                },
+                {
+                    "Text": "then remove the face plate carefully ."
+                }
+            ],
+            "Text_raw": "Press down the release button on the bottom left corner of the face plate. Then remove the face plate carefully.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SIDJJyNVQ43ho5iE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1bSgn4rSQQxY4Zrx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aPP6XuJp2ZWccQsc.standard"
+            ],
+            "StepId": 28357,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "using the phillips 0 screwdriver , unscrew the 4 ( length - 11.11 mm ) screws on the front screen ."
+                }
+            ],
+            "Text_raw": "Using the [product|IF145-005|Phillips #0 Screwdriver], unscrew the 4 (length - 11.11mm) screws on the front screen.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vWuIOwGLnKbgRslg.standard"
+            ],
+            "StepId": 30399,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use two fingers to create a small gap in the top of the faceplate , as indicated in the picture ."
+                }
+            ],
+            "Text_raw": "Use two fingers to create a small gap in the top of the faceplate, as indicated in the picture.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iuwBbGScAWtFXiZX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mmP5M6jWGwTdYDOQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2pWuk6CR1xQABSLS.standard"
+            ],
+            "StepId": 30400,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "insert the flat end of the heavy-duty spudger into the opening you created ."
+                },
+                {
+                    "Text": "slide it to the right carefully , until you feel the screen pop off ."
+                },
+                {
+                    "Text": "make sure you keep the face of the screen pointed down as you carefully lift off the freed black portion of the screen - as shown in the picture ."
+                }
+            ],
+            "Text_raw": "Insert the flat end of the [product|IF145-013|Heavy-duty Spudger] into the opening you created. Slide it to the right carefully, until you feel the screen pop off. Make sure you keep the face of the screen pointed down as you carefully lift off the freed black portion of the screen - as shown in the picture.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Rgi6VDR1Cgwgqlg2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/h6xVKLC2KcsBp5kU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/N12BXcIYHxQEOBBD.standard"
+            ],
+            "StepId": 30401,
+            "Tools_extracted": [
+                "heavy-duty spudger"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "gently grab the front motherboard - as indicated in the picture - and lift it from the rest of the screen ."
+                }
+            ],
+            "Text_raw": "Gently grab the Front Motherboard - as indicated in the picture - and lift it from the rest of the screen.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lP1kJseQGaV1GYaO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kdtCdIPZpGTgVVF5.standard"
+            ],
+            "StepId": 30402,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "to remove the lcd , please refer to the topic : solderingifixit soldering guide ."
+                },
+                {
+                    "Text": "once the lcd screen is removed , you have unrestricted access to the front screen motherboard ."
+                }
+            ],
+            "Text_raw": "To remove the LCD, please refer to the [[Topic:Soldering|iFixit soldering guide]]. Once the LCD screen is removed, you have unrestricted access to the front screen motherboard.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TKxrbOvIQTanfmWE.standard"
+            ],
+            "StepId": 30403,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Front Screen Motherboard"
+}

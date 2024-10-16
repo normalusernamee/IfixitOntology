@@ -1,0 +1,363 @@
+{
+    "Title": "Subaru CM631UD (Clarion PF-3391A-A) Line Out Mod",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 17985,
+    "Category": "Subaru CM631UD (Clarion PF-3391A-A)",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": null,
+            "Thumbnail": null
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": null,
+            "Thumbnail": null
+        },
+        {
+            "Name": "precision soldering iron",
+            "Url": "http://www.hmcelectronics.com/product/Metcal/PS-900",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Subaru+CM631UD+%28Clarion+PF-3391A-A%29+Line+Out+Mod/17985",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "this is what the front panel looks like , for the us model . the unit is manfactured by clarion for subaru . there is a china-specific model with different front panel buttons ."
+                },
+                {
+                    "Text": "the top of the case shows the clarion part number , pf-3391 a-a . a web search for this part number will find the factory service manual available , although not from clarion ."
+                }
+            ],
+            "Text_raw": "This is what the front panel looks like, for the US model. The unit is manfactured by Clarion for Subaru. There is a China-specific model with different front panel buttons. The top of the case shows the Clarion part number, PF-3391A-A. A web search for this part number will find the factory service manual available, although not from Clarion.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GhD4LSi4BjFFk6Z4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mRpfHRstjOGx4GJV.standard"
+            ],
+            "StepId": 52632,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the top of the case by removing the single screw at the rear ; then use a small screwdriver to release the top cover from the case , starting at a rear corner . lift off the cover , which has tabs at the front ."
+                },
+                {
+                    "Text": "this exposes the cd drive ."
+                }
+            ],
+            "Text_raw": "Remove the top of the case by removing the single screw at the rear; then use a small screwdriver to release the top cover from the case, starting at a rear corner. Lift off the cover, which has tabs at the front. This exposes the CD drive.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rrGnJayaJ3E5dwME.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VOsmEx6eqLSSkbVq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VoEQRQCDU2SVMNiR.standard"
+            ],
+            "StepId": 52633,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the front panel . start by removing the plastic screws ( 1 ea . side ) from behind the front panel ears , at the lower edge of the case ."
+                },
+                {
+                    "Text": "using 3 flat bladed screwdrivers , release 2 clips on one end , and a clip on one side . don't wedge these far outwards ! work the corner away from the clips . rotate the unit by 180 degrees , and release the other 3 clips ."
+                },
+                {
+                    "Text": "pull the front panel gently all the way off ."
+                }
+            ],
+            "Text_raw": "Remove the front panel. Start by removing the plastic screws (1 ea. side) from behind the front panel ears, at the lower edge of the case. Using 3 flat bladed screwdrivers, release 2 clips on one end, and a clip on one side. Don't wedge these far outwards! Work the corner away from the clips. Rotate the unit by 180 degrees, and release the other 3 clips. Pull the front panel gently all the way off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AElDs1cPGTmUe1mQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vNaaKFq6qhDPSwtp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KpESQr3ENPMheZLQ.standard"
+            ],
+            "StepId": 52634,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "the connector system used for the front panel has blades instead of pins , and seems to be robust ."
+                }
+            ],
+            "Text_raw": "The connector system used for the front panel has blades instead of pins, and seems to be robust.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TdiHijLDCNvIMUno.standard"
+            ],
+            "StepId": 52638,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "using a pair of needle nose pliers , remove the cd drive connector . pull straight up to release it ."
+                },
+                {
+                    "Text": "remove the cd drive , by unscrewing 4 screws : 2 on the front panel underneath the cd slot , and 2 on the sides at the upper rear ."
+                },
+                {
+                    "Text": "wedge the tabs of the metal crosspiece attached to the cd drive slightly away from the metal sides of the case to release them ."
+                }
+            ],
+            "Text_raw": "Using a pair of needle nose pliers, remove the CD drive connector. Pull straight up to release it. Remove the CD drive, by unscrewing 4 screws: 2 on the front panel underneath the CD slot, and 2 on the sides at the upper rear. Wedge the tabs of the metal crosspiece attached to the CD drive slightly away from the metal sides of the case to release them.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/moqHSIOjjZ5CSk3R.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CYYMuPCdRrZCfDRC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CwPYSQmZarfcsEUK.standard"
+            ],
+            "StepId": 52635,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "lift the cd drive out of the unit , starting at the rear ."
+                }
+            ],
+            "Text_raw": "Lift the CD drive out of the unit, starting at the rear.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1XPlgM3CWeVVQuDB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mqvPfEcJNgw2KLLS.standard"
+            ],
+            "StepId": 52636,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the front metal plate , by removing the 6 screws which hold it to the upper and lower case ."
+                },
+                {
+                    "Text": "use a small flat bladed screwdriver to release the metal tabs which hold the front panel onto the upper case ."
+                }
+            ],
+            "Text_raw": "Remove the front metal plate, by removing the 6 screws which hold it to the upper and lower case. Use a small flat bladed screwdriver to release the metal tabs which hold the front panel onto the upper case.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/d6FFWwxxWPinKZr2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DXCtHNUWDwSYmGQQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NXWEuBCMBjU6XLju.standard"
+            ],
+            "StepId": 52637,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "release the rear plate , which is thicker so that it can act as a heatsink , by removing the two long screws ( with washers ) , and the remaining 7 screws . after the line out mod has been performed , the rear plate will not be completely removable without some unsoldering , but the unit can still be disassembled ."
+                },
+                {
+                    "Text": "there is heatsink compound connecting the power amp ic to the rear plate . during reassembly , clean this area , and apply some new compound ."
+                },
+                {
+                    "Text": "remove the 2 screws which hold the upper case onto the lower case , release the ears , and lift the upper case off . there is an electrical connector between the upper and lower circuit boards which will disconnect ."
+                }
+            ],
+            "Text_raw": "Release the rear plate, which is thicker so that it can act as a heatsink, by removing the two long screws (with washers), and the remaining 7 screws. After the line out mod has been performed, the rear plate will not be completely removable without some unsoldering, but the unit can still be disassembled. There is heatsink compound connecting the power amp IC to the rear plate. During reassembly, clean this area, and apply some new compound. Remove the 2 screws which hold the upper case onto the lower case, release the ears, and lift the upper case off. There is an electrical connector between the upper and lower circuit boards which will disconnect.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sGblZisrLdLZUYvb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KobaSpXFMd3Rcr2J.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vK6vUNnGPNbTRqHA.standard"
+            ],
+            "StepId": 52639,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "views from the rear and front . the rear plate has been reattached in the view from the front ."
+                },
+                {
+                    "Text": "this pca is the main system board , which has the audio processing ic , quad amp and lpf , and the power amp at the rear ( with heatsink compound ) ."
+                }
+            ],
+            "Text_raw": "Views from the rear and front. The rear plate has been reattached in the view from the front. This PCA is the main system board, which has the audio processing IC, quad amp and LPF, and the \"power\" amp at the rear (with heatsink compound).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3HnXVTdGrCT4EC3h.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MNE6JYKhrpGCVLXI.standard"
+            ],
+            "StepId": 52640,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "the bottom cover is separated from the main pca by removing the 5 screws seen in the top view ."
+                }
+            ],
+            "Text_raw": "The bottom cover is separated from the main PCA by removing the 5 screws seen in the top view.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Rjwn2uio1N6VZOPi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/G1strlOb1HKeKEUN.standard"
+            ],
+            "StepId": 52641,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "the main preamp before the power amp is in this section . note the component locations which were left empty at the factory . these components can be assembled onto the pca , and provide an additional 8db of gain for the line out signals ."
+                },
+                {
+                    "Text": "the line out signals exist at the 4 zero ohm resistors seen at the center of the image , above ic 302. each one is marked with a small o . the second image has the channels marked ( yes the characters are tiny ; you'll need to go 'huge' , and maybe download the image to see them ) ."
+                },
+                {
+                    "Text": "fl front left"
+                },
+                {
+                    "Text": "fr front right"
+                },
+                {
+                    "Text": "rl rear left"
+                },
+                {
+                    "Text": "rr rear right"
+                },
+                {
+                    "Text": "when soldering the outputs to these resistors , it doesn't matter which end of the resistor you pick ( since they are zero ohms ) ."
+                }
+            ],
+            "Text_raw": "The main preamp before the power amp is in this section. Note the component locations which were left empty at the factory. These components can be assembled onto the PCA, and provide an additional 8dB of gain for the line out signals. The line out signals exist at the 4 \"zero\" ohm resistors seen at the center of the image, above IC 302. Each one is marked with a small \"O\". The second image has the channels marked (yes the characters are tiny; you'll need to go 'huge', and maybe download the image to see them). FL = Front Left FR = Front Right RL = Rear Left RR = Rear Right When soldering the outputs to these resistors, it doesn't matter which end of the resistor you pick (since they are zero ohms).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5JJlWXAUNHg6GbGU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kYLLZ2PvHM3OWaaT.standard"
+            ],
+            "StepId": 52642,
+            "Tools_extracted": [
+                "precision soldering iron"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "ok , now you have a choice : stay with the default gains , or install the missing components to increase the gain ."
+                },
+                {
+                    "Text": "also , make sure you are comfortable with soldering components this tiny . if in doubt , practice on an old motherboard with 0603 components before wielding your soldering iron ."
+                },
+                {
+                    "Text": "do not simply wire the output audio connectors to the 4 zero ohm resistors ! there is a 6 v dc bias on these signals , and you must provide ac coupling . the components shown here for each of the 4 channels are :"
+                },
+                {
+                    "Text": "10 uf , 50 v np ( non-polarized ) aluminum electrolytic capacitor"
+                },
+                {
+                    "Text": "300 ohm , 1 /4 w resistor"
+                },
+                {
+                    "Text": "three different views are shown . note the piece of 16 ga copper wire which is looped around the mounting screw ( screw is removed in the image ) . this point is analog ground , and the screw provides support for the little round pcb ( this is a radio shack special ; isn't it cute ? ) . the shields of the audio coax also solder to this wire ."
+                },
+                {
+                    "Text": "note that the long leads of the np caps are soldered directly to the newly installed components ; be careful doing this ! you don't want to get one lead soldered , and then wedge the whole assembly sideways , or the components will be damaged ."
+                },
+                {
+                    "Text": "if you elect not to install the missing components , solder the cap wires to the 4 zero ohm resistors , instead of the components shown here ."
+                }
+            ],
+            "Text_raw": "OK, now you have a choice: stay with the default gains, or install the missing components to increase the gain. Also, make sure you are comfortable with soldering components this tiny. If in doubt, practice on an old motherboard with 0603 components before wielding your soldering iron. Do not simply wire the output audio connectors to the 4 zero ohm resistors! There is a 6V DC bias on these signals, and you MUST provide AC coupling. The components shown here for each of the 4 channels are: 10uF, 50V NP (Non-polarized) Aluminum Electrolytic capacitor 300 ohm, 1/4W resistor Three different views are shown. Note the piece of 16GA copper wire which is looped around the mounting screw (screw is removed in the image). This point is analog ground, and the screw provides support for the little round PCB (this is a Radio Shack special; isn't it cute?). The shields of the audio coax also solder to this wire. Note that the long leads of the NP caps are soldered directly to the newly installed components; be careful doing this! You don't want to get one lead soldered, and then wedge the whole assembly sideways, or the components will be damaged. If you elect not to install the missing components, solder the cap wires to the 4 zero ohm resistors, instead of the components shown here.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Tjh5kZx1BecYChTp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mJyvfjkSPBDVdWKm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1j1j35s12GLtms4P.standard"
+            ],
+            "StepId": 52666,
+            "Tools_extracted": [
+                "precision soldering iron"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "optional : install missing components . this requires purchase of additional components from mouser . com . see the guide parts list for more info . the image shows the location of the new components ; you'll also need to install ic307."
+                },
+                {
+                    "Text": "seriously , though , if you're going to add the missing components , buy the schematic online so that you have the pcb layout and schematic available for reference ."
+                },
+                {
+                    "Text": "it is difficult to solder these components in place , due to the large nearby cap ( c382 ) . i removed it before installing the missing components , and then reinstalled it , although the ground plane made this difficult to unsolder ."
+                },
+                {
+                    "Text": "you also must remove the 4 zero ohm resistors ( as shown with a red line through them in the image ) ."
+                },
+                {
+                    "Text": "there is one additional step to take : disable the power amp . this is done by removing the main board from the lower case , and shorting together pins 2 and 4 , to hold the power amp in standby . this step is not necessary if the missing components are not installed ."
+                }
+            ],
+            "Text_raw": "OPTIONAL: Install missing components. This requires purchase of additional components from mouser.com. See the guide parts list for more info. The image shows the location of the new components; you'll also need to install IC307. Seriously, though, if you're going to add the missing components, buy the schematic online so that you have the PCB layout and schematic available for reference. It is difficult to solder these components in place, due to the large nearby cap (C382). I removed it before installing the missing components, and then reinstalled it, although the ground plane made this difficult to unsolder. You also MUST remove the 4 zero ohm resistors (as shown with a red line through them in the image). There is one additional step to take: disable the power amp. This is done by removing the main board from the lower case, and shorting together pins 2 and 4, to hold the power amp in standby. This step is not necessary if the missing components are not installed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Rcspd4nRFH2DQH4b.standard"
+            ],
+            "StepId": 52667,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "make sure to use a strain relief on the cables as they pass through the holes you'll need to drill in the rear plate . don't drill the hole under the usb connector cutout as shown here ! move it down a bit , as the usb connector is typically a right angle connector , and may interfere . it was necessary to trim the connector housing to make it fit ."
+                },
+                {
+                    "Text": "add some hot glue to the edge of the pcb to stabilize it ; the car dashboard is a horrible place for electronics ! make sure that no points on the back of the pcb can short to any of the case parts ."
+                },
+                {
+                    "Text": "testing the completed mod before you put the whole unit back together is an excellent idea . it is possible to apply 12 v to the unit on the bench : first place the upper pcb in place , and then temporarily reinstall the front panel . apply 12 v from a bench supply to the main input connector ( refer to the schematic and layout drawings for more info ) ."
+                },
+                {
+                    "Text": "reassemble , reinstall , and enjoy your hard work !"
+                }
+            ],
+            "Text_raw": "Make sure to use a strain relief on the cables as they pass through the holes you'll need to drill in the rear plate. DON'T DRILL THE HOLE UNDER THE USB CONNECTOR CUTOUT AS SHOWN HERE! Move it down a bit, as the USB connector is typically a right angle connector, and may interfere. It was necessary to trim the connector housing to make it fit. Add some hot glue to the edge of the PCB to stabilize it; the car dashboard is a horrible place for electronics! Make sure that no points on the back of the PCB can short to any of the case parts. Testing the completed mod before you put the whole unit back together is an excellent idea. It is possible to apply 12V to the unit on the bench: first place the upper PCB in place, and then temporarily reinstall the front panel. Apply 12V from a bench supply to the main input connector (refer to the schematic and layout drawings for more info). Reassemble, reinstall, and enjoy your hard work!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5LhFJEf1dn3Jtdam.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Q6YQLiyB6jsbfOfZ.standard"
+            ],
+            "StepId": 52668,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Main Audio Board : Add Line Out"
+}

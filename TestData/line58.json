@@ -1,0 +1,238 @@
+{
+    "Title": "1997-2004 Dodge Dakota Front Shocks (2WD, 4.7 L V8) Replacement",
+    "Ancestors": [
+        "Dodge Dakota",
+        "Dodge",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 7387,
+    "Category": "1997-2004 Dodge Dakota",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_2?ie=UTF8&qid=1431005020&sr=8-2&keywords=3%2F8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "14 mm box end wrench",
+            "Url": "http://www.amazon.com/TEKTON-21311-14mm-Combination-Wrench/dp/B000NPPC2I/ref=sr_1_2?ie=UTF8&qid=1407785743&sr=8-2&keywords=14mm+box+end+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1997+1998+1999+2000+2001+2002+2003+2004+Dodge+Dakota+Front+Shocks+%282WD+4.7+L+V8%29+Replacement/7387",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "park the truck on a flat surface with the wheels turned so you can access the shocks easier ."
+                },
+                {
+                    "Text": "locate the shock's top nut ."
+                }
+            ],
+            "Text_raw": "Park the truck on a flat surface with the wheels turned so you can access the shocks easier. Locate the shock's top nut.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ANeWWhsOTvLquf1T.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mNHWiol4ZaVtQJsJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RGRJXMEwMNDsOW6R.standard"
+            ],
+            "StepId": 31272,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "place a jack under the front cross brace and raise the truck until the tire on the side you are working on is off the ground ."
+                },
+                {
+                    "Text": "place a jack stand under the frame rail behind the tire of the side you are working on ."
+                },
+                {
+                    "Text": "gently lower the truck onto the jack stand ."
+                },
+                {
+                    "Text": "never work underneath a car that is only supported by a jack . the jack may slip or fail , resulting in serious injury or death ."
+                }
+            ],
+            "Text_raw": "Place a jack under the front cross brace and raise the truck until the tire on the side you are working on is off the ground. Place a jack stand under the frame rail behind the tire of the side you are working on. Gently lower the truck onto the jack stand. Never work underneath a car that is only supported by a jack. The jack may slip or fail, resulting in serious injury or death.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/O1FHfBHPFug1HRUc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DNPZPiLZtkInLRb1.standard"
+            ],
+            "StepId": 31273,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a 14 mm box end wrench or deep socket wrench to turn the top strut nut counterclockwise until it is loose ."
+                },
+                {
+                    "Text": "a regular 14 mm socket wrench will not be able to reach the nut because of the threaded strut rod ."
+                },
+                {
+                    "Text": "finish removing the nut by hand ."
+                },
+                {
+                    "Text": "remove the rubber grommet and metal retainer ."
+                }
+            ],
+            "Text_raw": "Use a 14 mm box end wrench or deep socket wrench to turn the top strut nut counterclockwise until it is loose. A regular 14 mm socket wrench will not be able to reach the nut because of the threaded strut rod. Finish removing the nut by hand. Remove the rubber grommet and metal retainer.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2cuGIGEGB3Sn3Ibt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EsTSsWZRCLogufew.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Yhc2bKMOQifCAE65.standard"
+            ],
+            "StepId": 31274,
+            "Tools_extracted": [
+                "14 mm box end wrench",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "locate the two 10 mm hex bolts securing the bottom of the shock to the lower control arm . they are on the underside of the lower control arm ."
+                },
+                {
+                    "Text": "remove the two bolts by using a box end wrench or socket wrench to turn them counterclockwise ."
+                },
+                {
+                    "Text": "hold the shock up against the lower control arm to take pressure off the bolts and make removal easier ."
+                },
+                {
+                    "Text": "lower the shock out of the lower control arm ."
+                }
+            ],
+            "Text_raw": "Locate the two 10 mm hex bolts securing the bottom of the shock to the lower control arm. They are on the underside of the lower control arm. Remove the two bolts by using a box end wrench or socket wrench to turn them counterclockwise. Hold the shock up against the lower control arm to take pressure off the bolts and make removal easier. Lower the shock out of the lower control arm.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tdPMs1NhZX41kXuc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1lXhXuWikDhBoSp3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5PoB2D4XgrO3RPLO.standard"
+            ],
+            "StepId": 31275,
+            "Tools_extracted": [
+                "14 mm box end wrench",
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "install a retainer and grommet onto the new strut if there isn't one already installed ."
+                },
+                {
+                    "Text": "orient the retainer so that the cupped side faces away from the shock body . orient the grommet so that the side with a protrusion points away from the strut body ."
+                },
+                {
+                    "Text": "insert the strut up through the lower control arm ."
+                },
+                {
+                    "Text": "ensure that the threaded end of the strut goes through the hole in the upper control arm ."
+                }
+            ],
+            "Text_raw": "Install a retainer and grommet onto the new strut if there isn't one already installed. Orient the retainer so that the cupped side faces away from the shock body. Orient the grommet so that the side with a protrusion points away from the strut body. Insert the strut up through the lower control arm. Ensure that the threaded end of the strut goes through the hole in the upper control arm.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uK4W6LWJkNn5lABt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eYTSRnDKJRcNxaIF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AcslbfldUxjKiKB4.standard"
+            ],
+            "StepId": 31276,
+            "Tools_extracted": [
+                "14 mm box end wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "re-insert the two 10 mm bolts and tighten them until they are snug by turning them clockwise with a box end wrench or socket wrench ."
+                },
+                {
+                    "Text": "if the bolts cannot reach their holes because the strut mounts are not close enough to the lower control arm , ensure that the strut is through the hole mentioned in the previous step . if it is , you will need to push the strut up and hold it until you can partially thread the bolts ."
+                },
+                {
+                    "Text": "the factory torque specification for these bolts is 21 ft-lbf or 28 n-m ."
+                },
+                {
+                    "Text": "thread the bolts in even , alternating increments to reduce stress on the components ."
+                }
+            ],
+            "Text_raw": "Re-insert the two 10 mm bolts and tighten them until they are snug by turning them clockwise with a box end wrench or socket wrench. If the bolts cannot reach their holes because the strut mounts are not close enough to the lower control arm, ensure that the strut is through the hole mentioned in the previous step. If it is, you will need to push the strut up and hold it until you can partially thread the bolts. The factory torque specification for these bolts is 21 ft-lbf or 28N-m. Thread the bolts in even, alternating increments to reduce stress on the components.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OVDcIWENSc3Jk3cC.standard"
+            ],
+            "StepId": 31277,
+            "Tools_extracted": [
+                "14 mm box end wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "place the new grommet and retainer over the threaded end of the new shock . be sure that the grommet and retainer are flush against the upper control arm ."
+                },
+                {
+                    "Text": "orient the grommet so that the small protrusion is against the upper control arm . orient the retainer so that the cupped side faces the upper control arm ."
+                },
+                {
+                    "Text": "place the nut onto the threaded end of the new shock and turn it clockwise with a 14 mm box end wrench or deep socket wrench until it is snug ."
+                },
+                {
+                    "Text": "factory specified tightening torque for the top nut is 19 ft-lbf or 26 n-m ."
+                }
+            ],
+            "Text_raw": "Place the new grommet and retainer over the threaded end of the new shock. Be sure that the grommet and retainer are flush against the upper control arm. Orient the grommet so that the small protrusion is against the upper control arm. Orient the retainer so that the cupped side faces the upper control arm. Place the nut onto the threaded end of the new shock and turn it clockwise with a 14 mm box end wrench or deep socket wrench until it is snug. Factory specified tightening torque for the top nut is 19 ft-lbf or 26 N-m.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SkYXeoNBhrFQyO3N.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LGh1dFw2J2KPbKTU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ixxDCEIZUd2AYgSZ.standard"
+            ],
+            "StepId": 31278,
+            "Tools_extracted": [
+                "14 mm box end wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "lift the truck up with the jack , and then remove the jack stand ."
+                },
+                {
+                    "Text": "slowly lower the truck and remove the jack ."
+                },
+                {
+                    "Text": "repeat this guide to replace the strut on the opposite side ."
+                }
+            ],
+            "Text_raw": "Lift the truck up with the jack, and then remove the jack stand. Slowly lower the truck and remove the jack. Repeat this guide to replace the strut on the opposite side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/j2OeE6k2ND6uee3L.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BHTAsHurEMRCx4L3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SYhIbKDUHYDsnFIE.standard"
+            ],
+            "StepId": 31279,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Front Shocks (2WD, 4.7 L V8)"
+}

@@ -1,0 +1,122 @@
+{
+    "Title": "Pioneer MXT-X366BT Button Replacement",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 107779,
+    "Category": "Pioneer MXT-X366BT",
+    "Toolbox": [
+        {
+            "Name": "opening tool",
+            "Url": "https://www.ifixit.com/Store/Parts/iFixit-Opening-Tool/IF145-335",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Pioneer+MXT-X366BT+Button+Replacement/107779",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "press the button on the bottom right hand corner firmly to release face plate ."
+                },
+                {
+                    "Text": "firmly pull out the face plate ."
+                },
+                {
+                    "Text": "the face plate will now be free ."
+                }
+            ],
+            "Text_raw": "Press the button on the bottom right hand corner firmly to release face plate. Firmly pull out the face plate. The face plate will now be free.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/n5scBoRMWJZFBmTc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RshSxXLLGeijlkYT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rLOLEIIX5PRFeTVO.standard"
+            ],
+            "StepId": 207126,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a phillips 1 screwdriver to unscrew the three 3 mm phillips-head screws on the rear of the faceplate ."
+                }
+            ],
+            "Text_raw": "Use a Phillips #1 screwdriver to unscrew the three 3mm Phillips-head screws on the rear of the faceplate.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jroDLxUR2QCWPmH5.standard"
+            ],
+            "StepId": 207129,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "press clips inward with the plastic opening tool to release the rear of the head unit ."
+                }
+            ],
+            "Text_raw": "Press clips inward with the plastic opening tool  to release the rear of the head unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bJPmxRxGTaHVxKMX.standard"
+            ],
+            "StepId": 207134,
+            "Tools_extracted": [
+                "opening tool"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the motherboard from the casing ."
+                },
+                {
+                    "Text": "handle the motherboard with care ."
+                }
+            ],
+            "Text_raw": "Remove the motherboard from the casing. Handle the motherboard with care.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/girWrJGhtyIFaLeL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jdSdLEIQSHHEiVsB.standard"
+            ],
+            "StepId": 207708,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "pull out the buttons ."
+                },
+                {
+                    "Text": "remember the orientation of the buttons ."
+                }
+            ],
+            "Text_raw": "Pull out the buttons. Remember the orientation of the buttons.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZXPFlVmciqJXY1St.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wK6MJLjnZVxVHIIp.standard"
+            ],
+            "StepId": 207136,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Buttons"
+}

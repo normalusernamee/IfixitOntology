@@ -1,0 +1,112 @@
+{
+    "Title": "How to adjust a Chevrolet Corvair steering box",
+    "Ancestors": [
+        "Chevrolet Corvair",
+        "Chevrolet",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11394,
+    "Category": "1965-1969 Chevrolet Corvair",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "standard wrench set",
+            "Url": "http://www.amazon.com/TEKTON-1916-Combination-Wrench-24-Piece/dp/B000NQ159G/ref=sr_1_1?s=power-hand-tools&ie=UTF8&qid=1407876618&sr=1-1&keywords=wrench+set",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+adjust+a+Chevrolet+Corvair+steering+box/11394",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "open the ( front ) hood of the car ."
+                },
+                {
+                    "Text": "on the drivers side of the luggage compartment is a black seal ."
+                }
+            ],
+            "Text_raw": "Open the (front) hood of the car. On the drivers side of the luggage compartment is a black seal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JjxMwviVo6PfyH1q.standard"
+            ],
+            "StepId": 40809,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the black seal ."
+                },
+                {
+                    "Text": "under the seal is the adjustment screw and locking nut ."
+                }
+            ],
+            "Text_raw": "Remove the black seal. Under the seal is the adjustment screw and locking nut.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/af6XjffDYXi4hyd1.standard"
+            ],
+            "StepId": 40811,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "if the screw threads do not rise above the locking nut then '''stop''' : the steering box is worn out , it is time to rebuild it , or replace it ! failure to do so could result in your steering system failing ."
+                },
+                {
+                    "Text": "loosen the locking nut , so the set screw can be turned with a flat head screwdriver ."
+                },
+                {
+                    "Text": "with the wheels straight and the steering wheel centered . turn the lash adjustment screw clockwise until it stops , but don't force it any farther !"
+                },
+                {
+                    "Text": "making sure that the screw does not turn , carefully tighten the locking nut ."
+                }
+            ],
+            "Text_raw": "If the screw threads do not rise above the locking nut then '''STOP''': The steering box is worn out, it is time to rebuild it, or replace it! Failure to do so could result in your steering system failing. Loosen the Locking nut, so the set screw can be turned with a flat head screwdriver. With the wheels straight and the steering wheel centered. Turn the lash adjustment screw clockwise until it stops, but don't force it any farther! Making sure that the screw does not turn, carefully tighten the locking nut.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dOHDKvkwADw4SUZo.standard"
+            ],
+            "StepId": 40815,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "close the hood , drive around and check the steering wheel play ."
+                },
+                {
+                    "Text": "if the play is still too loose , then repeat steps 2 and 3."
+                },
+                {
+                    "Text": "if the steering wheel does not return to center after making a turn then it is too tight . this can cause unnecessary wear and damage your steering box ! return to step 2 , but instead of tightening the lash screw , loosen it a quarter turn at a time and recheck ."
+                }
+            ],
+            "Text_raw": "Close the hood, drive around and check the steering wheel play. If the play is still too loose, then repeat steps 2 and 3. If the steering wheel does not return to center after making a turn then it is too tight. This can cause unnecessary wear and damage your steering box! Return to step 2, but instead of tightening the lash screw, loosen it a quarter turn at a time and recheck.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/me2h2kxtITUAcqIk.standard"
+            ],
+            "StepId": 40816,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

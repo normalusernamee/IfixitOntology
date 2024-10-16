@@ -1,0 +1,115 @@
+{
+    "Title": "1997-2003 BMW 5 Series Upgrade 2000 and earlier model BMWs with the Widescreen Navigation Replacement",
+    "Ancestors": [
+        "BMW",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 8656,
+    "Category": "1997-2003 BMW 5 Series",
+    "Toolbox": [
+        {
+            "Name": "bmw widescreen display",
+            "Url": "http://www.bimmernav.com/url/widescreen/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1997+1998+1999+2000+2001+2002+2003+BMW+5+Series+Upgrade+2000+and+earlier+model+BMWs+with+the+Widescreen+Navigation+Replacement/8656",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "upgrading from the 4 : 3 small screen display to widescreen display is quite simple"
+                },
+                {
+                    "Text": "remove the dash trim pieces on either side of the display . using a phillips screwdriver remove the small trim panel screws on either side and gently lift the brass faceplate release mechanism shown in the above photo ."
+                },
+                {
+                    "Text": "see attached document bmw tis - 65 52 510 removing and installing on-board monitor . pdf for details"
+                }
+            ],
+            "Text_raw": "Upgrading from the 4:3 Small screen display to Widescreen display is quite simple Remove the dash trim pieces on either side of the display.  Using a Phillips screw driver remove the small trim panel screws on either side and gently lift the brass faceplate release mechanism shown in the above photo. See Attached Document BMW TIS - 65 52 510 Removing and installing on-board monitor.pdf for details",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XTsDCjARFhcCNfN6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FLnc6LEvJCkTLXPK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ITgKGEuFkYuOicj6.standard"
+            ],
+            "StepId": 33889,
+            "Tools_extracted": [
+                "bmw widescreen display",
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "once the faceplate has been removed unscrew the 4 screws around the monitor and slide out"
+                },
+                {
+                    "Text": "disconnect the blue and white power plugs on the unit . to remove the plugs release the locking tab by pressing the release mechanism on the back of the plug gently with your finger"
+                },
+                {
+                    "Text": "remove the old unit completely and connect the widescreen display unit to the car using the exact same 2 plugs"
+                }
+            ],
+            "Text_raw": "Once the faceplate has been removed unscrew the 4 screws around the monitor and slide out Disconnect the blue and white power plugs on the unit.  To remove the plugs release the locking tab by pressing the release mechanism on the back of the plug gently with your finger Remove the old unit completely and connect the widescreen display unit to the car using the exact same 2 plugs",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GNDRWlZBGPDvQEVL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SCaen5cQnPwr5wgU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DluNrUStmT6EMRXe.standard"
+            ],
+            "StepId": 33890,
+            "Tools_extracted": [
+                "bmw widescreen display"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "insert the new monitor and replace the 4 screws in the exact locations that they were previously removed from on the old display . snap the trim frame in place"
+                },
+                {
+                    "Text": "snap the trim panels around the dash pieces back in place"
+                }
+            ],
+            "Text_raw": "Insert the new Monitor and replace the 4 screws in the exact locations that they were previously removed from on the old display.  Snap the trim frame in place Snap the trim panels around the dash pieces back in place",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oUKKpYnudiHF2hRJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/H5i23mqhCCiMkTST.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UfvrKlEcQvOVMTOo.standard"
+            ],
+            "StepId": 33891,
+            "Tools_extracted": [
+                "bmw widescreen display"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "simple and quick installation is complete"
+                },
+                {
+                    "Text": "new display works exactly as the old display works , as the display is only a cosmetic upgrade . the display is like a computer monitor . upgrading to the larger display is like getting a new and larger computer desktop monitor . the function is the same as this is a cosmetic upgrade only ."
+                }
+            ],
+            "Text_raw": "Simple and Quick installation is complete New display works EXACTLY as the old display works, as the display is only a cosmetic upgrade. The display is like a computer monitor. upgrading to the larger display is like getting a new and larger computer desktop monitor. The function is the same as this is a cosmetic upgrade only.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JFdDZOoEKSYskDv4.standard"
+            ],
+            "StepId": 33892,
+            "Tools_extracted": [
+                "bmw widescreen display"
+            ]
+        }
+    ],
+    "Subject": "Upgrade 2000 and earlier model BMWs with the Widescreen Navigation"
+}

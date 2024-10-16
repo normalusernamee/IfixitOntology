@@ -1,0 +1,431 @@
+{
+    "Title": "1984-1991 BMW 3 Series Oil Change (Straight 6 Models)",
+    "Ancestors": [
+        "BMW",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 6093,
+    "Category": "1984-1991 BMW 3 Series",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_2?ie=UTF8&qid=1431005020&sr=8-2&keywords=3%2F8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "17 mm socket",
+            "Url": "/Item/17_mm_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1984+1985+1986+1987+1988+1989+1990+1991+BMW+3+Series+Oil+Change+%28Straight+6+Models%29/6093",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before beginning , be sure you have the right oil and filter ."
+                },
+                {
+                    "Text": "for my 1990 325 i ( 2.5 l m20 engine ) , i usually use castrol gtx 20 w-50 conventional oil and a bosch 3421 filter ."
+                }
+            ],
+            "Text_raw": "Before beginning, be sure you have the right oil and filter. For my 1990 325i (2.5L M20 engine), I usually use Castrol GTX 20W-50 conventional oil and a Bosch 3421 Filter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lQZLHVtQEQbKtjDi.standard"
+            ],
+            "StepId": 26561,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "jacking up the car is not strictly necessary to change the oil on all e30 s . i have lowered my car , so a drain pan will not fit under it as it sits on the ground . when my car was at stock ride height , i was able to change the oil without jacking it up by using a low profile drain pan ."
+                },
+                {
+                    "Text": "before lifting the car with a jack , be sure the car is in first gear for manual transmission cars or in park for automatic transmission cars ."
+                },
+                {
+                    "Text": "additionally , be sure to firmly apply the emergency brake ."
+                },
+                {
+                    "Text": "you may also wish to put chocks behind the rear tires to keep the car from rolling . my emergency brake system is brand new , so i don't usually use chocks . if you are unsure , either use your factory wheel chock or put a brick/4x4 behind one of the rear tires ."
+                }
+            ],
+            "Text_raw": "Jacking up the car is not strictly necessary to change the oil on all E30s. I have lowered my car, so a drain pan will not fit under it as it sits on the ground. When my car was at stock ride height, I was able to change the oil without jacking it up by using a low profile drain pan. Before lifting the car with a jack, be sure the car is in first gear for manual transmission cars or in park for automatic transmission cars. Additionally, be sure to firmly apply the emergency brake. You may also wish to put chocks behind the rear tires to keep the car from rolling. My emergency brake system is brand new, so I don't usually use chocks. If you are unsure, either use your factory wheel chock or put a brick/4x4 behind one of the rear tires.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CyuKp64UlIuPfqjC.standard"
+            ],
+            "StepId": 26545,
+            "Tools_extracted": [
+                "jack",
+                "drain pan"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "for oil changes , i normally just jack up the front driver's side corner of the car . it provides plenty of clearance for an oil drain pan ."
+                },
+                {
+                    "Text": "locate the factory jack point . on e30 s , it is just behind the front quarter panel along the bottom edge of the rocker panel ."
+                },
+                {
+                    "Text": "use a hydraulic jack ( or your factory jack ) to lift the driver's side of the car ."
+                },
+                {
+                    "Text": "be sure that the jack pad stays firmly planted in the jack point as you lift the car . the pad on my jack has a nice little tab that fits up into the hole in the middle of the jack point to help keep it secure ."
+                }
+            ],
+            "Text_raw": "For oil changes, I normally just jack up the front driver's side corner of the car. It provides plenty of clearance for an oil drain pan. Locate the factory jack point. On E30s, it is just behind the front quarter panel along the bottom edge of the rocker panel. Use a hydraulic jack (or your factory jack) to lift the driver's side of the car. Be sure that the jack pad stays firmly planted in the jack point as you lift the car. The pad on my jack has a nice little tab that fits up into the hole in the middle of the jack point to help keep it secure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EOZniyaclYQjZVwJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GxXDC1TOVxoqRiGA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/t1RTX6xLy1TtgGhr.standard"
+            ],
+            "StepId": 26546,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "lift the car enough to place a jack stand underneath a flat portion of the frame rail just behind the control arm bushing ."
+                },
+                {
+                    "Text": "gently allow the car to fall onto the jackstand , lifting the car and re-adjusting its position as necessary ."
+                },
+                {
+                    "Text": "once all of the weight has been transferred to the jack stand , tighten the release plug on the jack and leave it positioned under the jack point as seen in the third picture ."
+                },
+                {
+                    "Text": "to be safe , jack stands should never be the only thing holding your car up . always leave the jack up against the jack point in case the jack stand fails ."
+                }
+            ],
+            "Text_raw": "Lift the car enough to place a jack stand underneath a flat portion of the frame rail just behind the control arm bushing. Gently allow the car to fall onto the jackstand, lifting the car and re-adjusting its position as necessary. Once all of the weight has been transferred to the jack stand, tighten the release plug on the jack and leave it positioned under the jack point as seen in the third picture. To be safe, jack stands should never be the only thing holding your car up. Always leave the jack up against the jack point in case the jack stand fails.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4ikSysdcySAUXFPV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/S6tMNFsuyVOJhsJA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mX1D6ZKRAkAWCCgE.standard"
+            ],
+            "StepId": 26547,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "locate the oil pan drain plug . it will be located on the passenger side of the oil pan nearest the center of the car ."
+                }
+            ],
+            "Text_raw": "Locate the oil pan drain plug. It will be located on the passenger side of the oil pan nearest the center of the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6bPRKxFqyADyY31w.standard"
+            ],
+            "StepId": 26548,
+            "Tools_extracted": [
+                "drain pan"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "use a 17 mm wrench to loosen the oil drain plug ."
+                },
+                {
+                    "Text": "before removing the plug , be sure to place a drain pan underneath the oil pan to catch the oil ."
+                },
+                {
+                    "Text": "remove the drain plug , being sure that your drain pan will catch the oil even as its flow rate from the pan drops ."
+                },
+                {
+                    "Text": "allow the oil to drain until it stops to a slow drip . to save time , i normally proceed to change the oil filter while the oil is still draining ."
+                }
+            ],
+            "Text_raw": "Use a 17 mm wrench to loosen the oil drain plug. Before removing the plug, be sure to place a drain pan underneath the oil pan to catch the oil. Remove the drain plug, being sure that your drain pan will catch the oil even as its flow rate from the pan drops. Allow the oil to drain until it stops to a slow drip. To save time, i normally proceed to change the oil filter while the oil is still draining.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4OCrcGTbjcUF5Y23.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aXKULdmankZ2ZgNI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dLqUm6KiVB4ilhoT.standard"
+            ],
+            "StepId": 26549,
+            "Tools_extracted": [
+                "drain pan",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "locate the oil filter . it will be located beneath the exhaust manifolds ."
+                },
+                {
+                    "Text": "before proceeding , be sure your exhaust manifolds are cool to the touch to avoid burning your hands and arms ."
+                }
+            ],
+            "Text_raw": "Locate the oil filter. It will be located beneath the exhaust manifolds. Before proceeding, be sure your exhaust manifolds are cool to the touch to avoid burning your hands and arms.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KH6MCmC4Y4NPdAw1.standard"
+            ],
+            "StepId": 26550,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "be sure your drain pan is positioned beneath the oil filter housing . as you remove the oil filter , a bit of oil will drain from both the filter and the point where it seats against the housing ."
+                },
+                {
+                    "Text": "unscrew the oil filter and allow the oil to drain adequately before proceeding ."
+                },
+                {
+                    "Text": "if your oil filter is stuck , you may need an oil filter strap wrench to remove it . they can be found at most auto parts stores . in a bind , you can also hammer a flathead screwdriver through the body of the filter to gain leverage ( this process is messy ) ."
+                }
+            ],
+            "Text_raw": "Be sure your drain pan is positioned beneath the oil filter housing. As you remove the oil filter, a bit of oil will drain from both the filter and the point where it seats against the housing. Unscrew the oil filter and allow the oil to drain adequately before proceeding. If your oil filter is stuck, you may need an oil filter strap wrench to remove it. They can be found at most auto parts stores. In a bind, you can also hammer a flathead screwdriver through the body of the filter to gain leverage (this process is messy).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bSpFHliSfvQcgWwJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DqLEBCdrnKvCYUmj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cdmuR5jgAnIuCEtP.standard"
+            ],
+            "StepId": 26551,
+            "Tools_extracted": [
+                "drain pan",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "maneuver the oil filter away from your engine and out of the car , trying your best not to spill oil everywhere ."
+                },
+                {
+                    "Text": "this process is a bit easier on my car because i've removed my a/c compressor ( long story ) . for those of you with the a/c compressor still installed , you may have to get a little creative to remove the filter without getting oil all over everything ."
+                }
+            ],
+            "Text_raw": "Maneuver the oil filter away from your engine and out of the car, trying your best not to spill oil everywhere. This process is a bit easier on my car because I've removed my A/C compressor (long story). For those of you with the A/C compressor still installed, you may have to get a little creative to remove the filter without getting oil all over everything.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kbltxO3HOFwjGvOn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KS1IcY4oSPgJA4Qm.standard"
+            ],
+            "StepId": 26552,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "use a clean paper towel to gently wipe the sealing surface on the oil filter housing ."
+                }
+            ],
+            "Text_raw": "Use a clean paper towel to gently wipe the sealing surface on the oil filter housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/F3IC5LeAfnlyBYic.standard"
+            ],
+            "StepId": 26553,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "dip your finger into a bit of the oil you just drained from the engine and spread it on the large o-ring around the open end of your new oil filter ."
+                },
+                {
+                    "Text": "lubricating the o-ring will help to ensure a good seal ."
+                }
+            ],
+            "Text_raw": "Dip your finger into a bit of the oil you just drained from the engine and spread it on the large O-ring around the open end of your new oil filter. Lubricating the O-ring will help to ensure a good seal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PrbXWFRANaUrRncP.standard"
+            ],
+            "StepId": 26554,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "without getting any dirt or contaminants on the seal you just oiled , maneuver your new oil filter into position ."
+                },
+                {
+                    "Text": "tighten the oil filter on the threads protruding from the oil filter housing ."
+                },
+                {
+                    "Text": "to ensure a good seal , tighten the filter about 1 /4 turn after the end of the oil filter contacts the housing ."
+                }
+            ],
+            "Text_raw": "Without getting any dirt or contaminants on the seal you just oiled, maneuver your new oil filter into position. Tighten the oil filter on the threads protruding from the oil filter housing. To ensure a good seal, tighten the filter about 1/4 turn after the end of the oil filter contacts the housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JybDLpaudqOSMwmY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2lkNVCMVcElRtNIw.standard"
+            ],
+            "StepId": 26555,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "finger tighten the drain plug back into the oil pan ."
+                },
+                {
+                    "Text": "use your 17 mm wrench to tighten the drain plug ."
+                },
+                {
+                    "Text": "'''do not overtighten the drain plug . ''' it is made of steel and the oil pan is made of aluminum , and thus the threads on the oil pan strip easily ."
+                }
+            ],
+            "Text_raw": "Finger tighten the drain plug back into the oil pan. Use your 17 mm wrench to tighten the drain plug. '''Do not overtighten the drain plug.''' It is made of steel and the oil pan is made of aluminum, and thus the threads on the oil pan strip easily.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SWxPPUAFDdXEVEKI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CgYPVJthWSKpEiBv.standard"
+            ],
+            "StepId": 26560,
+            "Tools_extracted": [
+                "drain pan",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "move your drain pan out from underneath the car . before proceeding , be sure it and everything else is moved out from under the car ."
+                },
+                {
+                    "Text": "jack up the car slightly to remove the jack stand ."
+                },
+                {
+                    "Text": "remove the jack stand and carefully let the car slowly drop to the ground ."
+                },
+                {
+                    "Text": "remove the jack and set it aside ."
+                }
+            ],
+            "Text_raw": "Move your drain pan out from underneath the car. Before proceeding, be sure it and everything else is moved out from under the car. Jack up the car slightly to remove the jack stand. Remove the jack stand and carefully let the car slowly drop to the ground. Remove the jack and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MXUqEPUDvCV2XF35.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ENAX6ahJRbEoWCp3.standard"
+            ],
+            "StepId": 26556,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "twist the oil filler cap 1 /4 turn counter-clockwise and remove it from the valve cover ."
+                }
+            ],
+            "Text_raw": "Twist the oil filler cap 1/4 turn counter-clockwise and remove it from the valve cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HCDXIdTTBIsIi3E4.standard"
+            ],
+            "StepId": 26557,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "you may want to use a funnel to help avoid spills on this step ."
+                },
+                {
+                    "Text": "pack a clean paper towel below the oil filler hole on the valve cover to catch any oil that might spill ."
+                },
+                {
+                    "Text": "fill the engine up with 4.5 quarts of oil . the m20 engine uses 20 w-50 conventional oil ."
+                },
+                {
+                    "Text": "after you've filled the oil , wipe up any spills with your towel ."
+                },
+                {
+                    "Text": "reinstall the oil filler cap ."
+                }
+            ],
+            "Text_raw": "You may want to use a funnel to help avoid spills on this step. Pack a clean paper towel below the oil filler hole on the valve cover to catch any oil that might spill. Fill the engine up with 4.5 Quarts of oil. The M20 engine uses 20W-50 conventional oil. After you've filled the oil, wipe up any spills with your towel. Reinstall the oil filler cap.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6lekOBRMJsJfr4FV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UXcDAmNcymCFQRPC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gsOTqMOJKjyhtN3U.standard"
+            ],
+            "StepId": 26558,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "start the engine , and let it run for a minute or two to allow the oil to circulate through the filter ."
+                },
+                {
+                    "Text": "the oil pressure light will probably come on for a couple seconds when you first start the engine . this is normal , as oil pressure needs to develop as oil enters the filter ."
+                },
+                {
+                    "Text": "i usually allow the car to sit for about 20 minutes , then check the oil once more . add oil if necessary . afterward , it is a good idea to drive for a bit ( let the engine get up to operating temperature ) , then park it on a level surface and let it cool down for a couple hours before checking the oil level once more ."
+                },
+                {
+                    "Text": "clean up all your materials . be sure to recycle your oil at an auto parts store such as autozone . most landfills will have special days when you can take your used oil filter to be recycled ."
+                },
+                {
+                    "Text": "to keep track of my oil change intervals , i usually make a little dot on my timing belt sticker every time i change the oil . each dot corresponds to 3 , 000 miles ."
+                }
+            ],
+            "Text_raw": "Start the engine, and let it run for a minute or two to allow the oil to circulate through the filter. The oil pressure light will probably come on for a couple seconds when you first start the engine. This is normal, as oil pressure needs to develop as oil enters the filter. I usually allow the car to sit for about 20 minutes, then check the oil once more. Add oil if necessary. Afterward, it is a good idea to drive for a bit (let the engine get up to operating temperature), then park it on a level surface and let it cool down for a couple hours before checking the oil level once more. Clean up all your materials. Be sure to recycle your oil at an auto parts store such as AutoZone. Most landfills will have special days when you can take your used oil filter to be recycled. To keep track of my oil change intervals, I usually make a little dot on my timing belt sticker every time I change the oil. Each dot corresponds to 3,000 miles.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CSZYyUatZlVEeOQ4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jPtAN2BGMkNEUrOn.standard"
+            ],
+            "StepId": 26559,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Oil Change"
+}

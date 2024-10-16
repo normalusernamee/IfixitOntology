@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ontology Browser</title>
+</head>
+<body>
+    <h1>Welcome to the Ontology Browser</h1>
+    <p>This application allows you to browse and search an ontology knowledge graph.</p>
+    
+    <h2>User Guide</h2>
+    <p>Here's how you can use the application:</p>
+    <ul>
+        <li><strong>Search Dataset:</strong> Enter a SPARQL query in the search field to retrieve specific data from the ontology.</li>
+        <li><strong>Display Data:</strong> View all classes and instances defined in the ontology.</li>
+        <li><strong>SPARQL Queries:</strong> Run predefined SPARQL queries to explore common data patterns.</li>
+        <li><strong>Edit Knowledge Graph:</strong> Modify the ontology by adding or updating entries.</li>
+    </ul>
+
+    <h2>Navigation</h2>
+    <ul>
+        <li><a href="{{ url_for('search') }}">Search Dataset</a></li>
+        <li><a href="{{ url_for('display_data') }}">Display Data</a></li>
+        <li><a href="{{ url_for('sparql_queries') }}">SPARQL Queries</a></li>
+        <li><a href="{{ url_for('edit_graph') }}">Edit Knowledge Graph</a></li>
+    </ul>
+</body>
+</html>

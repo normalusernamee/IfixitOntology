@@ -1,0 +1,62 @@
+{
+    "Title": "2008-2012 Honda Accord Turn Signal Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 96454,
+    "Category": "2008-2012 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "latex or nitrile gloves",
+            "Url": "http://www.amazon.com/dp/B00J084MHA/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2008+2009+2010+2011+2012+Honda+Accord+Turn+Signal+Replacement/96454",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "ifixit doesn't allow linking to specific times in the video , so you'll have to drag through to the right time in the video :"
+                },
+                {
+                    "Text": "left turn signal ( driver's side ) : 8 : 09 in video ."
+                },
+                {
+                    "Text": "right turn signal ( passender's side ) : 9 : 39 in video ."
+                },
+                {
+                    "Text": "the beginning and end of the video includes a lot of talking . really , just drag through to the specific time you need ."
+                }
+            ],
+            "Text_raw": "ifixit doesn't allow linking to specific times in the video, so you'll have to drag through to the right time in the video: LEFT Turn Signal (Driver's side): 8:09 in video. RIGHT Turn Signal (Passender's side): 9:39 in video. The beginning and end of the video includes a lot of talking. Really, just drag through to the specific time you need.",
+            "Images": [],
+            "StepId": 178154,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "this video does not go over headlight replacement . other videos i have looked at suggested taking off the underside body panel for the front wheels ."
+                },
+                {
+                    "Text": "it may be possible to reach the headlight using the same method as the turn signals . please update this guide if it works for you ."
+                }
+            ],
+            "Text_raw": "This video does not go over headlight replacement. Other videos I have looked at suggested taking off the underside body panel for the front wheels. It may be possible to reach the headlight using the same method as the turn signals. Please update this guide if it works for you.",
+            "Images": [],
+            "StepId": 178155,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Turn Signal Bulb"
+}

@@ -1,0 +1,306 @@
+{
+    "Title": "2000-2006 Toyota Celica Front Sway Bar Link Replacement",
+    "Ancestors": [
+        "Toyota Celica",
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 19755,
+    "Category": "Toyota Celica Troubleshooting",
+    "Toolbox": [
+        {
+            "Name": "14 mm socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-14146-Shallow-Socket-6-Point/dp/B000NY8PVO/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "lug wrench",
+            "Url": "http://www.amazon.com/Wilmar-W2-Metric-Lug-Wrench/dp/B000FW2NU8/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889157&sr=1-1&keywords=lug+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "penetrating lubricant",
+            "Url": "http://www.amazon.com/Blaster-16-PB-Penetrating-Catalyst-oz/dp/B000I2079E/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889196&sr=1-1&keywords=PB+blaster",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "64 bit driver kit",
+            "Url": "https://www.ifixit.com/Store/Tools/64-Bit-Driver-Kit/IF145-299",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/XlrqvqJaMN2Wsgoe.mini"
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2000+2001+2002+2003+2004+2005+2006+Toyota+Celica+Front+Sway+Bar+Link+Replacement/19755",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "'''tools needed : '''"
+                },
+                {
+                    "Text": "a 14 mm socket wrench"
+                },
+                {
+                    "Text": "a 4 mm allen wrench"
+                },
+                {
+                    "Text": "penetrating lubricant"
+                },
+                {
+                    "Text": "a lug wrench"
+                },
+                {
+                    "Text": "torque wrench"
+                },
+                {
+                    "Text": "two new sway bar links"
+                }
+            ],
+            "Text_raw": "'''Tools needed:''' A 14mm socket wrench A 4mm Allen wrench Penetrating lubricant A lug wrench Torque wrench Two new sway bar links",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mbFaVm2HvmLKB23Z.standard"
+            ],
+            "StepId": 55343,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "to access the bolts first remove cap center from wheel by prying with a screwdriver ."
+                },
+                {
+                    "Text": "using the lug wrench , turn the lug nuts for the front passenger side wheel counterclockwise until you break their resistance ."
+                },
+                {
+                    "Text": "use your foot or all of your body weight if necessary ."
+                },
+                {
+                    "Text": "'''++do not++''' remove bolts from the wheel ."
+                }
+            ],
+            "Text_raw": "To access the  bolts first remove  cap center from wheel by prying with a screwdriver. Using the lug wrench, turn the lug nuts for the front passenger side wheel counterclockwise until you break their resistance. Use your foot or all of your body weight if necessary. '''++DO NOT++''' remove bolts from the wheel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wY3NWdD44J6rlIIE.standard"
+            ],
+            "StepId": 55344,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "++'''do not'''++ use the jack to keep the car lifted . place jack stands or cinder blocks underneath the car ."
+                },
+                {
+                    "Text": "you will need to begin by jacking up the front of your car . if you need help with using a hydraulic jack , see the guide below :"
+                },
+                {
+                    "Text": "to jack up a car ( or truck )"
+                },
+                {
+                    "Text": "take the 14 mm lug wrench and loosen all the bolts until they come off of the wheel and remove the wheel ."
+                }
+            ],
+            "Text_raw": "++'''DO NOT'''++ USE THE JACK TO KEEP THE CAR LIFTED. Place jack stands or cinder blocks underneath the car. You will need to begin by jacking up the front of your car. If you need help with  using a hydraulic jack, see the guide below: [https://www.ifixit.com/Guide/How+to+Jack+Up+a+Car+%28or+Truck%29/67013|How to Jack Up a Car (or Truck)] Take the 14mm lug wrench and loosen all the bolts until they come off of the wheel and remove the wheel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/g3StMsCAYUmiRWIN.standard"
+            ],
+            "StepId": 55359,
+            "Tools_extracted": [
+                "hydraulic floor jack",
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "the sway bar link is located behind the brake shield , connecting the sway bar and suspension ."
+                }
+            ],
+            "Text_raw": "The sway bar link is located behind the brake shield, connecting the sway bar and suspension.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pWLTFNXvUCNLjLWo.standard"
+            ],
+            "StepId": 55361,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use the penetrating lubricant to spray on the top nut , which attaches the sway bar link to the suspension ."
+                },
+                {
+                    "Text": "use the penetrating lubricant to spray the bottom nut , which attaches the sway bar link to the sway bar ."
+                }
+            ],
+            "Text_raw": "Use the penetrating lubricant to spray on the top nut, which attaches the sway bar link to the suspension. Use the penetrating lubricant to spray the bottom nut, which attaches the sway bar link  to the sway bar.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Pwg2TYb1ZROeeFb3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RCgxAiyyfAYEBCEL.standard"
+            ],
+            "StepId": 55362,
+            "Tools_extracted": [
+                "penetrating lubricant"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "use the 14 mm socket wrench to take off the top nut ."
+                },
+                {
+                    "Text": "if the sway bar link's joint is spinning and the nut does not come off , use the 4 mm allen wrench to hold down the sway bar link . see the second picture for details ."
+                }
+            ],
+            "Text_raw": "Use the 14mm socket wrench to take off the top nut. If the sway bar link's joint is spinning and the nut does not come off, use the 4mm Allen wrench to hold down the sway bar link. See the second picture for details.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/55LgqDbThETAdvKE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NpfyMR4E2ooShlZk.standard"
+            ],
+            "StepId": 55396,
+            "Tools_extracted": [
+                "14 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "repeat step 7 for the bottom nut of the sway bar link ."
+                }
+            ],
+            "Text_raw": "Repeat Step 7 for the bottom nut of the sway bar link.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KCKbOnDKBVBUeugH.standard"
+            ],
+            "StepId": 55397,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "after taking all the nuts off , use the bar from the hydraulic jack to push down the sway bar so that it is easier to take the sway bar link off ."
+                }
+            ],
+            "Text_raw": "After taking all the nuts off, use the bar from the hydraulic jack to push down the sway bar so that it is easier to take the sway bar link off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cKs1wqglyBNIEsp6.standard"
+            ],
+            "StepId": 55400,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "to put the new sway bar link in , use the bar from the hydraulic jack to push down the sway bar , and then insert the new sway bar link ."
+                }
+            ],
+            "Text_raw": "To put the new sway bar link in, use the bar from the hydraulic jack to push down the sway bar, and then insert the new sway bar link.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lLMFVsYmYoQKyUXy.standard"
+            ],
+            "StepId": 55401,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "use the 4 mm allen wrench or 14 mm socket wrench to tighten the nut onto the bottom sway bar link ."
+                },
+                {
+                    "Text": "repeat for the top sway bar link ."
+                },
+                {
+                    "Text": "the 4 mm allen wrench is not necessary for this step ."
+                }
+            ],
+            "Text_raw": "Use the 4mm Allen wrench or 14mm socket wrench to tighten the nut onto the bottom sway bar link. Repeat for the top sway bar link. The 4mm Allen wrench is not necessary for this step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dcgVjhJApQiFA4wj.standard"
+            ],
+            "StepId": 55406,
+            "Tools_extracted": [
+                "14 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "put the tire back on and tighten the lug nuts using the lug wrench ."
+                },
+                {
+                    "Text": "only tighten tire until there is enough resistance to keep the tire attached to the wheel hub , with the following pattern to ensure proper tire alignment ."
+                }
+            ],
+            "Text_raw": "Put the tire back on and tighten the lug nuts using the lug wrench. Only tighten tire until there is enough resistance to keep the tire attached to the wheel hub, with the following pattern to ensure proper tire alignment.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qVSwi5VIqZPON1ZG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UsyDDVdWUWUHTW5e.standard"
+            ],
+            "StepId": 55408,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "place the hydraulic jack back under the car and lift it off the cinder blocks or jack stands ."
+                },
+                {
+                    "Text": "remove the cinder blocks or jack stands and lower the car back to the ground ."
+                },
+                {
+                    "Text": "further tighten the lug nuts using the torque wrench ."
+                },
+                {
+                    "Text": "tighten each nut with a torque wrench to a torque of 80 ft/lb . see third picture for pattern to ensure proper tire alignment ."
+                }
+            ],
+            "Text_raw": "Place the hydraulic jack back under the car and lift it off the cinder blocks or jack stands. Remove the cinder blocks or jack stands and lower the car back to the ground. Further tighten the lug nuts using the torque wrench. Tighten  each nut with a torque wrench to a torque of 80ft/lb. See third picture for pattern to ensure proper tire alignment.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HYPgOAVnttAPaUiV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VXrWewuPqfcCEOvh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gEongvOqIwBKGQWl.standard"
+            ],
+            "StepId": 55409,
+            "Tools_extracted": [
+                "hydraulic floor jack",
+                "torque wrench"
+            ]
+        }
+    ],
+    "Subject": "Sway Bar Links"
+}

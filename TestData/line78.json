@@ -1,0 +1,117 @@
+{
+    "Title": "Disassembling 2010-2014 Ford Mustang Center Console",
+    "Ancestors": [
+        "Ford Mustang",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 10820,
+    "Category": "2010-2014 Ford Mustang",
+    "Toolbox": [
+        {
+            "Name": "7 mm socket",
+            "Url": "/Item/7mm_socket_wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Disassembling+2010+2011+2012+2013+2014+Ford+Mustang+Center+Console/10820",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "open the rear part of the middle console ."
+                }
+            ],
+            "Text_raw": "Open the rear part of the middle console.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mKRAGGdWP4fICN66.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gT5IIqDcq6Q63gA6.standard"
+            ],
+            "StepId": 38904,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "grip the right side of the console and pull up towards the passenger seat to remove it ."
+                }
+            ],
+            "Text_raw": "Grip the right side of the console and pull up towards the passenger seat to remove it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VE6SlLrKZmpGLvHC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FhdgQvjRRHMht1Pm.standard"
+            ],
+            "StepId": 38906,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "locate the two bolts under the air conditioning controls at the bottom of the face plate ."
+                },
+                {
+                    "Text": "loosen these two bolts with a basic socket wrench suited for 7 mm bolts ."
+                }
+            ],
+            "Text_raw": "Locate the two bolts under the air conditioning controls at the bottom of the face plate. Loosen these two bolts with a basic socket wrench suited for 7mm bolts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/viZA2IJ5XCOyyMUX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ryCWrfv2OQCJASHN.standard"
+            ],
+            "StepId": 38907,
+            "Tools_extracted": [
+                "7 mm socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "wedge a spudger or plastic opening tool ( in place of the screwdriver shown ) under the top of the face plate ."
+                },
+                {
+                    "Text": "apply pressure until the corners pop out of place ."
+                }
+            ],
+            "Text_raw": "Wedge a spudger or plastic opening tool (in place of the screwdriver shown) under the top of the face plate. Apply pressure until the corners \"pop\" out of place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4J4NRmMTQCTb2Xf5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uDPVRjXJBkDDwxek.standard"
+            ],
+            "StepId": 38908,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "inspect the interior of the center console for damaged wires or other faulty components ."
+                }
+            ],
+            "Text_raw": "Inspect the interior of the center console for damaged wires or other faulty components.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QdOI16TecOYXrmBh.standard"
+            ],
+            "StepId": 39034,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Center Console"
+}

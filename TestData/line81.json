@@ -1,0 +1,463 @@
+{
+    "Title": "2003-2007 Honda Accord Oil and Oil Filter Change",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 10885,
+    "Category": "2003-2007 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "17 mm box end wrench",
+            "Url": "/Item/17_mm_Box_End_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil filter wrench",
+            "Url": "http://amzn.com/B0009WG5SU",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2003+2004+2005+2006+2007+Honda+Accord+Oil+and+Oil+Filter+Change/10885",
+    "Steps": [
+        {
+            "Order": 0,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "locate the hood latch beside the driver's side door , right next to the left foot rest ."
+                }
+            ],
+            "Text_raw": "Locate the hood latch beside the driver's side door, right next to the left foot rest.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NSjYhEA23iAKNwmh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/diHAcUUQAKctjJHl.standard"
+            ],
+            "StepId": 39936,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "pull the latch toward you to release the hood ."
+                }
+            ],
+            "Text_raw": "Pull the latch toward you to release the hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YIuxlPgwiJUSChbd.standard"
+            ],
+            "StepId": 41987,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "walk around to the front of the vehicle ."
+                },
+                {
+                    "Text": "slide your hand under the hood , directly above the honda emblem . locate and pull the hood tab to unlock the hood ."
+                },
+                {
+                    "Text": "once the tab is released , lift the hood up ."
+                }
+            ],
+            "Text_raw": "Walk around to the front of the vehicle. Slide your hand under the hood, directly above the Honda emblem. Locate and pull the hood tab to unlock the hood. Once the tab is released, lift the hood up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ybu3ZsR2KjnojtMl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KGkLxNUjKGvWtJuj.standard"
+            ],
+            "StepId": 39937,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "use your left hand to hold the hood up . locate the hood stand and pull it out of the clip ."
+                }
+            ],
+            "Text_raw": "Use your left hand to hold the hood up. Locate the hood stand and pull it out of the clip.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bk3mU1myDjWAa1p4.standard"
+            ],
+            "StepId": 39938,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "place the tip of the hood stand into the hole located in the upper left of the hood ."
+                },
+                {
+                    "Text": "let the hood rest on the stand ."
+                }
+            ],
+            "Text_raw": "Place the tip of the hood stand into the hole located in the upper left of the hood. Let the hood rest on the stand.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LnPagmD6xDNhLhXl.standard"
+            ],
+            "StepId": 41988,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "place the hydraulic floor jack under the vehicle until the '''''saddle''''' is directly under the '''''crossmember''''' ."
+                },
+                {
+                    "Text": "the '''''crossmember''''' is the long metal support beam that runs underneath from the front fender to the rear fender on both sides of the car ."
+                },
+                {
+                    "Text": "the '''''saddle''''' is the round metal part of the jack that moves upward as you pump the jack up ."
+                }
+            ],
+            "Text_raw": "Place the hydraulic floor jack under the vehicle until the '''''saddle''''' is directly under the '''''crossmember'''''. The '''''crossmember''''' is the long metal support beam that runs underneath from the front fender to the rear fender on both sides of the car. The '''''saddle''''' is the round metal part of the jack that moves upward as you pump the jack up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UFHnKqTQJabuV5As.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lSNqNbjkuDKB6ebD.standard"
+            ],
+            "StepId": 39942,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "push downward on the jack's lever to lift the saddle upward so that it contacts the crossmember . continue pushing downward on the lever to lift the car upward ."
+                }
+            ],
+            "Text_raw": "Push downward on the jack's lever to lift the saddle upward so that it contacts the crossmember. Continue pushing downward on the lever to lift the car upward.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QM4J4SBHnfjcqotk.standard"
+            ],
+            "StepId": 41974,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "place the jack stand under the jack mounting point ."
+                },
+                {
+                    "Text": "the jack mounting point is a metallic protrusion beneath each of the car doors ."
+                }
+            ],
+            "Text_raw": "Place the jack stand under the jack mounting point. The jack mounting point is a metallic protrusion beneath each of the car doors.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cktSsXVpOBuwdDRO.standard"
+            ],
+            "StepId": 39943,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "raise the jack stand until it contacts the jack mounting point ."
+                },
+                {
+                    "Text": "in the event the floor jack fails , the jack stand is designed to prevent the car from falling ."
+                }
+            ],
+            "Text_raw": "Raise the jack stand until it contacts the jack mounting point. In the event the floor jack fails, the jack stand is designed to prevent the car from falling.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vEtKlH5OqX1U56Xd.standard"
+            ],
+            "StepId": 41989,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "remove the dipstick by lifting vertically ."
+                },
+                {
+                    "Text": "wipe all the oil off of the dipstick and put it back into the dipstick port ."
+                }
+            ],
+            "Text_raw": "Remove the dipstick by lifting vertically. Wipe all the oil off of the dipstick and put it back into the dipstick port.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jHpUYJkckQ22MBTk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ghWLGvhT1OKDxgVI.standard"
+            ],
+            "StepId": 40033,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "remove the dipstick and examine the oil levels . the oil level should be between the two dots on the dipstick ."
+                }
+            ],
+            "Text_raw": "Remove the dipstick and examine the oil levels. The oil level should be between the two dots on the dipstick.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fnDFGpcvGP2pTvnY.standard"
+            ],
+            "StepId": 40034,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "after driving , engine oil needs time to cool before it can be safely changed . wait about one hour after the engine has been turned off before attempting to change the oil ."
+                },
+                {
+                    "Text": "crawl under the front of the car on your backside and identify the oil drain plug ."
+                },
+                {
+                    "Text": "if there is any oil or residue around the drain plug , be sure to wipe it off before continuing ."
+                }
+            ],
+            "Text_raw": "After driving, engine oil needs time to cool before it can be safely changed. Wait about one hour after the engine has been turned off before attempting to change the oil. Crawl under the front of the car on your backside and identify the oil drain plug. If there is any oil or residue around the drain plug, be sure to wipe it off before continuing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dnlcYTepUcsVsnkH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TaTTMEHMVMWi6GAl.standard"
+            ],
+            "StepId": 40036,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "place the oil drip pan under the drain plug and begin to loosen the drain plug with a 17 mm wrench ."
+                }
+            ],
+            "Text_raw": "Place the oil drip pan under the drain plug and begin to loosen the drain plug with a 17mm wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GZYoVxmsiLQcN4eV.standard"
+            ],
+            "StepId": 40037,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "loosen drain plug slowly by hand until the bolt is completely removed and oil begins to flow , re-positioning the oil drip pan if needed ."
+                }
+            ],
+            "Text_raw": "Loosen drain plug slowly by hand until the bolt is completely removed and oil begins to flow, re-positioning the oil drip pan if needed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/deASpTJEfhgJ5fQT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LZOSgYAUFApPDUOi.standard"
+            ],
+            "StepId": 41990,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "let the oil completely drain into the drip pan and replace and tighten the drain plug ."
+                },
+                {
+                    "Text": "set the drip pan aside ."
+                }
+            ],
+            "Text_raw": "Let the oil completely drain into the drip pan and replace and tighten the drain plug. Set the drip pan aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HGBfpgpFZIXRVMuJ.standard"
+            ],
+            "StepId": 40038,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "identify the oil filter and place drip pan under the oil filter to catch falling oil ."
+                },
+                {
+                    "Text": "using a pair of channel locks , grip the oil filter tightly and twist counterclockwise to loosen ."
+                },
+                {
+                    "Text": "oil will drip out from the threads as you loosen it so have the oil drip pan ready ."
+                }
+            ],
+            "Text_raw": "Identify the oil filter and place drip pan under the oil filter to catch falling oil. Using a pair of channel locks, grip the oil filter tightly and twist counterclockwise to loosen. Oil will drip out from the threads as you loosen it so have the oil drip pan ready.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/G3rNNx2tFRZYmTd4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/djUvOkqxIuR6RWF2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dHbPHAV3WKSBPPBa.standard"
+            ],
+            "StepId": 40039,
+            "Tools_extracted": [
+                "oil drain pan",
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "slowly loosen the oil filter by hand until it is free ."
+                }
+            ],
+            "Text_raw": "Slowly loosen the oil filter by hand until it is free.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/U5dA6CoNrtBBKMqO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BE4UcIPp6DPpBufg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iDglPOwX6aVfdWYN.standard"
+            ],
+            "StepId": 40040,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "drain the remaining oil in the filter by inverting it over the drip pan ."
+                },
+                {
+                    "Text": "be sure to wipe down any oil that might have leaked during the process ."
+                }
+            ],
+            "Text_raw": "Drain the remaining oil in the filter by inverting it over the drip pan. Be sure to wipe down any oil that might have leaked during the process.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mdbWtuanevqLkcyZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dPxmIwlE2iguKhqT.standard"
+            ],
+            "StepId": 40041,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "get the replacement filter and lightly spread clean engine oil onto the rubber gasket of the new filter ."
+                }
+            ],
+            "Text_raw": "Get the replacement filter and lightly spread clean engine oil onto the rubber gasket of the new filter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/e4Y2WNnjY6WlBVgA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bZslpWCABvGocxFC.standard"
+            ],
+            "StepId": 40042,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 19,
+            "Lines": [
+                {
+                    "Text": "thread the new filter into the oil filter port by turning the filter clockwise ."
+                },
+                {
+                    "Text": "once the rubber gasket contacts the engine block , use the channel locks to turn the filter one full turn cw ."
+                },
+                {
+                    "Text": "over tightening may cause the gasket to break and leak oil ."
+                }
+            ],
+            "Text_raw": "Thread the new filter into the oil filter port by turning the filter clockwise. Once the rubber gasket contacts the engine block, use the channel locks to turn the filter one full turn CW. Over tightening may cause the gasket to break and leak oil.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Z3PAnG4OCMYsTBNR.standard"
+            ],
+            "StepId": 41991,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 20,
+            "Lines": [
+                {
+                    "Text": "locate the oil fill cap on top of the engine and unscrew it ."
+                }
+            ],
+            "Text_raw": "Locate the oil fill cap on top of the engine and unscrew it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ilrVj2lfAN5xyOfF.standard"
+            ],
+            "StepId": 40043,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 21,
+            "Lines": [
+                {
+                    "Text": "using a funnel , pour 5 quarts of 5 w-20 oil into the opening , making sure not to spill oil onto or around the engine ."
+                },
+                {
+                    "Text": "screw on and tighten the oil fill cap ."
+                }
+            ],
+            "Text_raw": "Using a funnel, pour 5 quarts of 5W-20 oil into the opening, making sure not to spill oil onto or around the engine. Screw on and tighten the oil fill cap.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2Vup6ClRknLx5Wib.standard"
+            ],
+            "StepId": 41992,
+            "Tools_extracted": [
+                "oil"
+            ]
+        }
+    ],
+    "Subject": "Engine oil and oil filter"
+}

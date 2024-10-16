@@ -1,0 +1,122 @@
+{
+    "Title": "1986-1993 Volvo 240 Brake Master Cylinder Replacement",
+    "Ancestors": [
+        "Volvo",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 8631,
+    "Category": "1986-1993 Volvo 240",
+    "Toolbox": [
+        {
+            "Name": "smart wrench",
+            "Url": "https://www.ifixit.com/Store/Parts/Smart-Wrench/IF145-231-1",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/bIqPGgt6wXCOMSeU.mini"
+        },
+        {
+            "Name": "17 mm socket",
+            "Url": "/Item/17_mm_Socket_Wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1986+1987+1988+1989+1990+1991+1992+1993+Volvo+240+Brake+Master+Cylinder+Replacement/8631",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the brake master cylinder is located directly underneath the brake fluid reservoir near the driver side of the engine bay ."
+                }
+            ],
+            "Text_raw": "The brake master cylinder is located directly underneath the brake fluid reservoir near the driver side of the engine bay.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ThXsrbYBklQJwTGb.standard"
+            ],
+            "StepId": 33789,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "twist the brake fluid reservoir cap counterclockwise and remove it ."
+                },
+                {
+                    "Text": "remove as much brake fluid from the reservoir as possible by sticking a clean rag inside the reservoir ."
+                },
+                {
+                    "Text": "when you remove the rag , be sure not to place it on any painted or plastic surfaces . brake fluid will strip paint and deteriorate plastic ."
+                }
+            ],
+            "Text_raw": "Twist the brake fluid reservoir cap counterclockwise and remove it. Remove as much brake fluid from the reservoir as possible by sticking a clean rag inside the reservoir. When you remove the rag, be sure not to place it on any painted or plastic surfaces. Brake fluid will strip paint and deteriorate plastic.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BYGfuprNO1rxUQlI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HkRpThXGf6aHGD31.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EHvXFdWuJcWrLyCs.standard"
+            ],
+            "StepId": 33791,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "if your brake fluid reservoir has a fluid level sensor , disconnect it by pressing down on the plastic tab and pulling the connector straight out of its socket ."
+                }
+            ],
+            "Text_raw": "If your brake fluid reservoir has a fluid level sensor, disconnect it by pressing down on the plastic tab and pulling the connector straight out of its socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PEYha4YnM6nOcKRF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FGeGxkIwp3oLtI1y.standard"
+            ],
+            "StepId": 33793,
+            "Tools_extracted": [
+                "17 mm socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use a 10 mm open end wrench to disconnect the two brake lines from the master cylinder ."
+                },
+                {
+                    "Text": "there were still be fluid in the master cylinder that will drip out of the connections ; this is normal . use a clean rag to clean up any dripping fluid ."
+                }
+            ],
+            "Text_raw": "Use a 10 mm open end wrench to disconnect the two brake lines from the master cylinder. There were still be fluid in the master cylinder that will drip out of the connections; this is normal. Use a clean rag to clean up any dripping fluid.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oqvjMSJEYioP5GWT.standard"
+            ],
+            "StepId": 33794,
+            "Tools_extracted": [
+                "smart wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use an open end or socket wrench to remove the 17 mm nuts on either side of the master cylinder that attach it to the brake booster ."
+                },
+                {
+                    "Text": "remove the brake master cylinder , taking care not to damage or bend the brake lines ."
+                }
+            ],
+            "Text_raw": "Use an open end or socket wrench to remove the 17 mm nuts on either side of the master cylinder that attach it to the brake booster. Remove the brake master cylinder, taking care not to damage or bend the brake lines.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KDcSOKwb4eRK51j1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/InIvFrUutSdJJA4I.standard"
+            ],
+            "StepId": 33795,
+            "Tools_extracted": [
+                "17 mm socket"
+            ]
+        }
+    ],
+    "Subject": "Brake Master Cylinder"
+}

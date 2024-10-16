@@ -1,0 +1,261 @@
+{
+    "Title": "Mercedes W123 Power Window Regulator, Rear Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20428,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "extreme duty grease",
+            "Url": "http://www.amazon.com/Valvoline-VV632-Fortified-Multi-Purpose-Vehicles/dp/B000GAD07O/ref=sr_1_4?ie=UTF8&qid=1387824183&sr=8-4&keywords=moly+grease",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Power+Window+Regulator+Rear+Replacement/20428",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before you can begin with the removal of your rear window regulator you will need to remove the door panel . guide"
+                }
+            ],
+            "Text_raw": "Before you can begin with the removal of your rear window regulator you will need to remove the door panel. [guide|20198|Click here to review the door panel removal technique guide.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gXJFwVRhX6WQThNw.standard"
+            ],
+            "StepId": 56342,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "after following the door panel removal guide , including the extra steps for the rear door panel , the plug for the rear window switch will look like this ."
+                },
+                {
+                    "Text": "gently remove the switch from the door panel and plug it back in this plug ."
+                },
+                {
+                    "Text": "note that the switch helps complete the power window electrical circuit in such a way that with the switch unplugged the regulator motor will not get power even from the switch in the front center console . it needs to be installed to move the window up and down ."
+                }
+            ],
+            "Text_raw": "After following the door panel removal guide, including the extra steps for the rear door panel, the plug for the rear window switch will look like this. Gently remove the switch from the door panel and plug it back in this plug. Note that the switch helps complete the power window electrical circuit in such a way that with the switch unplugged the regulator motor will not get power even from the switch in the front center console. It needs to be installed to move the window up and down.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5QTEoLHW4pDvfgwQ.standard"
+            ],
+            "StepId": 56344,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use the switch to move the power window down until the bottom rail of the glass is exposed . notice that the switch is installed in the plug as mentioned in the previous step ."
+                },
+                {
+                    "Text": "remove the two 10 mm bolts that hold the bottom rail of the glass to the window regulator ."
+                },
+                {
+                    "Text": "if your power window does not move up and down due to power or motor issues , you may need to reach up inside the door opening to remove the two 10 mm bolts . it's possible , just more challenging ."
+                }
+            ],
+            "Text_raw": "Use the switch to move the power window down until the bottom rail of the glass is exposed. Notice that the switch is installed in the plug as mentioned in the previous step. Remove the two 10mm bolts that hold the bottom rail of the glass to the window regulator. If your power window does not move up and down due to power or motor issues, you may need to reach up inside the door opening to remove the two 10mm bolts. It's possible, just more challenging.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/F4nlnBqMuVGRYBRv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KxnVbMqHwBr2rGJq.standard"
+            ],
+            "StepId": 56345,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "separate the window regulator arm from the bottom rail on the glass and then slowly push the glass up in to the door ."
+                },
+                {
+                    "Text": "when the glass reaches the top of the door , secure it with strong tape that will not leave a residue on the glass . several large pieces of blue painters tape works well . secure it by using long pieces that go over the top of the door and attaches to the glass on both sides ."
+                },
+                {
+                    "Text": "do not leave the glass taped in such a way for long periods of time and never drive the car with the glass taped in place . if you need to drive the car with the regulator removed be sure to very carefully secure the window in the up position with a very strong brace . this guide does not cover this process ."
+                }
+            ],
+            "Text_raw": "Separate the window regulator arm from the bottom rail on the glass and then slowly push the glass up in to the door. When the glass reaches the top of the door, secure it with strong tape that will not leave a residue on the glass. Several large pieces of blue painters tape works well. Secure it by using long pieces that go over the top of the door and attaches to the glass on both sides. Do not leave the glass taped in such a way for long periods of time and never drive the car with the glass taped in place. If you need to drive the car with the regulator removed be sure to very carefully secure the window in the up position with a very strong brace. This guide does not cover this process.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/echTFZY4BLyoNe2I.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cgYKsTSnn1g3Pr4B.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fqABM6gieburZYWi.standard"
+            ],
+            "StepId": 56346,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "if you window is hard to move up and down by hand you can consider greasing the felt slides within the side window rails with a synthetic grease such as silicone . the bottom end is shown ; it goes all the way up in to the door ."
+                }
+            ],
+            "Text_raw": "If you window is hard to move up and down by hand you can consider greasing the felt slides within the side window rails with a synthetic grease such as silicone. The bottom end is shown; it goes all the way up in to the door.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dyuuywwXwxlfwRFd.standard"
+            ],
+            "StepId": 57171,
+            "Tools_extracted": [
+                "extreme duty grease"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "with the glass disconnected from the regulator and secured properly the regulator can now be removed ."
+                },
+                {
+                    "Text": "start by removing the switch from the plug ."
+                },
+                {
+                    "Text": "then use a flat blade screwdriver to pop the back of the plug off . this will reveal the individual connector ends inside the plug ."
+                },
+                {
+                    "Text": "take a picture or make careful notes of where each wire goes . while the wires and the holes in the plug are typically numbered for easy reassembly it's better to be safe than sorry ."
+                },
+                {
+                    "Text": "pull the solid green and solid black wires , which are the ones that are connected to the regulator motor , from the plug . leave the rest of the wires in place and re-install the black plastic back on the plug for now ."
+                }
+            ],
+            "Text_raw": "With the glass disconnected from the regulator and secured properly the regulator can now be removed. Start by removing the switch from the plug. Then use a flat blade screwdriver to pop the back of the plug off. This will reveal the individual connector ends inside the plug. Take a picture or make careful notes of where each wire goes. While the wires and the holes in the plug are typically numbered for easy reassembly it's better to be safe than sorry. Pull the solid green and solid black wires, which are the ones that are connected to the regulator motor, from the plug. Leave the rest of the wires in place and re-install the black plastic back on the plug for now.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gCUCmLK5yiavjYhD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QvdyFoKqD5Y3GxKD.standard"
+            ],
+            "StepId": 56347,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "loosen and remove the two 10 mm nuts that hold the regulator's pegs in to the door shell ."
+                },
+                {
+                    "Text": "loosen and remove the 10 mm bolt that holds the final connection point of the regulator to the door shell ."
+                },
+                {
+                    "Text": "with these nuts and bolts removed the regulator is now loose from the door but more needs to be done before it can be removed fully ."
+                }
+            ],
+            "Text_raw": "Loosen and remove the two 10mm nuts that hold the regulator's pegs in to the door shell. Loosen and remove the 10mm bolt that holds the final connection point of the regulator to the door shell. With these nuts and bolts removed the regulator is now loose from the door but more needs to be done before it can be removed fully.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UNwMWnLuZYbkPPgh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qSZ5KDG1xnEdAvwe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LyNsKliWhrhgWYSH.standard"
+            ],
+            "StepId": 56348,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "the window regulator motor is too large to be removed from the rear doors without a few more steps . this is because there are rails on each side of the window glass that the window rides in as it moves up and down . this outside rail blocks the removal of the regulator ."
+                },
+                {
+                    "Text": "remove the lower 10 mm bolt that holds this window rail in place . consider taking pictures or marking on the door the exact position of this lower bolt as it has some adjustment room and the best bet is most likely to return it to where it was before removal ."
+                },
+                {
+                    "Text": "straight up from this bolt , near the very top of the door , is a second 10 mm bolt that holds the top of the rail . loosen but do not remove this bolt ."
+                }
+            ],
+            "Text_raw": "The window regulator motor is too large to be removed from the rear doors without a few more steps. This is because there are rails on each side of the window glass that the window rides in as it moves up and down. This outside rail blocks the removal of the regulator. Remove the lower 10mm bolt that holds this window rail in place. Consider taking pictures or marking on the door the exact position of this lower bolt as it has some adjustment room and the best bet is most likely to return it to where it was before removal. Straight up from this bolt, near the very top of the door, is a second 10mm bolt that holds the top of the rail. Loosen but do not remove this bolt.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tZgQMUQkTH52cBWU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mBiO1jZmVcV5nPXM.standard"
+            ],
+            "StepId": 56349,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "the outside window rail can now be rotated inside the door , towards the car , to make room for the window regulator and motor to pass it and come out of the opening in the door shell . be sure to make note of how the rail and regulator are positioned so you can re-install them in the correct order/orientation ."
+                },
+                {
+                    "Text": "if you want you may choose to tie the window rail to the door shell to free your second hand ."
+                },
+                {
+                    "Text": "take your time when removing the regulator . rotate it a bit , jiggle it , move it backward and forward ; there is no specific way to remove it , it's simply by feel . there is plenty of room to remove it so do not get discouraged ."
+                }
+            ],
+            "Text_raw": "The outside window rail can now be rotated inside the door, towards the car, to make room for the window regulator and motor to pass it and come out of the opening in the door shell. Be sure to make note of how the rail and regulator are positioned so you can re-install them in the correct order/orientation. If you want you may choose to tie the window rail to the door shell to free your second hand. Take your time when removing the regulator. Rotate it a bit, jiggle it, move it backward and forward; there is no specific way to remove it, it's simply by feel. There is plenty of room to remove it so do not get discouraged.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gDJweaUNVtlfVZ1I.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6oShDGW2FUVNW6CT.standard"
+            ],
+            "StepId": 56350,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "once you have the regulator removed you can inspect it ."
+                },
+                {
+                    "Text": "this regulator was removed because the window was moving very slowly . after removal it became obvious that it was bent , and it seems like the motor is weak as well . it will need to be repaired or replaced ."
+                },
+                {
+                    "Text": "if you find your regulator is in similar shape , guide ."
+                },
+                {
+                    "Text": "if you removed your regulator to service the motor see the removal/replacement guide here ."
+                }
+            ],
+            "Text_raw": "Once you have the regulator removed you can inspect it. This regulator was removed because the window was moving very slowly. After removal it became obvious that it was bent, and it seems like the motor is weak as well. It will need to be repaired or replaced. If you find your regulator is in similar shape, [guide|20430|click here to review the rear power regulator repair guide]. If you removed your regulator to service the motor see the [http://www.ifixit.com/Guide/Mercedes+W123+Power+Window+Motor+Replacement/21314|motor removal/replacement guide here].",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LXioTCJKqqUBt33Y.standard"
+            ],
+            "StepId": 56351,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Power Window Regulator, Rear"
+}

@@ -1,0 +1,396 @@
+{
+    "Title": "Installing a Tow Hitch on a 2013 RAV4",
+    "Ancestors": [
+        "Toyota RAV4",
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 16452,
+    "Category": "2013-present Toyota RAV4",
+    "Toolbox": [
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "metric socket set",
+            "Url": "/Item/Metric_socket_set",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "plastic tools for auto interior",
+            "Url": "/Item/plastic_tools_for_auto_interior",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wire stripper crimping tool",
+            "Url": "https://www.ifixit.com/Store/Tools/Wire-Stripper/IF145-046-2",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "citrus based cleaner",
+            "Url": "http://www.amazon.com/3M-CITRUS-BASE-CLEANER-24OZ/dp/B001AO4UTC/ref=sr_1_2?ie=UTF8&qid=1407442704&sr=8-2&keywords=citrus+based+cleaner",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Installing+a+Tow+Hitch+on+a+2013+RAV4/16452",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the curt 56166 t-connector wiring kit comes everything i needed for this installation ."
+                }
+            ],
+            "Text_raw": "The Curt 56166 T-connector wiring kit comes everything I needed for this installation.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MKQHaJG3MhL621V5.standard"
+            ],
+            "StepId": 51183,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the cargo area cover emptying all the junk and spare tire . the rear scuff panel and cargo tray on the drivers side are removed by popping the plastic rivets and metal bolts ."
+                }
+            ],
+            "Text_raw": "Remove the cargo area cover \u2013 emptying all the \u2018junk\u2019 and spare tire. The rear scuff panel and cargo tray on the driver\u2019s side are removed by popping the plastic rivets and metal bolts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wAVy16msHqqPRFex.standard"
+            ],
+            "StepId": 51148,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "on both black side panels , there are two 12 mm bolts near the top and a 10 mm bolt on the rear post . there is cargo ring bolt at the bottom ; it can be removed for more access , but it's not necessary ."
+                }
+            ],
+            "Text_raw": "On both black side panels, there are two 12mm bolts near the top and a 10 mm bolt on the rear post.  There is cargo ring bolt at the bottom; it can be removed for more access, but it's not necessary.",
+            "Images": [],
+            "StepId": 51151,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "with the jbl speaker on the drivers side , it made accessing the wiring a bit tougher . ( note : the picture that came with the instructions shows the harness being accessed by removing the small vented panels . this is not accurate . the harness is located up higher and behind the rear trim . )"
+                }
+            ],
+            "Text_raw": "With the JBL speaker on the driver\u2019s side, it made accessing the wiring a bit tougher.  (NOTE:  The picture that came with the instructions shows the harness being accessed by removing the small vented panels.  This is not accurate.   The harness is located up higher and behind the rear trim.)",
+            "Images": [],
+            "StepId": 51153,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "above the side panels are the rear trim panels that the plastic tools can be pried with one of the plastic tools . the top plastic rivets are tough and may slip out of the panels , but you can pop them out and slide them back on to the panel . once those are free , you can see the light harnesses on both sides ."
+                }
+            ],
+            "Text_raw": "Above the side panels are the rear trim panels that the plastic tools can be pried with one of the plastic tools. The top plastic rivets are tough and may slip out of the panels, but you can pop them out and slide them back on to the panel.  Once those are free, you can see the light harnesses on both sides.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/q5OyUGnEPcEIuViZ.standard"
+            ],
+            "StepId": 51154,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "i used a piece of wood to brace the panels open , rather than removing them entirely :"
+                }
+            ],
+            "Text_raw": "I used a piece of wood to brace the panels open, rather than removing them entirely:",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rVUvTHjmMnAGXheo.standard"
+            ],
+            "StepId": 51157,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "once the side panel is free , you can see the lighting harness . do the same on the passenger side . ( note : the picture that came with the wiring instructions shows the harness being accessed by removing the small vented panels . this is not accurate . the harness is located up higher and behind the rear trim . )"
+                }
+            ],
+            "Text_raw": "Once the side panel is free, you can see the lighting harness. Do the same on the passenger side. (NOTE:  The picture that came with the wiring instructions shows the harness being accessed by removing the small vented panels.  This is not accurate.   The harness is located up higher and behind the rear trim.)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rcJfFKLCIkADYyi3.standard"
+            ],
+            "StepId": 51159,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "the harness on the drivers side can be separated by pressing the small tab ( next step ) and reconnected to the red/yellow/brown t-connector coming from the converter ."
+                }
+            ],
+            "Text_raw": "The harness on the driver\u2019s side can be separated by pressing the small tab (next step) and reconnected to the red/yellow/brown t-connector coming from the converter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mPCTeZT1qZRrZTCF.standard"
+            ],
+            "StepId": 51160,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "the harness has snap connectors which come apart by pressing down on the small , thin 'handles' on the inserted part ."
+                }
+            ],
+            "Text_raw": "The harness has snap connectors which come apart by pressing down on the small, thin 'handles' on the inserted part.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lWrJJw2MhYkTVhu3.standard"
+            ],
+            "StepId": 51176,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "a black 12 g wire which will connect the converter box to the battery comes with the kit . attach wire to the black wire on the converter box with one of the straight connectors ."
+                }
+            ],
+            "Text_raw": "A black 12g wire which will connect the converter box to the battery comes with the kit. Attach wire to the black wire on the converter box with one of the straight connectors.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KfDnDLfcGreLDYQV.standard"
+            ],
+            "StepId": 51164,
+            "Tools_extracted": [
+                "wire stripper crimping tool"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "the converter box can be attached to the rear post with the 2-sided tape that came with the kit . by removing one of the bolts of the speaker assembly , the grounding wire can be slid between the assembly and frame and the bolt re-inserted to provide a ground . ( if no speaker , a hole exists to insert a hex head bolt )"
+                }
+            ],
+            "Text_raw": "The converter box can be attached to the rear post with the 2-sided tape that came with the kit. By removing one of the bolts of the speaker assembly, the grounding wire can be slid between the assembly and frame and the bolt re-inserted to provide a ground. (If no speaker, a hole exists to insert a hex head bolt)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DbPZWvdwuxSJuVaP.standard"
+            ],
+            "StepId": 51162,
+            "Tools_extracted": [
+                "wire stripper crimping tool"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "the green wire to the passenger side harness can be run under the top panel which can be pried open slightly along the rubber seal . run the wire down inside the side panel . attach to t-connector to the wiring harness ."
+                }
+            ],
+            "Text_raw": "The green wire to the passenger side harness can be run under the top panel which can be pried open slightly along the rubber seal. Run the wire down inside the side panel.  Attach to T-connector to the wiring harness.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WJdxjpSpN6UnujUE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2JPv5t3fEungGEuL.standard"
+            ],
+            "StepId": 51161,
+            "Tools_extracted": [
+                "wire stripper crimping tool"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "looking from the underside of the rear metal bumper assembly , i found a rectangular rubber insert which can be removed . the connector to the trailer hitch and wire to the battery can exit the hatch area without any drilling of holes or removing the rubber plugs from the cargo pit . thread both wires down and through the post connecting the bumper ."
+                }
+            ],
+            "Text_raw": "Looking from the underside of the rear metal bumper assembly, I found a rectangular rubber insert which can be removed. The connector to the trailer hitch and wire to the battery can exit the hatch area without any drilling of holes or removing the rubber plugs from the cargo pit.  Thread both wires down and through the post connecting the bumper.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wffPBVdOY6Mu2obI.standard"
+            ],
+            "StepId": 51163,
+            "Tools_extracted": [
+                "wire stripper crimping tool"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "i ran the black 12 gauge wire to the battery under the car . avoid running it through the springs and main moving parts that are part of the wheel and suspension system . there are two plastic covers that the wire can slip in to for support . tie downs can be attached after testing ."
+                }
+            ],
+            "Text_raw": "I ran the black 12 gauge wire to the battery under the car.  Avoid running it through the springs and main moving parts that are part of the wheel and suspension system.  There are two plastic covers that the wire can slip in to for support.  Tie downs can be attached after testing.",
+            "Images": [],
+            "StepId": 51177,
+            "Tools_extracted": [
+                "wire stripper crimping tool"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "note : some people run the cable inside the car and through a grommet fitting under the glove box . however , the wire supplied with the kit may not be long enough and the purchase of one that is will be required ."
+                }
+            ],
+            "Text_raw": "NOTE: some people run the cable inside the car and through a grommet fitting under the glove box. However, the wire supplied with the kit may not be long enough and the purchase of one that is will be required.",
+            "Images": [],
+            "StepId": 51178,
+            "Tools_extracted": [
+                "wire stripper crimping tool"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "once in the engine compartment , '''remove the negative terminal''' . attach one of the red fuse link wires to the 12 g wire with the remaining straight connector and the other part of the fuse link to the battery positive side using the round connector . insert the fuse . re-attach the negative terminal and check with trailer wire tester ."
+                }
+            ],
+            "Text_raw": "Once in the engine compartment, '''remove the negative terminal'''.  Attach one of the red fuse link wires to the 12g wire with the remaining straight connector and  the other part of the fuse link to the battery positive side using the round connector.  Insert the fuse.  Re-attach the negative terminal and check with trailer wire tester.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IcrU1Y1DKJuDZGlZ.standard"
+            ],
+            "StepId": 51179,
+            "Tools_extracted": [
+                "wire stripper crimping tool"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "use the black tie-downs to secure the 12 g wire to the vehicle frame . avoid attaching it to any of the moving parts like the suspension springs , etc . ."
+                }
+            ],
+            "Text_raw": "Use the black tie-downs to secure the 12g wire to the vehicle frame.  Avoid attaching it to any of the moving parts like the suspension springs, etc..",
+            "Images": [],
+            "StepId": 51186,
+            "Tools_extracted": [
+                "wire stripper crimping tool"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "the curt hitch 13149 comes with 4 bolts that fit into the pre-drilled holes on the frame ."
+                }
+            ],
+            "Text_raw": "The Curt hitch 13149 comes with 4 bolts that fit into the pre-drilled holes on the frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dAE4UkTOPRsvlsmT.standard"
+            ],
+            "StepId": 51189,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "with wiring complete , installing the hitch first required removing the muffler from the rear exhaust isolator , a rubber bracket holding the metal peg attached to the muffler . some people find this step unnecessary , but working alone , doing this made the installation easier ."
+                }
+            ],
+            "Text_raw": "With wiring complete, installing the hitch first required removing the muffler from the rear exhaust isolator, a rubber bracket holding the metal peg attached to the muffler.  Some people find this step unnecessary, but working alone, doing this made the installation easier.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lUuCsVOhcdAANwpf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GyaiAyZYIOlS3IVX.standard"
+            ],
+            "StepId": 51180,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 19,
+            "Lines": [
+                {
+                    "Text": "the driver's side has a hidden hitch bracket which needs to be unbolted from the frame before the hitch can be attached . one of those holes will be used and another uncovered to attach that side of the hitch ."
+                }
+            ],
+            "Text_raw": "The driver's side has a hidden hitch bracket which needs to be unbolted from the frame before the hitch can be attached.  One of those holes will be used and another uncovered to attach that side of the hitch.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lsAmFFhEOmkmDce2.standard"
+            ],
+            "StepId": 51182,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 20,
+            "Lines": [
+                {
+                    "Text": "there is a metal 'y' bolted to the top of the muffler that prevents it from swaying into the gas tank . if after installing the hitch , you hear it rattling against the hitch , try removing the two hex bolts and reversing it ."
+                }
+            ],
+            "Text_raw": "There is a metal 'Y' bolted to the top of the muffler that prevents it from swaying into the gas tank.  If after installing the hitch, you hear it rattling against the hitch, try removing the two hex bolts and reversing it.",
+            "Images": [],
+            "StepId": 51187,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 21,
+            "Lines": [
+                {
+                    "Text": "with the muffler free , it was easier to access the passenger side frame where pre-drilled holes existed . they are covered by a thin piece of material which can be scrapped off . i applied some grease to the hitch bolts before inserting and torquing them to 86 foot pounds ."
+                }
+            ],
+            "Text_raw": "With the muffler free, it was easier to access the passenger side frame where pre-drilled holes existed.  They are covered by a thin piece of material which can be scrapped off.  I applied some grease to the hitch bolts before inserting and torquing them to 86 foot pounds.",
+            "Images": [],
+            "StepId": 51181,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 22,
+            "Lines": [
+                {
+                    "Text": "back to the driver's side , i used the supplied bolts , greasing them and torquing as on the passenger side ."
+                }
+            ],
+            "Text_raw": "Back to the driver's side, I used the supplied bolts, greasing them and torquing as on the passenger side.",
+            "Images": [],
+            "StepId": 51188,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

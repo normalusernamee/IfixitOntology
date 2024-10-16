@@ -1,0 +1,402 @@
+{
+    "Title": "Car Maintenance Tips",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 7679,
+    "Category": "1998-2002 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "tire pressure gauge",
+            "Url": "/Item/Tire_Pressure_Gauge",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wire brush",
+            "Url": "https://www.amazon.com/eBoot-Brush-Cleaning-Welding-Stainless/dp/B01M34Q848/ref=sr_1_10?ie=UTF8&qid=1488831304&sr=8-10&keywords=wire+brush",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Car+Maintenance+Tips/7679",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "pull on the hood release lever just inside the driver-side door to pop the hood ."
+                },
+                {
+                    "Text": "locate the hood release latch under the hood . use one hand to press up on the latch while you lift the hood ."
+                },
+                {
+                    "Text": "insert the hood prop rod into the hole in the hood marked with an arrow ."
+                }
+            ],
+            "Text_raw": "Pull on the hood release lever just inside the driver-side door to pop the hood. Locate the hood release latch under the hood. Use one hand to press up on the latch while you lift the hood. Insert the hood prop rod into the hole in the hood marked with an arrow.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1ECLLKlZVmFOPs2A.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5VkUSADUNgBnnaWU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5PeohTOSDtb1IMCJ.standard"
+            ],
+            "StepId": 31861,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate the battery on the left side of the engine bay ."
+                },
+                {
+                    "Text": "if your battery has a cover on it , remove it and set it aside ."
+                },
+                {
+                    "Text": "before proceeding , identify the positive and negative leads coming off the battery . the negative lead is generally black and may be marked with a - . the positive lead is often red and may be marked with a + ."
+                },
+                {
+                    "Text": "never bridge the terminals on the battery with your hands or tools . shorting the battery can severely injure you ."
+                },
+                {
+                    "Text": "look for corrosion on the battery terminals . corrosion can be either white , grey , or blue and will generally be quite noticeable ."
+                }
+            ],
+            "Text_raw": "Locate the battery on the left side of the engine bay. If your battery has a cover on it, remove it and set it aside. Before proceeding, identify the positive and negative leads coming off the battery. The negative lead is generally black and may be marked with a \"-\". The positive lead is often red and may be marked with a \"+\". Never bridge the terminals on the battery with your hands or tools. Shorting the battery can severely injure you. Look for corrosion on the battery terminals. Corrosion can be either white, grey, or blue and will generally be quite noticeable.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XcRJMoXNkW1dl46F.standard"
+            ],
+            "StepId": 31813,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "when working with batteries , you must always remove the negative lead from the battery first , even if the corrosion is only on the positive lead ."
+                },
+                {
+                    "Text": "using a 10 mm hex wrench , loosen the nut on the screw holding the negative terminal in place ."
+                },
+                {
+                    "Text": "if the corrosion is preventing you from accessing the nut , use the other ( open ) end of the wrench or a wire brush to scrape some of the corrosion away ."
+                },
+                {
+                    "Text": "pull the negative battery cable off of the negative lead ."
+                },
+                {
+                    "Text": "for this guide , we only show the removal and cleaning of the negative terminal . if you are going to clean the positive terminal , first remove the negative terminal and then remove the positive terminal . the process for removing both leads is the same ; it is only the order that is important ."
+                }
+            ],
+            "Text_raw": "When working with batteries, you must always remove the negative lead from the battery first, even if the corrosion is only on the positive lead. Using a 10mm hex wrench, loosen the nut on the screw holding the negative terminal in place. If the corrosion is preventing you from accessing the nut, use the other (open) end of the wrench or a wire brush to scrape some of the corrosion away. Pull the negative battery cable off of the negative lead. For this guide, we only show the removal and cleaning of the negative terminal. If you are going to clean the positive terminal, first remove the negative terminal and then remove the positive terminal. The process for removing both leads is the same; it is only the order that is important.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fOO1PyXiyGw4DepB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KeExORFmoZXJXDgU.standard"
+            ],
+            "StepId": 31814,
+            "Tools_extracted": [
+                "wire brush",
+                "10 mm wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "scrape the corrosion off of the battery terminal using a wire battery brush or some other scraping/brushing tool ."
+                },
+                {
+                    "Text": "you may want to avoid getting the corrosion all over the inside of the engine bay . sweeping the corrosion onto a paper plate or rag is a simple way to get the corrosion out of the engine bay without making a mess ."
+                }
+            ],
+            "Text_raw": "Scrape the corrosion off of the battery terminal using a wire battery brush or some other scraping/brushing tool. You may want to avoid getting the corrosion all over the inside of the engine bay. Sweeping the corrosion onto a paper plate or rag is a simple way to get the corrosion out of the engine bay without making a mess.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Vpv2bnq6kEVSHNgW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WrOHSd3y1uZaEGVX.standard"
+            ],
+            "StepId": 31815,
+            "Tools_extracted": [
+                "wire brush"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "re-seat the cable on the negative battery terminal ."
+                },
+                {
+                    "Text": "tighten the nut on the battery clamp ."
+                },
+                {
+                    "Text": "when working with batteries , it is important that you always re-install the negative lead ''last'' ."
+                }
+            ],
+            "Text_raw": "Re-seat the cable on the negative battery terminal. Tighten the nut on the battery clamp. When working with batteries, it is important that you always re-install the negative lead ''last''.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uhCDNIEDEIp3VfpE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1TfT3UbHFMiWy6ZG.standard"
+            ],
+            "StepId": 31817,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "open a packet of battery terminal protector , and , using your finger , coat the ( now assembled ) battery terminal in a thin layer . be sure to cover the outside of both the lead and post , but not to allow any protector between the post and lead ."
+                }
+            ],
+            "Text_raw": "Open a packet of battery terminal protector, and, using your finger, coat the (now assembled) battery terminal in a thin layer.  Be sure to cover the outside of both the lead and post, but not to allow any protector between the post and lead.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iLviVcJrYFqPiUTt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hLXpFpFLxb6bGwq2.standard"
+            ],
+            "StepId": 31816,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "before opening your radiator cap , be sure to let the car cool completely . this may take up to an hour ."
+                },
+                {
+                    "Text": "twist the radiator cap counterclockwise and remove it from the radiator ."
+                }
+            ],
+            "Text_raw": "Before opening your radiator cap, be sure to let the car cool completely. This may take up to an hour. Twist the radiator cap counterclockwise and remove it from the radiator.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qC1oNTQa4WRQsNrS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IkHhCkhpeTUg1ysT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YaWiwyEPr415lVtn.standard"
+            ],
+            "StepId": 31818,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "fill the radiator with water until you can see the level of water rising in the radiator opening ."
+                },
+                {
+                    "Text": "a 50 /50 mixture of water and coolant is preferable , but plain water is better than nothing . refer to your owners manual for more instructions ."
+                },
+                {
+                    "Text": "replace the cap on the radiator ."
+                }
+            ],
+            "Text_raw": "Fill the radiator with water until you can see the level of water rising in the radiator opening. A 50/50 mixture of water and coolant is preferable, but plain water is better than nothing. Refer to your owners manual for more instructions. Replace the cap on the radiator.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NT42qhFSQ3Sr3wGC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QMMYC1iWEAiNwPgG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XMVtOjyfkIuUZYTS.standard"
+            ],
+            "StepId": 31819,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "unscrew the cap from the radiator overflow reservoir located to the left of the radiator , in front of the battery ."
+                },
+                {
+                    "Text": "fill the reservoir with water until the water level is just below the max fill line marked on the left side ."
+                },
+                {
+                    "Text": "replace the cap on the reservoir ."
+                }
+            ],
+            "Text_raw": "Unscrew the cap from the radiator overflow reservoir located to the left of the radiator, in front of the battery. Fill the reservoir with water until the water level is just below the \"max\" fill line marked on the left side. Replace the cap on the reservoir.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fx3TYOtPTidl5ItQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YrdG4JHuZ2p21BR1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Qhyrn4ZfFNBDhQSu.standard"
+            ],
+            "StepId": 31820,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "locate the power steering reservoir near the front right corner of the engine bay ."
+                },
+                {
+                    "Text": "if the fluid level is below the lower level fill line , remove the cap and refill the reservoir with power steering fluid ."
+                },
+                {
+                    "Text": "don't fill the reservoir so much that the fluid level goes above the upper level fill line ."
+                }
+            ],
+            "Text_raw": "Locate the power steering reservoir near the front right corner of the engine bay. If the fluid level is below the \"Lower Level\" fill line, remove the cap and refill the reservoir with power steering fluid. Don't fill the reservoir so much that the fluid level goes above the \"Upper Level\" fill line.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FfQJvwSETR4FYkZj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1VgO5cVBLTQhDlNg.standard"
+            ],
+            "StepId": 31821,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "locate the dipstick on the right side of the engine ."
+                },
+                {
+                    "Text": "remove the dipstick from its housing and wipe it off with a rag ."
+                },
+                {
+                    "Text": "re-insert the dipstick , and then remove it . this will give an accurate reading for the level of oil in the engine ."
+                },
+                {
+                    "Text": "the oil level should be between the two dots marked on the dipstick . if the oil level is below the bottom dot , or there is not any oil on the dipstick at all , you will need to add oil ."
+                }
+            ],
+            "Text_raw": "Locate the dipstick on the right side of the engine. Remove the dipstick from its housing and wipe it off with a rag. Re-insert the dipstick, and then remove it. This will give an accurate reading for the level of oil in the engine. The oil level should be between the two dots marked on the dipstick. If the oil level is below the bottom dot, or there is not any oil on the dipstick at all, you will need to add oil.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cZc4lf2MNfLmMBsE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BS2yAT44IFEmHKKA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hvwCURR2ZEoImBb3.standard"
+            ],
+            "StepId": 31822,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "twist the oil filler cap counterclockwise , and remove it from the top of the engine ."
+                },
+                {
+                    "Text": "using a funnel , pour one quart of manufacturer specified oil into the engine ."
+                },
+                {
+                    "Text": "your engine may take different oil depending on the manufacturer specification . check your owner's manual ."
+                },
+                {
+                    "Text": "remove the dipstick and check the oil level ."
+                },
+                {
+                    "Text": "if the oil level is still low , add more oil ."
+                },
+                {
+                    "Text": "be sure to not overfill the engine . after adding the first quart , check the oil level every half-quart ."
+                },
+                {
+                    "Text": "when the oil has reached the proper level , replace the dipstick and oil filler cap ."
+                }
+            ],
+            "Text_raw": "Twist the oil filler cap counterclockwise, and remove it from the top of the engine. Using a funnel, pour one quart of manufacturer specified oil into the engine. Your engine may take different oil depending on the manufacturer specification. Check your owner's manual. Remove the dipstick and check the oil level. If the oil level is still low, add more oil. Be sure to not overfill the engine. After adding the first quart, check the oil level every half-quart. When the oil has reached the proper level, replace the dipstick and oil filler cap.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/N36ljGgaqmp5QcSX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AYpb6Xo2JQjhTGMN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6sD2ei6OPiE6nmCI.standard"
+            ],
+            "StepId": 31823,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "locate the window washer fluid reservoir in the front right corner of the engine bay ."
+                },
+                {
+                    "Text": "if the fluid level appears to be low , refill the reservoir with window washer fluid ."
+                },
+                {
+                    "Text": "you can also use a mixture of water and generic window cleaner , such as windex . use a ratio of 5 parts water to 1 part window cleaner ."
+                }
+            ],
+            "Text_raw": "Locate the window washer fluid reservoir in the front right corner of the engine bay. If the fluid level appears to be low, refill the reservoir with window washer fluid. You can also use a mixture of water and generic window cleaner, such as Windex. Use a ratio of 5 parts water to 1 part window cleaner.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sSuqknHrAjXDNFWZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3CsJFCqjIUHPEPWo.standard"
+            ],
+            "StepId": 31824,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "locate the brake fluid reservoir at the rear right corner of the engine bay ."
+                },
+                {
+                    "Text": "if necessary , unscrew the cap and refill the brake fluid reservoir ."
+                }
+            ],
+            "Text_raw": "Locate the brake fluid reservoir at the rear right corner of the engine bay. If necessary, unscrew the cap and refill the brake fluid reservoir.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gPUQ4wQnvQwyaXCS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/F6JtnqsWrydFZVI1.standard"
+            ],
+            "StepId": 31825,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "unscrew the valve stem cap from the valve stem on the tire ."
+                },
+                {
+                    "Text": "using a handheld pressure gauge , check the pressure in the tires . the tires should be inflated to approximately 30 psi ."
+                },
+                {
+                    "Text": "check your owners manual for the proper tire inflation pressure specific to your vehicle's make , model , and year ."
+                },
+                {
+                    "Text": "using an air compressor , re-inflate the tires to the desired air pressure ."
+                },
+                {
+                    "Text": "although many air compressors have built-in tire pressure gauges , they are often inaccurate . use a handheld gauge to accurately measure the pressure ."
+                }
+            ],
+            "Text_raw": "Unscrew the valve stem cap from the valve stem on the tire. Using a handheld pressure gauge, check the pressure in the tires. The tires should be inflated to approximately 30 psi. Check your owners manual for the proper tire inflation pressure specific to your vehicle's make, model, and year. Using an air compressor, re-inflate the tires to the desired air pressure. Although many air compressors have built-in tire pressure gauges, they are often inaccurate. Use a handheld gauge to accurately measure the pressure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lX5AJSVfBGw1flNx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qxIHtamQ6E2usAYC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VDF5NnqJLqRatRvJ.standard"
+            ],
+            "StepId": 31827,
+            "Tools_extracted": [
+                "tire pressure gauge"
+            ]
+        }
+    ],
+    "Subject": ""
+}

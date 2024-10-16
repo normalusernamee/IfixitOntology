@@ -1,0 +1,157 @@
+{
+    "Title": "Hyundai Sonata Battery Replacement",
+    "Ancestors": [
+        "Hyundai",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 99723,
+    "Category": "Hyundai Sonata",
+    "Toolbox": [
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "12 mm socket",
+            "Url": "https://www.amazon.com/GearWrench-9112-Combination-Ratcheting-Wrench/dp/B0002NYD7G/ref=sr_1_2?ie=UTF8&qid=1488065295&sr=8-2&keywords=12mm+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Hyundai+Sonata+Battery+Replacement/99723",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the hood latch in the car door ."
+                },
+                {
+                    "Text": "pop the hood ."
+                }
+            ],
+            "Text_raw": "Locate the Hood Latch in the car door. Pop the hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3NuHkyIPrqrCbkaB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EHtfqRJkhxgmqRLY.standard"
+            ],
+            "StepId": 184721,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "open the hood and secure the arm ."
+                },
+                {
+                    "Text": "not securing the lift arm could result in injury !"
+                }
+            ],
+            "Text_raw": "Open the hood and secure the arm. Not securing the lift arm could result in injury!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vMjLKPL3BGYsuVuN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mFbjGVynyy2GM2ht.standard"
+            ],
+            "StepId": 184722,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "locate the car battery and use the ratchet to loosen the negative ( - ) cable ."
+                }
+            ],
+            "Text_raw": "Locate the car battery and use the ratchet to loosen the negative (-) cable.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/i4RaAwcySP1GRhX4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TumcEAm1WN6gH61v.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YCwWHIjBwNKVhRWO.standard"
+            ],
+            "StepId": 184723,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "next , use the ratchet to loosen and remove ( + ) the positive cable ."
+                }
+            ],
+            "Text_raw": "Next, use the ratchet to loosen and remove (+) the positive cable.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vpDyJVY53RAGJcCV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TtwRZiiqHWeYvANB.standard"
+            ],
+            "StepId": 184724,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "loosen the bolt that secures the battery in place ."
+                },
+                {
+                    "Text": "you can use either a 12 mm wrench , or in the example we used a ratchet extension with a 12 mm socket"
+                }
+            ],
+            "Text_raw": "Loosen the bolt that secures the battery in place. You can use either a 12 mm wrench, or in the example we used a ratchet extension with a 12mm socket",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3CLvqww6K3YPfaUa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DsAhlOXUvKGTvsoh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/buBatEZo6Fx6yAlF.standard"
+            ],
+            "StepId": 184725,
+            "Tools_extracted": [
+                "12 mm socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "gently remove the car battery ."
+                }
+            ],
+            "Text_raw": "Gently remove the car battery.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hcs6eXoHEPUylpAP.standard"
+            ],
+            "StepId": 184726,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "insert the new car battery ."
+                },
+                {
+                    "Text": "do not place the new battery on the ground . place it on a piece of cardboard or plywood , but not dirt or asphalt ."
+                }
+            ],
+            "Text_raw": "Insert the new car battery. Do not place the new battery on the ground. Place it on a piece of cardboard or plywood, but not dirt or asphalt.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jOWaHJXvvp3ZnvA2.standard"
+            ],
+            "StepId": 184727,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Battery"
+}

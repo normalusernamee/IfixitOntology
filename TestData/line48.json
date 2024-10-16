@@ -1,0 +1,260 @@
+{
+    "Title": "Sony Xplod CDX-MP30 Power Supply Replacement",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 6646,
+    "Category": "Sony Xplod CDX-MP30",
+    "Toolbox": [
+        {
+            "Name": "heavy-duty spudger",
+            "Url": "http://www.ifixit.com/Tools/Heavy-duty-Spudger/IF145-013",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/LnfuKliDtunRwbQ2.mini"
+        },
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Sony+Xplod+CDX-MP30+Power+Supply+Replacement/6646",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "press down the release button on the bottom left corner of the face plate ."
+                },
+                {
+                    "Text": "then remove the face plate carefully ."
+                }
+            ],
+            "Text_raw": "Press down the release button on the bottom left corner of the face plate. Then remove the face plate carefully.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SIDJJyNVQ43ho5iE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1bSgn4rSQQxY4Zrx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aPP6XuJp2ZWccQsc.standard"
+            ],
+            "StepId": 28357,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "using the phillips 0 screwdriver , unscrew the 3 screws ( length - 7.5 mm ) on the front of the device ."
+                }
+            ],
+            "Text_raw": "Using the [product|IF145-005|Phillips #0 Screwdriver], unscrew the 3 screws (length - 7.5mm) on the front of the device.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yyVxFlHFTxAMF5vp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GTh5CiSTwNMNKhLO.standard"
+            ],
+            "StepId": 29468,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "using the phillips 1 screwdriver , unscrew the 2 thick screws ( length - 7.69 mm ) located on both sides of the stereo ."
+                },
+                {
+                    "Text": "remove side-metal plates gently ."
+                },
+                {
+                    "Text": "use the heavy-duty spudger , insert the flat end under each of the black flaps indicated in the picture . use leverage to pry and pop them loose ."
+                }
+            ],
+            "Text_raw": "Using the [product|IF145-021|Phillips #1 Screwdriver], unscrew the 2 thick screws (length - 7.69mm) located on both sides of the stereo. Remove side-metal plates gently. Use the [product|IF145-013|Heavy-duty Spudger], insert the flat end under each of the black flaps indicated in the picture.  Use leverage to pry and pop them loose.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tLLnV3oBKWoJeERW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lwyZSXVYVLZNKcQw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GaURE4lE44KAUKrn.standard"
+            ],
+            "StepId": 29470,
+            "Tools_extracted": [
+                "heavy-duty spudger",
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the black front plate of the stereo ."
+                }
+            ],
+            "Text_raw": "Remove the black front plate of the stereo.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eFYJtMbQPyyGWTTx.standard"
+            ],
+            "StepId": 29472,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "using the phillips 0 screwdriver , unscrew the 1 gold screw ( height - 7.47 mm ) on the top of the stereo ."
+                },
+                {
+                    "Text": "lift off the top plate ."
+                }
+            ],
+            "Text_raw": "Using the [product|IF145-005|Phillips #0 Screwdriver], unscrew the 1 gold screw (height - 7.47mm) on the top of the stereo. Lift off the top plate.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZFppAteHpRUXiuPn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qrqDYedhwCTpRCAu.standard"
+            ],
+            "StepId": 29641,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "using the phillips 0 screwdriver , unscrew the 8 gold screws ( length - 9.26 mm ) , located on the back side of the stereo ."
+                },
+                {
+                    "Text": "using the phillips 0 screwdriver , unscrew the 2 black screws ( length - 13.27 mm ) , also located on the back of the stereo ."
+                },
+                {
+                    "Text": "using the phillips 0 screwdriver , unscrew the 1 gold screw ( length - 9.3 mm ) , located on the bottom of a hole as noted in pictures ( 2 ) and ( 3 ) ."
+                }
+            ],
+            "Text_raw": "Using the [product|IF145-005|Phillips #0 Screwdriver], unscrew the 8 gold screws (length - 9.26mm), located on the back side of the stereo. Using the [product|IF145-005|Phillips #0 Screwdriver], unscrew the 2 black screws (length - 13.27mm), also located on the back of the stereo. Using the [product|IF145-005|Phillips #0 Screwdriver], unscrew the 1 gold screw (length - 9.3mm), located on the bottom of a hole as noted in pictures (2) and (3).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JGfDVPtY62gb3OVc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/toeQireiyPtLcsFq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Luv4aAHNlgrfadHY.standard"
+            ],
+            "StepId": 29642,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "carefully pull the fuse out of the back of the stereo ."
+                }
+            ],
+            "Text_raw": "Carefully pull the fuse out of the back of the stereo.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pPDERlGSCJkKsZaE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rWVO36NxwARuS65Z.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/d5HrrAcZxPXDWQQf.standard"
+            ],
+            "StepId": 29643,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "firmly grip the body of the stereo and pull off the silver back plate ."
+                }
+            ],
+            "Text_raw": "Firmly grip the body of the stereo and pull off the silver back plate.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TWoy4mf6p6O2G2SC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mZMsusxOxobBOI1H.standard"
+            ],
+            "StepId": 29644,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "using the phillips 0 screwdriver , unscrew the 4 dark-silver screws ( length - 3.71 mm ) ."
+                }
+            ],
+            "Text_raw": "Using the [product|IF145-005|Phillips #0 Screwdriver], unscrew the 4 dark-silver screws (length - 3.71mm).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/egRrSmTqSKWJ1DP4.standard"
+            ],
+            "StepId": 29645,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "using the phillips 0 screwdriver , unscrew the 2 gold screws ( length - 7.34 mm ) found on both sides of the stereo ."
+                }
+            ],
+            "Text_raw": "Using the [product|IF145-005|Phillips #0 Screwdriver], unscrew the 2 gold screws (length - 7.34mm) found on both sides of the stereo.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gblFknUIaZ1r1VGn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/S1Tk1FTQR51A2jRD.standard"
+            ],
+            "StepId": 29646,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "grip the top portion of the stereo , where the cd-drive is located , and gently pull up to release it , but you will not be able to lift it all the way out ."
+                },
+                {
+                    "Text": "grab the two tabs located near the back of the stereo , and gently pull the cd-drive front the rest of the device ."
+                }
+            ],
+            "Text_raw": "Grip the top portion of the stereo, where the CD-Drive is located, and gently pull up to release it, but you will not be able to lift it all the way out. Grab the two tabs located near the back of the stereo, and gently pull the CD-drive front the rest of the device.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eOoYKYYpB44gjIUp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OGfPYCBNffZoQ4H5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/U1eQ4nUxhWEpfOVw.standard"
+            ],
+            "StepId": 29647,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "remove the power supply on the circuit board . please follow the topic : solderingifixit soldering guide to assist you ."
+                }
+            ],
+            "Text_raw": "Remove the power supply on the circuit board.  Please follow the [[Topic:Soldering|iFixit soldering guide]] to assist you.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3DxM1Mc3jVubKlxt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XbRVLQWh2plWCx4K.standard"
+            ],
+            "StepId": 30408,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Power Supply"
+}

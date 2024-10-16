@@ -1,0 +1,188 @@
+{
+    "Title": "2007-2011 Toyota Camry Sun Visor Replacement",
+    "Ancestors": [
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 61932,
+    "Category": "Toyota Camry",
+    "Toolbox": [
+        {
+            "Name": "2.5mm flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Flathead-3-32-Inch-or-2-5-mm-Screwdriver/IF145-011",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/IRnGQ4e2ZPBSxpuB.mini"
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "seam ripper",
+            "Url": "http://www.amazon.com/Clover-463-Seam-Ripper/dp/B000YZ8MVU/ref=sr_1_1?ie=UTF8&qid=1346440445&sr=8-1&keywords=seam+ripper",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "upholstery glue",
+            "Url": "http://www.loctiteproducts.com/p/cntct_vnylpl/overview/Loctite-Vinyl,-Fabric-&-Plastic-Flexible-Adhesive.htm",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 4 phillips head screw",
+            "Url": "http://www.homedepot.com/p/Everbilt-10-x-3-4-in-Stainless-Steel-Pan-Head-Phillips-Drive-Sheet-Metal-Screw-25-Piece-800202/204275122",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 1 8 in x 7 in tie plate",
+            "Url": "http://www.homedepot.com/p/Simpson-Strong-Tie-3-1-8-in-x-7-in-Tie-Plate-TP37/100375215",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2007+2008+2009+2010+2011+Toyota+Camry+Sun+Visor+Replacement/61932",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "remove cap and squeeze metal brackets revealed underneath to loosen and remove from interior of car ."
+                },
+                {
+                    "Text": "make a note of where the clips of the lever arm fit into the interior of car for reinstatement of the visor later ."
+                }
+            ],
+            "Text_raw": "Remove cap and squeeze metal brackets revealed underneath to loosen and  remove from interior of car. Make a note of where the clips of the lever arm fit into the interior of car for reinstatement of the visor later.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/r2t4EiilORUy5MxC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OaqVtjXogMOQoJWx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pRW5kgxkenL2UZKr.standard"
+            ],
+            "StepId": 129876,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "tear open the seam surrounding the hole that the swing arm inserts into with a seam ripper ."
+                },
+                {
+                    "Text": "pull the fabric back to show the inner casing ."
+                }
+            ],
+            "Text_raw": "Tear open the seam surrounding the hole that the swing arm inserts into with a  seam ripper. Pull the fabric back to show the inner casing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/B3wST5I4NVMZghiO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eca6KfnlEASOgpWV.standard"
+            ],
+            "StepId": 129877,
+            "Tools_extracted": [
+                "seam ripper"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "reinsert the swing arm back into the visor , make sure the metal prongs on the swing arm line up with the holes on the visor ."
+                },
+                {
+                    "Text": "the red squares show where the metal prongs fit into the holes of the visor ."
+                }
+            ],
+            "Text_raw": "Reinsert the swing arm back into the visor, make sure the metal prongs on the swing arm line up with the holes on the visor. The red squares show where the metal prongs fit into the holes of the visor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vnsJ1lJ2aDUAZa2m.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nHuNgAjO2KOCSMTG.standard"
+            ],
+            "StepId": 129878,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "fold the aluminum plate around the outer casing to reinforce the arm in the casing ."
+                },
+                {
+                    "Text": "the metal plate will hold both halves of the visor to the lever arm , so make sure it is secured tightly around visor to keep it together ."
+                }
+            ],
+            "Text_raw": "Fold the aluminum plate around the outer casing to reinforce the arm in the casing. The metal plate will hold both halves of the visor to the lever arm, so make sure it is secured tightly around visor to  keep it together.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/luu5KShAyxlTsnVJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oVwyA35WHLfLQmDT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WGDGPDrFybOH1fOc.standard"
+            ],
+            "StepId": 129879,
+            "Tools_extracted": [
+                "3 1 8 in x 7 in tie plate"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "screw a one inch screw through the metal plate and plastic casing using a phillips head screwdriver ."
+                },
+                {
+                    "Text": "make sure screw goes all the way through to the other side to effectively secure plate to visor ."
+                }
+            ],
+            "Text_raw": "Screw a one inch screw through the metal plate and plastic casing using a phillips head screwdriver. Make sure screw goes all the way through to the other side to effectively secure plate to visor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SlKusnjWtEUYFUlQ.standard"
+            ],
+            "StepId": 129880,
+            "Tools_extracted": [
+                "3 4 phillips head screw"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "adhere the two halves of the torn seam back together over the outer casing and the aluminum plate using upholstery glue ."
+                },
+                {
+                    "Text": "allow the glue to properly dry before replacing visor back into car ."
+                }
+            ],
+            "Text_raw": "Adhere the two halves of the torn seam back together over the outer casing and the aluminum plate\u200b using upholstery glue. Allow the glue to properly dry before replacing visor back into car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ASnJtDMqMoAAcbr5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OYbbGiDShnnIdqAa.standard"
+            ],
+            "StepId": 129881,
+            "Tools_extracted": [
+                "upholstery glue"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "realign the metal clips of the swing arm to the hole in the car and snap the visor back into place ."
+                },
+                {
+                    "Text": "if you go back to step one , the hinges are marked to show where the insert the swing arm ."
+                }
+            ],
+            "Text_raw": "Realign the metal clips of the swing arm to the hole in the car and snap the visor back into place. If you go back to step one, the hinges are marked to show where the insert the swing arm.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KnoH6s2KcthwHOJu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sWYg3HvIK4aAjcHY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eUXYTS6XVIZjajxU.standard"
+            ],
+            "StepId": 129882,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Sun Visor"
+}

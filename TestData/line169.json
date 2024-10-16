@@ -1,0 +1,279 @@
+{
+    "Title": "2000-2005 Audi A4 Headlight Replacement (via Headlight Assembly Removal)",
+    "Ancestors": [
+        "Audi A4",
+        "Audi",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 27319,
+    "Category": "2000-2006 Audi A4 (B6)",
+    "Toolbox": [
+        {
+            "Name": "t30 torx driver",
+            "Url": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=t30+torx&rh=i%3Aaps%2Ck%3At30+torx",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 ratchet extension",
+            "Url": "http://www.amazon.com/TEKTON-14267-2-Inch-10-Inch-Extension/dp/B000NPZ5TI/ref=sr_1_1?ie=UTF8&qid=1407776986&sr=8-1&keywords=10%22+Ratchet+Extension",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2000+2001+2002+2003+2004+2005+Audi+A4+Headlight+Replacement+%28via+Headlight+Assembly+Removal%29/27319",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "acquire replacement light bulb ( s ) along with a bit-socket screwdriver and a hex star bit . the light bulb should be a 12 volt , 55 watt , h7-style bulb ."
+                },
+                {
+                    "Text": "the screwdriver can be substitited with a long allen wrench in a pinch , but this is not recommended ."
+                },
+                {
+                    "Text": "also , get a decent flashlight if you can ."
+                }
+            ],
+            "Text_raw": "Acquire replacement light bulb(s) along with a bit-socket screwdriver and a \"hex star\" bit. The light bulb should be a 12 volt, 55 watt, H7-style bulb. The screwdriver can be substitited with a long Allen wrench in a pinch, but this is not recommended. Also, get a decent flashlight if you can.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xhjcsWSQD4ILmV1i.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FhCOrLHgZpk51uLq.standard"
+            ],
+            "StepId": 67148,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "pop the hood , and locate the screws holding the headlight assembly in place . there are two plainly visible , shown on left , and another hidden deeper down ."
+                },
+                {
+                    "Text": "don't remove these screws just yet . ( the assembly won't come out without the hidden one removed as well anyway . )"
+                },
+                {
+                    "Text": "there are two other screws next to the headlight assembly , but not attached to it . these are unrelated and should be left alone ."
+                }
+            ],
+            "Text_raw": "Pop the hood, and locate the screws holding the headlight assembly in place. There are two plainly visible, shown on left, and another hidden deeper down. Don't remove these screws just yet. (The assembly won't come out without the hidden one removed as well anyway.) There are two other screws next to the headlight assembly, but not attached to it. These are unrelated and should be left alone.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/55Fw4opDNYuJofNn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gawRsERaubjhEchx.standard"
+            ],
+            "StepId": 67150,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "look under the hood , behind the headlight assembly , and you will find the low beam cover , shown in the picture on the left ."
+                },
+                {
+                    "Text": "remove this cover to expose the hidden screw , shown in the third image ."
+                }
+            ],
+            "Text_raw": "Look under the hood, behind the headlight assembly, and you will find the low beam cover, shown in the picture on the left. Remove this cover to expose the hidden screw, shown in the third image.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/taGk23AuIKP4QLye.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aj5Kwwf1ZQttQKPv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JAbTi45TguIovvZD.standard"
+            ],
+            "StepId": 67279,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "at this point there is an opportunity to replace the driver-side low beam ''right now'' , rather than remove the entire assembly . ( otherwise ignore this step . )"
+                },
+                {
+                    "Text": "this is done by unplugging the low beam socket ( it's stuck in with friction , and wiggles right out ) , unhooking the fastener holding the bulb in place , replacing the bulb , and sticking everything back together afterwards . ( see step 8 for details . )"
+                },
+                {
+                    "Text": "the same can be done for the passenger-side low beam ( though there's a duct in the way , see step 11 for details ) , but not easily for high beam lights , or blinker/parking lights . ( and of course , this won't help if your goal is to replace the assembly itself . )"
+                }
+            ],
+            "Text_raw": "At this point there is an opportunity to replace the driver-side low beam ''right now'', rather than remove the entire assembly. (Otherwise ignore this step.) This is done by unplugging the low beam socket (it's stuck in with friction, and wiggles right out), unhooking the fastener holding the bulb in place, replacing the bulb, and sticking everything back together afterwards. (See Step 8 for details.) The same can be done for the passenger-side low beam (though there's a duct in the way, see Step 11 for details), but not easily for high beam lights, or blinker/parking lights. (And of course, this won't help if your goal is to replace the assembly itself.)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UBVb1yDMpo311VOI.standard"
+            ],
+            "StepId": 67280,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the two screws which were identified in step 2."
+                },
+                {
+                    "Text": "unscrew the hidden screw through the hole to the right of the assembly . ( make sure not to lose it in the engine compartment when it comes out . )"
+                }
+            ],
+            "Text_raw": "Remove the two screws which were identified in Step 2. Unscrew the hidden screw through the hole to the right of the assembly. (Make sure not to lose it in the engine compartment when it comes out.)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wsL24mZaIZDrODuT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2PD2VSXsTJH4XPt6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IvvTkbYlNyXgA1qr.standard"
+            ],
+            "StepId": 67283,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "before the headlight assembly can be fully removed , the cabling has to be unplugged . the cabling comes in through the high beam cover ( image 1 ) , and can be a bit tricky to disconnect ."
+                },
+                {
+                    "Text": "reach under the cabling and feel around for a latch ( underside shown in images 2 3 ) . pull the latch upwards ( image 3 ) and pull relatively hard on the plug . it should come out ."
+                },
+                {
+                    "Text": "removing the high beam cover might help you get a better grip on the plug , especially on the passgener side ."
+                }
+            ],
+            "Text_raw": "Before the headlight assembly can be fully removed, the cabling has to be unplugged. The cabling comes in through the high beam cover (image 1), and can be a bit tricky to disconnect. Reach under the cabling and feel around for a latch (underside shown in images 2 & 3). Pull the latch upwards (image 3) and pull relatively hard on the plug. It should come out. Removing the high beam cover might help you get a better grip on the plug, especially on the passgener side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VmloRNpJsbkoAVHh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MBOXoMC2wuJRQxOV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XXSZ6uJ4TWBEuGAx.standard"
+            ],
+            "StepId": 67313,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "once the cabling has been disconnected , the headlight assembly can be removed from the car . the blinker light has its own cabling , so unscrew it from its well and leave it with the rest of the car ."
+                },
+                {
+                    "Text": "in the second image , the low beam well is in the center , the high beam is on the right and the ( empty ) blinker well is on the left ."
+                }
+            ],
+            "Text_raw": "Once the cabling has been disconnected, the headlight assembly can be removed from the car. The blinker light has its own cabling, so unscrew it from its well and leave it with the rest of the car. In the second image, the low beam well is in the center, the high beam is on the right and the (empty) blinker well is on the left.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OSgCJUeFRDCQdXGh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JPJDqAIU2iIZ6y4a.standard"
+            ],
+            "StepId": 67349,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "remove the socket from the rear of the light . it's stuck in by friction , so a good wiggle and pull should set it free . then open the fastener , and the light should come right out ."
+                },
+                {
+                    "Text": "'''image 1 : ''' low beam with cover removed ."
+                },
+                {
+                    "Text": "'''image 2 : ''' socket ( red orange wires ) removed ."
+                },
+                {
+                    "Text": "'''image 3 : ''' fastener opened ."
+                }
+            ],
+            "Text_raw": "Remove the socket from the rear of the light. It's stuck in by friction, so a good wiggle and pull should set it free. Then open the fastener, and the light should come right out. '''Image 1:''' Low beam with cover removed. '''Image 2:''' Socket (red & orange wires) removed. '''Image 3:''' Fastener opened.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1vTcfVZsJLOYrgOQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tQyUG3PGOl3hCtJX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PltVbUan1MXRkCVI.standard"
+            ],
+            "StepId": 67350,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "remove the broken bulb , and replace it with a working bulb . fasten it in place and plug the socket in ."
+                },
+                {
+                    "Text": "this process depicts low beam replacement , but high beam replacement isn't much different . ( the well is a little more cramped , but that's it . )"
+                },
+                {
+                    "Text": "if you're changing the bulbs in pairs , or otherwise removing a still-working bulb , keep that working bulb around . the audi a4 has 4 to 6 of the exact same bulb ( low beam , high beam , and potentially fog lights ) , so an extra is good to have the next time a light goes out ."
+                }
+            ],
+            "Text_raw": "Remove the broken bulb, and replace it with a working bulb. Fasten it in place and plug the socket in. This process depicts low beam replacement, but high beam replacement isn't much different. (The well is a little more cramped, but that's it.) If you're changing the bulbs in pairs, or otherwise removing a still-working bulb, keep that working bulb around. The Audi A4 has 4 to 6 of the exact same bulb (low beam, high beam, and potentially fog lights), so an extra is good to have the next time a light goes out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5EbIMlTSTo5lSvEU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TZn2EPlri4rHiIfH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NaUXJPVTlRt5LAhv.standard"
+            ],
+            "StepId": 67351,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "connect the cabling back up to the rest of the car ( arrow on left ) , reattach the blinker light to the assembly ( arrow on right ) , and push the assembly back into place ."
+                },
+                {
+                    "Text": "turn on the headlights ( with the ignition off , of course ) to make sure they work ."
+                },
+                {
+                    "Text": "finish reattaching the assembly -- screw in the hidden screw at the bottom , replace the low beam well cover , and screw in the other two screws as well ."
+                }
+            ],
+            "Text_raw": "Connect the cabling back up to the rest of the car (arrow on left), reattach the blinker light to the assembly (arrow on right), and push the assembly back into place. Turn on the headlights (with the ignition off, of course) to make sure they work. Finish reattaching the assembly -- screw in the hidden screw at the bottom, replace the low beam well cover, and screw in the other two screws as well.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uEOqGPYCKRHQGpqN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rBynuridfFDqJKbX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3GIvj4aWUqrlTnQs.standard"
+            ],
+            "StepId": 67352,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "the passenger-side assembly is mostly the same as the driver-side assembly . the largest difference is that a duct must be removed to access the hidden screw . ( or to access the low beam well directly , if you're opting to just change those as explained in step 4. )"
+                },
+                {
+                    "Text": "there's a cover ( 1 ) located behind the duct ( 2 ) which gets slightly dislocated when the duct is removed . you can either remove this cover entirely , or simply leave it in place and push it back into position after the vent has been replaced ."
+                },
+                {
+                    "Text": "either way , the cover has three attachment points , and will pop right out when pulled on . make sure it's back in place when you're done . same for the duct -- make sure it's properly reattached ."
+                }
+            ],
+            "Text_raw": "The passenger-side assembly is mostly the same as the driver-side assembly. The largest difference is that a duct must be removed to access the hidden screw. (Or to access the low beam well directly, if you're opting to just change those as explained in Step 4.) There's a cover (1) located behind the duct (2) which gets slightly dislocated when the duct is removed. You can either remove this cover entirely, or simply leave it in place and push it back into position after the vent has been replaced. Either way, the cover has three attachment points, and will pop right out when pulled on. Make sure it's back in place when you're done. Same for the duct -- make sure it's properly reattached.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/px41S2iJseoULp54.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mXXrOnOPBDg3R5h3.standard"
+            ],
+            "StepId": 67355,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Headlight"
+}

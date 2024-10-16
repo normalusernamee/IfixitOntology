@@ -1,0 +1,228 @@
+{
+    "Title": "1994-2001 Acura Integra Front Speaker Replacement",
+    "Ancestors": [
+        "Acura Integra",
+        "Acura",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3552,
+    "Category": "1994-2001 Acura Integra",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "2.5mm flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Flathead-3-32-Inch-Screwdriver/IF145-011",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/IRnGQ4e2ZPBSxpuB.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1994+1995+1996+1997+1998+1999+2000+2001+Acura+Integra+Front+Speaker+Replacement/3552",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "remove the plastic phillips screw towards the front of the door panel ."
+                },
+                {
+                    "Text": "this screw is part of a two-piece securing mechanism . do not apply force directly onto the screw head , because it will continue to slip into the plastic clip ."
+                },
+                {
+                    "Text": "use a flathead screwdriver to remove the plastic clip that holds the screw ."
+                }
+            ],
+            "Text_raw": "Remove the plastic Phillips screw towards the front of the door panel. This screw is part of a two-piece securing mechanism. Do not apply force directly onto the screw head, because it will continue to slip into the plastic clip. Use a flathead screwdriver to remove the plastic clip that holds the screw.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3oJA3DKStqsT1ClB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6osqgU42UTfhIowF.standard"
+            ],
+            "StepId": 16999,
+            "Tools_extracted": [
+                "flathead screwdriver",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "unscrew the phillips screw in the bottom of the door panel cup ."
+                },
+                {
+                    "Text": "lift the cup out of the the door panel ."
+                }
+            ],
+            "Text_raw": "Unscrew the Phillips screw in the bottom of the door panel cup. Lift the cup out of the the door panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/om3L2VRGZhGnsWUT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/F1gwCQb6RHGJ6HqU.standard"
+            ],
+            "StepId": 17000,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "insert a very thin flathead screwdriver blade into the small gap towards the rear of the car on the plastic screw cover near the door handle ."
+                },
+                {
+                    "Text": "unscrew the phillips screw underneath the screw cover ."
+                }
+            ],
+            "Text_raw": "Insert a very thin flathead screwdriver blade into the small gap towards the rear of the car on the plastic screw cover near the door handle. Unscrew the Phillips screw underneath the screw cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WcFgowZPdM3Ovx6T.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OWfYX6LNiwUCSj1Z.standard"
+            ],
+            "StepId": 17001,
+            "Tools_extracted": [
+                "flathead screwdriver",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the plastic cover at the base of the c-pillar by pulling it directly away from the window ."
+                },
+                {
+                    "Text": "the cover is held in place by a metal clip , so some force will be required to free it ."
+                },
+                {
+                    "Text": "in addition to the metal clip , two small tabs at the bottom of the cover keep it in place . gently lift the corner of the door panel to remove the tabs from their respective holes in the door ."
+                }
+            ],
+            "Text_raw": "Remove the plastic cover at the base of the C-pillar by pulling it directly away from the window. The cover is held in place by a metal clip, so some force will be required to free it. In addition to the metal clip, two small tabs at the bottom of the cover keep it in place. Gently lift the corner of the door panel to remove the tabs from their respective holes in the door.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OYuqjtD3qvojyJc6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xOo6lFuHVSgL3aWF.standard"
+            ],
+            "StepId": 17002,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "using firm pressure , pull the door panel away from the door . start at the top right , and work down the side , across the bottom , and up the opposite side ."
+                },
+                {
+                    "Text": "multiple clips hold the door panel in place . the door panel will jerk as each clip is freed from its position ."
+                }
+            ],
+            "Text_raw": "Using firm pressure, pull the door panel away from the door. Start at the top right, and work down the side, across the bottom, and up the opposite side. Multiple clips hold the door panel in place. the door panel will jerk as each clip is freed from its position.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Do2uNCsIAK54FWaC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QVO1HGSD1WWToH6h.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WjEA4ScSjgIdl3bI.standard"
+            ],
+            "StepId": 17003,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "pull the bottom of the door panel away from the door , and lift the entire panel off the door ."
+                },
+                {
+                    "Text": "do not try to completely remove the door panel yet , as it is still attached by a number of electrical connectors ."
+                }
+            ],
+            "Text_raw": "Pull the bottom of the door panel away from the door, and lift the entire panel off the door. Do not try to completely remove the door panel yet, as it is still attached by a number of electrical connectors.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TnE2wWxhXWUD2Ey2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/p4TLPvNUSPrSNgIV.standard"
+            ],
+            "StepId": 17004,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "push down on the small tab and pull the connector directly away from its socket to disconnect the power lock switch ."
+                },
+                {
+                    "Text": "use the same method described above to remove the connector for the tweeter ."
+                },
+                {
+                    "Text": "press the tab on the bottom of the larger green connector to disconnect the side-view mirror controls ."
+                }
+            ],
+            "Text_raw": "Push down on the small tab and pull the connector directly away from its socket to disconnect the power lock switch. Use the same method described above to remove the connector for the tweeter. Press the tab on the bottom of the larger green connector to disconnect the side-view mirror controls.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/huxXxNqFuQAE4GTN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4DZCLm1UqXbBoVKs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/unUVKKxQKeLMG1qF.standard"
+            ],
+            "StepId": 17005,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "disconnect the power window connector ."
+                },
+                {
+                    "Text": "you may now remove the entire door panel ."
+                }
+            ],
+            "Text_raw": "Disconnect the power window connector. You may now remove the entire door panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OdmA1bbt62dZLVkb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2FoleOfpOLIIyLKH.standard"
+            ],
+            "StepId": 17006,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "remove the four phillips screws that hold the speaker in the door ."
+                },
+                {
+                    "Text": "lift the speaker out of the door . it is still connected by a single connector ."
+                },
+                {
+                    "Text": "press down on the tabs on the speaker connector , and pull it directly away from the speaker ."
+                }
+            ],
+            "Text_raw": "Remove the four Phillips screws that hold the speaker in the door. Lift the speaker out of the door. It is still connected by a single connector. Press down on the tabs on the speaker connector, and pull it directly away from the speaker.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NlFYaXiWtGbpGaRA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OBRaLKB2GbtlIK3Z.standard"
+            ],
+            "StepId": 17007,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        }
+    ],
+    "Subject": "Front Speaker"
+}

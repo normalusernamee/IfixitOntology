@@ -1,0 +1,200 @@
+{
+    "Title": "1986-1993 Volvo 240 Oil Change",
+    "Ancestors": [
+        "Volvo",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 9117,
+    "Category": "1986-1993 Volvo 240",
+    "Toolbox": [
+        {
+            "Name": "wrench",
+            "Url": "/Item/1%22_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "funnel",
+            "Url": "http://www.amazon.com/TEKTON-6093-Funnel-Set-4-Piece/dp/B003DN0RTA/ref=sr_1_1?s=hi&ie=UTF8&qid=1407340826&sr=1-1&keywords=funnel",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil filter wrench",
+            "Url": "http://amzn.com/B0009WG5SU",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1986+1987+1988+1989+1990+1991+1992+1993+Volvo+240+Oil+Change/9117",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "raise the front of the car with a jack and support it on jack stands ."
+                },
+                {
+                    "Text": "never work on or underneath a car that is only supported by a jack . the jack may slip or fail , causing serious injury or death ."
+                },
+                {
+                    "Text": "place a drain pan directly underneath the red oil pan ."
+                },
+                {
+                    "Text": "use a 1 box end or socket wrench to loosen the drain plug on the bottom of the oil pan ."
+                }
+            ],
+            "Text_raw": "Raise the front of the car with a jack and support it on jack stands. Never work on or underneath a car that is only supported by a jack. The jack may slip or fail, causing serious injury or death. Place a drain pan directly underneath the red oil pan. Use a 1\" box end or socket wrench to loosen the drain plug on the bottom of the oil pan.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RJXiPZxZwETkXhRE.standard"
+            ],
+            "StepId": 35148,
+            "Tools_extracted": [
+                "jack stand",
+                "oil drain pan",
+                "jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "once the drain plug is completely loose it will fall out and oil will begin to drain out of the oil pan ."
+                },
+                {
+                    "Text": "while you are waiting for the oil to drain , check the gasket on the drain plug and replace it if necessary ."
+                },
+                {
+                    "Text": "since it is such an inexpensive yet crucial part , it's a good idea to change your drain plug gasket at every oil change ."
+                },
+                {
+                    "Text": "once the draining oil slows to drip , wipe off the area around the drain plug with a shop towel or rag ."
+                }
+            ],
+            "Text_raw": "Once the drain plug is completely loose it will fall out and oil will begin to drain out of the oil pan. While you are waiting for the oil to drain, check the gasket on the drain plug and replace it if necessary. Since it is such an inexpensive yet crucial part, it's a good idea to change your drain plug gasket at every oil change. Once the draining oil slows to drip, wipe off the area around the drain plug with a shop towel or rag.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/M3hYBPOk3gAWVtDK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cQid1XXERbgroEDK.standard"
+            ],
+            "StepId": 35149,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "reinstall the drain plug and use a wrench to tighten it until it is snug , but not too tight ."
+                },
+                {
+                    "Text": "do not over-tighten the drain plug . you can always check for leaks and tighten the drain plug later . over-tightening , however , could crack the oil pan ."
+                }
+            ],
+            "Text_raw": "Reinstall the drain plug and use a wrench to tighten it until it is snug, but not too tight. Do not over-tighten the drain plug. You can always check for leaks and tighten the drain plug later. Over-tightening, however, could crack the oil pan.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DHEsBOMVvLR45HtR.standard"
+            ],
+            "StepId": 35150,
+            "Tools_extracted": [
+                "wrench",
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "locate the oil filter on the side of the engine ."
+                },
+                {
+                    "Text": "it may not be possible to reach the oil filter from the top , as shown . if this is the case , you will need to access it from underneath the car ."
+                },
+                {
+                    "Text": "position the drain pan so that it is underneath the oil filter ."
+                },
+                {
+                    "Text": "turn the oil filter counterclockwise to loosen it . if the filter is on too tightly , you may have to use an oil filter wrench to loosen it ."
+                },
+                {
+                    "Text": "drain the old oil from the filter into the drain pan ."
+                }
+            ],
+            "Text_raw": "Locate the oil filter on the side of the engine. It may not be possible to reach the oil filter from the top, as shown. If this is the case, you will need to access it from underneath the car. Position the drain pan so that it is underneath the oil filter. Turn the oil filter counterclockwise to loosen it. If the filter is on too tightly, you may have to use an oil filter wrench to loosen it. Drain the old oil from the filter into the drain pan.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VcOD3bhu1OsbBe1Z.standard"
+            ],
+            "StepId": 35151,
+            "Tools_extracted": [
+                "oil drain pan",
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "dip your finger into the new oil and spread a thin layer of oil over the gasket on the new oil filter ."
+                },
+                {
+                    "Text": "place the oil filter over the threads on the engine and turn it clockwise to tighten it until it is snug ."
+                },
+                {
+                    "Text": "the layer of oil improves the filter's seal with the engine and makes removing the filter at the next oil change much easier ."
+                }
+            ],
+            "Text_raw": "Dip your finger into the new oil and spread a thin layer of oil over the gasket on the new oil filter. Place the oil filter over the threads on the engine and turn it clockwise to tighten it until it is snug. The layer of oil improves the filter's seal with the engine and makes removing the filter at the next oil change much easier.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/41Tl5PJiroIARHcF.standard"
+            ],
+            "StepId": 35152,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the oil filler cap from the top of the engine by turning it counterclockwise and lifting it up ."
+                },
+                {
+                    "Text": "place a funnel inside the filler hole and pour four quarts of 10 w-30 oil into the engine ."
+                },
+                {
+                    "Text": "for colder climates , you may use 5 w-30 oil instead ."
+                },
+                {
+                    "Text": "reinstall the oil filler cap ."
+                },
+                {
+                    "Text": "start the engine and let it run , checking the drain plug and oil filter for any leaks ."
+                }
+            ],
+            "Text_raw": "Remove the oil filler cap from the top of the engine by turning it counterclockwise and lifting it up. Place a funnel inside the filler hole and pour four quarts of 10W-30 oil into the engine. For colder climates, you may use 5W-30 oil instead. Reinstall the oil filler cap. Start the engine and let it run, checking the drain plug and oil filter for any leaks.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iEhegO2LLBGxldbe.standard"
+            ],
+            "StepId": 35153,
+            "Tools_extracted": [
+                "funnel",
+                "oil",
+                "oil filter wrench"
+            ]
+        }
+    ],
+    "Subject": ""
+}

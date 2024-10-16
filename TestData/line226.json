@@ -1,0 +1,265 @@
+{
+    "Title": "2012-2016 Subaru Forester Oil and Oil Filter Replacement",
+    "Ancestors": [
+        "Subaru Forester",
+        "Subaru",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50515,
+    "Category": "2014-Present Subaru Forester",
+    "Toolbox": [
+        {
+            "Name": "funnel",
+            "Url": "http://www.amazon.com/TEKTON-6093-Funnel-Set-4-Piece/dp/B003DN0RTA/ref=sr_1_1?s=hi&ie=UTF8&qid=1407340826&sr=1-1&keywords=funnel",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "17 mm socket",
+            "Url": "/Item/17_mm_Socket_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "latex or nitrile gloves",
+            "Url": "http://www.amazon.com/dp/B00J084MHA/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "soft cloth",
+            "Url": "http://www.amazon.com/MagicFiber%C2%AE-Premium-Microfiber-Cleaning-Cloths/dp/B0050R67U0/ref=sr_1_1?ie=UTF8&qid=1390870779&sr=8-1&keywords=cleaning+cloth",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil filter",
+            "Url": "http://www.oscaroparts.com/search/go?w=oil%20filter%20",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "milk jug",
+            "Url": "/Item/Milk_Jug",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "used oil filter bag",
+            "Url": "/Item/Used_Oil_Filter_Bag",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2012+2013+2014+2015+2016+Subaru+Forester+Oil+and+Oil+Filter+Replacement/50515",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "park your car on a level surface ."
+                },
+                {
+                    "Text": "make sure to put the car in park ( first gear for manual transmissions ) with the emergency break engaged ."
+                },
+                {
+                    "Text": "do not change oil within 2 hours of driving the car to allow the oil time to cool ."
+                }
+            ],
+            "Text_raw": "Park your car on a level surface. Make sure to put the car in park (first gear for manual transmissions) with the emergency break engaged. Do not change oil within 2 hours of driving the car to allow the oil time to cool.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZoGgISQtV5q6Xu4c.standard"
+            ],
+            "StepId": 109409,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "place the oil pan under the oil drain plug . ( this is located under the front end of the car )"
+                },
+                {
+                    "Text": "you may choose to protect the ground with a tarp or piece of cardboard ."
+                }
+            ],
+            "Text_raw": "Place the oil pan under the oil drain plug. (this is located under the front end of the car) You may choose to protect the ground with a tarp or piece of cardboard.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5CRWWk6h2XTrHEpB.standard"
+            ],
+            "StepId": 109418,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "unscrew the oil drain plug with the 17 mm wrench . this is located under the front of the car in the gap in the bottom panel ."
+                },
+                {
+                    "Text": "adjust the placement of the oil pan if necessary ."
+                },
+                {
+                    "Text": "allow the oil to completely drain into the oil pan ."
+                },
+                {
+                    "Text": "wear clothes that you would not mind getting oil on ."
+                }
+            ],
+            "Text_raw": "Unscrew the oil drain plug with the 17mm wrench.  This is located under the front of the car in the gap in the bottom panel. Adjust the placement of the oil pan if necessary. Allow the oil to completely drain into the oil pan. Wear clothes that you would not mind getting oil on.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3GcDafxGNPN5fjvQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tcXK6YfPbcYUmdFp.standard"
+            ],
+            "StepId": 109419,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "after letting the oil drain for 10 minutes unscrew and remove the oil filter . this is located to the right of the engine when the hood is opened ."
+                },
+                {
+                    "Text": "place the old oil filter in the oil filter disposal bag ."
+                }
+            ],
+            "Text_raw": "After letting the oil drain for 10 minutes unscrew and remove the oil filter.  This is located to the right of the engine when the hood is opened. Place the old oil filter in the oil filter disposal bag.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4I2GpcldKsbukD6p.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XliS1VTEsuBp2nhF.standard"
+            ],
+            "StepId": 109424,
+            "Tools_extracted": [
+                "oil filter"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "coat the o-ring of the new filter with oil to ensure a good seal ."
+                },
+                {
+                    "Text": "screw the new filter into place ."
+                }
+            ],
+            "Text_raw": "Coat the o-ring of the new filter with oil to ensure a good seal. Screw the new filter into place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/snBx24MpAPfX6meh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BfRdORqZ31WsbpZq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5KNbNdZlcXRwkxFV.standard"
+            ],
+            "StepId": 109425,
+            "Tools_extracted": [
+                "oil filter"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "when reinstalling the oil drain plug , replace the crush washer ( part 803916010 ) ."
+                },
+                {
+                    "Text": "tighten the oil drain plug to 32 ft/lbs of torque ."
+                }
+            ],
+            "Text_raw": "When reinstalling the oil drain plug, replace the crush washer (part# 803916010) . Tighten the oil drain plug to 32 ft/lbs of torque.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JIL2WvYFNmK2LUZF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FESyPrqZcYWxDepK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ol3EeKVC4LmHyaCY.standard"
+            ],
+            "StepId": 109427,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "unscrew cap for engine oil . this is located directly to the left of the oil filter ."
+                },
+                {
+                    "Text": "place a clean funnel in the tube ."
+                },
+                {
+                    "Text": "slowly fill with the 5.1 quarts of engine oil ."
+                },
+                {
+                    "Text": "screw the engine oil cap back on ."
+                }
+            ],
+            "Text_raw": "Unscrew cap for engine oil.  This is located directly to the left of the oil filter. Place a clean funnel in the tube. Slowly fill with the 5.1 quarts of engine oil. Screw the engine oil cap back on.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vhXFjgwUGdIRsiVD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SyaPPDjnBUZUs6KE.standard"
+            ],
+            "StepId": 109429,
+            "Tools_extracted": [
+                "funnel",
+                "oil",
+                "oil filter"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "pour the oil from the pan into the empty milk jug ."
+                },
+                {
+                    "Text": "your local waste disposal company will recycle this for you ."
+                }
+            ],
+            "Text_raw": "Pour the oil from the pan into the empty milk jug. Your local waste disposal company will recycle this for you.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TxH3OmCeA2sUJceq.standard"
+            ],
+            "StepId": 109432,
+            "Tools_extracted": [
+                "milk jug"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "allow the car to run for 10 minutes in idle ."
+                },
+                {
+                    "Text": "check the oil level with the dipstick . this is located to the right of the engine when the hood is opened ."
+                },
+                {
+                    "Text": "check under the car for any dripping liquids ."
+                },
+                {
+                    "Text": "you have completed an oil and filter change on your 2015 subaru forester ."
+                }
+            ],
+            "Text_raw": "Allow the car to run for 10 minutes in idle. Check the oil level with the dipstick.  This is located to the right of the engine when the hood is opened. Check under the car for any dripping liquids. You have completed an oil and filter change on your 2015 Subaru Forester.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kSWPUBBYrquioUqM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2WZHvUCLxRIhyqJf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lO5GRBNavYDSyPKF.standard"
+            ],
+            "StepId": 109435,
+            "Tools_extracted": [
+                "oil filter"
+            ]
+        }
+    ],
+    "Subject": "Oil and Oil Filter"
+}

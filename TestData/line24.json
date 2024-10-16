@@ -1,0 +1,254 @@
+{
+    "Title": "2005-2007 Ford Focus Spark Plugs Replacement",
+    "Ancestors": [
+        "Ford Focus",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 5124,
+    "Category": "2005-2007 Ford Focus",
+    "Toolbox": [
+        {
+            "Name": "1 2 ratchet extension",
+            "Url": "http://www.amazon.com/TEKTON-1605-2-Inch-Extension-3-Piece/dp/B000NPXHMA/ref=sr_1_1?ie=UTF8&qid=1388419953&sr=8-1&keywords=1%2F2+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 2 socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1482-10-Inch-Polished-72-Tooth/dp/B00A50NAF2/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 8 spark plug socket",
+            "Url": "http://www.amazon.com/dp/B004QO9F0W/ref=cm_sw_su_dp",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "8 mm deep socket",
+            "Url": "http://www.amazon.com/TEKTON-1220-Socket-5-5-12mm-Sockets/dp/B000NPUJF8/ref=sr_1_1?ie=UTF8&qid=1390863785&sr=8-1&keywords=8+mm+deep+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "anti-seize lubricant",
+            "Url": "http://www.amazon.com/Permatex-80071-Anti-Seize-Lubricant-Bottle/dp/B000CCMKZY/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356890160&sr=1-2&keywords=anti-seize+compound",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "compressed air",
+            "Url": "http://www.amazon.com/CRC-Compressed-Air-Duster-05185/dp/B0002JMCEQ/ref=sr_1_6?s=automotive&ie=UTF8&qid=1407345044&sr=1-6&keywords=compressed+air",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "dielectric grease",
+            "Url": "http://www.amazon.com/dp/B000AL8VD2/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2005+2006+2007+Ford+Focus+Spark+Plugs+Replacement/5124",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "use compressed air to clear any debris from the area around the ignition coils on top of the engine ."
+                },
+                {
+                    "Text": "any particles that fall into the ignition cylinder could cause serious engine damage ."
+                }
+            ],
+            "Text_raw": "Use compressed air to clear any debris from the area around the ignition coils on top of the engine. Any particles that fall into the ignition cylinder could cause serious engine damage.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/E2ecqktIDmRxETvR.standard"
+            ],
+            "StepId": 23031,
+            "Tools_extracted": [
+                "compressed air"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the ignition coil electrical connector by first depressing the plastic tab on top of the connector ."
+                },
+                {
+                    "Text": "pull the connector straight away from the ignition coil to detach it ."
+                },
+                {
+                    "Text": "repeat this procedure for the remaining three ignition coils ."
+                }
+            ],
+            "Text_raw": "Remove the ignition coil electrical connector by first depressing the plastic tab on top of the connector. Pull the connector straight away from the ignition coil to detach it. Repeat this procedure for the remaining three ignition coils.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EfcWNKxUZ4NUJCf3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FRjM5AwqK5YDSu6A.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MgAksgnfEia1b4oB.standard"
+            ],
+            "StepId": 23032,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use an 8 mm deep socket to loosen the four ignition coil mounting bolts ."
+                },
+                {
+                    "Text": "once the bolts are loose , they can be removed by hand ."
+                }
+            ],
+            "Text_raw": "Use an 8 mm deep socket to loosen the four ignition coil mounting bolts. Once the bolts are loose, they can be removed by hand.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EhnSohy4cToFFc6s.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WicJTPGUOBlFvLAy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2VKJNMeKWiKE1VMi.standard"
+            ],
+            "StepId": 23033,
+            "Tools_extracted": [
+                "8 mm deep socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "twist the ignition coil and spark plug boot while lifting it straight up to remove it from the engine ."
+                },
+                {
+                    "Text": "avoid rocking the coil and boot side-to-side , since this could break the existing spark plug ."
+                },
+                {
+                    "Text": "the procedure to remove the ignition coil and spark plug boot is the same for each spark plug . however , to reduce the chance of dirt entering the engine , only remove one at a time ."
+                }
+            ],
+            "Text_raw": "Twist the ignition coil and spark plug boot while lifting it straight up to remove it from the engine. Avoid rocking the coil and boot side-to-side, since this could break the existing spark plug. The procedure to remove the ignition coil and spark plug boot is the same for each spark plug. However, to reduce the chance of dirt entering the engine, only remove one at a time.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yN2dhuHDsrdwJckm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FkpU6SJublETNXM4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/woEyWtPy4T3mI3ix.standard"
+            ],
+            "StepId": 23034,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use a ratcheting socket wrench with an extender and a 5 /8 spark plug socket to remove the existing spark plug from the cylinder head . make sure that the spark plug is completely seated in the rubber end of the socket before loosening it ."
+                },
+                {
+                    "Text": "spark plug sockets have rubber in the end of them to grip the spark plug and are made long enough to keep from snapping the spark plug . there are other common methods for removing spark plugs that involve using a long piece of rubber tubing to pull them out , but using a spark plug socket is the correct procedure ."
+                }
+            ],
+            "Text_raw": "Use a ratcheting socket wrench with an extender and a 5/8\" spark plug socket to remove the existing spark plug from the cylinder head. Make sure that the spark plug is completely seated in the rubber end of the socket before loosening it. Spark plug sockets have rubber in the end of them to grip the spark plug and are made long enough to keep from snapping the spark plug. There are other common methods for removing spark plugs that involve using a long piece of rubber tubing to pull them out, but using a spark plug socket is the correct procedure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iQ1UcNSxKptmmmRM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PsuMukTy3cUMp2tV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wnSD4xZaPXIPJbB2.standard"
+            ],
+            "StepId": 23035,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "apply dielectric grease to the ribbed portion of the insulator ."
+                },
+                {
+                    "Text": "gently place the spark plug boot over the ribs and twist the two pieces back and forth to even out the layer of dielectric grease ."
+                }
+            ],
+            "Text_raw": "Apply dielectric grease to the ribbed portion of the insulator. Gently place the spark plug boot over the ribs and twist the two pieces back and forth to even out the layer of dielectric grease.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZQDG6RxUFhPSfBjj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tLLKQbknrXYQOjPg.standard"
+            ],
+            "StepId": 23036,
+            "Tools_extracted": [
+                "dielectric grease"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "place the new spark plug firmly in the spark plug socket so that the threaded end sticks out ."
+                },
+                {
+                    "Text": "apply an even layer of anti-seize compound to the threads of the spark plug ."
+                },
+                {
+                    "Text": "be careful not to get any of the anti-seize compound on the spark plug's electrode ."
+                }
+            ],
+            "Text_raw": "Place the new spark plug firmly in the spark plug socket so that the threaded end sticks out. Apply an even layer of anti-seize compound to the threads of the spark plug. Be careful not to get any of the anti-seize compound on the spark plug's electrode.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pF6CfYlX5mX1flcD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MLPeEfWUIWBlxinI.standard"
+            ],
+            "StepId": 23037,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "place the new spark plug into the cylinder head and tighten it by hand as much as you can ."
+                },
+                {
+                    "Text": "tighten the spark plugs to 11 ft-lbs with a torque wrench ."
+                }
+            ],
+            "Text_raw": "Place the new spark plug into the cylinder head and tighten it by hand as much as you can. Tighten the spark plugs to 11 ft-lbs with a torque wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jPaUKsfkreok6OHj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lgyKfcrOJH1OmnUl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lTWJv5cMfjxT6PYN.standard"
+            ],
+            "StepId": 23038,
+            "Tools_extracted": [
+                "5 8 spark plug socket",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "place the ignition coil and dust boot back over the spark plug by pushing down and twisting it into place ."
+                },
+                {
+                    "Text": "reconnect the ignition coil electrical connector by snapping it back into place ."
+                },
+                {
+                    "Text": "after installing your new spark plugs , compare the old ones to a plug wear chart to determine if there are any issues with the way your engine is running . a similar chart can be found in the back of all haynes repair manuals ."
+                }
+            ],
+            "Text_raw": "Place the ignition coil and dust boot back over the spark plug by pushing down and twisting it into place. Reconnect the ignition coil electrical connector by snapping it back into place. After installing your new spark plugs, compare the old ones to a [http://www.bikebandit.com/assets/digital_assets/How-to-Read-a-Spark-Plug.gif|spark plug wear chart] to determine if there are any issues with the way your engine is running. A similar chart can be found in the back of all Haynes repair manuals.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FrdvQoLOTQEGhW1V.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FqZw4gV1Lv61LLig.standard"
+            ],
+            "StepId": 23039,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        }
+    ],
+    "Subject": "Spark Plugs"
+}

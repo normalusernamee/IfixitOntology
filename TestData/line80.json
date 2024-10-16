@@ -1,0 +1,360 @@
+{
+    "Title": "2003-2007 Honda Accord Front Brake Pads Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 10884,
+    "Category": "2003-2007 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "socket 12 mm",
+            "Url": "http://www.amazon.com/TEKTON-14144-8-Inch-Shallow-6-Point/dp/B000NY7A1A/ref=sr_1_1?ie=UTF8&qid=1431005387&sr=8-1&keywords=12+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 4 socket",
+            "Url": "/Item/3_4%27%27_socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "6 inch c-clamp",
+            "Url": "https://www.amazon.com/TEKTON-4027-Malleable-C-Clamp-Opening/dp/B000NY6QO2/ref=sr_1_2?s=power-hand-tools&ie=UTF8&qid=1487888644&sr=1-2&keywords=c+clamp",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2003+2004+2005+2006+2007+Honda+Accord+Front+Brake+Pads+Replacement/10884",
+    "Steps": [
+        {
+            "Order": 0,
+            "Tools_annotated": [
+                "hydraulic floor jack"
+            ],
+            "Lines": [
+                {
+                    "Text": "place the hydraulic floor jack under the vehicle until the '''''saddle''''' is directly under the '''''crossmember''''' ."
+                },
+                {
+                    "Text": "the '''''crossmember''''' is the long metal support beam that runs underneath from the front fender to the rear fender on both sides of the car ."
+                },
+                {
+                    "Text": "the '''''saddle''''' is the round metal part of the jack that moves upward as you pump the jack up ."
+                }
+            ],
+            "Text_raw": "Place the hydraulic floor jack under the vehicle until the '''''saddle''''' is directly under the '''''crossmember'''''. The '''''crossmember''''' is the long metal support beam that runs underneath from the front fender to the rear fender on both sides of the car. The '''''saddle''''' is the round metal part of the jack that moves upward as you pump the jack up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UFHnKqTQJabuV5As.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lSNqNbjkuDKB6ebD.standard"
+            ],
+            "StepId": 39942,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Tools_annotated": [
+                "jack"
+            ],
+            "Lines": [
+                {
+                    "Text": "push downward on the jack's lever to lift the saddle upward so that it contacts the crossmember . continue pushing downward on the lever to lift the car upward ."
+                }
+            ],
+            "Text_raw": "Push downward on the jack's lever to lift the saddle upward so that it contacts the crossmember. Continue pushing downward on the lever to lift the car upward.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QM4J4SBHnfjcqotk.standard"
+            ],
+            "StepId": 41974,
+            "Tools_extracted": [
+                "jack"
+            ]
+        },
+        {
+            "Order": 2,
+            "Tools_annotated": [
+                "jack stand"
+            ],
+            "Lines": [
+                {
+                    "Text": "place the jack stand under the jack mounting point ."
+                },
+                {
+                    "Text": "the jack mounting point is a metallic protrusion beneath each of the car doors ."
+                }
+            ],
+            "Text_raw": "Place the jack stand under the jack mounting point. The jack mounting point is a metallic protrusion beneath each of the car doors.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cktSsXVpOBuwdDRO.standard"
+            ],
+            "StepId": 39943,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 3,
+            "Tools_annotated": [
+                "jack stand"
+            ],
+            "Lines": [
+                {
+                    "Text": "raise the jack stand until it contacts the jack mounting point ."
+                },
+                {
+                    "Text": "in the event the floor jack fails , the jack stand is designed to prevent the car from falling ."
+                }
+            ],
+            "Text_raw": "Raise the jack stand until it contacts the jack mounting point. In the event the floor jack fails, the jack stand is designed to prevent the car from falling.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vEtKlH5OqX1U56Xd.standard"
+            ],
+            "StepId": 41989,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "once car is raised , remove the lug nuts on one of the front tires with the 3 /4 '' socket ."
+                }
+            ],
+            "Text_raw": "Once car is raised, remove the lug nuts on one of the front tires with the 3/4'' socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MmoTSghIlKAuhKRE.standard"
+            ],
+            "StepId": 39944,
+            "Tools_extracted": [
+                "socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the wheel and tire off the wheel studs , and place it aside ."
+                },
+                {
+                    "Text": "this exposes the caliper ( shown in rectangle ) and rotor ( shown in circle ) ."
+                }
+            ],
+            "Text_raw": "Remove the wheel and tire off the wheel studs, and place it aside. This exposes the caliper (shown in rectangle) and rotor (shown in circle).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2cQD2FewyxAwxCZp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4UfeWoK62GrhRULC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/INMUMnGifTEepDys.standard"
+            ],
+            "StepId": 39945,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "identify the two mounting bolts on the rear of the caliper ."
+                },
+                {
+                    "Text": "using a 12 mm wrench or socket , remove the two caliper mounting bolts ."
+                }
+            ],
+            "Text_raw": "Identify the two mounting bolts on the rear of the caliper. Using a 12 mm wrench or socket, remove the two caliper mounting bolts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pqUGABaXsJ1GqGXY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RXrVsoYBoPQPUPtm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CShhL1ZSZIwEpGsc.standard"
+            ],
+            "StepId": 39947,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "slide the caliper off and rest it on the top of the rotor ."
+                },
+                {
+                    "Text": "do '''not''' let the caliper hang freely because the brake lines may stretch and weaken ."
+                }
+            ],
+            "Text_raw": "Slide the caliper off and rest it on the top of the rotor. Do '''not''' let the caliper hang freely because the brake lines may stretch and weaken.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XHnJXZTYc1vRwIXp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QIrw1EAYyHYjnL6T.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BEo3GNZwH2lBchuW.standard"
+            ],
+            "StepId": 39949,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "pull the two old brake pads out of both the front and rear of the pad bracket ."
+                }
+            ],
+            "Text_raw": "Pull the two old brake pads out of both the front and rear of the pad bracket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TolUq1SnbuySetLP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gbeDEV6N3Mpeytch.standard"
+            ],
+            "StepId": 39950,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "inspect the brake pad wear sensor on the old brake pad . the sensor is a metallic tab attached to the brake pad . when the brake pads wear down too much , the metallic tab contacts the rotor and makes a screeching sound ."
+                }
+            ],
+            "Text_raw": "Inspect the brake pad wear sensor on the old brake pad. The sensor is a metallic tab attached to the brake pad. When the brake pads wear down too much, the metallic tab contacts the rotor and makes a screeching sound.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HBELgkUQblL1UaPv.standard"
+            ],
+            "StepId": 39951,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "place the new brake pads into the bracket . make sure that the new pads are secure ."
+                }
+            ],
+            "Text_raw": "Place the new brake pads into the bracket. Make sure that the new pads are secure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oBLGM2TIBhBcy6Zh.standard"
+            ],
+            "StepId": 41956,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "the new brake pads are thicker than the old pads . because of this , the caliper piston protrudes too far out to allow enough clearance for the caliper to be placed over the new pads . you will need to manually retract the caliper piston ."
+                },
+                {
+                    "Text": "to do this , place an old brake pad over the caliper piston ."
+                }
+            ],
+            "Text_raw": "The new brake pads are thicker than the old pads. Because of this, the caliper piston protrudes too far out to allow enough clearance for the caliper to be placed over the new pads. You will need to manually retract the caliper piston. To do this, place an old brake pad over the caliper piston.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5lABDaaHEYY46FcK.standard"
+            ],
+            "StepId": 39952,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "place one end of the c-clamp jaw over the old pad . place the other end of the jaw on the rear of the caliper . tighten the c-clamp to push the piston back into the caliper ."
+                },
+                {
+                    "Text": "this will push oil back into the brake reservoir , which could overflow . this can be wasteful , messy , and damage your car's paint job . make sure the reservoir isn't topped off . it is also a good idea to remove the cap from the reservoir before retracting the piston . the reservoir is located under the hood and should be clearly labeled ."
+                }
+            ],
+            "Text_raw": "Place one end of the c-clamp jaw over the old pad. Place the other end of the jaw on the rear of the caliper. Tighten the c-clamp to push the piston back into the caliper. This will push oil back into the brake reservoir, which could overflow. This can be wasteful, messy, and damage your car's paint job. Make sure the reservoir isn't topped off. It is also a good idea to remove the cap from the reservoir before retracting the piston. The reservoir is located under the hood and should be clearly labeled.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ROT3IBkvQKYNYvKf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KsbtNAkR1Xsktp2J.standard"
+            ],
+            "StepId": 41957,
+            "Tools_extracted": [
+                "6 inch c-clamp"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "slide the caliper over the brake pad bracket with the new brake pads ."
+                },
+                {
+                    "Text": "if you removed the cap from the brake fluid reservoir replace it as soon as the brake caliper piston has been retracted . do not leave the cap off any longer than absolutely necessary ."
+                }
+            ],
+            "Text_raw": "Slide the caliper over the brake pad bracket with the new brake pads. If you removed the cap from the brake fluid reservoir replace it as soon as the brake caliper piston has been retracted. Do not leave the cap off any longer than absolutely necessary.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ETYvf6uvfwB5L1Hc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SpvMkZ1TsaX2HjQE.standard"
+            ],
+            "StepId": 40718,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "to reassemble the wheel assembly . follow the steps 1-7 in '''reverse order''' ."
+                },
+                {
+                    "Text": "the caliper mounting bolts and the lug nuts must be tightened to the correct torque value , using a torque wrench . the values may differ depending on your car's configuration and options , but are typically listed as :"
+                },
+                {
+                    "Text": "caliper bolts : 54 ft lbs"
+                },
+                {
+                    "Text": "lug nuts : 80 ft lbs"
+                },
+                {
+                    "Text": "remove the jack stand . then lower and remove the floor jack ."
+                },
+                {
+                    "Text": "caution ! : before driving the car , pump the brake pedal several times in order to push the caliper piston back against the brake pads . if this step is not performed , the car may not brake reliably when first driven . for your safety , this step is essential ."
+                }
+            ],
+            "Text_raw": "To reassemble the wheel assembly. Follow the Steps 1-7 in '''reverse order'''. The caliper mounting bolts and the lug nuts must be tightened to the correct torque value, using a torque wrench. The values may differ depending on your car's configuration and options, but are typically listed as: Caliper bolts: 54 ft lbs Lug nuts: 80 ft lbs Remove the jack stand. Then lower and remove the floor jack. CAUTION! : Before driving the car, pump the brake pedal several times in order to push the caliper piston back against the brake pads. If this step is not performed, the car may not brake reliably when first driven. For your safety, this step is essential.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IXPrthXERLBFbvaX.standard"
+            ],
+            "StepId": 41958,
+            "Tools_extracted": [
+                "jack stand",
+                "torque wrench"
+            ]
+        }
+    ],
+    "Subject": "Front Brake Pads"
+}

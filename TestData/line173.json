@@ -1,0 +1,267 @@
+{
+    "Title": "2004 Honda Pilot Timing Belt Replacement",
+    "Ancestors": [
+        "Honda Pilot",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 29723,
+    "Category": "2003-2008 Honda Pilot",
+    "Toolbox": [
+        {
+            "Name": "honda cranks pulley removal tool",
+            "Url": "http://api.viglink.com/api/click?format=go&jsonp=vglnk_141242798416435&key=125b37590efbb2d87fefb5c57607e3c5&libId=8baa89d1-9dc9-4933-885c-a236c54809d9&loc=http%3A%2F%2Fwww.piloteers.org%2Fforums%2F18-maintenance%2F25712-diy-j35a4-timing-belt-replacement.h",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 4 breaker bar",
+            "Url": "http://www.amazon.com/s/ref=nb_sb_ss_i_0_8?url=search-alias%3Dtools&field-keywords=3%204%20breaker%20bar&sprefix=3%2F4%22+bre%2Ctools%2C199",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2004+Honda+Pilot+Timing+Belt+Replacement/29723",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "looking from above showing the accessory belts removed along with the motor mount ."
+                }
+            ],
+            "Text_raw": "Looking from above showing the accessory belts removed along with the motor mount.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YILLWIyYaJ2rB3dt.standard"
+            ],
+            "StepId": 70054,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "side view showing same including the lower cover"
+                }
+            ],
+            "Text_raw": "Side view showing same including the lower cover",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/riuMEeaMSA3nhK4H.standard"
+            ],
+            "StepId": 70055,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "crank pulley bolt removal ( loosen the bolt before removing the motor mount ! )"
+                }
+            ],
+            "Text_raw": "Crank pulley bolt removal (loosen the bolt before removing the motor mount!)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/To1aRsf5D3FZHjlM.standard"
+            ],
+            "StepId": 70056,
+            "Tools_extracted": [
+                "honda cranks pulley removal tool"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "lower cover showing crank end and lower part of the dipstick tube ( hydraulic tensioner can be seen behind vtec solenoid ) ( crank timing mark can also be seen )"
+                }
+            ],
+            "Text_raw": "Lower cover showing crank end and lower part of the dipstick tube (hydraulic tensioner can be seen behind VTEC solenoid) (crank timing mark can also be seen)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NXbOU5W2doLdWGKF.standard"
+            ],
+            "StepId": 70057,
+            "Tools_extracted": [
+                "honda cranks pulley removal tool"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "upper and lower covers removed ( 12 mm power steering adjuster nut shown )"
+                }
+            ],
+            "Text_raw": "Upper and lower covers removed (12mm power steering adjuster nut shown)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/atjp5JlehkCINNXr.standard"
+            ],
+            "StepId": 70058,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "lower cover removed ( rubber plug in the dipstick opening to prevent trash from falling in )"
+                }
+            ],
+            "Text_raw": "Lower cover removed (rubber plug in the dipstick opening to prevent trash from falling in)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vbvntDI2hbFaHJGK.standard"
+            ],
+            "StepId": 70059,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "different angle to show both 14 mm pulley bolts"
+                }
+            ],
+            "Text_raw": "Different angle to show both 14mm pulley bolts",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/E5sCaDWPsHimeNdD.standard"
+            ],
+            "StepId": 70060,
+            "Tools_extracted": [
+                "honda cranks pulley removal tool"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "top view showing timing belt , tensioner , and pulleys off"
+                }
+            ],
+            "Text_raw": "Top view showing timing belt, tensioner, and pulleys off",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XMHgQ2OLBOJIIZrC.standard"
+            ],
+            "StepId": 70063,
+            "Tools_extracted": [
+                "honda cranks pulley removal tool"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "top view showing water pump . also showing the belt , pulleys , and tensioner removed"
+                }
+            ],
+            "Text_raw": "Top view showing water pump. Also showing the belt, pulleys, and tensioner removed",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LqSfLXIqnQWCYGZL.standard"
+            ],
+            "StepId": 70065,
+            "Tools_extracted": [
+                "honda cranks pulley removal tool"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "bottom view showing the belt , pulleys , and tensioner removed"
+                }
+            ],
+            "Text_raw": "Bottom view showing the belt, pulleys, and tensioner removed",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/geibKhFVhoyt5wsK.standard"
+            ],
+            "StepId": 70066,
+            "Tools_extracted": [
+                "honda cranks pulley removal tool"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "bolt ( silver one closer to the front of the block ) with thread lock"
+                }
+            ],
+            "Text_raw": "Bolt (silver one closer to the front of the block) with thread lock",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TcHIHRXOSpOBWBX3.standard"
+            ],
+            "StepId": 70067,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "old parts and removed parts"
+                }
+            ],
+            "Text_raw": "Old parts and removed parts",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IYZEmZxmOL5XBT2J.standard"
+            ],
+            "StepId": 70070,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "old parts , lower cover , motor mount"
+                }
+            ],
+            "Text_raw": "Old parts, lower cover, motor mount",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZhHdZUAMUEJf4c1W.standard"
+            ],
+            "StepId": 70071,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "covers , mount , dipstick ( and new o-ring )"
+                }
+            ],
+            "Text_raw": "Covers, mount, dipstick (and new o-ring)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FWAjJtkhbHBhdojQ.standard"
+            ],
+            "StepId": 70072,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "various tools used ( bag shows the part number for the trim clips )"
+                }
+            ],
+            "Text_raw": "Various tools used (bag shows the part number for the trim clips)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MGgRtBCUyvwmHIey.standard"
+            ],
+            "StepId": 70073,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Timing Belt"
+}

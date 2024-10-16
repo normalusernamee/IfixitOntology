@@ -1,0 +1,415 @@
+{
+    "Title": "2003 Ford F150 Driveshaft U-joint rear Replacement",
+    "Ancestors": [
+        "Ford F-Series",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 24873,
+    "Category": "1997-2003 Ford F-150",
+    "Toolbox": [
+        {
+            "Name": "12 mm 12 point 1 2 drive socket",
+            "Url": "/Item/12mm_12_point_1_2%22_drive_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 2 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-930-2-Inch-Release-Ratchet/dp/B000NJ7U1U/ref=sr_1_1?ie=UTF8&qid=1487894892&sr=8-1&keywords=1+2+drive+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 2 drive breaker bar",
+            "Url": "https://www.amazon.com/Neiko-00206A-Drive-Premium-Breaker/dp/B001222378/ref=sr_1_2?ie=UTF8&qid=1487799347&sr=8-2&keywords=1+2+breaker+bar",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 1 4 inch galvanized plug",
+            "Url": "/Item/1_1_4_inch_galvanized_plug",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "various pin drivers",
+            "Url": "/Item/various_pin_drivers",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hammer",
+            "Url": "http://www.amazon.com/dp/B0000224VG/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2003+Ford+F150+Driveshaft+U-joint+rear+Replacement/24873",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "here is a view of the rear u-joint assembly . it is connected to the driveshaft via the flange yoke . it is bolted to the rear axle at the drive pinion flange"
+                },
+                {
+                    "Text": "the front u-joint assembly connects the drive shaft and the slip yoke . the slip yoke just slides into the transmission and meshes onto the gear with it internal splines ."
+                },
+                {
+                    "Text": "use a chisel , or similar instrument , to index the flange yoke and the pinion flange . all that does , it makes a mark across those two pieces . this will assure that the drive shaft will be mounted in the same way once the repair is done ."
+                }
+            ],
+            "Text_raw": "Here is a view of the rear U-joint assembly. It is connected to the driveshaft via the flange yoke. It is bolted to the rear axle at the drive pinion flange The front U-joint assembly connects the drive shaft and the slip yoke. The slip yoke just slides into the transmission and meshes onto the gear with it internal splines. Use a chisel, or similar instrument, to index the flange yoke and the pinion flange. All that does, it makes a mark across those two pieces. This will assure that the drive shaft will be mounted in the same way once the repair is done.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UE2jb1EuKJGTWiXW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NMlqALokH14Ffyu1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SuVUTDXeiG6ANxHo.standard"
+            ],
+            "StepId": 63083,
+            "Tools_extracted": [
+                "1 2 drive"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "the damaged u-joint is clearly visible ."
+                },
+                {
+                    "Text": "there are four bolts that connect the flange to the yoke . the bolt heads require a 12 mm 12 point socket . a 6 point socket will not fit , and a box end wrench will not generate enough torque ."
+                },
+                {
+                    "Text": "use a 12 mm 12 point socket and a 16 inch breaker bar will generate enough torque to remove the bolt . here a 1 /2 drive socket set is used . 3 /8 socket set may work as well , but the larger drive set will tolerate a bit more torquing ."
+                },
+                {
+                    "Text": "loosen all four bolts in a criss-cross pattern ."
+                }
+            ],
+            "Text_raw": "The damaged U-joint is clearly visible. There are four bolts that connect the flange to the yoke. The bolt heads require a 12mm 12point socket. A 6 point socket will not fit, and a box end wrench will not generate enough torque. Use a 12mm 12 point socket and a 16 inch breaker bar will generate enough torque to remove the bolt. Here a 1/2\" drive socket set is used. 3/8\" socket set may work as well, but the larger drive set will tolerate a bit more torquing. Loosen all four bolts in a criss-cross pattern.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ERFXeZUlopAJkyjG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bTDDSyuVK4uBEPDV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6odTqBJH5Sfh2bhG.standard"
+            ],
+            "StepId": 63084,
+            "Tools_extracted": [
+                "12 mm 12 point 1 2 drive socket"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a socket and small extension to remove the bolts ."
+                },
+                {
+                    "Text": "here is a view of the actual size of the bolt ."
+                },
+                {
+                    "Text": "the driveshaft flange yoke fits tightly on the rear axle pinion flange pilot . do not hammer on the driveshaft or any of its components to disconnect the yoke from the flange . pry only in the area shown , to disconnect the yoke from the flange ."
+                }
+            ],
+            "Text_raw": "Use a socket and small extension to remove the bolts. Here is a view of the actual size of the bolt. The driveshaft flange yoke fits tightly on the rear axle pinion flange pilot. Do not hammer on the driveshaft or any of its components to disconnect the yoke from the flange. Pry only in the area shown, to disconnect the yoke from the flange.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ONZdhfvrSH5SMZ4Z.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xlmMtNo3KnZb4NtZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bTuvWmSkCyqn6Nrf.standard"
+            ],
+            "StepId": 63085,
+            "Tools_extracted": [
+                "hammer",
+                "12 mm 12 point 1 2 drive socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "driveshaft removed from the pinion flange ."
+                },
+                {
+                    "Text": "it is not very heavy , but do not let it hit the ground . use a wooden block to set it down"
+                },
+                {
+                    "Text": "the front slip yoke still in place ."
+                }
+            ],
+            "Text_raw": "Driveshaft removed from the pinion flange. It is not very heavy, but do not let it hit the ground. Use a wooden block to set it down The front slip yoke still in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DBmAdstTrg3kcpIF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dPwoQKCs2o5ffufw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/s5mFJf26fhoKxpL3.standard"
+            ],
+            "StepId": 63086,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "lift the driveshaft of the wooden block and gently slide it to the back of the vehicle ."
+                },
+                {
+                    "Text": "the driveshaft slip yoke will simply slide out ."
+                },
+                {
+                    "Text": "remove the driveshaft from under the vehicle and place it on a suitable place ( large workbench or even the ground )"
+                },
+                {
+                    "Text": "remove the snap ring that secure the bearings . use a pair of pliers and squeeze the angled ends of the snap ring together . this will compress the ring ."
+                }
+            ],
+            "Text_raw": "Lift the driveshaft of the wooden block and gently slide it to the back of the vehicle. The driveshaft slip yoke will simply slide out. Remove the driveshaft from under the vehicle and place it on a suitable place (large workbench or even the ground) Remove the snap ring that secure the bearings. Use a pair of pliers and squeeze the angled ends of the snap ring together. this will compress the ring.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EMxlhTj6QsgXgkaE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OiYZOf1NdxDDKAZW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NnkEMB6MGVBAUUdL.standard"
+            ],
+            "StepId": 63087,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "when the ends are properly compressed the ring will clear the inside of the groove and can be removed ."
+                },
+                {
+                    "Text": "here are the four old snap rings . discard those , do not reuse ."
+                },
+                {
+                    "Text": "all snap rings removed . place the driveshaft over a block of wood so that the flange yoke will clear it ."
+                }
+            ],
+            "Text_raw": "When the ends are properly compressed the ring will clear the inside of the groove and can be removed. Here are the four old snap rings. Discard those, do not reuse. All snap rings removed. Place the driveshaft over a block of wood so that the flange yoke will clear it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PUKWg2OCMyQktHEt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TPqUYPLj2SZnDSKs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XsHDX4AeMo4PJNax.standard"
+            ],
+            "StepId": 63088,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "application of some lubricant may assist in loosening some of the rust and debris that may have collect between the bearing cup and the bearing hole itself . place a piece of flat metal stock across the bearing cup ."
+                },
+                {
+                    "Text": "use a hammer and strike the flat stock"
+                },
+                {
+                    "Text": "this will slide the yoke and subsequently the bearing up through the bearing opening in the driveshaft ."
+                }
+            ],
+            "Text_raw": "Application of some lubricant may assist in loosening some of the rust and debris that may have collect between the bearing cup and the bearing hole itself. Place a piece of flat metal stock across the bearing cup. Use a hammer and strike the flat stock This will slide the yoke and subsequently the bearing up through the bearing opening in the driveshaft.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vOd2X6vmjMfWp6GF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eKZpwuDRfqrOFV1j.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FkxSMTtuaXum2UJU.standard"
+            ],
+            "StepId": 63089,
+            "Tools_extracted": [
+                "hammer"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "turn the driveshaft 180degrees and use a tool that will fit inside the bearing hole of the drive shaft"
+                },
+                {
+                    "Text": "strike the tool with a hammer . this will move the u-joint and yoke further out of the drive shaft"
+                },
+                {
+                    "Text": "it should only take 2-3 hammer strikes to move the yoke and u-joint out of the driveshaft bearing holes . the bearing cup most likely will may simply fall out ."
+                }
+            ],
+            "Text_raw": "Turn the driveshaft 180degrees and use a tool that will fit inside the bearing hole of the drive shaft Strike the tool with a hammer. This will move the U-joint and yoke further out of the drive shaft It should only take 2-3 hammer strikes to move the yoke and U-joint out of the driveshaft bearing holes. The bearing cup most likely will may simply fall out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VfNdSVYlQob5tx5b.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/O4xEKiLfpOOIQkdU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DveHUqDcdSFXNwDg.standard"
+            ],
+            "StepId": 63090,
+            "Tools_extracted": [
+                "hammer",
+                "1 2 drive"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "remove the yoke form the driveshaft by angling it so it will clear the bearing surface ."
+                },
+                {
+                    "Text": "here is the flange yoke with the u-joint still attached ."
+                },
+                {
+                    "Text": "here is the damage . missing needles out of the bearing cup , worn trunions on the joint cross ."
+                },
+                {
+                    "Text": "place the flange yoke between two blocks of wood . leave enough space between the blocks to clear the bearing cup ."
+                }
+            ],
+            "Text_raw": "Remove the yoke form the driveshaft by angling it so it will clear the bearing surface. Here is the flange yoke with the U-joint still attached. Here is the damage. Missing needles out of the bearing cup, worn trunions on the joint cross. Place the flange yoke between two blocks of wood. Leave enough space between the blocks to clear the bearing cup.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pVRTu4cXeFEE2krt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XjtTd5ya1deOFXYr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vvtXcngRiiKnLaZU.standard"
+            ],
+            "StepId": 63091,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "use a tool that fits inside the bearing hole in the flange yoke . strike that tool with a hammer to drive the u-joint down the opening ."
+                },
+                {
+                    "Text": "shown here is the opposite end of the yoke . the u-joint is now flush with the yoke bearing hole ."
+                },
+                {
+                    "Text": "position the yoke between two wooden blocks , let it rest on the trunions"
+                },
+                {
+                    "Text": "provide clearance to the bottom"
+                }
+            ],
+            "Text_raw": "Use a tool that fits inside the bearing hole in the flange yoke. Strike that tool with a hammer to drive the U-joint down the opening. Shown here is the opposite end of the yoke. The U-joint is now flush with the yoke bearing hole. Position the yoke between two wooden blocks, let it rest on the trunions provide clearance to the bottom",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gqFOmT3hk2YYoS3j.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mpSvLGgBDJUAh2SH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ORMIranRekb5OVpE.standard"
+            ],
+            "StepId": 63092,
+            "Tools_extracted": [
+                "hammer"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "here is the next tool i am using . it is a 1 1 /4 galvanized plumbing plug . it has enough clearance to fit over the bearing cap ."
+                },
+                {
+                    "Text": "place the tool over the bearing cup and rest it on the flange yoke ."
+                },
+                {
+                    "Text": "strike that tool with a hammer"
+                }
+            ],
+            "Text_raw": "Here is the next tool I am using. It is a 1 1/4 galvanized plumbing plug. It has enough clearance to fit over the bearing cap. Place the tool over the bearing cup and rest it on the flange yoke. Strike that tool with a hammer",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4gId6KRSZgSl6TsD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mpH5sl3N2jLiDM2l.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6W42oFhEtjOJYvAb.standard"
+            ],
+            "StepId": 63093,
+            "Tools_extracted": [
+                "hammer",
+                "1 2 drive"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "the yoke will move down , clearing the bearing cup . the cup may now rest inside the tool . it will be easily removed ."
+                },
+                {
+                    "Text": "turn the yoke 180 degrees and position it between the two blocks of wood . let the trunions rest on the wood . place the tool over the bearing cup opening and strike it with a hammer"
+                },
+                {
+                    "Text": "the yoke will move down , clearing the last bearing cup ."
+                }
+            ],
+            "Text_raw": "The yoke will move down, clearing the bearing cup. The cup may now rest inside the tool. It will be easily removed. Turn the yoke 180 degrees and position it between the two blocks of wood.Let the trunions rest on the wood. Place the tool over the bearing cup opening and strike it with a hammer The yoke will move down, clearing the last bearing cup.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TVsfTmMP2HqbMc66.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FhXfMMtJc1J2QAIB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3TesPawoAWs1ALTn.standard"
+            ],
+            "StepId": 63094,
+            "Tools_extracted": [
+                "hammer"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "remove the bearing cup ."
+                },
+                {
+                    "Text": "remove the u-joint cross from the flange yoke ."
+                },
+                {
+                    "Text": "show here is the damage to the trunions"
+                },
+                {
+                    "Text": "as well as the bearing cups"
+                }
+            ],
+            "Text_raw": "Remove the bearing cup. Remove the U-joint cross from the flange yoke. Show here is the damage to the trunions as well as the bearing cups",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MIWvRDLVRREWmooh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LHtXG6GtXY4DqUpK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RdanfDrSF5APShYW.standard"
+            ],
+            "StepId": 63095,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "clean the bearing openings with either a piece of emery cloth or a file . deburr all the edges"
+                },
+                {
+                    "Text": "clean the groove for the snap rings of any debris . it is imperative that these are clean to properly seat the snap rings"
+                },
+                {
+                    "Text": "here is the new u-joint assembly for this truck . purchased at autozone for around 9. this has a grease fitting that the original did not have ."
+                }
+            ],
+            "Text_raw": "Clean the bearing openings with either a piece of emery cloth or a file. Deburr all the edges Clean the groove for the snap rings of any debris. It is imperative that these are clean to properly seat the snap rings Here is the new U-joint assembly for this truck. Purchased at Autozone for around $9. This has a grease fitting that the original did not have.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vABlEi5NdeRoWrDL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/q2kChBSalRv6HHY6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ce4JYkGcmndTHGAM.standard"
+            ],
+            "StepId": 63096,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "here is a quick video to show how the damage affect the connection between the flange yoke and the driveshaft . if not replaced in time the trunion or bearing cup can shear of . this can cause major damage to the driveshaft , the pinion flange or the slip yoke . it will become a very expensive repair ."
+                }
+            ],
+            "Text_raw": "Here is a quick video to show how the damage affect the connection between the flange yoke and the driveshaft. If not replaced in time the trunion or bearing cup can shear of. This can cause major damage to the driveshaft, the pinion flange or the slip yoke. It will become a very expensive repair.",
+            "Images": [],
+            "StepId": 63104,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Driveshaft rear U-joint"
+}

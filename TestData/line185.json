@@ -1,0 +1,305 @@
+{
+    "Title": "Mercedes W123 Front Seat Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 33146,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "3 8 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_1?ie=UTF8&qid=1487787284&sr=8-1&keywords=3+8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "13 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-14145-8-Inch-Shallow-6-Point/dp/B000NY5CQK/ref=sr_1_1?ie=UTF8&qid=1488830200&sr=8-1&keywords=13mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Front+Seat+Replacement/33146",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the pictures in this guide show a passenger seat being replaced . the same general procedures apply to the driver's seat as well ."
+                },
+                {
+                    "Text": "to begin removing the front seat , pull up on the seat position handle ( on the front of the seat ) and bring the seat all the way forward ."
+                },
+                {
+                    "Text": "then , pull up on the seat height handle ( on the side of the seat ) and bring the seat all the way up to its highest position ."
+                },
+                {
+                    "Text": "these two movements are most easily done when standing outside the car just next to the seat , pulling on the seat back for leverage ."
+                }
+            ],
+            "Text_raw": "The pictures in this guide show a passenger seat being replaced. The same general procedures apply to the driver's seat as well. To begin removing the front seat, pull up on the seat position handle (on the front of the seat) and bring the seat all the way forward. Then, pull up on the seat height handle (on the side of the seat) and bring the seat all the way up to its highest position. These two movements are most easily done when standing outside the car just next to the seat, pulling on the seat back for leverage.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pmAHLFmpchHIWTFA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5noIDmUZT1AOkkgV.standard"
+            ],
+            "StepId": 77773,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "moving the seat all the way forward , and up , will expose two 10 mm bolts on each side of the rear of the seat ."
+                },
+                {
+                    "Text": "use a socket wrench with a 10 mm socket to remove these two bolts ."
+                }
+            ],
+            "Text_raw": "Moving the seat all the way forward, and up, will expose two 10mm bolts on each side of the rear of the seat. Use a socket wrench with a 10mm socket to remove these two bolts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rY1orbDCGtiLPKYL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PHB6juVe5612fVrk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CaXVladnl1kP4g3L.standard"
+            ],
+            "StepId": 77774,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "now , once again use the seat adjustment handles to move the seat in the opposite direction . that is , all the way back and down . this is most easily accomplished while sitting in the seat ."
+                }
+            ],
+            "Text_raw": "Now, once again use the seat adjustment handles to move the seat in the opposite direction. That is, all the way back and down. This is most easily accomplished while sitting in the seat.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jD3DSdxaHmtdVcS5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PjNZofwuPErFYUgF.standard"
+            ],
+            "StepId": 77775,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "this will similarly expose two 10 mm bolts on either side of the front of the seat . remove these as well ."
+                }
+            ],
+            "Text_raw": "This will similarly expose two 10mm bolts on either side of the front of the seat. Remove these as well.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QEi2luLmSIqIVopw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SDOoMEeAtOADqQnU.standard"
+            ],
+            "StepId": 77776,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "next , return to behind the seat and find the seat rail at the point where it attaches to the raised tunnel between the rear foot wells ."
+                },
+                {
+                    "Text": "pop the cover off that hides the bolt holding the seat rail in place . it may come out by hand , or may need a small pry tool to remove ."
+                },
+                {
+                    "Text": "then , use your 10 mm socket and socket wrench to remove the bolt ."
+                }
+            ],
+            "Text_raw": "Next, return to behind the seat and find the seat rail at the point where it attaches to the raised tunnel between the rear foot wells. Pop the cover off that hides the bolt holding the seat rail in place. It may come out by hand, or may need a small pry tool to remove. Then, use your 10mm socket and socket wrench to remove the bolt.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6jFsp1bjQmKRTKRX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bDdIoLEeXVALL3vC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cJKJ3RtvfbHAUpW6.standard"
+            ],
+            "StepId": 77777,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "you will now be able to remove the plastic trim behind the end of the seat rail ."
+                },
+                {
+                    "Text": "behind the end of the seat rail you will find a large concave washer and a smaller rubber sealing washer ( the hole that the bolt goes through is exposed to the outside ) . make sure to note their orientation for replacement ."
+                },
+                {
+                    "Text": "the seat rail will now be free and the seat can be removed . lift it up and out through the front door , being careful not to scratch anything with the metal seat rails ."
+                },
+                {
+                    "Text": "the front seats are fairly heavy . have a helper lift it out if in doubt ."
+                }
+            ],
+            "Text_raw": "You will now be able to remove the plastic trim behind the end of the seat rail. Behind the end of the seat rail you will find a large concave washer and a smaller rubber sealing washer (the hole that the bolt goes through is exposed to the outside). Make sure to note their orientation for replacement. The seat rail will now be free and the seat can be removed. Lift it up and out through the front door, being careful not to scratch anything with the metal seat rails. The front seats are fairly heavy. Have a helper lift it out if in doubt.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FBJjLO4qYn41Rwvw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/51xujKYrSGxCQIcj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xBnMTGAY31DNkFNO.standard"
+            ],
+            "StepId": 77778,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "with the seat out you can proceed to install your replacement seat if the replacement came with good trim , a working seat belt latch , etc ."
+                },
+                {
+                    "Text": "otherwise , you may find that you need to first transfer those good parts from your old seat to the replacement seat ."
+                },
+                {
+                    "Text": "to do this , you will need to remove the three trim pieces . they just pull off , though they often take some care and effort . before removing the seat knob trim , the knob should be pulled off ."
+                },
+                {
+                    "Text": "seat knob trim"
+                },
+                {
+                    "Text": "seat bottom trim , outside edge"
+                },
+                {
+                    "Text": "seat side trim , around seatbelt"
+                }
+            ],
+            "Text_raw": "With the seat out you can proceed to install your replacement seat if the replacement came with good trim, a working seat belt latch, etc. Otherwise, you may find that you need to first transfer those good parts from your old seat to the replacement seat. To do this, you will need to remove the three trim pieces. They just pull off, though they often take some care and effort. Before removing the seat knob trim, the knob should be pulled off. Seat knob trim Seat bottom trim, outside edge Seat side trim, around seatbelt",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OPQMBRkEBkeeoVSC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yYvDTrjKW5fmPgrN.standard"
+            ],
+            "StepId": 77779,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "as noted , use care when removing the seat trim . especially the trim along the lower outside edge . it has a very thin spot underneath the height adjustment handle . this can easily break during removal . thankfully this piece broke from the replacement seat - the piece from my existing seat swapped in nicely ."
+                }
+            ],
+            "Text_raw": "As noted, use care when removing the seat trim. Especially the trim along the lower outside edge. It has a very thin spot underneath the height adjustment handle. This can easily break during removal. Thankfully this piece broke from the replacement seat - the piece from my existing seat swapped in nicely.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lKrpLZ2m5RVLWvg6.standard"
+            ],
+            "StepId": 77780,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "if you need to replace the seatbelt with your good working part , it removes and then installs with just one bolt ."
+                },
+                {
+                    "Text": "note that when re-installing a seat belt buckle the bolt should be secured with a dab of blue thread locker to ensure it doesn't back out ."
+                },
+                {
+                    "Text": "the process shown here of removing and replacing trim and your seat belt can be utilized to install a passenger seat as your driver's side seat as well , for example . the seats are the same for either side , and have mounting holes on each side for the different trim pieces ."
+                }
+            ],
+            "Text_raw": "If you need to replace the seatbelt with your good working part, it removes and then installs with just one bolt. Note that when re-installing a seat belt buckle the bolt should be secured with a dab of blue thread locker to ensure it doesn't back out. The process shown here of removing and replacing trim and your seat belt can be utilized to install a passenger seat as your driver's side seat as well, for example. The seats are the same for either side, and have mounting holes on each side for the different trim pieces.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uld2NquobnJO6A2w.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/u2wLlt3BfFND2XSw.standard"
+            ],
+            "StepId": 77781,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "the seat rail ( black metal bar ) simply slips in and out of the seat belt bracket . slip it back in if you removed it ."
+                }
+            ],
+            "Text_raw": "The seat rail (black metal bar) simply slips in and out of the seat belt bracket. Slip it back in if you removed it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3BEbVFZjRZnfm1Xq.standard"
+            ],
+            "StepId": 77782,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "if you'd like to also swap out headrests between your two seats you can do so by finding and pressing in the secret button . you can usually see a slight impression in the back of the seat , revealing its location . if not , feel around for it near the upper edge of the seat back ."
+                },
+                {
+                    "Text": "press this button in with your thumb while pulling up on the headrest to remove it from the seat ."
+                },
+                {
+                    "Text": "to install the headrest simply push it in until you hear the lock click , securing it in the seat ."
+                }
+            ],
+            "Text_raw": "If you'd like to also swap out headrests between your two seats you can do so by finding and pressing in the \"secret\" button. You can usually see a slight impression in the back of the seat, revealing its location. If not, feel around for it near the upper edge of the seat back. Press this button in with your thumb while pulling up on the headrest to remove it from the seat. To install the headrest simply push it in until you hear the lock click, securing it in the seat.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/63AVNQONJ2LZar12.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rSiRquZSdYWXgcAd.standard"
+            ],
+            "StepId": 77783,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "while your seat is out , it's a great time to vacuum up potentially 30+ years of dirt and debris . this car was surprisingly clean underneath the seats . i didn't find many french fries and there were no ketchup packets at all . though i did find about 1.00 in coins !"
+                }
+            ],
+            "Text_raw": "While your seat is out, it's a great time to vacuum up potentially 30+ years of dirt and debris. This car was surprisingly clean underneath the seats. I didn't find many french fries and there were no ketchup packets at all. Though I did find about $1.00 in coins!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eRebhnpEDkhKYCna.standard"
+            ],
+            "StepId": 77784,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "proceed to work backwards from step 6 through step 1 to re-install your seat . the picture here shows the nice passenger seat installed ."
+                }
+            ],
+            "Text_raw": "Proceed to work backwards from Step 6 through Step 1 to re-install your seat. The picture here shows the nice passenger seat installed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/APPtkUIShQFGGFhJ.standard"
+            ],
+            "StepId": 77785,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Front Seat"
+}

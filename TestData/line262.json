@@ -1,0 +1,95 @@
+{
+    "Title": "1996-2000 Honda Civic Brake Replacement",
+    "Ancestors": [
+        "Honda Civic",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 85531,
+    "Category": "1996-2000 Honda Civic",
+    "Toolbox": [
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 2 drive breaker bar",
+            "Url": "https://www.amazon.com/Neiko-00206A-Drive-Premium-Breaker/dp/B001222378/ref=sr_1_2?ie=UTF8&qid=1487799347&sr=8-2&keywords=1+2+breaker+bar",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431007052&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_1?ie=UTF8&qid=1487787284&sr=8-1&keywords=3+8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "12 mm socket",
+            "Url": "/Item/12_mm_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hammer",
+            "Url": "http://www.amazon.com/dp/B0000224VG/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "6 inch c-clamp",
+            "Url": "https://www.amazon.com/TEKTON-4027-Malleable-C-Clamp-Opening/dp/B000NY6QO2/ref=sr_1_2?s=power-hand-tools&ie=UTF8&qid=1487888644&sr=1-2&keywords=c+clamp",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "micrometer",
+            "Url": "https://www.ifixit.com/Store/Tools/Micrometer/IF145-180",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1996+1997+1998+1999+2000+Honda+Civic+Brake+Replacement/85531",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "'''part 1 '''"
+                }
+            ],
+            "Text_raw": "'''Part 1'''",
+            "Images": [],
+            "StepId": 161812,
+            "Tools_extracted": [
+                "1 2 drive breaker bar"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "'''part 2 '''"
+                }
+            ],
+            "Text_raw": "'''Part 2'''",
+            "Images": [],
+            "StepId": 161813,
+            "Tools_extracted": [
+                "1 2 drive breaker bar"
+            ]
+        }
+    ],
+    "Subject": "Brake"
+}

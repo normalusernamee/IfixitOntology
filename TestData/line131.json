@@ -1,0 +1,217 @@
+{
+    "Title": "Mercedes W123 Motor Mount Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20760,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "8 mm allen socket",
+            "Url": "http://www.amazon.com/TEKTON-1377-Drive-Socket-Cr-V/dp/B000NY8O6K/ref=sr_1_2?ie=UTF8&qid=1388419644&sr=8-2&keywords=8mm+allen+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "6 allen wrench",
+            "Url": "http://www.amazon.com/TEKTON-1376-Drive-Socket-Cr-V/dp/B000NY4SGK/ref=sr_1_3?ie=UTF8&qid=1388418550&sr=8-3&keywords=6mm+allen+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 2 ratchet extension",
+            "Url": "http://www.amazon.com/TEKTON-1605-2-Inch-Extension-3-Piece/dp/B000NPXHMA/ref=sr_1_1?ie=UTF8&qid=1388419953&sr=8-1&keywords=1%2F2+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "6 allen wrench",
+            "Url": "http://www.amazon.com/TEKTON-25220-Wrench-Metric-13-Piece/dp/B000NPT7F6/ref=sr_1_1?ie=UTF8&qid=1388419819&sr=8-1&keywords=6mm+allen+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "bottle jack",
+            "Url": "http://www.amazon.com/Torin-T90603-Ton-Hydraulic-Jack/dp/B000CO86EG/ref=sr_1_3?ie=UTF8&qid=1388420340&sr=8-3&keywords=bottle+jack",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Motor+Mount+Replacement/20760",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "to remove your motor mounts you will need to raise , and support , your engine with a bottle jack ."
+                },
+                {
+                    "Text": "before you can do this you will need to remove the bolts that hold the engine to the mounts . this is done from below the car ."
+                },
+                {
+                    "Text": "the bolts are allen head bolts ; you will need an 8 mm allen head socket . it should be a 1 /2 inch drive socket as you will want a large wrench for leverage . these are often in very tightly ."
+                },
+                {
+                    "Text": "the bolt on each mount is located up inside a recessed area as shown ."
+                },
+                {
+                    "Text": "remove the bolt and set it aside ."
+                }
+            ],
+            "Text_raw": "To remove your motor mounts you will need to raise, and support, your engine with a bottle jack. Before you can do this you will need to remove the bolts that hold the engine to the mounts. This is done from below the car. The bolts are allen head bolts; you will need an 8mm allen head socket. It should be a 1/2 inch drive socket as you will want a large wrench for leverage. These are often in very tightly. The bolt on each mount is located up inside a recessed area as shown. Remove the bolt and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uNLjOtZQ4mWnRrPI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MK6sYHQbJq1XRIgM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hJh4nsifM5vTSMpG.standard"
+            ],
+            "StepId": 56719,
+            "Tools_extracted": [
+                "3 8 inch drive socket ratchet extension",
+                "bottle jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "this allen head bolt is prone to stripping ; i . e . the allen socket rounds out the center of the bolt so it cannot be backed out with a regular allen socket ."
+                },
+                {
+                    "Text": "if this happens to you try using a screw extractor . you may need to drill out the head of the bolt with a bit sized to match your extractor ."
+                },
+                {
+                    "Text": "replace the bolt with a new one if this happens ."
+                }
+            ],
+            "Text_raw": "This allen head bolt is prone to stripping; i.e. the allen socket rounds out the center of the bolt so it cannot be backed out with a regular allen socket. If this happens to you try using a screw extractor. You may need to drill out the head of the bolt with a bit sized to match your extractor. Replace the bolt with a new one if this happens.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/glHNI4wXKhUedDBo.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rSORrdm2AI3TxEUU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MVrMrXCgpvpVGFIJ.standard"
+            ],
+            "StepId": 56721,
+            "Tools_extracted": [
+                "8 mm allen socket"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the lower 10 mm nut on your engine shocks so the shock can move up as you jack up the engine ."
+                },
+                {
+                    "Text": "in order to loosen this nut you will need to keep the shaft on the bottom of the engine shock from turning with it ."
+                },
+                {
+                    "Text": "just above the large metal washer on the shaft there is a flat area where a 7 mm crescent wrench will fit on the shaft to hold it . it can be seen in this picture from above the car ."
+                }
+            ],
+            "Text_raw": "Remove the lower 10mm nut on your engine shocks so the shock can move up as you jack up the engine. In order to loosen this nut you will need to keep the shaft on the bottom of the engine shock from turning with it. Just above the large metal washer on the shaft there is a flat area where a 7mm crescent wrench will fit on the shaft to hold it. It can be seen in this picture from above the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wTOeC4RDr2JLKJ5B.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rfFm22stASfDQJnS.standard"
+            ],
+            "StepId": 56720,
+            "Tools_extracted": [
+                "wrench",
+                "bottle jack"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "place your bottle jack under the oil pan and place a wide , thick piece of wood between the bottle jack and the oil pan to spread out the weight of the engine ."
+                },
+                {
+                    "Text": "never directly jack up your engine from the oil pan as you may dent the pan . always use a protective buffer like the wood block ."
+                },
+                {
+                    "Text": "jack up the engine a few inches . this provides easier access to the upper 6 mm allen bolts on the mounts ."
+                }
+            ],
+            "Text_raw": "Place your bottle jack under the oil pan and place a wide, thick piece of wood between the bottle jack and the oil pan to spread out the weight of the engine. Never directly jack up your engine from the oil pan as you may dent the pan. Always use a protective buffer like the wood block. Jack up the engine a few inches. This provides easier access to the upper 6mm allen bolts on the mounts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BwhAHCi5qY6ERurC.standard"
+            ],
+            "StepId": 56718,
+            "Tools_extracted": [
+                "bottle jack",
+                "6 allen wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the two allen bolts that attach each motor mount to the frame of the car . they are 6 mm allen head bolts ."
+                },
+                {
+                    "Text": "the outboard ones , those furthest towards the outside of the car ( both sides of the car shown ) , are best accessed from above with a 6 mm allen socket and a very long extension or several shorter extensions ."
+                },
+                {
+                    "Text": "the inboard ones , those closest to the engine , need to be removed from below the car with a 6 mm allen key . these are difficult to see , much less take a picture of , but can be removed by feel fairly easily . they can be found almost directly below the metal arm that comes off the engine that attaches to the top of each mount ."
+                },
+                {
+                    "Text": "pictured are the bottoms of these two bolts . inboard is shown highlighted in green , outboard in blue , to help show location from below the car ."
+                }
+            ],
+            "Text_raw": "Remove the two allen bolts that attach each motor mount to the frame of the car. They are 6mm allen head bolts. The outboard ones, those furthest towards the outside of the car (both sides of the car shown), are best accessed from above with a 6mm allen socket and a very long extension or several shorter extensions. The inboard ones, those closest to the engine, need to be removed from below the car with a 6mm allen key. These are difficult to see, much less take a picture of, but can be removed by feel fairly easily. They can be found almost directly below the metal arm that comes off the engine that attaches to the top of each mount. Pictured are the bottoms of these two bolts. Inboard is shown highlighted in green, outboard in blue, to help show location from below the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rX2PZQgBEbvyVJ1I.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ts5eqt1oTRkVqBb5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IQYOEppCHvjxCETg.standard"
+            ],
+            "StepId": 56722,
+            "Tools_extracted": [
+                "6 allen wrench",
+                "8 socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "jack up your engine a bit more to fully clear the motor mounts . be sure to watch that you do not jack the engine up too high - watch that you do not crimp any heater lines or other items on the firewall behind the engine ."
+                },
+                {
+                    "Text": "remove the mounts along with the heat shield ."
+                },
+                {
+                    "Text": "place the heat shield on top of the new mounts before re-installing them ."
+                },
+                {
+                    "Text": "while you have your mounts out and the engine jacked up consider replacing your engine shocks if you feel they may be worn . these jobs are best done together instead of one at a time . guide ; the general concept applies to turbo cars though the shock mounts are different ."
+                }
+            ],
+            "Text_raw": "Jack up your engine a bit more to fully clear the motor mounts. Be sure to watch that you do not jack the engine up too high - watch that you do not crimp any heater lines or other items on the firewall behind the engine. Remove the mounts along with the heat shield. Place the heat shield on top of the new mounts before re-installing them. While you have your mounts out and the engine jacked up consider replacing your engine shocks if you feel they may be worn. These jobs are best done together instead of one at a time. [guide|20761|Click here to see a guide on replacing the engine shocks on a non-turbo W123]; the general concept applies to turbo cars though the shock mounts are different.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QhsvMkkCDUjIcpBV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/B4N5KCmg4pZmr2nG.standard"
+            ],
+            "StepId": 56723,
+            "Tools_extracted": [
+                "bottle jack"
+            ]
+        }
+    ],
+    "Subject": "Motor Mount"
+}

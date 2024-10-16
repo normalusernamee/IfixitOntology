@@ -1,0 +1,233 @@
+{
+    "Title": "Ford Focus Door Handle Bracket Replacement",
+    "Ancestors": [
+        "Ford Focus",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 61631,
+    "Category": "1998-2004 Ford Focus",
+    "Toolbox": [
+        {
+            "Name": "t20 torx screwdriver",
+            "Url": "https://www.ifixit.com/Store/Tools/54-Bit-Driver-Kit/IF145-299",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "x-acto knife",
+            "Url": "http://www.amazon.com/X-ACTO-Series-Knife-Cap-XZ3601/dp/B005KRSWM6/ref=sr_1_1?ie=UTF8&qid=1418667328&sr=8-1&keywords=exacto+knife&pebp=1418667332255",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Ford+Focus+Door+Handle+Bracket+Replacement/61631",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "remove the screw cover in the handle housing using a flathead screwdriver ."
+                }
+            ],
+            "Text_raw": "Remove the screw cover in the handle housing using a flathead screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DhKUNkITPHrOoNH1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ODfVsyeVvs2uOhNc.standard"
+            ],
+            "StepId": 128960,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the screw that is holding the handle housing with a t20 torx screwdriver ."
+                }
+            ],
+            "Text_raw": "Remove the screw that is holding the handle housing with a T20 Torx screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Lgqp23GPnxOuRhVe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cDdd6sy21joQeVYC.standard"
+            ],
+            "StepId": 128962,
+            "Tools_extracted": [
+                "t20 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "carefully pull the handle housing off ."
+                },
+                {
+                    "Text": "do not pull too hard . there are wires attached to the back of the housing ."
+                }
+            ],
+            "Text_raw": "Carefully pull the handle housing off. Do not pull too hard. There are wires attached to the back of the housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/flbBSWsxTeMVZGWh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yVmBYH6ykUB6KGUY.standard"
+            ],
+            "StepId": 128965,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "detach the wires on the handle housing with a flathead screwdriver by pushing upwards on the release slot ."
+                }
+            ],
+            "Text_raw": "Detach the wires on the handle housing with a flathead screwdriver by pushing upwards on the release slot.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dtplxfdZIyqLgNLo.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/O1beBqqOUjCk1OlL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/I5KySBxmpZYBkN3F.standard"
+            ],
+            "StepId": 128966,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the cover on the door grip by prying gently with a flathead screwdriver ."
+                }
+            ],
+            "Text_raw": "Remove the cover on the door grip by prying gently with a flathead screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QoWrAbcArgTTFYEd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hXfmrVvrugJOOj6y.standard"
+            ],
+            "StepId": 128967,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "take off the inside door panel by removing all screws with a t20 torx screwdriver ."
+                },
+                {
+                    "Text": "there are nine screws in total : two on the front , three on the outer side , two on bottom , and two on the inner side ."
+                }
+            ],
+            "Text_raw": "Take off the inside door panel by removing all screws with a T20 Torx screwdriver. There are nine screws in total: two on the front, three on the outer side, two on bottom, and two on the inner side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UWwUYrNDP2eWViLQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VhWBc12VwYQ1YFhQ.standard"
+            ],
+            "StepId": 128968,
+            "Tools_extracted": [
+                "t20 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "pull the insulation back to access the door handle bracket ."
+                },
+                {
+                    "Text": "use an x-acto knife if needed ."
+                }
+            ],
+            "Text_raw": "Pull the insulation back to access the door handle bracket. Use an X-acto knife if needed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HeD3UnAaQIli1Gog.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oPJP6LYyfcNFoCZB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bAQ32nmMoYaXtlX4.standard"
+            ],
+            "StepId": 128969,
+            "Tools_extracted": [
+                "x-acto knife"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "remove the two screws holding the handle bracket with a t20 torx screwdriver ."
+                }
+            ],
+            "Text_raw": "Remove the two screws holding  the handle bracket with a T20 Torx screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xKPAPxhW6UNejhNk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CVIlhhXlkQu1MR6h.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iHRHNUdPEYD22PKn.standard"
+            ],
+            "StepId": 128970,
+            "Tools_extracted": [
+                "t20 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "remove the outside door handle by prying gently with a flathead screwdriver to loosen , and then slide it back ."
+                }
+            ],
+            "Text_raw": "Remove the outside door handle by prying gently with a flathead screwdriver to loosen, and then slide it back.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NrfXQJOHFadBdJY4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/StxAEj61k1TVuFEw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hLtXKJ1aGGeHhKaa.standard"
+            ],
+            "StepId": 128971,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "detach the door latch rod from the handle bracket by pulling the plastic end out of the metal loop ."
+                }
+            ],
+            "Text_raw": "Detach the door latch rod from the handle bracket by pulling the plastic end out of the metal loop.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YTlZOkXrdlQRbIc2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6MkIQZqfMFlOtDBw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ebYTcGNI1QlCImy1.standard"
+            ],
+            "StepId": 129450,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "pull the locking rod free from the handle bracket and remove the broken handle bracket ."
+                }
+            ],
+            "Text_raw": "Pull the locking rod free from the handle bracket and remove the broken handle bracket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/q2mLgJVyqt5VOkGL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3s24uIL2K2cUIxI2.standard"
+            ],
+            "StepId": 128972,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Handle Bracket"
+}

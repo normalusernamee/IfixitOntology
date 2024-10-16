@@ -1,0 +1,219 @@
+{
+    "Title": "Repairing Cup Holder for 2008 328i BMW",
+    "Ancestors": [
+        "BMW",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50544,
+    "Category": "2005-2013 BMW 3 Series",
+    "Toolbox": [
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        },
+        {
+            "Name": "drill",
+            "Url": "http://www.amazon.com/DEWALT-DWD112-Pistol-Grip-Keyless-All-Metal/dp/B0011XSEW6/ref=sr_1_9?ie=UTF8&qid=1376354304&sr=8-9&keywords=power+drill",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "puddy knife",
+            "Url": "/Item/Puddy_Knife",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Repairing+Cup+Holder+for+2008+328i+BMW/50544",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "apply putty knife to edge of cover until it pops open"
+                },
+                {
+                    "Text": "remove screws off of broken cup holder"
+                },
+                {
+                    "Text": "take cup holder out"
+                }
+            ],
+            "Text_raw": "Apply putty knife to edge of cover until it pops open Remove screws off of broken cup holder Take cup holder out",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gktEWtZeumCDyQeG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kG6H4WbXCjnS3pPq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hBNiVrc13A4ZUFME.standard"
+            ],
+            "StepId": 109946,
+            "Tools_extracted": [
+                "puddy knife"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove plastic cover on cup holder by pulling apart where the lips meet"
+                },
+                {
+                    "Text": "locate spring in device"
+                }
+            ],
+            "Text_raw": "Remove plastic cover on cup holder by pulling apart where the lips meet Locate spring in device",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XHsgTe5OBbIgH4nx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rpUuBoRwsCa4fhL1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dhyZPLLVabYAyfoA.standard"
+            ],
+            "StepId": 109948,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "fully take apart the cup holder to get to the inside of the cup holder"
+                },
+                {
+                    "Text": "locate where spring is placed"
+                }
+            ],
+            "Text_raw": "Fully take apart the cup holder to get to the inside of the cup holder Locate where spring is placed",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eUjt2WXOVCWY2J5Y.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1MZQMTBNYlrJRdg1.standard"
+            ],
+            "StepId": 109950,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "locate where the spring connects"
+                },
+                {
+                    "Text": "if hole is not broken then just apply spring into hole"
+                },
+                {
+                    "Text": "if the hole broke , like in this case here , then drill a hole the size of the spring around the same spot of the other hole"
+                },
+                {
+                    "Text": "caution : be careful drilling the hole , the plastic is slippery when in contact with drill bit"
+                }
+            ],
+            "Text_raw": "Locate where the spring connects If hole is not broken then just apply spring into hole If the hole broke, like in this case here, then drill a hole the size of the spring around the same spot of the other hole Caution: Be careful drilling the hole, the plastic is slippery when in contact with drill bit",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LOBDQABcTQptatic.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/15TOlWr6O1hyiwcv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TRxPLSUvGvhBq1OI.standard"
+            ],
+            "StepId": 109951,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "test to make sure spring is properly working"
+                },
+                {
+                    "Text": "reassemble the cup holder"
+                }
+            ],
+            "Text_raw": "Test to make sure spring is properly working Reassemble the cup holder",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PVTCOswBYJBekgXU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IYRVvsRQNIlPxHwI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/x5ZoK1qhNRITBEuJ.standard"
+            ],
+            "StepId": 109953,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "put cup holder back in place"
+                },
+                {
+                    "Text": "screw in screws"
+                }
+            ],
+            "Text_raw": "Put cup holder back in place Screw in screws",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GlHfnoxQk6OFuTqd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/L4BHmQq3UZHfiQYe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kYrZuPIygtQmjFTx.standard"
+            ],
+            "StepId": 109954,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "check to make sure cup holder works"
+                },
+                {
+                    "Text": "start to put on cover by lining up holes"
+                }
+            ],
+            "Text_raw": "Check to make sure cup holder works Start to put on cover by lining up holes",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KLqepnLkjURMfMZm.standard"
+            ],
+            "StepId": 109955,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "press firmly on cover all around until it is fully on"
+                }
+            ],
+            "Text_raw": "Press firmly on cover all around until it is fully on",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3hYhOIC4MBrTjWOM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KOPDJtWUnHcMqftg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hN4VuvVndMqFIXdt.standard"
+            ],
+            "StepId": 109957,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "enjoy your fixed cup holder !"
+                }
+            ],
+            "Text_raw": "Enjoy your fixed cup holder!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1gYwfAZvaHDCGDy1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EkRSHjqBZHZWOu21.standard"
+            ],
+            "StepId": 110410,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

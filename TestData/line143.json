@@ -1,0 +1,304 @@
+{
+    "Title": "Mercedes W123 Diesel Oil and Filter Change, Under Car",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 21613,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "13 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-14145-8-Inch-Shallow-6-Point/dp/B000NY5CQK/ref=sr_1_1?ie=UTF8&qid=1488830200&sr=8-1&keywords=13mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=3%2F8%20socket%20wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Diesel+Oil+and+Filter+Change+Under+Car/21613",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "to start , remove the oil cap . this will allow the oil to drain out of the engine faster ."
+                }
+            ],
+            "Text_raw": "To start, remove the oil cap. This will allow the oil to drain out of the engine faster.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Oi2wTmPGyvF45OY2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oSLOl5MmTIwBGaQT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YWvhNmDbXnTFMcn1.standard"
+            ],
+            "StepId": 57567,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "now underneath the car loosen the oil drain bolt . it takes a 13 mm socket ."
+                },
+                {
+                    "Text": "be aware that once the bolt comes loose the oil will come out very quickly . have a drain pan ready underneath the oil drain hole ."
+                }
+            ],
+            "Text_raw": "Now underneath the car loosen the oil drain bolt. It takes a 13mm socket. Be aware that once the bolt comes loose the oil will come out very quickly. Have a drain pan ready underneath the oil drain hole.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2FN3esO3oElMdFU3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/44VafpAtaWcqRMTY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dIt1HTsLHQybxbDy.standard"
+            ],
+            "StepId": 57568,
+            "Tools_extracted": [
+                "13 mm socket"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "clean up your drain pan bolt . if you are unsure about how old the pan bolt is , it's best to replace it . consider replacing it every five or six oil changes . it's cheap insurance ."
+                }
+            ],
+            "Text_raw": "Clean up your drain pan bolt. If you are unsure about how old the pan bolt is, it's best to replace it. Consider replacing it every five or six oil changes. It's cheap insurance.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OXWN1L4Sn5GvhLkp.standard"
+            ],
+            "StepId": 57569,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "wearing gloves during an oil change is a very good idea . as mentioned before , it stains everything . as you can see , even after wiping up , these latex gloves are stained . imagine what it would do to your skin ."
+                }
+            ],
+            "Text_raw": "Wearing gloves during an oil change is a very good idea. As mentioned before, it stains everything. As you can see, even after wiping up, these latex gloves are stained. Imagine what it would do to your skin.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/M6eEN1DXlFUlIbBH.standard"
+            ],
+            "StepId": 57570,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "next , loosen the two nuts that hold the lid on the oil filter housing . they take a 13 mm socket just like the drain plug ."
+                }
+            ],
+            "Text_raw": "Next, loosen the two nuts that hold the lid on the oil filter housing. They take a 13mm socket just like the drain plug.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AmeZHhIUZT4ZBLtI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZZvcuDLrGKSRyQr1.standard"
+            ],
+            "StepId": 57571,
+            "Tools_extracted": [
+                "13 mm socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "once the nuts are loosened and removed , lift the cover up and out of the filter housing . remove the filter as well ."
+                },
+                {
+                    "Text": "be careful as you remove the cover . it can be easy to disconnect some of the vacuum lines that cross over and next to the oil filter housing . if this happens you may cause issues with the vacuum system such as the locks , the shut-off valve , or transmission ."
+                },
+                {
+                    "Text": "note that when you remove the oil filter , the bit of oil left in the housing will then drain from the drain plug . make sure to leave the drain pan underneath until you re-install the drain plug towards the end of the guide ."
+                }
+            ],
+            "Text_raw": "Once the nuts are loosened and removed, lift the cover up and out of the filter housing. Remove the filter as well. Be careful as you remove the cover. It can be easy to disconnect some of the vacuum lines that cross over and next to the oil filter housing. If this happens you may cause issues with the vacuum system such as the locks, the shut-off valve, or transmission. Note that when you remove the oil filter, the bit of oil left in the housing will then drain from the drain plug. Make sure to leave the drain pan underneath until you re-install the drain plug towards the end of the guide.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mHBTRWXLKrB3xSij.standard"
+            ],
+            "StepId": 57572,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "make sure to keep the oil filter in a suitable container . it will slowly drip dirty oil ."
+                }
+            ],
+            "Text_raw": "Make sure to keep the oil filter in a suitable container. It will slowly drip dirty oil.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5Fy1pPbm5PDlOMFM.standard"
+            ],
+            "StepId": 57573,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "the new oil filter kit should come with the filter itself , a choice of new crush washers for the drain plug bolt , and a new large o-ring gasket for the oil filter housing cover ."
+                },
+                {
+                    "Text": "it's generally recommended to use the copper crush washer . copper is a soft metal that crushes well for a good seal ."
+                }
+            ],
+            "Text_raw": "The new oil filter kit should come with the filter itself, a choice of new crush washers for the drain plug bolt, and a new large o-ring gasket for the oil filter housing cover. It's generally recommended to use the copper crush washer. Copper is a soft metal that crushes well for a good seal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Pf6B5PckU3AkBLy6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BSsvd6SZTrNfKTQR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eWOBOIEYnOckKg32.standard"
+            ],
+            "StepId": 57574,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "it is never a bad time to check parts before installing them . this oil filter was slightly crushed at the bottom during shipping . another one was used instead ."
+                }
+            ],
+            "Text_raw": "It is never a bad time to check parts before installing them. This oil filter was slightly crushed at the bottom during shipping. Another one was used instead.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HVpDIO16pq3JHelB.standard"
+            ],
+            "StepId": 57575,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "replace the rubber o-ring gasket around the lid of the oil filter housing cover . never re-use the old one ."
+                },
+                {
+                    "Text": "use a small needle nose plier or a small flat blade screwdriver to help remove the old gasket ."
+                },
+                {
+                    "Text": "lightly coat the new gasket with some of the new motor oil to help it seal properly ."
+                }
+            ],
+            "Text_raw": "Replace the rubber o-ring gasket around the lid of the oil filter housing cover. Never re-use the old one. Use a small needle nose plier or a small flat blade screwdriver to help remove the old gasket. Lightly coat the new gasket with some of the new motor oil to help it seal properly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mlAUOffFF5akPK1Y.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/t1fwLa2WcCmQpMIM.standard"
+            ],
+            "StepId": 57576,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "check the o-rings at the tip of the oil filter housing shaft . there are two of them . if they are hardened , or no longer round , they should be replaced . proper o-rings can be found in any metric o-ring set ."
+                },
+                {
+                    "Text": "it is good practice to replace these every third or fourth oil change as preventative maintenance ."
+                },
+                {
+                    "Text": "the ones shown here are very flat , and brittle . they had to be broken off as all of their elasticity was gone . they had been neglected for some time , and they were doing little good as a seal ."
+                }
+            ],
+            "Text_raw": "Check the o-rings at the tip of the oil filter housing shaft. There are two of them. If they are hardened, or no longer round, they should be replaced. Proper o-rings can be found in any metric o-ring set. It is good practice to replace these every third or fourth oil change as preventative maintenance. The ones shown here are very flat,  and brittle. They had to be broken off as all of their elasticity was gone. They had been neglected for some time, and they were doing little good as a seal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NwuNXWfSK5qrl3XY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EIIDHe1ICeq5GnSp.standard"
+            ],
+            "StepId": 57577,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "install the new filter on the housing lid shaft . then insert the filter in to the housing and snug the lid down with the two nuts you removed in step 5."
+                }
+            ],
+            "Text_raw": "Install the new filter on the housing lid shaft. Then insert the filter in to the housing and snug the lid down with the two nuts you removed in step 5.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qZpjVTvZfeUyugaV.standard"
+            ],
+            "StepId": 57578,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "now install the drain plug , in this case a new one , with a new crush washer ."
+                },
+                {
+                    "Text": "while you may re-use the drain plug several times , never re-use the crush washer . it comes with the oil filter , so there's simply no reason ."
+                }
+            ],
+            "Text_raw": "Now install the drain plug, in this case a new one, with a new crush washer. While you may re-use the drain plug several times, never re-use the crush washer. It comes with the oil filter, so there's simply no reason.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WA6oEQhQqto1tyoD.standard"
+            ],
+            "StepId": 57579,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "it's time to put in fresh oil . use a diesel rated oil ."
+                },
+                {
+                    "Text": "consult your owner's manual for what viscosity to use based on your climate . where this car is located , 15 w40 works year round but a thinner oil such as 0 w40 could be helpful for cold starts in very cold climates ."
+                },
+                {
+                    "Text": "start by putting in about 5 or 5 and 1 /2 quarts . wait a few minutes to let it run down to the oil sump . then put the oil cap on and start the engine . make sure oil pressure shows on the gauge fairly quickly . then let it run for about 1 minute . this will fill the filter housing back up with oil ."
+                },
+                {
+                    "Text": "then turn off the car and check the oil level . if it's low , add no more than 1 /2 quart at a time until it's full . it will take between 6 and 6 and 1 /2 quarts . if you want some guidance on checking oil level guide"
+                },
+                {
+                    "Text": "never over-fill a diesel engine with oil . it can lead to catastrophic engine failure due to a runaway engine scenario ."
+                }
+            ],
+            "Text_raw": "It's time to put in fresh oil. Use a diesel rated oil. Consult your owner's manual for what viscosity to use based on your climate. Where this car is located, 15w40 works year round but a thinner oil such as 0w40 could be helpful for cold starts in very cold climates. Start by putting in about 5 or 5 and 1/2 quarts. Wait a few minutes to let it run down to the oil sump. Then put the oil cap on and start the engine. Make sure oil pressure shows on the gauge fairly quickly. Then let it run for about 1 minute. This will fill the filter housing back up with oil. Then turn off the car and check the oil level. If it's low, add no more than 1/2 quart at a time until it's full. It will take between 6 and 6 and 1/2 quarts. If you want some guidance on checking oil level [guide|20572|see the oil level check guide.] Never over-fill a diesel engine with oil. It can lead to catastrophic engine failure due to a runaway engine scenario.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WVHQkUp5YyOMcMXL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/px3IO2dHbyLGm3Rj.standard"
+            ],
+            "StepId": 57580,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

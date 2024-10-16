@@ -1,0 +1,198 @@
+{
+    "Title": "Mercedes W123 Diesel Thermostat Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22769,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "penetrating lubricant",
+            "Url": "http://www.amazon.com/Blaster-16-PB-Penetrating-Catalyst-oz/dp/B000I2079E/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889196&sr=1-1&keywords=PB+blaster",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Diesel+Thermostat+Replacement/22769",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "begin by draining the coolant from your radiator and engine block as guide"
+                }
+            ],
+            "Text_raw": "Begin by draining the coolant from your radiator and engine block as [guide|21437|described in the coolant change guide.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OPJSkLdWp1pvmZvC.standard"
+            ],
+            "StepId": 59649,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "before installing any thermostat be sure to test it in a pot of water . this will ensure you do not install a bad thermostat ."
+                },
+                {
+                    "Text": "to test it , start by hanging it by two pieces of wire hanger from the pot handles . the thermostat should be fully submerged in the water but should not be touching the bottom of the pot ."
+                },
+                {
+                    "Text": "then place a thermometer in the water . use one that is designed for cooking , such as this candy thermometer ."
+                },
+                {
+                    "Text": "heat up the water and watch as it approaches the opening temp of the thermostat . this thermostat is rated at 80 c/176 f . it should open at that temperature ."
+                },
+                {
+                    "Text": "let the water cool again before removing it ."
+                }
+            ],
+            "Text_raw": "Before installing any thermostat be sure to test it in a pot of water. This will ensure you do not install a bad thermostat. To test it, start by hanging it by two pieces of wire hanger from the pot handles. The thermostat should be fully submerged in the water but should not be touching the bottom of the pot. Then place a thermometer in the water. Use one that is designed for cooking, such as this candy thermometer. Heat up the water and watch as it approaches the opening temp of the thermostat. This thermostat is rated at 80\u00b0C/176\u00b0F. It should open at that temperature. Let the water cool again before removing it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BBJufcV4EfqdApHH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jC2DXeNkvplo2VJo.standard"
+            ],
+            "StepId": 59650,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "this job is being documented with the thermostat housing removed from the engine . however , it can normally be done with it still installed ."
+                },
+                {
+                    "Text": "to help orient you to the housing , here are the various components :"
+                },
+                {
+                    "Text": "neck for line to top of radiator , upper radiator hose connection . this is the top of the housing ."
+                },
+                {
+                    "Text": "neck for line to bottom of radiator , lower radiator hose ."
+                },
+                {
+                    "Text": "neck to short coolant hose under the housing , for water pump bypass ."
+                },
+                {
+                    "Text": "if you'd like to remove the housing to complete this job you can review the process in the guide"
+                }
+            ],
+            "Text_raw": "This job is being documented with the thermostat housing removed from the engine. However, it can normally be done with it still installed. To help orient you to the housing, here are the various components: Neck for line to top of radiator, upper radiator hose connection. This is the TOP of the housing. Neck for line to bottom of radiator, lower radiator hose. Neck to short coolant hose under the housing, for water pump bypass. If you'd like to remove the housing to complete this job you can review the process in the [guide|21446|guide that covers replacing the housing gasket.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sWxqVYDoe11hbKLS.standard"
+            ],
+            "StepId": 59651,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "before removing the bolts that hold the thermostat cover to the housing , spray all three with some penetrating lubricant . these bolts are exposed at the back and often are somewhat rusted in . try to spray lubricant on both the back and front of the housing where the bolts are ."
+                },
+                {
+                    "Text": "the rear of two of the bolts shown here . this may be tricky to access with the housing installed in the engine but do your best ."
+                }
+            ],
+            "Text_raw": "Before removing the bolts that hold the thermostat cover to the housing, spray all three with some penetrating lubricant. These bolts are exposed at the back and often are somewhat rusted in. Try to spray lubricant on both the back and front of the housing where the bolts are. The rear of two of the bolts shown here. This may be tricky to access with the housing installed in the engine but do your best.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NCh1WY4aVfxrITuO.standard"
+            ],
+            "StepId": 59652,
+            "Tools_extracted": [
+                "penetrating lubricant"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "once the penetrating lubricant has soaked in for a few minutes use your 10 mm socket and ratchet to loosen the three bolts that hold the cover on to the thermostat housing . when re-installing the nuts note that they should be torqued to 10nm / 7lb-ft"
+                },
+                {
+                    "Text": "once the three bolts are out you can separate the cover from the housing . it will still be held in place by the lower radiator hose but there will be plenty of room to access the thermostat ."
+                }
+            ],
+            "Text_raw": "Once the penetrating lubricant has soaked in for a few minutes use your 10mm socket and ratchet to loosen the three bolts that hold the cover on to the thermostat housing. When re-installing the nuts note that they should be torqued to 10nm / 7lb-ft Once the three bolts are out you can separate the cover from the housing. It will still be held in place by the lower radiator hose but there will be plenty of room to access the thermostat.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PHwJSx2OiIZIPF6m.standard"
+            ],
+            "StepId": 59653,
+            "Tools_extracted": [
+                "penetrating lubricant"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "with the thermostat cover separated you can see the thermostat ."
+                },
+                {
+                    "Text": "note its orientation . the old thermostat , pictured , was installed incorrectly . the arrow on the thermostat should be facing up/towards the rear of the car . this one was facing the driver's side ."
+                },
+                {
+                    "Text": "top"
+                },
+                {
+                    "Text": "driver's side"
+                },
+                {
+                    "Text": "however , it was installed in the correct orientation at least . the side with the large spring should be facing in towards the engine ."
+                },
+                {
+                    "Text": "remove the old thermostat and the rubber gasket from the cover ."
+                }
+            ],
+            "Text_raw": "With the thermostat cover separated you can see the thermostat. Note its orientation. The old thermostat, pictured, was installed incorrectly. The arrow on the thermostat should be facing up/towards the rear of the car. This one was facing the driver's side. Top Driver's side However, it was installed in the correct orientation at least. The side with the large spring should be facing in towards the engine. Remove the old thermostat and the rubber gasket from the cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OVyPZucBhytnBpCl.standard"
+            ],
+            "StepId": 59654,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "use an appropriate tool to clean up any corrosion from the face of the thermostat cover and the housing ( still attached to the engine ) to help it seal better ."
+                },
+                {
+                    "Text": "install your new thermostat and the included gasket . the gasket should slip over the edge of the thermostat before it is installed ."
+                },
+                {
+                    "Text": "now refill and bleed your cooling system as guide ."
+                }
+            ],
+            "Text_raw": "Use an appropriate tool to clean up any corrosion from the face of the thermostat cover and the housing (still attached to the engine) to help it seal better. Install your new thermostat and the included gasket. The gasket should slip over the edge of the thermostat before it is installed. Now refill and bleed your cooling system as [guide|21437|described in the coolant change guide].",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WGNCEvPZphyIVxeT.standard"
+            ],
+            "StepId": 59655,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Thermostat"
+}

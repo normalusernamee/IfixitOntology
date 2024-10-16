@@ -1,0 +1,173 @@
+{
+    "Title": "AUX Audio Input Repair for  2009-2013 Toyota Corolla",
+    "Ancestors": [
+        "Toyota Corolla",
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 74006,
+    "Category": "2006-2013 Toyota Corolla",
+    "Toolbox": [
+        {
+            "Name": "soldering gun",
+            "Url": null,
+            "Thumbnail": null
+        },
+        {
+            "Name": "iron",
+            "Url": null,
+            "Thumbnail": null
+        },
+        {
+            "Name": "solder",
+            "Url": null,
+            "Thumbnail": null
+        },
+        {
+            "Name": "2.5mm flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Flathead-3-32-Inch-or-2-5-mm-Screwdriver/IF145-011",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/IRnGQ4e2ZPBSxpuB.mini"
+        },
+        {
+            "Name": "toothpick",
+            "Url": "http://www.amazon.com/Norpro-360-Pack-Ornate-Wood-Toothpicks/dp/B000RAFUIU/ref=sr_1_1?ie=UTF8&qid=1390946907&sr=8-1&keywords=toothpick",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/AUX+Audio+Input+Repair+for++2009+2010+2011+2012+2013+Toyota+Corolla/74006",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "don't be afraid to use extra force to get these components to open ."
+                },
+                {
+                    "Text": "1 ) there is two side of the component to remove for the first picture"
+                },
+                {
+                    "Text": "before removing component in the third picture , there are two screws to be removed ( one on each side ) ."
+                }
+            ],
+            "Text_raw": "Don't be afraid to use extra force to get these components to open. 1) There is two side of the component to remove for the first picture Before removing component in the third picture, there are two screws to be removed (one on each side).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/X265vvUZiThjriXL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qJokmKQANRly2W2h.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EgJfGxxBimEYtShB.standard"
+            ],
+            "StepId": 149337,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "pull the component out in the first picture with force !"
+                },
+                {
+                    "Text": "reach underneath the white component connected to wire and along there , push to remove it from the aux component ( black rectangle thing )"
+                },
+                {
+                    "Text": "once the white component detached , simply push aux component out ( toward you ) ."
+                }
+            ],
+            "Text_raw": "Pull the component out in the first picture with force! Reach underneath the white component connected to wire and along there, push to remove it from the AUX component (black rectangle thing) Once the white component detached, simply push AUX component out (toward you).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bVUISkDBgOvo4tSE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3UwHyK5AKXNKM5IX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GtvA1BJgkeHKj3KE.standard"
+            ],
+            "StepId": 149702,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "apply pressure where the toothpick is pointing and remove the cap at the same time . ( can get tricky )"
+                },
+                {
+                    "Text": "finally , like the third picture , remove the aux circuit with force but try to be gentle also ."
+                }
+            ],
+            "Text_raw": "Apply pressure where the toothpick is pointing and remove the cap at the same time. (Can get tricky) Finally, like the third picture, remove the AUX circuit with force but try to be gentle also.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fV3nmHtxtI4oTLFF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hUpQQvGpgJAGFNaX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4JxZCoWlFGbQHuUO.standard"
+            ],
+            "StepId": 149339,
+            "Tools_extracted": [
+                "toothpick"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "the center pin is located where the red circle is at on the picture"
+                }
+            ],
+            "Text_raw": "The center pin is located where the red circle is at on the picture",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SCFeDXikSNVVXcDb.standard"
+            ],
+            "StepId": 149341,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "hold the soldering gun in one hand and the solder in another . lightly touch them together where the pin is shown in previous step ."
+                }
+            ],
+            "Text_raw": "Hold the soldering gun in one hand and the solder in another. Lightly touch them together where the pin is shown in previous step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hIXVgJNUuYAaeOF3.standard"
+            ],
+            "StepId": 149706,
+            "Tools_extracted": [
+                "soldering gun"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "soldering does not have to be perfect as long as it connects the two pin we located in the previous picture ."
+                }
+            ],
+            "Text_raw": "Soldering does not have to be perfect as long as it connects the two pin we located in the previous picture.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EAJGepViOYiLNMEL.standard"
+            ],
+            "StepId": 149342,
+            "Tools_extracted": [
+                "soldering gun"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "insert wisdom here ."
+                }
+            ],
+            "Text_raw": "Insert wisdom here.",
+            "Images": [],
+            "StepId": 149343,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

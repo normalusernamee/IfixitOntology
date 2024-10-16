@@ -1,0 +1,182 @@
+{
+    "Title": "1997-2003 Chevrolet Malibu Spark Plugs Replacement",
+    "Ancestors": [
+        "Chevrolet Malibu",
+        "Chevrolet",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11422,
+    "Category": "1997-2003 Chevrolet Malibu",
+    "Toolbox": [
+        {
+            "Name": "1 2 socket",
+            "Url": "http://www.amazon.com/TEKTON-14132-8-Inch-Shallow-6-Point/dp/B000NPR49W/ref=sr_1_1?s=hi&ie=UTF8&qid=1434655084&sr=1-1&keywords=tekton+14132&pebp=1434655085999&perid=03BH841K7ST8M4QQNTC8",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 8 spark plug socket",
+            "Url": "http://www.amazon.com/dp/B004QO9F0W/ref=cm_sw_su_dp",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "6 ratchet extension",
+            "Url": "/Item/6%22_Ratchet_Extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "spark plug gap gauge",
+            "Url": "http://www.amazon.com/Lisle-67870-Spark-Plug-Gauge/dp/B0002STS2Q/ref=sr_1_5?s=automotive&ie=UTF8&qid=1356975161&sr=1-5&keywords=spark+plug+gap+gauge",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1997+1998+1999+2000+2001+2002+2003+Chevrolet+Malibu+Spark+Plugs+Replacement/11422",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "use the 1 /2 socket to loosen and remove the four bolts and washers on the spark plug cover labeled 2.4 l twin cam ."
+                },
+                {
+                    "Text": "these four bolts should be torqued to 18 ft-lbs when putting the spark plug cover back on ."
+                }
+            ],
+            "Text_raw": "Use the 1/2\" socket to loosen and remove the four bolts and washers on the spark plug cover labeled 2.4L Twin Cam. These four bolts should be torqued to 18 ft-lbs when putting the spark plug cover back on.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/N5BcpW15SAxMBUI6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MpFUXXNNrVsQJP3Y.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XDyOE5OjdlZANq1b.standard"
+            ],
+            "StepId": 40884,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "with a flathead screwdriver remove the ignition coil electrical connector on the right side of spark plug cover ."
+                },
+                {
+                    "Text": "be careful while disconnecting the ignition coil electrical connector as it may break ."
+                }
+            ],
+            "Text_raw": "With a flathead screwdriver remove the ignition coil electrical connector on the right side of spark plug cover. Be careful while disconnecting the ignition coil electrical connector as it may break.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JvYDSZQrh1RKVQKM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/42KfXdUuZw3Eabgt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/y1iOOIISpfkfJIoX.standard"
+            ],
+            "StepId": 40885,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the spark plug cover ."
+                }
+            ],
+            "Text_raw": "Remove the spark plug cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VBXBFthVEcXWeCXu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TAjKyErEXVxc5NeR.standard"
+            ],
+            "StepId": 40887,
+            "Tools_extracted": [
+                "spark plug"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "when working with compressed air , wear safety glasses to protect your eyes from flying debris ."
+                },
+                {
+                    "Text": "use compressed air to clear any debris from the area around the spark plugs ."
+                },
+                {
+                    "Text": "any particles that fall into the cylinder could cause serious engine damage ."
+                },
+                {
+                    "Text": "use a 5 /8 spark plug socket with an extension to loosen and remove the spark plugs ."
+                }
+            ],
+            "Text_raw": "When working with compressed air, wear safety glasses to protect your eyes from flying debris. Use compressed air to clear any debris from the area around the spark plugs. Any particles that fall into the cylinder could cause serious engine damage. Use a 5/8\" spark plug socket with an extension to loosen and remove the spark plugs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EIXPUR1KAAg31cgs.standard"
+            ],
+            "StepId": 40888,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "before installing the new spark plugs check that the spark plugs' gap is between 0.048 and 0.052 inches ."
+                },
+                {
+                    "Text": "if it needs to be widened , use a gap setter to increase the size of the gap until it reaches the desired width ."
+                }
+            ],
+            "Text_raw": "Before installing the new spark plugs check that the spark plugs' gap is between 0.048 and 0.052 inches. If it needs to be widened, use a gap setter to increase the size of the gap until it reaches the desired width.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HSXWuVEjCBRtVcMS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2HBwUIDOkZm6iVQS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ge5bjEwSMaYfbKTT.standard"
+            ],
+            "StepId": 41848,
+            "Tools_extracted": [
+                "spark plug gap gauge"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "wedge the new spark plugs into a 5 /8 '' spark plug socket ."
+                },
+                {
+                    "Text": "place the spark plug into the cylinder using the socket and hand tighten the spark plugs as much as possible ."
+                },
+                {
+                    "Text": "tighten the spark plugs to 13 ft-lbs with a torque wrench ."
+                },
+                {
+                    "Text": "do not over tighten spark plugs . this could strip out the threaded holes in the head ."
+                }
+            ],
+            "Text_raw": "Wedge the new spark plugs into a 5/8'' spark plug socket. Place the spark plug into the cylinder using the socket and hand tighten the spark plugs as much as possible. Tighten the spark plugs to 13 ft-lbs with a torque wrench. Do not over tighten spark plugs.  This could strip out the threaded holes in the head.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DS6mdBWJ4Pmimdng.standard"
+            ],
+            "StepId": 40889,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        }
+    ],
+    "Subject": "Spark Plugs"
+}

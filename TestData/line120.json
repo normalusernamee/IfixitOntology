@@ -1,0 +1,155 @@
+{
+    "Title": "Drivers Extended Armrest",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20309,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "utility blade",
+            "Url": "/Item/Utility_Blade",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": "https://www.ifixit.com/Store/Parts/54-Bit-Driver-Kit/IF145-299",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "2.5mm flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Flathead-3-32-Inch-Screwdriver/IF145-011",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/IRnGQ4e2ZPBSxpuB.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Drivers+Extended+Armrest/20309",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "carefully pry out insert using the small gaps at the front . you can use a small flat screwdriver to do this ."
+                },
+                {
+                    "Text": "remove the phillips screw and put the trim and insert aside ."
+                },
+                {
+                    "Text": "be careful removing the insert , it is easy to damage with the screwdriver ."
+                }
+            ],
+            "Text_raw": "Carefully pry out insert using the small gaps at the front. You can use a small flat screwdriver to do this. Remove the phillips screw and put the trim and insert aside. Be careful removing the insert, it is easy to damage with the screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BBUmvlDKPhkJlIxC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cylBAcgEE21NEFGH.standard"
+            ],
+            "StepId": 56215,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the two screws under the armrest . these are often extremely overtightened and may be hard to remove ."
+                },
+                {
+                    "Text": "be very careful that you do not strip the head of the screw ."
+                }
+            ],
+            "Text_raw": "Remove the two screws under the armrest. These are often extremely overtightened and may be hard to remove. Be very careful that you do not strip the head of the screw.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MdkxkeITUrisJO6B.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3pCQsHkLNBmb6tOF.standard"
+            ],
+            "StepId": 56216,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "position new armrest on door , tighten screws if you need too ( optional ) . where the upper screw portion of the armrest is , trace around it with pencil . then remove the armrest . place the new trim in the door and make sure the outline is centered in the opening of the trim ."
+                },
+                {
+                    "Text": "very carefully cut a small x inside the outline you drew in step 3. if you push in on the area , you should feel it give in a little around the bracket behind the panel . start in the center and work your way out to make sure you do not cut too far . the panel is just fiberboard and is easy to cut through ."
+                },
+                {
+                    "Text": "the hole should allow the upper bracket of the armrest to go inside the panel and rest against the bracket in the door ."
+                },
+                {
+                    "Text": "heres what it looks like behind that panel ."
+                }
+            ],
+            "Text_raw": "Position new armrest on door, tighten screws if you need too (optional). Where the upper screw portion of the armrest is, trace around it with pencil. Then remove the armrest. Place the new trim in the door and make sure the outline is centered in the opening of the trim. Very carefully cut a small X inside the outline you drew in step 3. If you push in on the area, you should feel it give in a little around the bracket behind the panel. Start in the center and work your way out to make sure you do not cut too far. The panel is just fiberboard and is easy to cut through. The hole should allow the upper bracket of the armrest to go inside the panel and rest against the bracket in the door. Here\u2019s what it looks like behind that panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rFeUFCZEnpFWCFgP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3oFHYYJ3dhFE2VN1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xbJ2bdweEhaTJ4ET.standard"
+            ],
+            "StepId": 56217,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "insert the trim piece on the armrest and carefully slide out of the way . attach the armrest using the two lower screws , but do not tighten them fully yet . picture shows upper screw already attached , please disregard ."
+                },
+                {
+                    "Text": "attach the upper screw and tighten down . you may need to flex the armrest slightly to align it ."
+                },
+                {
+                    "Text": "tighten the bottom two screws . make sure you tighten these down well , without stripping them ."
+                },
+                {
+                    "Text": "the armrest screws get a lot of use , so re-check them after a few days to make sure they haven't loosened up ."
+                }
+            ],
+            "Text_raw": "Insert the trim piece on the armrest and carefully slide out of the way. Attach the armrest using the two lower screws, but do not tighten them fully yet. Picture shows upper screw already attached, please disregard. Attach the upper screw and tighten down. You may need to flex the armrest slightly to align it. Tighten the bottom two screws. Make sure you tighten these down well, without stripping them. The armrest screws get a lot of use, so re-check them after a few days to make sure they haven't loosened up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6MvJbpL6gVrK2GdX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wWAckcbUZhZBscsG.standard"
+            ],
+            "StepId": 56218,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "attach the trim piece into position ( this requires you maneuver the handle through it , take your time , some cars are easier than others ) ."
+                },
+                {
+                    "Text": "screw the trim piece down ."
+                },
+                {
+                    "Text": "snap the insert into place ."
+                }
+            ],
+            "Text_raw": "Attach the trim piece into position (this requires you maneuver the handle through it, take your time, some cars are easier than others). Screw the trim piece down. Snap the insert into place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/biJ1AFDuG3AX4qgM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/K1ZT4DLbSZLOLZul.standard"
+            ],
+            "StepId": 56219,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "[Modification] Drivers Armrest"
+}

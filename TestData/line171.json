@@ -1,0 +1,218 @@
+{
+    "Title": "Mercedes W123 Power Steering Low Pressure Hose Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 27778,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Power+Steering+Low+Pressure+Hose+Replacement/27778",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "see the power steering low pressure hose where it connects to the steering box ? it is wet with weeping fluid , and you can see that the metal hard line and the motor mount heat shield below it are oily and dirty ."
+                },
+                {
+                    "Text": "these are telltale signs of a leaking low pressure hose . there was no hole or crack in this line - it was weeping internally out through the wall of the line ."
+                }
+            ],
+            "Text_raw": "See the power steering low pressure hose where it connects to the steering box? It is wet with weeping fluid, and you can see that the metal hard line and the motor mount heat shield below it are oily and dirty. These are telltale signs of a leaking low pressure hose. There was no hole or crack in this line - it was weeping internally out through the wall of the line.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/P5TWsGV4M4uUdSo5.standard"
+            ],
+            "StepId": 67665,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "a power steering leak can be tricky to identify at at least initially . depending on the type you use , it can be red , like transmission fluid . or it can be clear , and seem like coolant ."
+                },
+                {
+                    "Text": "one way to help identify it is the location of the drips . when your low pressure line leaks , it tends to drip down on to the driver's side motor mount heat shield . from there , it runs down the mount and on to the cross-member that runs under the engine . eventually , it drips down at the center of this cross-member ."
+                }
+            ],
+            "Text_raw": "A power steering leak can be tricky to identify at at least initially. Depending on the type you use, it can be red, like transmission fluid. Or it can be clear, and seem like coolant. One way to help identify it is the location of the drips. When your low pressure line leaks, it tends to drip down on to the driver's side motor mount heat shield. From there, it runs down the mount and on to the cross-member that runs under the engine. Eventually, it drips down at the center of this cross-member.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/A3JDJRxY6ky3iADn.standard"
+            ],
+            "StepId": 67666,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "it's time to being the repair ! begin by removing the cover on your power steering fluid reservoir ."
+                }
+            ],
+            "Text_raw": "It's time to being the repair! Begin by removing the cover on your power steering fluid reservoir.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PHw3PNUNWIdQwiNX.standard"
+            ],
+            "StepId": 67663,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "next , extract as much fluid from the reservoir as possible to limit how much fluid leaks from the low pressure hose when you remove it ."
+                },
+                {
+                    "Text": "still , put a drip pan under the low point on the engine cross-member to catch any fluid that is still in the reservoir as it runs out of the low pressure line ."
+                }
+            ],
+            "Text_raw": "Next, extract as much fluid from the reservoir as possible to limit how much fluid leaks from the low pressure hose when you remove it. Still, put a drip pan under the low point on the engine cross-member to catch any fluid that is still in the reservoir as it runs out of the low pressure line.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6Jn3POMoqWLgauqD.standard"
+            ],
+            "StepId": 67664,
+            "Tools_extracted": [
+                "drain pan"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "next , loosen the hose clamp on the lower side of the low pressure hose down at the steering gear box . it's just below where you usually will find your primary fuel filter ."
+                },
+                {
+                    "Text": "once the clamp is loose , pull the line off of the nipple it connects to . some fluid will likely run out ."
+                }
+            ],
+            "Text_raw": "Next, loosen the hose clamp on the lower side of the low pressure hose down at the steering gear box. It's just below where you usually will find your primary fuel filter. Once the clamp is loose, pull the line off of the nipple it connects to. Some fluid will likely run out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oLsjagFeWoGWR4RH.standard"
+            ],
+            "StepId": 67667,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "now loosen the hose clamp on the upper end of the hose by the power steering fluid reservoir ."
+                },
+                {
+                    "Text": "pull off this end of the hose as well ."
+                },
+                {
+                    "Text": "here you can see the old hose . it was stiff with age , and as you can see quite wet at one end from weeping for the last few weeks ."
+                }
+            ],
+            "Text_raw": "Now loosen the hose clamp on the upper end of the hose by the power steering fluid reservoir. Pull off this end of the hose as well. Here you can see the old hose. It was stiff with age, and as you can see quite wet at one end from weeping for the last few weeks.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OQYpReB1vXMaMsBx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dSeA2em1RkUZLEhQ.standard"
+            ],
+            "StepId": 67668,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "your reservoir will now be empty . if it is due , now is a great time to guide"
+                },
+                {
+                    "Text": "check and if necessary clean the two nipples where the low side hose connects ."
+                }
+            ],
+            "Text_raw": "Your reservoir will now be empty. If it is due, now is a great time to [guide|22549|change the power steering filter.] Check and if necessary clean the two nipples where the low side hose connects.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jbGCyusXRl3ZeEoQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/inyAVVeeEpfgeRVI.standard"
+            ],
+            "StepId": 67669,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "inspect the hose clamps and clean or replace them as needed . these clamps were in good shape and were re-used ."
+                }
+            ],
+            "Text_raw": "Inspect the hose clamps and clean or replace them as needed. These clamps were in good shape and were re-used.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YEgTMFtd5TOP5gyu.standard"
+            ],
+            "StepId": 67670,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "use the old hose to help you cut a new length of hose ."
+                }
+            ],
+            "Text_raw": "Use the old hose to help you cut a new length of hose.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4AMUCGeuO44jLNKV.standard"
+            ],
+            "StepId": 67671,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "slip the clamps over the new hose ."
+                },
+                {
+                    "Text": "then install the new hose fully over both of the connections - one at the power steering pump reservoir and the other down at the steering box ."
+                },
+                {
+                    "Text": "tighten the clamps to finish the installation ."
+                },
+                {
+                    "Text": "at this time you may want to consider using some de-greaser to clean up the driver's side motor mount and the engine cross-member as they will be covered in power steering fluid . the oil may lead to premature failure of that motor mount , in particular ."
+                }
+            ],
+            "Text_raw": "Slip the clamps over the new hose. Then install the new hose fully over both of the connections - one at the power steering pump reservoir and the other down at the steering box. Tighten the clamps to finish the installation. At this time you may want to consider using some de-greaser to clean up the driver's side motor mount and the engine cross-member as they will be covered in power steering fluid. The oil may lead to premature failure of that motor mount, in particular.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZRkRx2R4uXHf4RLP.standard"
+            ],
+            "StepId": 67672,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Power Steering Low Pressure Hose"
+}

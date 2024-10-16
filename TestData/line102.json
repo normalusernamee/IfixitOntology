@@ -1,0 +1,320 @@
+{
+    "Title": "2007-2012 Jeep Wrangler Oil Change",
+    "Ancestors": [
+        "Jeep Wrangler",
+        "Jeep",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11774,
+    "Category": "2007-2012 Jeep Wrangler",
+    "Toolbox": [
+        {
+            "Name": "adjustable wrench",
+            "Url": "http://www.amazon.com/Crescent-AC26VS-Carded-Sensormatic-Adjustable/dp/B00002N5KZ/ref=sr_1_13?ie=UTF8&qid=1390937225&sr=8-13&keywords=crescent+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "funnel",
+            "Url": "http://www.amazon.com/TEKTON-6093-Funnel-Set-4-Piece/dp/B003DN0RTA/ref=sr_1_1?s=hi&ie=UTF8&qid=1407340826&sr=1-1&keywords=funnel",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil filter wrench",
+            "Url": "http://amzn.com/B0009WG5SU",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2007+2008+2009+2010+2011+2012+Jeep+Wrangler+Oil+Change/11774",
+    "Steps": [
+        {
+            "Order": 0,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "locate the two grey latches on each side of the hood near the headlights ."
+                },
+                {
+                    "Text": "pull the latches away from the hood to release the latches ."
+                }
+            ],
+            "Text_raw": "Locate the two grey latches on each side of the hood near the headlights. Pull the latches away from the hood to release the latches.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1sSLA4yUUCuxkZYm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CoTolIRHRQiBvIHs.standard"
+            ],
+            "StepId": 42311,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "reach underneath the hood and push up on the lever located in the front center of the hood . you can now open the hood ."
+                },
+                {
+                    "Text": "prop the hood open by inserting the hood support rod into the designated hole on the underside of the hood ."
+                }
+            ],
+            "Text_raw": "Reach underneath the hood and push up on the lever located in the front center of the hood.  You can now open the hood. Prop the hood open by inserting the hood support rod into the designated hole on the underside of the hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dW6BRdCT5jdYdxAD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DbVK1rnjAOTSkIbZ.standard"
+            ],
+            "StepId": 42312,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "before touching any parts , make sure your jeep wrangler is off for at least thirty minutes to prevent any burns ."
+                },
+                {
+                    "Text": "locate the oil cap on the top side of the engine ( indicated in red in the image ) . to remove the cap , twist hard in a counter-clockwise motion ."
+                },
+                {
+                    "Text": "store the cap in a safe place to prevent losing it ."
+                }
+            ],
+            "Text_raw": "Before touching any parts, make sure your Jeep Wrangler is off for at least thirty minutes to prevent any burns. Locate the oil cap on the top side of the engine (indicated in red in the image). To remove the cap, twist hard in a counter-clockwise motion. Store the cap in a safe place to prevent losing it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BrbyTjAobkyD5IvX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pOSPF4RiZUUTTFOe.standard"
+            ],
+            "StepId": 42095,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "place the oil drain pan underneath the vehicle ."
+                },
+                {
+                    "Text": "locate the oil drain plug . it is located at the bottom of the vehicle ( indicated by the red square in the image ) ."
+                },
+                {
+                    "Text": "the pan will need to be directly underneath the oil drain plug in order to catch all of the old oil ."
+                }
+            ],
+            "Text_raw": "Place the oil drain pan underneath the vehicle. Locate the oil drain plug. It is located at the bottom of the vehicle (indicated by the red square in the image). The pan will need to be directly underneath the oil drain plug in order to catch all of the old oil.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/chUr3L2GcOdU2tG2.standard"
+            ],
+            "StepId": 42096,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "using an appropriately sized socket and socket wrench , remove the oil drain plug . ( in a pinch , you can use an adjustable wrench . ) twist counter-clockwise to loosen it ."
+                },
+                {
+                    "Text": "let the oil completely drain from the car and into the drain pan ."
+                },
+                {
+                    "Text": "replace ( reinsert ) the plug by twisting it clockwise . tighten it with the wrench following the same clockwise motion ."
+                },
+                {
+                    "Text": "after the plug is replaced , wipe it down with a dirty rag to clean off any outside oil . this ensures that oil will not drip onto the ground ."
+                }
+            ],
+            "Text_raw": "Using an appropriately sized socket and socket wrench, remove the oil drain plug. (In a pinch, you can use an adjustable wrench.) Twist counter-clockwise to loosen it. Let the oil completely drain from the car and into the drain pan. Replace (reinsert) the plug by twisting it clockwise. Tighten it with the wrench following the same clockwise motion. After the plug is replaced, wipe it down with a dirty rag to clean off any outside oil. This ensures that oil will not drip onto the ground.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xumhgxHUlbAppADj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/23IBvWQs2qv61qwf.standard"
+            ],
+            "StepId": 42097,
+            "Tools_extracted": [
+                "adjustable wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "move the drain pan toward the front of the vehicle . be careful not to spill any oil !"
+                },
+                {
+                    "Text": "place it directly underneath the oil filter ( indicated by the red square in the image ) . this image is looking down from the front of the engine , underneath the hood ."
+                }
+            ],
+            "Text_raw": "Move the drain pan toward the front of the vehicle. Be careful not to spill any oil! Place it directly underneath the oil filter (indicated by the red square in the image). This image is looking down from the front of the engine, underneath the hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DJWkGykUonMxpwM4.standard"
+            ],
+            "StepId": 42108,
+            "Tools_extracted": [
+                "oil drain pan",
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "oil will begin flowing as soon as you unscrew the filter . be sure to catch all of the oil in the drain pan ."
+                },
+                {
+                    "Text": "loosen the oil filter by twisting counter-clockwise . it may be easier to access the oil filter from the top-side of the engine ."
+                },
+                {
+                    "Text": "if it is too difficult to twist by hand , use an oil filter wrench to loosen it ."
+                },
+                {
+                    "Text": "place the removed oil filter in the oil pan ."
+                }
+            ],
+            "Text_raw": "Oil will begin flowing as soon as you unscrew the filter.  Be sure to catch all of the oil in the drain pan. Loosen the oil filter by twisting counter-clockwise. It may be easier to access the oil filter from the top-side of the engine. If it is too difficult to twist by hand, use an oil filter wrench to loosen it. Place the removed oil filter in the oil pan.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GRB634GcTwBPPEET.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/H1BtwEPRgyQkpSV4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rsiF3KAX6fxB3jIg.standard"
+            ],
+            "StepId": 42109,
+            "Tools_extracted": [
+                "oil drain pan",
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "check the socket for loose bits of the old rubber gasket . remove these and wipe the area clean ."
+                },
+                {
+                    "Text": "take the new oil filter and insert it into the socket . twist it clockwise to fasten it into place ."
+                },
+                {
+                    "Text": "use the oil filter wrench to ensure that it is a tight fit ."
+                }
+            ],
+            "Text_raw": "Check the socket for loose bits of the old rubber gasket. Remove these and wipe the area clean. Take the new oil filter and insert it into the socket. Twist it clockwise to fasten it into place. Use the oil filter wrench to ensure that it is a tight fit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1UpBQqEUJwL6fqgW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/muhWnDUHcbICtRBp.standard"
+            ],
+            "StepId": 42111,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "on the top of the engine , find the hole for the oil cap you removed earlier ."
+                },
+                {
+                    "Text": "using a funnel , pour 5.5 quarts of 5 w-20 motor oil into the hole ."
+                },
+                {
+                    "Text": "be sure to let all of the oil drain from each oil container ."
+                }
+            ],
+            "Text_raw": "On the top of the engine, find the hole for the oil cap you removed earlier. Using a funnel, pour 5.5 quarts of 5W-20 Motor Oil into the hole. Be sure to let all of the oil drain from each oil container.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3OSyOVVHRJwttBvV.standard"
+            ],
+            "StepId": 42112,
+            "Tools_extracted": [
+                "funnel",
+                "oil drain pan",
+                "oil"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "put the oil cap back on by twisting it clockwise . check that it is tightly screwed on ."
+                },
+                {
+                    "Text": "start your engine and let in run for about a minute ."
+                },
+                {
+                    "Text": "letting your engine run will get the oil flowing inside the engine ."
+                }
+            ],
+            "Text_raw": "Put the oil cap back on by twisting it clockwise.  Check that it is tightly screwed on. Start your engine and let in run for about a minute. Letting your engine run will get the oil flowing inside the engine.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ikuRqOuGCYcBIrYR.standard"
+            ],
+            "StepId": 42114,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "check the oil level . first , locate the oil dip-stick ( marked in the first image by red ) ."
+                },
+                {
+                    "Text": "pull out the oil dip-stick and wipe clean it clean with a paper towel or rag ."
+                },
+                {
+                    "Text": "re-insert the oil dip-stick completely and pull it slowly out ."
+                },
+                {
+                    "Text": "the oil should reach to the safe-fill area on the stick ( marked in the image in yellow ) . if it doesn't , add more fresh oil through the funnel until it reaches this mark ."
+                }
+            ],
+            "Text_raw": "Check the oil level.  First, locate the oil dip-stick (marked in the first image by red). Pull out the oil dip-stick and wipe clean it clean with a paper towel or rag. Re-insert the oil dip-stick completely and pull it slowly out. The oil should reach to the safe-fill area on the stick (marked in the image in yellow). If it doesn't, add more fresh oil through the funnel until it reaches this mark.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XUIc2BiZxqdBJqal.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oHklDShVLPyZGWDP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dcNHjhQc2EeAItVN.standard"
+            ],
+            "StepId": 42113,
+            "Tools_extracted": [
+                "funnel",
+                "oil"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "do not dump your oil down any drain . this is extremely bad for the environment ! act responsibly ."
+                },
+                {
+                    "Text": "make sure to dispose of your old oil filter and dirty , old oil correctly ."
+                },
+                {
+                    "Text": "many vehicle repair shops will recycle it free of charge ."
+                }
+            ],
+            "Text_raw": "Do not dump your oil down any drain. This is extremely bad for the environment! Act responsibly. Make sure to dispose of your old oil filter and dirty, old oil correctly. Many vehicle repair shops will recycle it free of charge.",
+            "Images": [],
+            "StepId": 42115,
+            "Tools_extracted": [
+                "oil drain pan",
+                "oil filter wrench"
+            ]
+        }
+    ],
+    "Subject": ""
+}

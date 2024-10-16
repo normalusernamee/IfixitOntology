@@ -1,0 +1,120 @@
+{
+    "Title": "Mercedes W123 Trunk Lock Vacuum Actuator Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20613,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "socket 8 mm",
+            "Url": "http://www.amazon.com/TEKTON-14140-Shallow-Socket-6-Point/dp/B000NY8PVE/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        },
+        {
+            "Name": "vacuum hand pump with gauge",
+            "Url": "http://amzn.com/B00265M9SS",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Trunk+Lock+Vacuum+Actuator+Replacement/20613",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "as you would expect , the trunk lock actuator is located in the trunk adjacent to the lock itself ."
+                },
+                {
+                    "Text": "it is hidden just behind this black plastic cover ."
+                }
+            ],
+            "Text_raw": "As you would expect, the trunk lock actuator is located in the trunk adjacent to the lock itself. It is hidden just behind this black plastic cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XDcUCecQkJxIeV13.standard"
+            ],
+            "StepId": 56605,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove this black plastic cover by prying it up from the bottom until it pops out enough to remove fully ."
+                }
+            ],
+            "Text_raw": "Remove this black plastic cover by prying it up from the bottom until it pops out enough to remove fully.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5jS3FhX6CrvmAhLH.standard"
+            ],
+            "StepId": 56606,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "you can now see the trunk actuator . it connects to the lock mechanism by the metal rod with a spring ."
+                },
+                {
+                    "Text": "to remove the actuator begin by removing the two hex head screws . they should be 8 mm heads ."
+                },
+                {
+                    "Text": "then disconnect the two vacuum lines , making note of their orientation . one is for lock ( red stripe ) , one is for unlock ( green stripe ) ."
+                },
+                {
+                    "Text": "finally , pull the metal armature of the actuator off of the lock mechanism . it pulls off in the direction of the vacuum actuator body ."
+                }
+            ],
+            "Text_raw": "You can now see the trunk actuator. It connects to the lock mechanism by the metal rod with a spring. To remove the actuator begin by removing the two hex head screws. They should be 8mm heads. Then disconnect the two vacuum lines, making note of their orientation. One is for lock (red stripe), one is for unlock (green stripe). Finally, pull the metal armature of the actuator off of the lock mechanism. It pulls off in the direction of the vacuum actuator body.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/o11odKxKPkZkvC2n.standard"
+            ],
+            "StepId": 56607,
+            "Tools_extracted": [
+                "vacuum hand pump with gauge",
+                "socket 8 mm"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the actuator from your car . inspect it for obvious leaks ."
+                },
+                {
+                    "Text": "on this actuator you can see that the outer diaphragm , on the lock side , is very obviously torn and so the actuator should be replaced ."
+                },
+                {
+                    "Text": "if there were no obvious tears or cracks in the outside of the actuator you will need to use your vacuum pump with gauge to test the lock and unlock sides of the actuator ."
+                }
+            ],
+            "Text_raw": "Remove the actuator from your car. Inspect it for obvious leaks. On this actuator you can see that the outer diaphragm, on the lock side, is very obviously torn and so the actuator should be replaced. If there were no obvious tears or cracks in the outside of the actuator you will need to use your vacuum pump with gauge to test the lock and unlock sides of the actuator.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mijaROHwXNKCvMK1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/T2dcAYOoaAWFBpkS.standard"
+            ],
+            "StepId": 56609,
+            "Tools_extracted": [
+                "vacuum hand pump with gauge"
+            ]
+        }
+    ],
+    "Subject": "Trunk Lock Vacuum Actuator"
+}

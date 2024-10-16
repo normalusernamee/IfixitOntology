@@ -1,0 +1,154 @@
+{
+    "Title": "Mercedes W123 Jack Technique",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22770,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Jack+Technique/22770",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before beginning to jack up the vehicle you must put wheel chocks on the end of the car you are not jacking up . this includes times when you are jacking up one end , say to change the coolant or install new front brake pads , or when you're jacking up the whole car and are starting on one end ."
+                },
+                {
+                    "Text": "the wheel chock is designed to prevent the vehicle from rolling . place the chocks in the direction you believe the vehicle will roll , such as in the direction of the slope of your work area . when it doubt , put wheels chocks on both sides of the wheels ."
+                },
+                {
+                    "Text": "it is highly recommended that you use large , heavy , rubber wheel chocks . hard plastic wheel chocks have been known to slip on smooth concrete driveways ."
+                }
+            ],
+            "Text_raw": "Before beginning to jack up the vehicle you must put wheel chocks on the end of the car you are not jacking up. This includes times when you are jacking up one end, say to change the coolant or install new front brake pads, or when you're jacking up the whole car and are starting on one end. The wheel chock is designed to prevent the vehicle from rolling. Place the chocks in the direction you believe the vehicle will roll, such as in the direction of the slope of your work area. When it doubt, put wheels chocks on both sides of the wheels. It is highly recommended that you use large, heavy, rubber wheel chocks. Hard plastic wheel chocks have been known to slip on smooth concrete driveways.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XatIyAr5FihtAv5J.standard"
+            ],
+            "StepId": 59656,
+            "Tools_extracted": [
+                "jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "on the front of the w123 's there is a strong cross-member that can be used to raise the front of the vehicle ."
+                },
+                {
+                    "Text": "this cross member is located just rear of the oil pan ."
+                },
+                {
+                    "Text": "place the jack directly centered on this cross member and then begin slowly lifting . re-check the position of the jack as you lift it to ensure it stays centered . if it does not , lower it and start again ."
+                }
+            ],
+            "Text_raw": "On the front of the W123's there is a strong cross-member that can be used to raise the front of the vehicle. This cross member is located just rear of the oil pan. Place the jack directly centered on this cross member and then begin slowly lifting. Re-check the position of the jack as you lift it to ensure it stays centered. If it does not, lower it and start again.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/l6EZUAklJVMDLPOK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LWJZZogySXvAOIw4.standard"
+            ],
+            "StepId": 59657,
+            "Tools_extracted": [
+                "jack"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "on the front of the car look for the reinforced area of the boxed section of the unibody highlighted . this is strengthened to support a jack stand ."
+                },
+                {
+                    "Text": "place your jack stand directly under this , raise it as close as possible to the raised area , and ensure it locks against the lock handle or that is can be secured by the locking pin ."
+                },
+                {
+                    "Text": "repeat on the opposite side of the car ."
+                },
+                {
+                    "Text": "then slowly lower the jack until the car rests on the stands . after it has lowered check that the stands are even seated under this reinforced area ."
+                },
+                {
+                    "Text": "never let the jack drop quickly , always lower it slowly and carefully ."
+                }
+            ],
+            "Text_raw": "On the front of the car look for the reinforced area of the boxed section of the unibody highlighted. This is strengthened to support a jack stand. Place your jack stand directly under this, raise it as close as possible to the raised area, and ensure it locks against the lock handle or that is can be secured by the locking pin. Repeat on the opposite side of the car. Then slowly lower the jack until the car rests on the stands. After it has lowered check that the stands are even seated under this reinforced area. Never let the jack drop quickly, always lower it slowly and carefully.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/L4OcUqlA1FjoFosE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1DgCeZpOnHCHLafP.standard"
+            ],
+            "StepId": 59658,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "move to the back of the vehicle ."
+                },
+                {
+                    "Text": "place the jack under the rear differential of the car . this is the strongest lift point at the rear of the vehicle ."
+                },
+                {
+                    "Text": "place it directly under the center of the differential and begin lifting it slowly and carefully following similar precautions as the front of the car ."
+                }
+            ],
+            "Text_raw": "Move to the back of the vehicle. Place the jack under the rear differential of the car. This is the strongest lift point at the rear of the vehicle. Place it directly under the center of the differential and begin lifting it slowly and carefully following similar precautions as the front of the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MXUJEgTnZysvT1A5.standard"
+            ],
+            "StepId": 59659,
+            "Tools_extracted": [
+                "jack"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "place the rear jack stands in a strong and secure location . at the rear of the car , there are several choices , and it will often depend on the type of work being done ."
+                },
+                {
+                    "Text": "in most cases , a good choice is directly under the lower shock mounting point in the trailing arm ."
+                },
+                {
+                    "Text": "another option is underneath the sub-frame bushing mount points ."
+                },
+                {
+                    "Text": "lower the jack slowly and carefully on to the rear stands and check that they are well positioned ."
+                },
+                {
+                    "Text": "once the car is on the jack stands , firmly attempt to shake the vehicle back and forth , front and back , at each of the four corners of the car . look to see that the jack stands are not rocking , bending , or otherwise moving . the vehicle should feel rather rock solid ."
+                },
+                {
+                    "Text": "if the vehicle does not feel stable try and identify which stand is not securely placed and replace it by re-tracing the steps in this guide ."
+                }
+            ],
+            "Text_raw": "Place the rear jack stands in a strong and secure location. At the rear of the car, there are several choices, and it will often depend on the type of work being done. In most cases, a good choice is directly under the lower shock mounting point in the trailing arm. Another option is underneath the sub-frame bushing mount points. Lower the jack slowly and carefully on to the rear stands and check that they are well positioned. Once the car is on the jack stands, firmly attempt to shake the vehicle back and forth, front and back, at each of the four corners of the car. Look to see that the jack stands are not rocking, bending, or otherwise moving. The vehicle should feel rather rock solid. If the vehicle does not feel stable try and identify which stand is not securely placed and replace it by re-tracing the steps in this guide.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XGIZspLBWSMX6s4t.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nKQ1jM3PcodeXn3S.standard"
+            ],
+            "StepId": 59660,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        }
+    ],
+    "Subject": ""
+}

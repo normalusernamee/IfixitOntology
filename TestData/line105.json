@@ -1,0 +1,371 @@
+{
+    "Title": "Installing Mercedes W166 RAV Tool Box",
+    "Ancestors": [
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 13097,
+    "Category": "Mercedes-Benz",
+    "Toolbox": [
+        {
+            "Name": "hole punch",
+            "Url": "/Item/Hole_Punch",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "m10 allen socket",
+            "Url": "/Item/M10_Allen_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "m6 allen socket",
+            "Url": "/Item/M6_Allen_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "m8 allen socket",
+            "Url": "/Item/M8_Allen_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "t30 torx socket",
+            "Url": "/Item/T30_Torx_Socket",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Installing+Mercedes+W166+RAV+Tool+Box/13097",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "1. vehicle preparation"
+                },
+                {
+                    "Text": "remove all loose items from the cargo area . remove the cargo floor , spare wheel and tool tray ."
+                },
+                {
+                    "Text": "remove rear seats as in wis instructions ( save seat mounting hardware )"
+                }
+            ],
+            "Text_raw": "1. Vehicle Preparation Remove all loose items from the cargo area. Remove the cargo floor, spare wheel and tool tray. Remove rear seats as in WIS instructions (Save seat mounting hardware)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cA5S23HwnooSjLJl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dxdaEPmDelOFMVG4.standard"
+            ],
+            "StepId": 44799,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "''remove bolt from rear deck sill plate''"
+                },
+                {
+                    "Text": "unclip rear deck sill plate and remove ."
+                }
+            ],
+            "Text_raw": "''Remove bolt from rear deck sill plate'' Unclip rear deck sill plate and remove.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uQ1ZVsRDHUqocQFi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CRQ4JQwXMN4OiwWL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QQWfSMCh6oX1oQJ3.standard"
+            ],
+            "StepId": 45049,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "''remove plastic covers''"
+                },
+                {
+                    "Text": "remove felt liner"
+                }
+            ],
+            "Text_raw": "''Remove plastic covers'' Remove Felt liner",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/w41vLiq1rEtBPE1V.standard"
+            ],
+            "StepId": 45050,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove side consoles and center support ( t30 10 bolts )"
+                }
+            ],
+            "Text_raw": "Remove side consoles and center support (T30 10 Bolts)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Lt6LtEicVegLiHWZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fN41WgHFSeWZjnTK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pYBsVSEBCdnfRe1W.standard"
+            ],
+            "StepId": 45051,
+            "Tools_extracted": [
+                "t30 torx socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "install and bolt down center support bracket ( 2 bolts m10 x 1.5 x35 mm 6 mm allen cap , 10 mm flat washers )"
+                },
+                {
+                    "Text": "pay attention to the pin to align properly"
+                },
+                {
+                    "Text": "note : to service tpms control module remove drawers ad service through access door in bottom plate ."
+                }
+            ],
+            "Text_raw": "Install and bolt down center support bracket (2 Bolts M10 x 1.5 x35mm 6mm Allen cap, 10mm flat washers) Pay attention to the pin to align properly NOTE: To service TPMS  control module remove drawers ad service through access door in bottom plate.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Q5pMU5FCV3GUQBTL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5GYRtJGdCD54Oy3o.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BULWij5Sw4ZRJNST.standard"
+            ],
+            "StepId": 45052,
+            "Tools_extracted": [
+                "m10 allen socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "2. installation of front box"
+                },
+                {
+                    "Text": "place box inside vehicle . it fits through the rear doors . this is a 2 person job ."
+                },
+                {
+                    "Text": "mount front legs on front consoles , tighten loosely ''' ( 2 bolts m10 x 1.5 x35 mm 6 mm allen cap , 10 mm flat washers ) ''' . pay attention not to break off the alignment pin , which will be inside the post after mounting ."
+                },
+                {
+                    "Text": "do not mount the box to the center bracket at this point"
+                }
+            ],
+            "Text_raw": "2. Installation of Front Box Place box inside vehicle. It fits through the rear doors. This is a 2 person job. Mount front legs on front consoles, tighten loosely '''(2 Bolts M10 x 1.5 x35mm 6mm Allen cap, 10mm flat washers)'''. Pay attention not to break off the alignment pin, which will be inside the post after mounting. DO NOT mount the box to the center bracket at this point",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/W4bDd2tSUNZAEOLU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/K2djxTUSryIQ1bWw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/x5PBjXuYFmLSvKGK.standard"
+            ],
+            "StepId": 45053,
+            "Tools_extracted": [
+                "m10 allen socket"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "'''3. installation of the rear plate'''"
+                },
+                {
+                    "Text": "install 6 rear support brackets and tighten finger tight"
+                }
+            ],
+            "Text_raw": "'''3. Installation of the rear plate''' Install 6 rear support brackets and tighten finger tight",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AjlSrOZdaDWkRNPn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NJNjSoXVwoSgol5T.standard"
+            ],
+            "StepId": 45138,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "set plate on brackets and align , overlapping the base plate of the front box on the center support bracket ."
+                },
+                {
+                    "Text": "use punch tool to align holes and drop in 2 bolts m8 x 1.25 x 40 mm in holes on each side and one bolt m8 x 1.25 x 30 in the center hole ."
+                }
+            ],
+            "Text_raw": "Set plate on brackets and align, overlapping the base plate of the front box on the center support bracket. Use punch tool to align holes and drop in 2 bolts M8 x 1.25 x 40mm in holes on each side and one bolt M8 x 1.25 x 30 in the center hole.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/F5eKSSpaEkhNtBPp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dOJLXXsGXs5H6Ol2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2BBZL2F1ailPvfFU.standard"
+            ],
+            "StepId": 45139,
+            "Tools_extracted": [
+                "hole punch"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "secure plate to center support bracket with 2 bolts on the outside and on in the middle , align and finger tighten"
+                }
+            ],
+            "Text_raw": "Secure plate to center support bracket with 2 bolts on the outside and on in the middle, align and finger tighten",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vsnSEaCEEyQTQJeU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/A3VVxQ6QVYfvnxCM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/G2nuEqihIoVausYa.standard"
+            ],
+            "StepId": 45141,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "install 3 bolts securing base plate to vehicle frame"
+                },
+                {
+                    "Text": "and 4th bolt securing the tool box rail to the base plate and vehicle frame ."
+                },
+                {
+                    "Text": "put bolt sizes in"
+                }
+            ],
+            "Text_raw": "Install 3 bolts securing base plate to vehicle frame and 4th bolt securing the tool box rail to the base plate and vehicle frame. Put bolt sizes in",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QcLyGgVYxcGTRlLY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LZppcsNKCL3DAv4K.standard"
+            ],
+            "StepId": 45142,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "install and loosely tighten 3 m8 black oxide bolts on each side until l bracket touches the underside of the base plate"
+                }
+            ],
+            "Text_raw": "Install and loosely tighten 3 M8 black oxide bolts on each side until L bracket touches the underside of the base plate",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1LqdqYJ23LftSLjo.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sKqku663iaKdbljA.standard"
+            ],
+            "StepId": 45163,
+            "Tools_extracted": [
+                "m8 allen socket"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "fully tighten m8 ( 20 nm )"
+                },
+                {
+                    "Text": "fully tighten m6 ( 8 nm )"
+                }
+            ],
+            "Text_raw": "Fully tighten M8 (20 Nm) Fully tighten M6 (8 Nm)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/O1GCFkXVSdPElNNW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pT5a1cQN63So5esZ.standard"
+            ],
+            "StepId": 45165,
+            "Tools_extracted": [
+                "m6 allen socket",
+                "m8 allen socket"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "fully tighten m10 bolts ( 35 nm )"
+                }
+            ],
+            "Text_raw": "Fully tighten M10 bolts (35 Nm)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1IqX5qersWIR42Gi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/n2EeyTYMw1ZDXchw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EpZUhXMcx1n2DaFU.standard"
+            ],
+            "StepId": 45168,
+            "Tools_extracted": [
+                "m10 allen socket"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "4. install box"
+                },
+                {
+                    "Text": "remove drawers and slide box on rail guides , align with bolt holes"
+                },
+                {
+                    "Text": "install 6 ( m12 ) bolts and fully tighten to 66 nm"
+                }
+            ],
+            "Text_raw": "4.    Install box Remove drawers and slide box on rail guides, align with bolt holes Install 6 (M12) bolts and fully tighten to 66 Nm",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/X5GCUXPCoa4QNCHG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HXChUxHGld5SfDJM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/v6mOqwK2fGcuHvhA.standard"
+            ],
+            "StepId": 45169,
+            "Tools_extracted": [
+                "hole punch"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "install drawers ."
+                },
+                {
+                    "Text": "after drawer is installed move rail clip to locked position"
+                }
+            ],
+            "Text_raw": "Install drawers. After drawer is installed move rail clip to locked position",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PaomXDeWSMoUwAIm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/a3BByTnHlYDi1pXY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oS1DbMQChNngue1w.standard"
+            ],
+            "StepId": 45170,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "fasten seat belt with bolt to floor"
+                }
+            ],
+            "Text_raw": "Fasten seat belt with bolt to floor",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2wEA1oKDwcmFTBr3.standard"
+            ],
+            "StepId": 45171,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "RAV Tool Box"
+}

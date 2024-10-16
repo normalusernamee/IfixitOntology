@@ -1,0 +1,139 @@
+{
+    "Title": "Mercedes W123 Fuel Tank Strainer Maintenance",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 33401,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "1 and 13 16 socket",
+            "Url": "/Item/1_and_13_16%22_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "vice grips",
+            "Url": "https://www.amazon.com/VISE-GRIP-Release-Curved-Locking-11T/dp/B001MXV9PO/ref=sr_1_6?ie=UTF8&qid=1499292751&sr=8-6&keywords=vise+grips",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "/Item/Socket_Wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Fuel+Tank+Strainer+Maintenance/33401",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before proceeding to the first step of the removal of your tank strainer you will need to drain your fuel tank and remove the main fuel feed line that screws in to the body of the tank strainer . see the rear fuel line replacement guide for guidance on this process ."
+                }
+            ],
+            "Text_raw": "Before proceeding to the first step of the removal of your tank strainer you will need to drain your fuel tank and remove the main fuel feed line that screws in to the body of the tank strainer. See the rear fuel line replacement guide for guidance on this process.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UsUkBrE1WPSVxcCK.standard"
+            ],
+            "StepId": 78212,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "now you will have access to the tank strainer . it screws directly in to the bottom of the fuel tank ."
+                },
+                {
+                    "Text": "you may find that around the strainer there is some rubber lining that sits under the fuel tank . you may need to trim a bit of this rubber out of the way in order to have better access to the strainer ."
+                }
+            ],
+            "Text_raw": "Now you will have access to the tank strainer. It screws directly in to the bottom of the fuel tank. You may find that around the strainer there is some rubber lining that sits under the fuel tank. You may need to trim a bit of this rubber out of the way in order to have better access to the strainer.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/k1AEePGNApIDH6wj.standard"
+            ],
+            "StepId": 78213,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a large socket ( size 1 and 13 /16 ) to remove the strainer . access is tight up above the rear axle on this side of the car . you may need to improvise a bit . i used this modified socket that has a 17 mm nut welded to the bottom , and a pair of vice grips . if you have a 3 /4 drive socket wrench you can use this type of socket without modification ."
+                },
+                {
+                    "Text": "the strainer will simply screw out , after breaking it loose with the socket . screw it out gradually . as you loosen it , fuel will begin to flow past it - there is going to be about 8 oz to 12 oz still in the tank . slowly continue to loosen the strainer , letting the fuel drain as you proceed . do not remove it in a hurry or risk getting a fuel shower !"
+                }
+            ],
+            "Text_raw": "Use a large socket (size 1 and 13/16\") to remove the strainer. Access is tight up above the rear axle on this side of the car. You may need to improvise a bit. I used this modified socket that has a 17mm nut welded to the bottom, and a pair of vice grips. If you have a 3/4\" drive socket wrench you can use this type of socket without modification. The strainer will simply screw out, after breaking it loose with the socket. Screw it out gradually. As you loosen it, fuel will begin to flow past it - there is going to be about 8oz to 12oz still in the tank. Slowly continue to loosen the strainer, letting the fuel drain as you proceed. Do not remove it in a hurry or risk getting a fuel shower!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UjNxWOCeAicFJDkJ.standard"
+            ],
+            "StepId": 78214,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "with the tank strainer removed you can inspect it . this one was very clean when removed from the car . it needed little to no cleaning ."
+                }
+            ],
+            "Text_raw": "With the tank strainer removed you can inspect it. This one was very clean when removed from the car. It needed little to no cleaning.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/534FIHIGTOoANuIM.standard"
+            ],
+            "StepId": 78215,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "here is an example of what is possible for you to find when you remove the strainer . this car probably was not running when the strainer was removed ."
+                },
+                {
+                    "Text": "note - if you find more than a small amount of debris , consider running a biocide in your fuel tank , following the manufacturer's instructions for use . this amount of debris is likely from a microbial infection of the fuel ."
+                }
+            ],
+            "Text_raw": "Here is an example of what is possible for you to find when you remove the strainer. This car probably was not running when the strainer was removed. Note - if you find more than a small amount of debris, consider running a biocide in your fuel tank, following the manufacturer's instructions for use. This amount of debris is likely from a microbial infection of the fuel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BVpdaoofjgqdahll.standard"
+            ],
+            "StepId": 78216,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "back to the tank strainer removed from this car . it was lightly cleaned with some brake cleaner , but again , not much was needed ."
+                },
+                {
+                    "Text": "one more item to consider addressing with the strainer out is the o-ring seal at the base . it was rather flat and hardened on this strainer . replacing it gives peace of mind that you will not need to remove the strainer again for some time ."
+                }
+            ],
+            "Text_raw": "Back to the tank strainer removed from this car. It was lightly cleaned with some brake cleaner, but again, not much was needed. One more item to consider addressing with the strainer out is the o-ring seal at the base. It was rather flat and hardened on this strainer. Replacing it gives peace of mind that you will not need to remove the strainer again for some time.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iOA5YYLgQwAV4JWZ.standard"
+            ],
+            "StepId": 78217,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

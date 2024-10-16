@@ -1,0 +1,146 @@
+{
+    "Title": "Disassembling Mercedes W123 Glove Box Liner",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22837,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Disassembling+Mercedes+W123+Glove+Box+Liner/22837",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "start by opening the glove box ."
+                }
+            ],
+            "Text_raw": "Start by opening the glove box.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UT4JxYOu1orrLPXM.standard"
+            ],
+            "StepId": 59828,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the two phillips screws in the glove box door catch , then remove it ."
+                }
+            ],
+            "Text_raw": "Remove the two phillips screws in the glove box door catch, then remove it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TtoaN4GPvKMiOLBw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LCwmxwSumKSHSD5D.standard"
+            ],
+            "StepId": 59829,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "gently pry apart the expansion plug in the glove box clips . there will be a row of them on top , and on the bottom ."
+                },
+                {
+                    "Text": "once you've pried it out part of the way you can pull it the rest of the way out by hand , or gently with needle nose pliers ."
+                }
+            ],
+            "Text_raw": "Gently pry apart the expansion plug in the glove box clips. There will be a row of them on top, and on the bottom. Once you've pried it out part of the way you can pull it the rest of the way out by hand, or gently with needle nose pliers.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6yaImIYUXNgAGEIs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nS3tNB21JqWLTbVG.standard"
+            ],
+            "StepId": 59830,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "you can then pry the clips out of the liner . remove them all ."
+                }
+            ],
+            "Text_raw": "You can then pry the clips out of the liner. Remove them all.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LdJ33xFFbUXahjZC.standard"
+            ],
+            "StepId": 59831,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "gently pry down the cover for the glove box lamp ."
+                }
+            ],
+            "Text_raw": "Gently pry down the cover for the glove box lamp.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OsMVYGLvwrItXCFM.standard"
+            ],
+            "StepId": 59832,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "now unplug the two connections from the lamp and remove the lamp housing ."
+                },
+                {
+                    "Text": "be sure to make note of the orientation of the two wires for re-installation ."
+                }
+            ],
+            "Text_raw": "Now unplug the two connections from the lamp and remove the lamp housing. Be sure to make note of the orientation of the two wires for re-installation.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZFDKDhRKu2Rf4mrB.standard"
+            ],
+            "StepId": 59833,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "now the glove box liner will pull out by hand ."
+                }
+            ],
+            "Text_raw": "Now the glove box liner will pull out by hand.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4btBYStpW2PBMl31.standard"
+            ],
+            "StepId": 59834,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Glove Box Liner"
+}

@@ -1,0 +1,143 @@
+{
+    "Title": "Mercedes W123 Wheel Removal Technique",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22883,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "lug wrench",
+            "Url": "http://www.amazon.com/Wilmar-W2-Metric-Lug-Wrench/dp/B000FW2NU8/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889157&sr=1-1&keywords=lug+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Wheel+Removal+Technique/22883",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "start with your vehicle's wheels flat on level ground ."
+                },
+                {
+                    "Text": "grab your trusty lug wrench ."
+                },
+                {
+                    "Text": "place it on one of your lug bolts . note i say bolt , not lug nut . this will be explained later ."
+                },
+                {
+                    "Text": "yank on the lug wrench , it may take a lot of force to break the lug bolt loose !"
+                },
+                {
+                    "Text": "if you need some extra force use your leg , or even stand on the lug wrench being careful to keep your balance . this should break it free ."
+                }
+            ],
+            "Text_raw": "Start with your vehicle's wheels flat on level ground. Grab your trusty lug wrench. Place it on one of your lug bolts. Note I say bolt, not lug nut. This will be explained later. Yank on the lug wrench, it may take a lot of force to break the lug bolt loose! If you need some extra force use your leg, or even stand on the lug wrench being careful to keep your balance. This should break it free.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QMaNNF2q4Lw2jDrS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VVnFnMLnpfwp4Uda.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3MDVf5hvEMTwYjmM.standard"
+            ],
+            "StepId": 60022,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "repeat the previous step on all five lug bolts , on each of the wheels you plan to remove . this loosens them , but do not remove them yet ."
+                },
+                {
+                    "Text": "now , you'll jack up whichever end ( s ) of the vehicle you plan to work on ."
+                },
+                {
+                    "Text": "if you need guidance on this guide"
+                }
+            ],
+            "Text_raw": "Repeat the previous step on all five lug bolts, on each of the wheels you plan to remove. This loosens them, but do not remove them yet. Now, you'll jack up whichever end(s) of the vehicle you plan to work on. If you need guidance on this [guide|22770|see the jacking technique guide.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fOVVvPTS22Fh2nwb.standard"
+            ],
+            "StepId": 60023,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "continue to loosen each lug bolt until they can be removed ."
+                },
+                {
+                    "Text": "you can see here the lug bolt . this will be different than the lug nuts you may be used to on other vehicles ."
+                }
+            ],
+            "Text_raw": "Continue to loosen each lug bolt until they can be removed. You can see here the lug bolt. This will be different than the lug nuts you may be used to on other vehicles.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VIqlvBWcovlkHMQJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jGXfcT2unBKJSsgH.standard"
+            ],
+            "StepId": 60026,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "you can now remove the wheel . shown here is the rear wheel removed , exposing the brake disc ."
+                },
+                {
+                    "Text": "notice the lip of the hub exposed here . this will allow you to rest the wheel on the hub so you do not have to hold up its weight while getting the lug bolts back in during re-install ."
+                }
+            ],
+            "Text_raw": "You can now remove the wheel. Shown here is the rear wheel removed, exposing the brake disc. Notice the lip of the hub exposed here. This will allow you to rest the wheel on the hub so you do not have to hold up its weight while getting the lug bolts back in during re-install.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1ooCDQYTUmHN6cSj.standard"
+            ],
+            "StepId": 60027,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "re-install is basically the opposite of removal . however , as you tighten up the lug nuts , there are a few tips :"
+                },
+                {
+                    "Text": "tighten them in a star patter , rather than in a circular pattern . this ensure more even tightening ."
+                },
+                {
+                    "Text": "lower the car once they are snug so the tires are on the ground ."
+                },
+                {
+                    "Text": "finish tightening them with a torque wrench to ensure they are on tight enough . your owner's manual should specify the tightness required ."
+                }
+            ],
+            "Text_raw": "Re-install is basically the opposite of removal. However, as you tighten up the lug nuts, there are a few tips: Tighten them in a \"star\" patter, rather than in a circular pattern. This ensure more even tightening. Lower the car once they are snug so the tires are on the ground. Finish tightening them with a torque wrench to ensure they are on tight enough. Your owner's manual should specify the tightness required.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2qO2t4aKfHjyt5E3.standard"
+            ],
+            "StepId": 60028,
+            "Tools_extracted": [
+                "lug wrench",
+                "torque wrench"
+            ]
+        }
+    ],
+    "Subject": ""
+}

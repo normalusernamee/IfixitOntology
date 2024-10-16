@@ -1,0 +1,229 @@
+{
+    "Title": "Subwoofer Rubber Surround Repair",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 26043,
+    "Category": "Subwoofer",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "latex or nitrile gloves",
+            "Url": "http://www.amazon.com/dp/B00J084MHA/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flashlight",
+            "Url": "http://www.amazon.com/dp/B006VPPERC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Subwoofer+Rubber+Surround+Repair/26043",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "assess the damage . depending on the severity of the cut , you may need some other scaffolding material ( aside from rtv silicone ) to enclose the hole ."
+                },
+                {
+                    "Text": "this is especially true if a chunk of the rubber material is completely missing from the rubber surround ."
+                },
+                {
+                    "Text": "in this case , all we need to do is cover up the tear with rtv silicone in order to make the subwoofer almost as good as new functionally , at least ."
+                }
+            ],
+            "Text_raw": "Assess the damage. Depending on the severity of the cut, you may need some other scaffolding material (aside from RTV silicone) to enclose the hole. This is especially true if a chunk of the rubber material is completely missing from the rubber surround. In this case, all we need to do is cover up the tear with RTV silicone in order to make the subwoofer almost as good as new \u2014 functionally, at least.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uUtUv3JOyHA6KanN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FbtfgrUTSSuxMHKL.standard"
+            ],
+            "StepId": 65725,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "unscrew the eight 2 phillips screws using either a screwdriver or cordless driver ."
+                },
+                {
+                    "Text": "be careful if you use a cordless driver for either screwing or unscrewing you don't want to strip the screws or the enclosure's holes . you also don't want to accidentally create ''another'' hole in the rubber surround with either tool ."
+                }
+            ],
+            "Text_raw": "Unscrew the eight #2 Phillips screws using either a screwdriver or cordless driver. Be careful if you use a cordless driver for either screwing or unscrewing \u2014 you don't want to strip the screws or the enclosure's holes. You also don't want to accidentally create ''another'' hole in the rubber surround with either tool.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TdS15RSrNLZpZDWu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WMcWjv6pyY6rtCPZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pDluxnrlLafBGAHC.standard"
+            ],
+            "StepId": 65726,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a flat pry tool ( such as a flat-blade screwdriver ) to prop up an edge of the subwoofer ."
+                },
+                {
+                    "Text": "in my case , i just used the phillips 2 screwdriver i had on-hand ."
+                },
+                {
+                    "Text": "slide your fingers underneath the sub so that you get a good grip on its edge ."
+                },
+                {
+                    "Text": "carefully lift the subwoofer out of the enclosure , minding any wires that may be tethering the sub to the enclosure ."
+                }
+            ],
+            "Text_raw": "Use a flat pry tool (such as a flat-blade screwdriver) to prop up an edge of the subwoofer. In my case, I just used the Phillips #2 screwdriver I had on-hand. Slide your fingers underneath the sub so that you get a good grip on its edge. Carefully lift the subwoofer out of the enclosure, minding any wires that may be tethering the sub to the enclosure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NvNh1aPAbNNWMsxS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MQZYaAYi2JZftRZw.standard"
+            ],
+            "StepId": 65727,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use a clean , lint-free cloth to wipe away any dirt/grease/grime that would otherwise tarnish the bond between the rubber and rtv silicone ."
+                },
+                {
+                    "Text": "inspect the underside of the tear and also gently clean it with a cloth , if needed ."
+                }
+            ],
+            "Text_raw": "Use a clean, lint-free cloth to wipe away any dirt/grease/grime that would otherwise tarnish the bond between the rubber and RTV silicone. Inspect the underside of the tear and also gently clean it with a cloth, if needed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EJhyny3WFhHNmmVe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LjJXslsFaU1dxfhJ.standard"
+            ],
+            "StepId": 65728,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "time to get dirty . put on your favorite brand of nitrile or latex gloves ."
+                },
+                {
+                    "Text": "put a dab of rtv silicone on a disposable plate , or some other clean , non-essential surface ."
+                }
+            ],
+            "Text_raw": "Time to get dirty. Put on your favorite brand of nitrile or latex gloves. Put a dab of RTV silicone on a disposable plate, or some other clean, non-essential surface.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xOxwyOSQ3kiwBOHd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MY2uGjiRwWNclvQl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IUNEPEofJ3oSgte6.standard"
+            ],
+            "StepId": 65729,
+            "Tools_extracted": [
+                "latex or nitrile gloves"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "cut the end off a cotton swab in order to transform it into an rtv applicator ."
+                },
+                {
+                    "Text": "alternatively you can try removing all of the cotton from the swab , but you certainly ''do not want'' any cotton fibers to remain on the swab ."
+                },
+                {
+                    "Text": "dip the swab into the rtv silicone , and use it to apply the rtv silicone to the underside of the subwoofer tear ."
+                },
+                {
+                    "Text": "you do not need a huge amount of rtv silicone on either side of the rubber surround just enough to form a very thin layer ."
+                }
+            ],
+            "Text_raw": "Cut the end off a cotton swab in order to transform it into an RTV applicator. Alternatively you can try removing all of the cotton from the swab, but you certainly ''do not want'' any cotton fibers to remain on the swab. Dip the swab into the RTV silicone, and use it to apply the RTV silicone to the underside of the subwoofer tear. You do not need a huge amount of RTV silicone on either side of the rubber surround \u2014 just enough to form a very thin layer.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SUsUHdjvBOxtsOQB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Echvq2wH5xMesKav.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pXxRp6yqZJMCtACE.standard"
+            ],
+            "StepId": 65730,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "with the underside coated , put a dab of rtv silicone onto your gloved finger ."
+                },
+                {
+                    "Text": "gently spread the rtv silicone across the front of the torn subwoofer surround ."
+                },
+                {
+                    "Text": "again , you don't need gobs of rtv silicone in order to make a strong bond just enough to form a thin layer ."
+                }
+            ],
+            "Text_raw": "With the underside coated, put a dab of RTV silicone onto your gloved finger. Gently spread the RTV silicone across the front of the torn subwoofer surround. Again, you don't need gobs of RTV silicone in order to make a strong bond \u2014 just enough to form a thin layer.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UlJFCEIRFgFJVVVc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wiNak5cdwRFAqiZN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MDlyQCASXN6puud2.standard"
+            ],
+            "StepId": 65731,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "perform this action at your own risk -- you may inadvertently open up the hole again , depending on its size ."
+                },
+                {
+                    "Text": "push down a couple of times on the center of the subwoofer to ensure that the rtv silicone doesn't accidentally impede the movement of the sub ."
+                }
+            ],
+            "Text_raw": "Perform this action at your own risk -- you may inadvertently open up the hole again, depending on its size. Push down a couple of times on the center of the subwoofer to ensure that the RTV silicone doesn't accidentally impede the movement of the sub.",
+            "Images": [],
+            "StepId": 65732,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "after you're done applying the rtv silicone and testing the subwoofer's excursion , shine a strong flashlight through the now-covered hole , and ensure that no light bleeds through ."
+                },
+                {
+                    "Text": "ensure the sub wires are still connected properly , and reinstall the subwoofer back into the enclosure ."
+                }
+            ],
+            "Text_raw": "After you're done applying the RTV silicone and testing the subwoofer's excursion, shine a strong flashlight through the now-covered hole, and ensure that no light bleeds through. Ensure the sub wires are still connected properly, and reinstall the subwoofer back into the enclosure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KVyPHHYrNsWgJlOb.standard"
+            ],
+            "StepId": 65733,
+            "Tools_extracted": [
+                "flashlight"
+            ]
+        }
+    ],
+    "Subject": ""
+}

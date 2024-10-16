@@ -1,0 +1,416 @@
+{
+    "Title": "Disassembling Mercedes W123 Antenna Motor",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20902,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "metal spudger",
+            "Url": "https://www.ifixit.com/Tools/Metal-Spudger/IF145-012",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/CqYPL4Od3PMvu1wm.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Disassembling+Mercedes+W123+Antenna+Motor/20902",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "begin by un-clipping the motor housing cover ."
+                },
+                {
+                    "Text": "there are a total of fourteen clips . five on each of the long side , and two on top and bottom of the housing ."
+                },
+                {
+                    "Text": "the plastic of the housing and lid is very durable , however the thin plastic where the clips enter is an exception . the odds are that you will crack some of these areas as you remove the lid . do not fret , as the lid will stay closed even with just a few of the clips . the fact that there are fourteen speaks to the over-engineering at mercedes benz ."
+                }
+            ],
+            "Text_raw": "Begin by un-clipping the motor housing cover. There are a total of fourteen clips. Five on each of the long side, and two on top and bottom of the housing. The plastic of the housing and lid is very durable, however the thin plastic where the clips enter is an exception. The odds are that you will crack some of these areas as you remove the lid. Do not fret, as the lid will stay closed even with just a few of the clips. The fact that there are fourteen speaks to the over-engineering at Mercedes Benz.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LPQFZZgUMtxs5tRE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aOPuCUmNGfWUKUfi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AqDILKWvkNLYOuVx.standard"
+            ],
+            "StepId": 56849,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "as the clips come lose use a metal spudger to separate the cover from the body of the housing ."
+                },
+                {
+                    "Text": "it will eventually lift off and can be set aside ."
+                }
+            ],
+            "Text_raw": "As the clips come lose use a metal spudger to separate the cover from the body of the housing. It will eventually lift off and can be set aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QrS5XpVUZVmPmGOa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VKODZKSIClioMScZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/W4QgreMKCsiIDl5T.standard"
+            ],
+            "StepId": 56850,
+            "Tools_extracted": [
+                "metal spudger"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "make note of the rubber seal that goes around the body of the motor in a channel , sealing the cover to the body . if this seal is old a dry rotted it will need to be replaced , or a proper liquid sealant will need to be used in its place , if the motor is being re-used ."
+                }
+            ],
+            "Text_raw": "Make note of the rubber seal that goes around the body of the motor in a channel, sealing the cover to the body. If this seal is old a dry rotted it will need to be replaced, or a proper liquid sealant will need to be used in its place, if the motor is being re-used.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/beMXaSmeKDW4UkMy.standard"
+            ],
+            "StepId": 56851,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "the basic internal components of the motor are as follows :"
+                },
+                {
+                    "Text": "control board"
+                },
+                {
+                    "Text": "electric motor"
+                },
+                {
+                    "Text": "plastic drive gears"
+                },
+                {
+                    "Text": "antenna shaft"
+                },
+                {
+                    "Text": "to operate the antenna up and down , the electric motor turns in the appropriate direction which turns the worm gear . the worm gear tuns the upper plastic drive gear . that spins the lower plastic gear which then moves the ribbed plastic cable inside the cable housing below the gears , all of which you will see later ."
+                }
+            ],
+            "Text_raw": "The basic internal components of the motor are as follows: Control board Electric motor Plastic drive gears Antenna shaft To operate the antenna up and down, the electric motor turns in the appropriate direction which turns the worm gear. The worm gear tuns the upper plastic drive gear. That spins the lower plastic gear which then moves the ribbed plastic cable inside the cable housing below the gears, all of which you will see later.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YiQKWPPG2NItFcF5.standard"
+            ],
+            "StepId": 56852,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "you can see the accumulation of dirt and debris on these gears . if the antenna shaft had not seized it would only have been a matter of time before the gears wore or broke ."
+                }
+            ],
+            "Text_raw": "You can see the accumulation of dirt and debris on these gears. If the antenna shaft had not seized it would only have been a matter of time before the gears wore or broke.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HJQO6FfejnPSMkSg.standard"
+            ],
+            "StepId": 56853,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "continue disassembly by unscrewing the two phillips screws holding the electric motor in place ."
+                }
+            ],
+            "Text_raw": "Continue disassembly by unscrewing the two Phillips screws holding the electric motor in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OJvArJjWltItbgEV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TLhUSIYc6kAnertE.standard"
+            ],
+            "StepId": 56854,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the two rubber buffers that keep the case cover separated properly from the motors and gears ."
+                }
+            ],
+            "Text_raw": "Remove the two rubber buffers that keep the case cover separated properly from the motors and gears.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IWZWNDrLcyLu2oxV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WNNONPRZGgTKHuXX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bKotGNA1UIdbQZc6.standard"
+            ],
+            "StepId": 56855,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "use a metal spudger or flat blade screwdriver to remove the c-clip holding the gears to the bushing and shaft ."
+                }
+            ],
+            "Text_raw": "Use a metal spudger or flat blade screwdriver to remove the c-clip holding the gears to the bushing and shaft.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GqTgpKSUhpNrSh6k.standard"
+            ],
+            "StepId": 56856,
+            "Tools_extracted": [
+                "metal spudger"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "use a metal spudger to gently begin lifting the gears from the shaft ."
+                }
+            ],
+            "Text_raw": "Use a metal spudger to gently begin lifting the gears from the shaft.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rwKJ2HPO2emFSdGp.standard"
+            ],
+            "StepId": 56857,
+            "Tools_extracted": [
+                "metal spudger"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "as the gears begin to lift , the electric motor will likely pop loose . it can be rested off to the side ; it is wired to the control board so it cannot be removed fully at this time ."
+                }
+            ],
+            "Text_raw": "As the gears begin to lift, the electric motor will likely pop loose. It can be rested off to the side; it is wired to the control board so it cannot be removed fully at this time.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QqfnLkEo3jcMIT4H.standard"
+            ],
+            "StepId": 56858,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "continue lifting the gears out of their housing until they are free ."
+                },
+                {
+                    "Text": "as you can see , there are actually two gears in the housing ."
+                }
+            ],
+            "Text_raw": "Continue lifting the gears out of their housing until they are free. As you can see, there are actually two gears in the housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/t5J2jeH2QQgFbEmq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PMMCrSX2OgyuubLZ.standard"
+            ],
+            "StepId": 56859,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "the gears can be separated by simply pulling them apart with your hands ."
+                },
+                {
+                    "Text": "make note of which gear is the upper gear , and of the alignment of the gears and the spring together ."
+                }
+            ],
+            "Text_raw": "The gears can be separated by simply pulling them apart with your hands. Make note of which gear is the upper gear, and of the alignment of the gears and the spring together.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UFFHsuaEgRKcxhcP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5YlbrpxEMfolxe2U.standard"
+            ],
+            "StepId": 56860,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "lift the metal gear bushing up and off of the housing and set it aside ."
+                }
+            ],
+            "Text_raw": "Lift the metal gear bushing up and off of the housing and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fQ4Xd2HWGVGEjRxL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sSkjlyw2uNM2fwrC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IZx5Z5tcPXuHdhq3.standard"
+            ],
+            "StepId": 56861,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "unscrew the phillips head screw that helps hold the antenna shaft to the body ."
+                }
+            ],
+            "Text_raw": "Unscrew the Phillips head screw that helps hold the antenna shaft to the body.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/glRhsZYLbPhXDA5X.standard"
+            ],
+            "StepId": 56862,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "remove the outer sleeve on the shaft from the body by rotating it counter-clockwise ."
+                },
+                {
+                    "Text": "once loose from the body it can be pulled up the antenna shaft and out of the way ."
+                }
+            ],
+            "Text_raw": "Remove the outer sleeve on the shaft from the body by rotating it counter-clockwise. Once loose from the body it can be pulled up the antenna shaft and out of the way.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HnZOPjoOya2Q4GsU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3N13PWHONQNJC25l.standard"
+            ],
+            "StepId": 56863,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "pull the ribbed plastic cable connected to the antenna shaft out of the body of the motor ."
+                }
+            ],
+            "Text_raw": "Pull the ribbed plastic cable connected to the antenna shaft out of the body of the motor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WuSqEHJMcwlfjFaB.standard"
+            ],
+            "StepId": 56864,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "now you can remove the gear and cable housing . it seems to work best to rotate the housing up and in the direction of the antenna shaft opening before angling it up and pulling it out of the motor body ."
+                }
+            ],
+            "Text_raw": "Now you can remove the gear and cable housing. It seems to work best to rotate the housing up and in the direction of the antenna shaft opening before angling it up and pulling it out of the motor body.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aiFO2nNHSP6PDRGe.standard"
+            ],
+            "StepId": 56865,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "this leaves the lower cable retainer in place ."
+                },
+                {
+                    "Text": "lift it up and out ."
+                },
+                {
+                    "Text": "note the thin metal washer at the center of this ."
+                }
+            ],
+            "Text_raw": "This leaves the lower cable retainer in place. Lift it up and out. Note the thin metal washer at the center of this.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6ujJiqJbpCivLRHx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/55cwMV36EiwhQVhT.standard"
+            ],
+            "StepId": 56866,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "remove the three rubber buffers ."
+                },
+                {
+                    "Text": "remove the gear shaft ."
+                }
+            ],
+            "Text_raw": "Remove the three rubber buffers. Remove the gear shaft.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/y5BmfYIjyupOtUGH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1UkS6EByIy4sZuCq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/P2Px6tAXMrfsbF4U.standard"
+            ],
+            "StepId": 56867,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 19,
+            "Lines": [
+                {
+                    "Text": "you now have an empty motor housing , besides the control board ."
+                },
+                {
+                    "Text": "this disassembly does not cover the electric motor as everything is in plain sight ."
+                },
+                {
+                    "Text": "worm gear"
+                },
+                {
+                    "Text": "motor"
+                },
+                {
+                    "Text": "small belt driven pulleys for worm gear"
+                }
+            ],
+            "Text_raw": "You now have an empty motor housing, besides the control board. This disassembly does not cover the electric motor as everything is in plain sight. Worm gear Motor Small belt driven pulleys for worm gear",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Y3x4cVgKEsWJFMyQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UgPpWmWiTcmtdxRM.standard"
+            ],
+            "StepId": 56868,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Antenna Motor"
+}

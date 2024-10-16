@@ -1,0 +1,191 @@
+{
+    "Title": "Mercedes W123 Engine Shock, Early Style Diesel Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20761,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "7 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-21241-7mm-Combination-Wrench/dp/B000NY8Q8G/ref=sr_1_2?ie=UTF8&qid=1388418409&sr=8-2&keywords=7mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "6 allen wrench",
+            "Url": "http://www.amazon.com/TEKTON-1376-Drive-Socket-Cr-V/dp/B000NY4SGK/ref=sr_1_3?ie=UTF8&qid=1388418550&sr=8-3&keywords=6mm+allen+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Engine+Shock+Early+Style+Diesel+Replacement/20761",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "in order to proceed with the removal of your engine shocks you will need to remove the large lower bolts that hold the engine to the motor mounts , and then jack up the engine enough to allow for the removal of the shocks ."
+                },
+                {
+                    "Text": "guide"
+                },
+                {
+                    "Text": "since you will be removing one half of the bolts that hold your motor mounts in place consider replacing the mounts while you're replacing the shocks if you feel they are worn . these jobs are best done together ."
+                }
+            ],
+            "Text_raw": "In order to proceed with the removal of your engine shocks you will need to remove the large lower bolts that hold the engine to the motor mounts, and then jack up the engine enough to allow for the removal of the shocks. [guide|20760|For more on this, see the motor mount replacement guide.] Since you will be removing one half of the bolts that hold your motor mounts in place consider replacing the mounts while you're replacing the shocks if you feel they are worn. These jobs are best done together.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DKVE2CFelxO6tegU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NwRPFbNuqgWJlIHs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uRuY5pgrYuqEQvwx.standard"
+            ],
+            "StepId": 56724,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "with the engine properly jacked up you can start removing the engine shocks ."
+                },
+                {
+                    "Text": "the shock connects in two places :"
+                },
+                {
+                    "Text": "the top of the shock attaches to a bracket that bolts to the engine block ."
+                },
+                {
+                    "Text": "the bottom of the shock attaches to mounts on the frame cross-member ."
+                }
+            ],
+            "Text_raw": "With the engine properly jacked up you can start removing the engine shocks. The shock connects in two places: The top of the shock attaches to a bracket that bolts to the engine block. The bottom of the shock attaches to mounts on the frame cross-member.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1TYCLHLOMqFiuhlw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/15A5bSJQVVbSeOYU.standard"
+            ],
+            "StepId": 56725,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the 10 mm nut on the bottom of the shock ."
+                },
+                {
+                    "Text": "note that if you try to remove this nut you cannot at first as the shaft on the shock turns along with it ."
+                },
+                {
+                    "Text": "there is a flat area on the shaft , just above the large metal washer on the bottom portion of the shock . place a 7 mm crescent wrench on this to prevent the shaft from spinning . pictured from above ."
+                }
+            ],
+            "Text_raw": "Remove the 10mm nut on the bottom of the shock. Note that if you try to remove this nut you cannot at first as the shaft on the shock turns along with it. There is a flat area on the shaft, just above the large metal washer on the bottom portion of the shock. Place a 7mm crescent wrench on this to prevent the shaft from spinning. Pictured from above.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kKN2y3I1krI1kP1C.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wHpEq4HZgHtKR5xc.standard"
+            ],
+            "StepId": 56726,
+            "Tools_extracted": [
+                "10 mm wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the 10 mm nut from the top of the shock . pictured from above ."
+                },
+                {
+                    "Text": "hold the shock body with your hand while removing the nut to prevent the body of the shock from turning as you turn the nut ."
+                },
+                {
+                    "Text": "once this nut is removed the shock can be removed from the car by tilting the top away from the engine , out of the slot in the bracket that bolts to the engine , and then by pulling it up out of the hole in the mount on the cross-member ."
+                }
+            ],
+            "Text_raw": "Remove the 10mm nut from the top of the shock. Pictured from above. Hold the shock body with your hand while removing the nut to prevent the body of the shock from turning as you turn the nut. Once this nut is removed the shock can be removed from the car by tilting the top away from the engine, out of the slot in the bracket that bolts to the engine, and then by pulling it up out of the hole in the mount on the cross-member.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FCWgDO1iLMp6fhyo.standard"
+            ],
+            "StepId": 56727,
+            "Tools_extracted": [
+                "10 mm wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "make note of the order of the bushings , washers and cups as you remove them ."
+                },
+                {
+                    "Text": "shown here is the order , from bottom on the right to top on the left . on the bottom the mount on the cross member goes between each rubber bushing . on the top , the bracket goes between the rubber bushings ."
+                },
+                {
+                    "Text": "consider replacing the rubber bushings while you are replacing the shock . with age they soften and compress becoming less effective . new bushings are shown in this picture ."
+                },
+                {
+                    "Text": "remember that the shock shaft that has the flat spot for the 7 mm wrench goes on the bottom ."
+                }
+            ],
+            "Text_raw": "Make note of the order of the bushings, washers and cups as you remove them. Shown here is the order, from bottom on the right to top on the left. On the bottom the mount on the cross member goes between each rubber bushing. On the top, the bracket goes between the rubber bushings. Consider replacing the rubber bushings while you are replacing the shock. With age they soften and compress becoming less effective. New bushings are shown in this picture. Remember that the shock shaft that has the flat spot for the 7mm wrench goes on the bottom.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TUCNSWJJikF3xnZn.standard"
+            ],
+            "StepId": 56728,
+            "Tools_extracted": [
+                "wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "optional step"
+                },
+                {
+                    "Text": "on the car being used in this guide the bracket that holds the top of the shocks was removed in order to fix a cross threaded attachment bolt . if you desire , this bracket can be removed for cleaning ; many are very dirty on cars that had leaky oil pan gaskets ."
+                },
+                {
+                    "Text": "unbolt the two 6 mm allen bolts from the bottom of the bracket ; they are recessed in the holes in the bracket just inwards from the two shocks ."
+                },
+                {
+                    "Text": "remove the bracket from the car and clean , then re-install ."
+                },
+                {
+                    "Text": "these two bolts seem to have a tendency to back out of their thread and fall out . consider re-installing them with blue thread locker ."
+                }
+            ],
+            "Text_raw": "OPTIONAL STEP On the car being used in this guide the bracket that holds the top of the shocks was removed in order to fix a cross threaded attachment bolt. If you desire, this bracket can be removed for cleaning; many are very dirty on cars that had leaky oil pan gaskets. Unbolt the two 6mm allen bolts from the bottom of the bracket; they are recessed in the holes in the bracket just inwards from the two shocks. Remove the bracket from the car and clean, then re-install. These two bolts seem to have a tendency to back out of their thread and fall out. Consider re-installing them with blue thread locker.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rkq1BwiUl4u5HgEE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JPWmv6YYFvD1qMwk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hIPd4WTClOwehkKl.standard"
+            ],
+            "StepId": 56729,
+            "Tools_extracted": [
+                "6 allen wrench"
+            ]
+        }
+    ],
+    "Subject": "Engine Shock, Early Style Diesel"
+}

@@ -1,0 +1,277 @@
+{
+    "Title": "How to jump start a 2010 Honda Insight",
+    "Ancestors": [
+        "Honda Insight",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 37583,
+    "Category": "2009-2014 Honda Insight",
+    "Toolbox": [
+        {
+            "Name": "8 gauge booster cables jumper cables",
+            "Url": "http://www.amazon.com/Voltec-10-00281-8-Gauge-Booster-12-Foot/dp/B004IK9IGU/ref=sr_1_4?ie=UTF8&qid=1351494870&sr=8-4&keywords=8+gauge+booster+cables",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "another vehicle",
+            "Url": "/Item/Another_Vehicle",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+jump+start+a+2010+Honda+Insight/37583",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "make sure that both cars are turned off ."
+                },
+                {
+                    "Text": "pop open the hood of the insight by pulling the lever located here :"
+                }
+            ],
+            "Text_raw": "Make sure that both cars are turned off. Pop open the hood of the Insight by pulling the lever located here:",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5PkUQPUZrss5ad2U.standard"
+            ],
+            "StepId": 84596,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "open the hood by reaching under the hood ( in the front and center ) and pulling the lever ."
+                }
+            ],
+            "Text_raw": "Open the hood by reaching under the hood (in the front and center) and pulling the lever.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BvPmsAGcaNMTf5Lm.standard"
+            ],
+            "StepId": 84598,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "lock open the hood by grabbing the rod and inserting it into the hole on the under side of the hood ."
+                }
+            ],
+            "Text_raw": "Lock open the hood by grabbing the rod and inserting it into the hole on the under side of the hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nKrCupFoEL2d2U2x.standard"
+            ],
+            "StepId": 84599,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "open the hood of the charged car , and lock it up into place ( with rod if necessary ) ."
+                },
+                {
+                    "Text": "spring-action rod"
+                }
+            ],
+            "Text_raw": "Open the hood of the charged car, and lock it up into place (with rod if necessary). Spring-action rod",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eBnoMEvfYs1rofhr.standard"
+            ],
+            "StepId": 84601,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "grab your jumper cables ."
+                }
+            ],
+            "Text_raw": "Grab your jumper cables.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hcFMCaOwEPjOAYoY.standard"
+            ],
+            "StepId": 84602,
+            "Tools_extracted": [
+                "8 gauge booster cables jumper cables"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "locate the battery in the dead-battery car and the charged-battery car ."
+                },
+                {
+                    "Text": "the battery always has a big red plastic part that will indicate the positive terminal ."
+                }
+            ],
+            "Text_raw": "Locate the battery in the dead-battery car and the charged-battery car. The battery always has a big red plastic part that will indicate the positive terminal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wy166BA1QonHPfkx.standard"
+            ],
+            "StepId": 84603,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "warning ! do not let the leads touch each other or any other metal !"
+                },
+                {
+                    "Text": "attach the red lead to the '''charged car's''' battery where the positive ( red ) terminal is ."
+                }
+            ],
+            "Text_raw": "WARNING! DO NOT LET THE LEADS TOUCH EACH OTHER OR ANY OTHER METAL! Attach the RED lead to the '''charged car's''' battery where the positive (RED) terminal is.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2bfNuL3PViSWZADb.standard"
+            ],
+            "StepId": 84604,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "attach the other red lead to the positive ( red ) terminal of the '''dead car's''' battery ."
+                }
+            ],
+            "Text_raw": "Attach the other RED lead to the positive (RED) terminal of the '''dead car's''' battery.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/U5k2HJM1IaWf64sX.standard"
+            ],
+            "StepId": 84605,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "attach the black lead to the '''charged car's''' battery where the negative terminal is ."
+                }
+            ],
+            "Text_raw": "Attach the BLACK lead to the '''charged car's''' battery where the negative terminal is.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TVO5T53GwFVHV3LA.standard"
+            ],
+            "StepId": 84607,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "attach the other black lead to the grounding strap located here :"
+                },
+                {
+                    "Text": "do not connect the black lead to any other part of the car ."
+                }
+            ],
+            "Text_raw": "Attach the other BLACK lead to the grounding strap located here: Do not connect the black lead to any other part of the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5xDaiC3rFYL4qdPN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HXpB4ylNcYfFsEIV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KPMx3MfnfPDhvF4c.standard"
+            ],
+            "StepId": 84610,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "start the engine of the '''charged car''' and let the engine run for ++1-2 minutes . ++"
+                }
+            ],
+            "Text_raw": "Start the engine of the '''charged car''' and let the engine run for ++1-2 minutes.++",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ewdeXuG2nUSLyRTT.standard"
+            ],
+            "StepId": 84611,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "start the engine of the '''dead car''' and let it run for ++2-3 minutes . ++"
+                },
+                {
+                    "Text": "note : if your insight does not start at this point , let the battery charge for a few more minutes ."
+                }
+            ],
+            "Text_raw": "Start the engine of the '''dead car''' and let it run for ++2-3 minutes.++ NOTE: If your Insight does not start at this point, let the battery charge for a few more minutes.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WKxqLl1fB22VhApf.standard"
+            ],
+            "StepId": 84617,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "after the insight has successfully started and has been running for a ++few minutes++ , remove leads in reverse order from attachment ."
+                },
+                {
+                    "Text": "warning : do not let the leads touch each other or any other metal !"
+                }
+            ],
+            "Text_raw": "After the Insight has successfully started and has been running for a ++few minutes++, remove leads in reverse order from attachment. WARNING: DO NOT LET THE LEADS TOUCH EACH OTHER OR ANY OTHER METAL!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4bWoGQynRSUDWFQP.standard"
+            ],
+            "StepId": 84620,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "drive the insight for at least ++30 minutes ++before turning it off again to ensure a full charge for your battery ."
+                },
+                {
+                    "Text": "note : you may also simply let the engine run for 30 minutes rather than driving ."
+                }
+            ],
+            "Text_raw": "Drive the Insight for at least ++30 minutes ++before turning it off again to ensure a full charge for your battery. NOTE: You may also simply let the engine run for 30 minutes rather than driving.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WtjaJrcCgjoEc2vA.standard"
+            ],
+            "StepId": 84622,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

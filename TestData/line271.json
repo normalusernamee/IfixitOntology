@@ -1,0 +1,414 @@
+{
+    "Title": "2000-2007 Chevrolet Monte Carlo Passenger Side Blend Door Actuator Replacement",
+    "Ancestors": [
+        "Chevrolet",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 90486,
+    "Category": "Chevrolet Monte Carlo",
+    "Toolbox": [
+        {
+            "Name": "8 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-21251-8mm-Combination-Wrench/dp/B000NY3384/ref=sr_1_1?ie=UTF8&qid=1387823202&sr=8-1&keywords=8mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "7 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-21241-7mm-Combination-Wrench/dp/B000NY8Q8G/ref=sr_1_2?ie=UTF8&qid=1388418409&sr=8-2&keywords=7mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "plastic fastener remover",
+            "Url": "https://www.amazon.com/Lisle-35260-Plastic-Fastener-Remover/dp/B0002SRCMO/ref=sr_1_1?ie=UTF8&qid=1494956835&sr=8-1&keywords=panel+clip+tool",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 5.5 mm",
+            "Url": "http://www.amazon.com/dp/B00U5UDJMQ/ref=cm_sw_su_dp",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2000+2001+2002+2003+2004+2005+2006+2007+Chevrolet+Monte+Carlo+Passenger+Side+Blend+Door+Actuator+Replacement/90486",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "park the car on a flat surface , and remove the keys from the ignition ."
+                },
+                {
+                    "Text": "under the dashboard on the drivers side is the hood release latch . pull this until you feel the latch release , the hood should pop up a little when this happens ."
+                }
+            ],
+            "Text_raw": "Park the car on a flat surface, and remove the keys from the ignition. Under the dashboard on the drivers side is the hood release latch. Pull this until you feel the latch release, the hood should pop up a little when this happens.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TA4Yj3CVCu6Opfrx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AgvAmVOsDMWhScke.standard"
+            ],
+            "StepId": 170678,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "the hood should have popped up a little bit after pulling the hood latch , now you must release it before it can be opened ."
+                },
+                {
+                    "Text": "under the hood , slightly left-of-center is a release lever that must be pushed to open the hood all the way . this lever must be pushed to the right , in the direction of the car emblem ."
+                },
+                {
+                    "Text": "once you successfully release the hood , you should feel it try to rise up . these cars all have solenoids that assist in raising the hood . simply lift the hood up , and it should stay up without any intervention ."
+                }
+            ],
+            "Text_raw": "The hood should have popped up a little bit after pulling the hood latch, now you must release it before it can be opened. Under the hood, slightly left-of-center is a release lever that must be pushed to open the hood all the way. This lever must be pushed to the right, in the direction of the car emblem. Once you successfully release the hood, you should feel it try to rise up. These cars all have solenoids that assist in raising the hood. Simply lift the hood up, and it should stay up without any intervention.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rWhVdyuFMIAAXAMR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QcQHrVAWsBB5eKgZ.standard"
+            ],
+            "StepId": 170679,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "the battery is on the left side of the engine compartment ."
+                },
+                {
+                    "Text": "the cable connecting to the negative terminal should be black , and should have an exposed 8 mm bolt head that screws into the battery . the negative terminal should also be marked on the battery ."
+                },
+                {
+                    "Text": "use an 8 mm wrench to disconnect the negative terminal connector . tuck the lose connector out of the way of the battery , so that it cannot make contact with the terminal ."
+                },
+                {
+                    "Text": "be very careful not to touch the positive battery terminal ( with the wrench or yourself ) while you're doing this . there should be a red protective cover on the positive terminal , but it's always good to take precautions . shorting out a car battery will very likely result in a trip to the hospital ."
+                },
+                {
+                    "Text": "new batteries tend to come with plastic plugs for the terminals . if you have these for your battery , this would be a good opportunity to use them . this will prevent anything from touching the terminal ."
+                }
+            ],
+            "Text_raw": "The battery is on the left side of the engine compartment. The cable connecting to the negative terminal should be black, and should have an exposed 8mm bolt head that screws into the battery. The negative terminal should also be marked on the battery. Use an 8mm wrench to disconnect the negative terminal connector. Tuck the lose connector out of the way of the battery, so that it cannot make contact with the terminal. Be very careful not to touch the positive battery terminal (with the wrench or yourself) while you're doing this. There should be a red protective cover on the positive terminal, but it's always good to take precautions. Shorting out a car battery will very likely result in a trip to the hospital. New batteries tend to come with plastic plugs for the terminals. If you have these for your battery, this would be a good opportunity to use them. This will prevent anything from touching the terminal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4MpLsFfBIVoiBSql.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WvyKDFcLgr2dW53I.standard"
+            ],
+            "StepId": 170680,
+            "Tools_extracted": [
+                "8 mm socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "to access the hinges for the glove compartment door , the passenger side kick panel must first be removed ."
+                },
+                {
+                    "Text": "there are two clips ( red ) ,and a plastic fastener ( orange , located further back ) holding this panel to the dash . you'll put less bending stress on the panel if you remove the plastic fastener first ."
+                }
+            ],
+            "Text_raw": "To access the hinges for the glove compartment door, the passenger side kick panel must first be removed. There are two clips (red),and a plastic fastener (orange, located further back) holding this panel to the dash. You'll put less bending stress on the panel if you remove the plastic fastener first.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xjuTGf5jaTORE6S3.standard"
+            ],
+            "StepId": 170681,
+            "Tools_extracted": [
+                "plastic fastener remover"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use a plastic fastener removal tool to pop out the plastic fastener . this fastener was not designed to be easily removable , but the tool helps a lot ."
+                },
+                {
+                    "Text": "if you're careful , you can remove the fastener without damaging it . try to fold all of the ridges back before re-inserting it . if you plan on removing the kick panel again , you may want to invest in a fastener that's to remove ."
+                }
+            ],
+            "Text_raw": "Use a plastic fastener removal tool to pop out the plastic fastener. This fastener was not designed to be easily removable, but the tool helps a lot. If you're careful, you can remove the fastener without damaging it. Try to fold all of the \"ridges\" back before re-inserting it. If you plan on removing the kick panel again, you may want to invest in a fastener that's [https://www.amazon.com/OFFROADINGLIGHT-Retainer-Push-Style-Assortment-Chevrolet/dp/B06XG5JP3L/ref=sr_1_2?ie=UTF8&qid=1496018314&sr=8-2&keywords=plastic+fastener+assortment|easier to remove.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Vo6dau1qed2bGSCw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MpXCp1xnwErCHZZH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TwRlDYfXcnBaNbHo.standard"
+            ],
+            "StepId": 170682,
+            "Tools_extracted": [
+                "plastic fastener remover"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "now remove the clips on each side . this can be done by pushing the exposed tab forward ."
+                },
+                {
+                    "Text": "the kick panel should now fall down ."
+                },
+                {
+                    "Text": "don't pull the panel out just yet , there's still a courtesy light that is mounted on the panel and connected with a wire ."
+                }
+            ],
+            "Text_raw": "Now remove the clips on each side. This can be done by pushing the exposed tab forward. The kick panel should now fall down. Don't pull the panel out just yet, there's still a courtesy light that is mounted on the panel and connected with a wire.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RCHSeIVMN6Ao5byO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2rBKFriyvtHIMjrb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UFaeTh4hPQ3btdMJ.standard"
+            ],
+            "StepId": 170683,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the courtesy light from the panel by twisting it 45 degrees . it should release from the panel . keep in mind that this light will get hot , and can melt plastic trim . be careful where you let it hang if its lit ."
+                }
+            ],
+            "Text_raw": "Remove the courtesy light from the panel by twisting it 45 degrees. It should release from the panel. Keep in mind that this light will get hot, and can melt plastic trim. Be careful where you let it hang if its lit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DFA6BkPFrP3bUtKf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3Z45nKFJZKPYnFlu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GIxYGGvgFAw6LG2R.standard"
+            ],
+            "StepId": 170684,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "removing the kick panel should have exposed the hinge for the glove compartment door ."
+                },
+                {
+                    "Text": "there are five 7 mm hex head screws holding this hinge to the dashboard , remove them ."
+                }
+            ],
+            "Text_raw": "Removing the kick panel should have exposed the hinge for the glove compartment door. There are five 7mm hex head screws holding this hinge to the dashboard, remove them.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MeDXvEghGiQcLuVP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/32ioqNnBTgnXLhxu.standard"
+            ],
+            "StepId": 170685,
+            "Tools_extracted": [
+                "7 mm socket"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "now open the glove compartment and empty it out if you haven't already ."
+                },
+                {
+                    "Text": "there are supporting wires on each side of the door , you'll need to remove each one ."
+                }
+            ],
+            "Text_raw": "Now open the glove compartment and empty it out if you haven't already. There are supporting wires on each side of the door, you'll need to remove each one.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3MGBHVT4ZjFhV3y2.standard"
+            ],
+            "StepId": 170686,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "the left side supporting wire is pretty easy to remove ."
+                },
+                {
+                    "Text": "pushing the clip down will allow you to slide it out of the door , releasing the cable ."
+                },
+                {
+                    "Text": "this cable is spring loaded , and will retract upwards into the dash ."
+                }
+            ],
+            "Text_raw": "The left side supporting wire is pretty easy to remove. Pushing the clip down will allow you to slide it out of the door, releasing the cable. This cable is spring loaded, and will retract upwards into the dash.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FYPIFPBXevHaZk5C.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cbESklG3X2NkQSLW.standard"
+            ],
+            "StepId": 170687,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "to remove the right-side cable , you must push the center pin out of the clip first ."
+                },
+                {
+                    "Text": "now , the clip can be removed from the door . just push it through the hole ."
+                },
+                {
+                    "Text": "the door should now be fully disconnected from the car ."
+                }
+            ],
+            "Text_raw": "To remove the right-side cable, you must push the center pin out of the clip first. Now, the clip can be removed from the door. Just push it through the hole. The door should now be fully disconnected from the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RYveJTXkFrWIvNM2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vIgh2oACxbR3pJba.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ckmsg2lpFWBQjUHi.standard"
+            ],
+            "StepId": 170688,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "to remove the door , there's one last thing to do ."
+                },
+                {
+                    "Text": "even with everything disconnected , the door is still captive in the dash . there's a small plastic tab on the left side of the door that must be bent to release the door ."
+                },
+                {
+                    "Text": "a swift yank on the door should be enough to release it , but you'll want to look for yourself at how the tab is released ."
+                },
+                {
+                    "Text": "todo : take a picture with the door actually removed . . ."
+                }
+            ],
+            "Text_raw": "To remove the door, there's one last thing to do. Even with everything disconnected, the door is still captive in the dash. There's a small plastic tab on the left side of the door that must be bent to release the door. A swift yank on the door should be enough to release it, but you'll want to look for yourself at how the tab is released. TODO: Take a picture with the door actually removed...",
+            "Images": [],
+            "StepId": 170689,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "the passenger side blend door actuator is inside of the dashboard on the passenger side . it is most easily accessible by removing the glove compartment door ."
+                },
+                {
+                    "Text": "the actuator mounts on the side of an air duct , and turns a flap inside the duct directing air ."
+                }
+            ],
+            "Text_raw": "The passenger side blend door actuator is inside of the dashboard on the passenger side. It is most easily accessible by removing the glove compartment door. The actuator mounts on the side of an air duct, and turns a flap inside the duct directing air.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pNeZpbRK3Jbxtdp5.standard"
+            ],
+            "StepId": 170690,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "there is a 4-pin cable connecting to the bottom-left of the actuator . there is a tab that can be pressed to release the cable from the actuator ."
+                }
+            ],
+            "Text_raw": "There is a 4-pin cable connecting to the bottom-left of the actuator. There is a tab that can be pressed to release the cable from the actuator.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/q3sRZjXFwoYoKLTe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QvVJrlVnoRvwJXQj.standard"
+            ],
+            "StepId": 170691,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "there are two 5.5 mm hex head screws holding the actuator in place , remove them and the actuator should come free . there may be some cables that you'll need to push out of the way to get the actuator out ."
+                },
+                {
+                    "Text": "if you don't have a 5.5 mm socket , 7 /32 works well as an alternative . a 6 mm socket may damage the heads of the bolts if you try to use it ."
+                },
+                {
+                    "Text": "the third picture shows the old , original actuator ( right ) next to an aftermarket dorman replacement ."
+                }
+            ],
+            "Text_raw": "There are two 5.5mm hex head screws holding the actuator in place, remove them and the actuator should come free. There may be some cables that you'll need to push out of the way to get the actuator out. If you don't have a 5.5mm socket, 7/32\" works well as an alternative. A 6mm socket may damage the heads of the bolts if you try to use it. The third picture shows the old, original actuator (right) next to an aftermarket Dorman replacement.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JuKGZwXL2U2ZCXFO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cX25lNUcNOw1wlvV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QfGQEbin6LxcKMYE.standard"
+            ],
+            "StepId": 170693,
+            "Tools_extracted": [
+                "socket 5.5 mm"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "there's a good chance that the orientation of the blend door will not match that of the new actuator you bought . since it isn't possible to rotate the servo without supplying a signal to it , you'll have to move the blend door to line up with the servo ."
+                },
+                {
+                    "Text": "the white post is what the actuator turns . you should be able to turn this by hand to line up with your new actuator ."
+                },
+                {
+                    "Text": "now reinstall the new actuator , don't forget to connect the electrical connector ."
+                }
+            ],
+            "Text_raw": "There's a good chance that the orientation of the blend door will not match that of the new actuator you bought. Since it isn't possible to rotate the servo without supplying a signal to it, you'll have to move the blend door to line up with the servo. The white post is what the actuator turns. You should be able to turn this by hand to line up with your new actuator. Now reinstall the new actuator, don't forget to connect the electrical connector.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2CNDqIgMOTmFAQ4u.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CvptnPEpXEDTGSRU.standard"
+            ],
+            "StepId": 170694,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "there's one last step before you're done . you must calibrate the actuator with the cars hvac control system . this is because the car doesn't know the orientation of the new actuator . the procedure for this is as follows ."
+                },
+                {
+                    "Text": "reconnect the battery for the car , verify that you can start the car ."
+                },
+                {
+                    "Text": "while the car is off , remove the 10 a hvac system dic/rke fuse from the passenger side fuse box . let the car sit for at least a minute ."
+                },
+                {
+                    "Text": "reinstall the fuse and start the car , do not touch any of the climate controls . wait at least a minute while the car relearns the actuator positions ."
+                },
+                {
+                    "Text": "turn the car back off , wait at least 10 seconds , and then start it again . the relearn procedure is now complete ."
+                },
+                {
+                    "Text": "this part of the process is correct for 2000-2005 monte carlos , the calibration procedure for the 2006 and 2007 models is probably slightly different , as those cars have an entirely different set of fuses ."
+                }
+            ],
+            "Text_raw": "There's one last step before you're done. You must calibrate the actuator with the cars HVAC control system. This is because the car doesn't know the orientation of the new actuator. The procedure for this is as follows. Reconnect the battery for the car, verify that you can start the car. While the car is off, remove the 10A HVAC system \"DIC/RKE\" fuse from the passenger side fuse box. Let the car sit for at least a minute. Reinstall the fuse and start the car, do not touch any of the climate controls. Wait at least a minute while the car relearns the actuator positions. Turn the car back off, wait at least 10 seconds, and then start it again. The relearn procedure is now complete. This part of the process is correct for 2000-2005 Monte Carlos, the calibration procedure for the 2006 and 2007 models is probably slightly different, as those cars have an entirely different set of fuses.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QZjWPr4RwwUHDnkQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OaJMOtKC2jmZiFyM.standard"
+            ],
+            "StepId": 170695,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Passenger Side Blend Door Actuator"
+}

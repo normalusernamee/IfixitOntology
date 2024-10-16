@@ -1,0 +1,245 @@
+{
+    "Title": "How to remove  FHX-720bt head unit in a 1999-2007 Chevrolet Silverado",
+    "Ancestors": [
+        "Chevrolet Silverado",
+        "Chevrolet",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50444,
+    "Category": "1999-2007 Chevrolet Silverado",
+    "Toolbox": [
+        {
+            "Name": "1 4 socket",
+            "Url": "/Item/1_4%22_socket_wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 16 wrench",
+            "Url": "/Item/5_16%22_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "7 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-14112-4-Inch-Shallow-6-Point/dp/B000NPULAG/ref=sr_1_2?ie=UTF8&qid=1488928247&sr=8-2&keywords=7mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=3%2F8%20socket%20wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+remove++FHX-720bt+head+unit+in+a+1999+2000+2001+2002+2003+2004+2005+2006+2007+Chevrolet+Silverado/50444",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the hood latch in your vehicle located on the drivers side under the dash to the left of the parking brake pedal ."
+                },
+                {
+                    "Text": "pull the latch to release hood ."
+                }
+            ],
+            "Text_raw": "Locate the hood latch in your vehicle located on the drivers side under the dash to the left of the parking brake pedal. Pull the latch to release hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/E6EICaB4R6KTsSGS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/f5wwbadebkd4Eiku.standard"
+            ],
+            "StepId": 109326,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate the hood release latch in between the grille and hood ."
+                },
+                {
+                    "Text": "you will find this release latch near the center of the hood in the small gap between the hood and grille ."
+                },
+                {
+                    "Text": "lift up on the latch then raise the hood ."
+                }
+            ],
+            "Text_raw": "Locate the hood release latch in between the grille and hood. You will find this release latch near the center of the hood in the small gap between the hood and grille. Lift up on the latch then raise the hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lnPMaMSOOowILyay.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JBAdSaAFWMKs6lXF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KfbyaiRbQWG3cLbW.standard"
+            ],
+            "StepId": 109331,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "locate your battery . it's in the front of the engine compartment , on the drivers side ."
+                },
+                {
+                    "Text": "remove the negative terminal with 5 /16 socket or by using a 5 /16 wrench ."
+                },
+                {
+                    "Text": "be careful . do not cross positive and negative wires ."
+                }
+            ],
+            "Text_raw": "Locate your battery. It's in the  front of the engine compartment, on the drivers side. Remove the negative terminal with 5/16\" socket or by using a 5/16\" wrench. BE CAREFUL. DO NOT CROSS POSITIVE AND NEGATIVE WIRES.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rYsMtIrJiCyNrIfN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RGgToRCZXCpXvUNC.standard"
+            ],
+            "StepId": 109332,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "make sure the vehicle is on a flat surface , then use the parking brake ."
+                },
+                {
+                    "Text": "shift vehicle into 1 st gear so the shifter will be out of the way for the next step ."
+                }
+            ],
+            "Text_raw": "Make sure the vehicle is on a flat surface, then use the parking brake. Shift vehicle into 1st gear so the shifter will be out of the way for the next step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AxB4minnHi2KCh45.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gZo264xwFqEyNKKo.standard"
+            ],
+            "StepId": 109337,
+            "Tools_extracted": [
+                "1 4 socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "firmly grasp the dash trim and pull it towards you ."
+                },
+                {
+                    "Text": "once it is removed from its clips , pull up and the trim will come out the rest of the way ."
+                },
+                {
+                    "Text": "set the trim aside ; you are ready for the next step ."
+                }
+            ],
+            "Text_raw": "Firmly grasp the dash trim and pull it towards you. Once it is removed from its clips, pull up and the trim will come out the rest of the way. Set the trim aside; you are ready for the next step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ioJwedPUXhsPc6GS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HaTkT5SbaGa6OtDV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xryHN3HPg6xVhOuv.standard"
+            ],
+            "StepId": 109340,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the face plate from the head unit ."
+                },
+                {
+                    "Text": "to do this , pull out on both the left and right sides to release the head unit from its clips ."
+                },
+                {
+                    "Text": "after being released from the clips , set the face plate aside and continue to the next step ."
+                }
+            ],
+            "Text_raw": "Remove the face plate from the head unit. To do this, pull out on both the left and right sides to release the head unit from its clips. After being released from the clips, set the face plate aside and continue to the next step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jedUYdirOam2BsTK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sV3rCFdGYCnMMKyM.standard"
+            ],
+            "StepId": 109345,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the three bolts on both sides of the unit using the 7 mm socket and ratchet ."
+                }
+            ],
+            "Text_raw": "Remove the three bolts on both sides of the unit using the 7 mm socket  and ratchet.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TVOe6CCAp1LjSqOV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dYCHG4o4BZuUwebi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LJQUKYjvF5YInp4B.standard"
+            ],
+            "StepId": 109347,
+            "Tools_extracted": [
+                "7 mm socket"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "now that the bolts are removed ; you can gently pull the head unit out ."
+                },
+                {
+                    "Text": "you can now access the back of the head unit ."
+                }
+            ],
+            "Text_raw": "Now that the bolts are removed; You can gently pull the head unit out. You can now access the back of the head unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WbeGSQkUXDWf6n6Q.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3dqQ6nRNyHd5kFjY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GZIoxnLFoAcDTLNM.standard"
+            ],
+            "StepId": 109350,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "this is the back panel of the head unit and assorted wiring connections that you can now access for upgrades , replacements , or fixes ."
+                },
+                {
+                    "Text": "listed below are the wires coming connected to the head unit . the colors correspond to the same color of the wire ."
+                },
+                {
+                    "Text": "rca inputs"
+                },
+                {
+                    "Text": "microphone input/wire"
+                },
+                {
+                    "Text": "power/audio/assorted control wire harness"
+                },
+                {
+                    "Text": "antenna input/wire"
+                },
+                {
+                    "Text": "harness disconnect"
+                }
+            ],
+            "Text_raw": "This is the back panel  of the head unit and assorted wiring connections that you can now access for upgrades, replacements, or fixes. Listed below are the wires coming connected to the head unit. The colors correspond to the same color of the wire. RCA inputs Microphone input/wire Power/audio/assorted control wire harness Antenna input/wire Harness disconnect",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bst5yJtDJPAjLH5y.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UFkXpqlBDkH1jg1o.standard"
+            ],
+            "StepId": 109640,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

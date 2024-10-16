@@ -1,0 +1,92 @@
+{
+    "Title": "1985-1988 Volvo 740 Jacking Rear Wheels",
+    "Ancestors": [
+        "Volvo",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3852,
+    "Category": "1985-1988 Volvo 740",
+    "Toolbox": [
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1985+1986+1987+1988+Volvo+740+Jacking+Rear+Wheels/3852",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "turn car off and remove keys from ignition ."
+                },
+                {
+                    "Text": "place car in park ( automatic ) or neutral ( manual ) ."
+                },
+                {
+                    "Text": "engage parking brake ."
+                }
+            ],
+            "Text_raw": "Turn car off and remove keys from ignition. Place car in park (automatic) or neutral (manual). Engage parking brake.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/I4jnYsYiLNdbZpNb.standard"
+            ],
+            "StepId": 18247,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use hydraulic jack on frame of car to raise car ."
+                },
+                {
+                    "Text": "place jack head underneath frame couple ( pictured ) ."
+                },
+                {
+                    "Text": "only necessary to jack the car until the wheels are just off the ground ."
+                }
+            ],
+            "Text_raw": "Use hydraulic jack on frame of car to raise car. Place jack head underneath frame couple (pictured). Only necessary to jack the car until the wheels are just off the ground.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MOLCJmdp3REPGt2q.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DjFGFEpuZSrN3HgO.standard"
+            ],
+            "StepId": 18252,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "place jack stand on frame of car and remove jack ."
+                },
+                {
+                    "Text": "do not work under car supported only by hydraulic jack , serious injury or death may result ."
+                }
+            ],
+            "Text_raw": "Place jack stand on frame of car and remove jack. Do not work under car supported only by hydraulic jack, serious injury or death may result.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oPoDv5PpmKJeRQBe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hjIDUrQaeQyUEuyr.standard"
+            ],
+            "StepId": 18253,
+            "Tools_extracted": [
+                "hydraulic floor jack",
+                "jack stand"
+            ]
+        }
+    ],
+    "Subject": ""
+}

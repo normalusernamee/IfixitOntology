@@ -1,0 +1,186 @@
+{
+    "Title": "2004 Pontiac Grand AM Oil Change",
+    "Ancestors": [
+        "Pontiac Grand Am",
+        "Pontiac",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 16090,
+    "Category": "1999-2005 Pontiac Grand Am",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "unspecified socket",
+            "Url": "/Item/unspecified_socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "set of car ramps",
+            "Url": "/Item/Set_of_car_ramps",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil filter wrench",
+            "Url": "http://amzn.com/B0009WG5SU",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2004+Pontiac+Grand+AM+Oil+Change/16090",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "place wheel ramps in front of the front tires ."
+                },
+                {
+                    "Text": "carefully drive car onto wheel ramps ."
+                },
+                {
+                    "Text": "set parking brake and place a wedge between a rear tire to prevent rollback ."
+                }
+            ],
+            "Text_raw": "Place wheel ramps in front of the front tires. Carefully drive car onto wheel ramps. Set parking brake and place a wedge between a rear tire to prevent rollback.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VaFmdQkEIjKqF6WG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LMDVerJaerSMSxHy.standard"
+            ],
+            "StepId": 50310,
+            "Tools_extracted": [
+                "set of car ramps"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "gather oil drip pan , oil filter wrench , socket wrench and socket ."
+                },
+                {
+                    "Text": "locate oil drain plug ( as shown in picture ) and place oil drip pan under plug ."
+                },
+                {
+                    "Text": "using the socket wrench and socket , remove the oil drain plug by turning it counterclockwise ."
+                },
+                {
+                    "Text": "allow oil to drain into oil drip pan for 10-15 minutes ."
+                },
+                {
+                    "Text": "screw oil drain plug back in until hand tight . using socket wrench and socket , turn oil drain plug one more full rotation ."
+                }
+            ],
+            "Text_raw": "Gather oil drip pan, oil filter wrench, socket wrench and socket. Locate oil drain plug (as shown in picture) and place oil drip pan under plug. Using the socket wrench and socket, remove the oil drain plug by turning it counterclockwise. Allow oil to drain into oil drip pan for 10-15 minutes. Screw oil drain plug back in until hand tight. Using socket wrench and socket, turn oil drain plug one more full rotation.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hbtRuFDlOB2N2ZYK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QEoOUfgaYe3WZFWJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4yubT5iqdF5FDFe2.standard"
+            ],
+            "StepId": 50311,
+            "Tools_extracted": [
+                "oil drain pan",
+                "oil filter wrench",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "locate the oil filter ( as shown in picture ) and place oil drip pan underneath ."
+                },
+                {
+                    "Text": "using oil filter wrench , loosen oil filter . remove rest of the way by hand . be careful as filter is full of oil ."
+                },
+                {
+                    "Text": "allow oil to drip into pan for 5-10 minutes ."
+                },
+                {
+                    "Text": "lightly coat rubber seal on new filter with fresh oil ."
+                },
+                {
+                    "Text": "screw on new filter until hand tight ."
+                },
+                {
+                    "Text": "dispose of used oil at local auto store or repair shop ."
+                }
+            ],
+            "Text_raw": "Locate the oil filter (as shown in picture) and place oil drip pan underneath. Using oil filter wrench, loosen oil filter. Remove rest of the way by hand. Be careful as filter is full of oil. Allow oil to drip into pan for 5-10 minutes. Lightly  coat rubber seal on new filter with fresh oil. Screw on new filter until hand tight. Dispose of used oil at local auto store or repair shop.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FUuWOSrAHRMCe5OW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uHTITnfcwWCAHYeD.standard"
+            ],
+            "StepId": 50312,
+            "Tools_extracted": [
+                "oil drain pan",
+                "oil filter wrench",
+                "oil"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "pop open hood ."
+                },
+                {
+                    "Text": "locate the oil fill cap ( as shown in picture ) and remove ."
+                },
+                {
+                    "Text": "place funnel into hole and carefully pour four fresh quarts of oil into funnel ."
+                },
+                {
+                    "Text": "replace oil fill cap and close hood ."
+                }
+            ],
+            "Text_raw": "Pop open hood. Locate the oil fill cap (as shown in picture) and remove. Place funnel into hole and carefully pour four fresh quarts of oil into funnel. Replace oil fill cap and close hood.",
+            "Images": [],
+            "StepId": 50316,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove wedge from rear tires ."
+                },
+                {
+                    "Text": "disengage parking brake and slowly back off of ramps ."
+                },
+                {
+                    "Text": "allow car to run for about 5 minutes ."
+                },
+                {
+                    "Text": "check for any leaks around oil filter and oil drain plug ."
+                },
+                {
+                    "Text": "if any leaks , tighten oil filter or oil drain plug ."
+                }
+            ],
+            "Text_raw": "Remove wedge from rear tires. Disengage parking brake and slowly back off of ramps. Allow car to run for about 5 minutes. Check for any leaks around oil filter and oil drain plug. If any leaks, tighten oil filter or oil drain plug.",
+            "Images": [],
+            "StepId": 126976,
+            "Tools_extracted": [
+                "oil",
+                "set of car ramps"
+            ]
+        }
+    ],
+    "Subject": "Changing oil"
+}

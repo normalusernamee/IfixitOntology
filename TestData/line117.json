@@ -1,0 +1,254 @@
+{
+    "Title": "Repairing Mercedes W123 Door Lock Vacuum Actuator, Early Style",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20147,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "8 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14189-Drive-Socket-6-Point/dp/B000NY4TYQ/ref=sr_1_4?ie=UTF8&qid=1388418081&sr=8-4&keywords=8mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "vacuum hand pump with gauge",
+            "Url": "http://amzn.com/B00265M9SS",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "dielectric grease",
+            "Url": "http://www.amazon.com/dp/B000AL8VD2/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Repairing+Mercedes+W123+Door+Lock+Vacuum+Actuator+Early+Style/20147",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before you begin , you'll need to remove your door panels on the doors affected . guide"
+                }
+            ],
+            "Text_raw": "Before you begin, you'll need to remove your door panels on the doors affected. [guide|20198|Click here to review the door panel removal technique guide.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kJQKg1JH2VVxZdSR.standard"
+            ],
+            "StepId": 56343,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "after removing your door panel you'll find the actuator attached to the bottom edge of the door . there will be two vacuum lines entering it , and a rod connecting it to an armature of the lock mechanism ."
+                },
+                {
+                    "Text": "use a screwdriver to remove the c-clip that is holding the rod to the metal cross-piece on the actuator . be careful to save the c-clip someplace safe ."
+                }
+            ],
+            "Text_raw": "After removing your door panel you'll find the actuator attached to the bottom edge of the door. There will be two vacuum lines entering it, and a rod connecting it to an armature of the lock mechanism. Use a screw driver to remove the c-clip that is holding the rod to the metal cross-piece on the actuator. Be careful to save the c-clip someplace safe.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VsxlST12fRs1ADpK.standard"
+            ],
+            "StepId": 56003,
+            "Tools_extracted": [
+                "vacuum hand pump with gauge",
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "next , undo the two 8 mm bolts that hold the actuator to the door ."
+                },
+                {
+                    "Text": "gently pull off the vacuum line rubber ends from the actuator . if the lines are stuck , which they often are if they have been attached for many years , carefully use the flat side of a screwdriver to pry the rubber part away from the body of the actuator ."
+                },
+                {
+                    "Text": "you can now pull the actuator down , away from the end of the lock connecting rod , and then out of the door ."
+                },
+                {
+                    "Text": "note that on each of the three doors with actuators ( rear driver's side , and both passenger side doors ) , the actuators will be oriented in different directions . for example , on the rear passenger side door , the actuator will be oriented so that the vacuum lines are outside of view within the door ."
+                }
+            ],
+            "Text_raw": "Next, undo the two 8mm bolts that hold the actuator to the door. Gently pull off the vacuum line rubber ends from the actuator. If the lines are stuck, which they often are if they have been attached for many years, carefully use the flat side of a screw driver to pry the rubber part away from the body of the actuator. You can now pull the actuator down, away from the end of the lock connecting rod, and then out of the door. Note that on each of the three doors with actuators (rear driver's side, and both passenger side doors), the actuators will be oriented in different directions. For example, on the rear passenger side door, the actuator will be oriented so that the vacuum lines are outside of view within the door.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3MpyMOZEUP6jMQEW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AWh6gxlIXZhyYYIY.standard"
+            ],
+            "StepId": 56004,
+            "Tools_extracted": [
+                "vacuum hand pump with gauge",
+                "flathead screwdriver",
+                "8 mm socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "now that the actuator is out of the door , you're ready to begin replacing the diaphragms . remove the metal cross-piece between the two sets of diaphragms by gently prying the round metal portion of each diaphragm with a flat blade screwdriver ."
+                }
+            ],
+            "Text_raw": "Now that the actuator is out of the door, you're ready to begin replacing the diaphragms. Remove the metal cross-piece between the two sets of diaphragms by gently prying the round metal portion of each diaphragm with a flat blade screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JjKFdSqxYWUgBCVc.standard"
+            ],
+            "StepId": 55950,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "check all four diaphragms for any sign of excess wear . wear most often shows as cracks . vacuum leaks through these cracks ."
+                },
+                {
+                    "Text": "purchase only as many diaphragms as you need ; they are about 10.00 each ."
+                },
+                {
+                    "Text": "the top diaphragms , facing up towards the bottom of the windows , are often the most worn due to more exposure to water and dirt that enter the door past the window scraper ."
+                },
+                {
+                    "Text": "before beginning , give the whole assembly a light cleaning . mild soap and water is sufficient ."
+                }
+            ],
+            "Text_raw": "Check all four diaphragms for any sign of excess wear. Wear most often shows as cracks. Vacuum \"leaks\" through these cracks. Purchase only as many diaphragms as you need; they are about $10.00 each. The top diaphragms, facing up towards the bottom of the windows, are often the most worn due to more exposure to water and dirt that enter the door past the window scraper. Before beginning, give the whole assembly a light cleaning. Mild soap and water is sufficient.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TGLygHdE5Sp3MR46.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VMXEavuS1miCBdQi.standard"
+            ],
+            "StepId": 55944,
+            "Tools_extracted": [
+                "vacuum hand pump with gauge"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "using a flat blade screwdriver , gently pry on one of the two clips that hold the retaining rings over the diaphragms ."
+                },
+                {
+                    "Text": "be gentle , as this is the weakest component of the entire assembly and there are no easily sourced replacements available for these ."
+                },
+                {
+                    "Text": "remove the ring and set it aside after a gentle cleaning of the inside of the ring ."
+                }
+            ],
+            "Text_raw": "Using a flat blade screw driver, gently pry on one of the two clips that hold the retaining rings over the diaphragms. Be gentle, as this is the weakest component of the entire assembly and there are no easily sourced replacements available for these. Remove the ring and set it aside after a gentle cleaning of the inside of the ring.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sqtWWcsir2FBUCVT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KOQ5IAIGYDmTnapJ.standard"
+            ],
+            "StepId": 55945,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "the best way to remove the diaphragms is to firmly squeeze the soft portion between the upper metal portion and the plastic actuator body ."
+                },
+                {
+                    "Text": "pry in one direction , and once the diaphragm is released at one edge it can be pulled off entirely ."
+                },
+                {
+                    "Text": "inspect the inside of the actuator body and clean if necessary ."
+                },
+                {
+                    "Text": "replace the diaphragms with the new ones , and coat lightly with synthetic grease like the dielectric grease used for spark plugs ; this will help preserve the rubber ."
+                }
+            ],
+            "Text_raw": "The best way to remove the diaphragms is to firmly squeeze the soft portion between the upper metal portion and the plastic actuator body. Pry in one direction, and once the diaphragm is released at one edge it can be pulled off entirely. Inspect the inside of the actuator body and clean if necessary. Replace the diaphragms with the new ones, and coat lightly with synthetic grease like the dielectric grease used for spark plugs; this will help preserve the rubber.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YCNjIFTceyHNu6Jv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/G6RIZ41WhuPLXSsV.standard"
+            ],
+            "StepId": 55946,
+            "Tools_extracted": [
+                "dielectric grease"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "while you have the actuator out you might as well check the bottom diaphragms . as you can see here , they are often in much better shape ."
+                },
+                {
+                    "Text": "however , after removing the retaining rings , you'll probably find some dirt and grit hidden beneath . this can work under the edge and cause slow leaks , leading to overnight leak-down of the system ."
+                },
+                {
+                    "Text": "given this , consider pulling off even diaphragms that look good to give them a gentle cleaning ."
+                },
+                {
+                    "Text": "re-install and grease the diaphragms as well , and then clip the retaining rings back in place ."
+                }
+            ],
+            "Text_raw": "While you have the actuator out you might as well check the bottom diaphragms. As you can see here, they are often in much better shape. However, after removing the retaining rings, you'll probably find some dirt and grit hidden beneath. This can work under the edge and cause slow leaks, leading to overnight leak-down of the system. Given this, consider pulling off even diaphragms that look good to give them a gentle cleaning. Re-install and grease the diaphragms as well, and then clip the retaining rings back in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/byWfnwNrvGpcPrSa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZSCFxKCuDiUSXPKm.standard"
+            ],
+            "StepId": 55947,
+            "Tools_extracted": [
+                "dielectric grease"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "re-install the metal connector on the metal portion of each diaphragm . coming at them from an angle , like shown , can help ."
+                }
+            ],
+            "Text_raw": "Re-install the metal connector on the metal portion of each diaphragm. Coming at them from an angle, like shown, can help.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jLyDcArsOL3JPeCq.standard"
+            ],
+            "StepId": 55948,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "double check that the rubber of each diaphragm is well greased , and then prepare to re-install it in the door ."
+                }
+            ],
+            "Text_raw": "Double check that the rubber of each diaphragm is well greased, and then prepare to re-install it in the door.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vdcwGO3RwN5oObHm.standard"
+            ],
+            "StepId": 55949,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

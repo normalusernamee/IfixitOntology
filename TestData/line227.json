@@ -1,0 +1,198 @@
+{
+    "Title": "2013 Subaru Impreza WRX Mud Flaps Replacement",
+    "Ancestors": [
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50516,
+    "Category": "Subaru",
+    "Toolbox": [
+        {
+            "Name": "phillips screwdriver",
+            "Url": "/Item/Phillips_head_screwdriver",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "7 16 socket",
+            "Url": "http://www.amazon.com/TEKTON-14131-16-Inch-Shallow-6-Point/dp/B000NPPCHS/ref=sr_1_1?s=power-hand-tools&ie=UTF8&qid=1434663920&sr=8-1&keywords=tekton+14131",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=3%2F8%20socket%20wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2013+Subaru+Impreza+WRX+Mud+Flaps+Replacement/50516",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "always make sure your car is off , the parking break is applied , and you are in a safe area free from other passing cars ."
+                }
+            ],
+            "Text_raw": "Always make sure your car is off, the parking break is applied, and you are in a safe area free from other passing cars.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Hm2LFfXH6DjcjpuK.standard"
+            ],
+            "StepId": 109662,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "turn the wheels all the way towards the side you will be working on ."
+                },
+                {
+                    "Text": "this will create easier access to the inside of the wheel well when you are replacing the mud flap ."
+                }
+            ],
+            "Text_raw": "Turn the wheels all the way towards the side you will be working on. This will create easier access to the inside of the wheel well when you are replacing the mud flap.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tRKbSsxjTRESAERY.standard"
+            ],
+            "StepId": 109666,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "start with the front mud flaps ."
+                },
+                {
+                    "Text": "attach the 7 /16th size socket piece to the wrench and begin removing the 7 /16th diameter nuts ."
+                }
+            ],
+            "Text_raw": "Start with the front mud flaps. Attach the 7/16th size socket piece to the wrench and begin removing the 7/16th diameter nuts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BfW1ZraMKavxdMbg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KHEQDBgbr1yhTrC6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BfkPXihGFT2dQoV5.standard"
+            ],
+            "StepId": 109671,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use your phillips head screwdriver to unscrew the farthest 6 3 /4 stainless phillips screw ."
+                },
+                {
+                    "Text": "be careful not to loose the rubber gasket attached to the screw ."
+                }
+            ],
+            "Text_raw": "Use your Philips Head screwdriver to unscrew the farthest #6 3/4\" Stainless Philips Screw. Be careful not to loose the rubber gasket attached to the screw.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TNc2mpKlyLTNYAeS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CtqQkYwUNGBlQOIQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XxZFRSLyDCpVbLLl.standard"
+            ],
+            "StepId": 109685,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "once the old mud flap is removed , grab your new mud flap and reattach it in the same manner as how you removed the old or broken one ."
+                },
+                {
+                    "Text": "repeat for opposite front mud flap ."
+                }
+            ],
+            "Text_raw": "Once the old mud flap is removed, grab your new mud flap and reattach it in the same manner as how you removed the old or broken one. Repeat for opposite front mud flap.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jo1cpDUjr2ks1LyV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VjfbsJ2qcWORukcB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bQqNWJ2UdT6HyktT.standard"
+            ],
+            "StepId": 109702,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "for the back two mud flaps you will need to use a slightly different technique due to the limited space you will be working in ."
+                },
+                {
+                    "Text": "use your hands and the 10 mm wrench piece to unbolt the mud flap ."
+                },
+                {
+                    "Text": "once you have removed the nuts , you can move on to the 6 3 /4 phillips head screw ."
+                },
+                {
+                    "Text": "this step will be aided by the use of an extra small phillips screwdriver ."
+                }
+            ],
+            "Text_raw": "For the back two mud flaps you will need to use a slightly different technique due to the limited space you will be working in. Use your hands and the 10mm wrench piece to unbolt the mud flap. Once you have removed the nuts, you can move on to the #6 3/4\" Philips Head Screw. This step will be aided by the use of an extra small Philips screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZEGSSOTZAdfW5hlK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JFygKncNJSbCAkgM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jQfVEuCH3UbFOkQ2.standard"
+            ],
+            "StepId": 109712,
+            "Tools_extracted": [
+                "10 mm wrench",
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "replace both back mud flaps and fasten all pieces back in place ."
+                }
+            ],
+            "Text_raw": "Replace both back mud flaps and fasten all pieces back in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bP1HJcrs3NhdcXSt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EXQRSrNxULYdrZnS.standard"
+            ],
+            "StepId": 110205,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "make sure the mud flaps are all properly tightened and positioned before driving your car again ."
+                },
+                {
+                    "Text": "enjoy your brand new mud flaps ."
+                }
+            ],
+            "Text_raw": "Make sure the mud flaps are all properly tightened and positioned before driving your car again. Enjoy your brand new mud flaps.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RNDPuVrQPdFAQKWZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QOIkcIySoya3u2UV.standard"
+            ],
+            "StepId": 109742,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Mud Flaps"
+}

@@ -1,0 +1,131 @@
+{
+    "Title": "Audi Navigation Plus CD-ROM Drive Lens Cleaning",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 12404,
+    "Category": "Audi Navigation Plus RNS-D",
+    "Toolbox": [
+        {
+            "Name": "high content rubbing alcohol",
+            "Url": "http://www.amazon.com/Swan-Isopropyl-Alcohol-99%25-Pint/dp/B001B5JT8C/ref=sr_1_1?ie=UTF8&qid=1370540729&sr=8-1&keywords=rubbing+alcohol",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "metal spudger",
+            "Url": "https://www.ifixit.com/Tools/Metal-Spudger/IF145-012",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/CqYPL4Od3PMvu1wm.mini"
+        },
+        {
+            "Name": "ph00 phillips screwdriver",
+            "Url": "https://www.ifixit.com/Store/Parts/Phillips-00-Screwdriver/IF145-006",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/rLfPqcRxAVqNxfwc.mini"
+        },
+        {
+            "Name": "q-tips",
+            "Url": "http://www.amazon.com/Q-tips-Cotton-Swabs-500-Count/dp/B00005304H/ref=sr_1_2?ie=UTF8&qid=1370479101&sr=8-2&keywords=q-tips",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "tweezers",
+            "Url": "http://www.ifixit.com/Tools/Tweezers/IF145-020-5",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/vpkPZkdbvOUTTaIO.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Audi+Navigation+Plus+CD-ROM+Drive+Lens+Cleaning/12404",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "use the flat edge of a metal spudger and/or a flat head screwdriver to pry open the top cover ."
+                },
+                {
+                    "Text": "when closing the cover , make sure the cover is completely locked as shown in the third picture ."
+                }
+            ],
+            "Text_raw": "Use the flat edge of a metal spudger and/or a flat head screwdriver to pry open the top cover. When closing the cover, make sure the cover is completely locked as shown in the third picture.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LYRENOCgqqgbwngi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lZ2CHhUSLw5NRot1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/B222nWX16XbEb4Yo.standard"
+            ],
+            "StepId": 42985,
+            "Tools_extracted": [
+                "metal spudger"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove one gold colored phillips screw located in the center ."
+                }
+            ],
+            "Text_raw": "Remove one gold colored Phillips screw located in the center.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xtrrsXPMh3nCBSpw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JGtPxVHjuXcRKF4A.standard"
+            ],
+            "StepId": 42986,
+            "Tools_extracted": [
+                "ph00 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "it is advisable to grab an old cd and push it half way into the cd-rom drive until it is visible through the hole marked in the first picture . this will prevent the part that has to be removed in this step to fall down into the unit , with the risk of damaging the laser ."
+                },
+                {
+                    "Text": "the metal plate slides forward as shown in the first picture ."
+                },
+                {
+                    "Text": "use a pair of tweezers to very carefully slide forward and then lift up and remove the metal plate together with the white plastic disk , if they fall into the unit you are going to have to take it apart completely ( guide ) ."
+                }
+            ],
+            "Text_raw": "It is advisable to grab an old CD and push it half way into the CD-ROM drive until it is visible through the hole marked in the first picture. This will prevent the part that has to be removed in this step to fall down into the unit, with the risk of damaging the laser. The metal plate slides forward as shown in the first picture. Use a pair of tweezers to very carefully slide forward and then lift up and remove the metal plate together with the white plastic disk, if they fall into the unit you are going to have to take it apart completely ([guide|12405|using this guide]).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4fHkIUniFSiSUoNH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gBJaGDMwWFvDBDEd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1TvLifAPDRmTiqxH.standard"
+            ],
+            "StepId": 42988,
+            "Tools_extracted": [
+                "tweezers"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "locate the lens inside the cd-rom drive ."
+                },
+                {
+                    "Text": "make sure that there is no dust on or near the player and area you are working on . dust can get on the lens and scratch it while you are cleaning . it is very important that the lens is not damaged because the lens is used to read the discs ."
+                },
+                {
+                    "Text": "dip one end of a cotton swab in rubbing alcohol ."
+                },
+                {
+                    "Text": "lightly dab the swab on the lens . be very gentle ."
+                },
+                {
+                    "Text": "let the lens dry before putting the unit back together ."
+                }
+            ],
+            "Text_raw": "Locate the lens inside the CD-ROM drive. Make sure that there is no dust on or near the player and area you are working on. Dust can get on the lens and scratch it while you are cleaning. It is very important that the lens is not damaged because the lens is used to read the discs. Dip one end of a cotton swab in rubbing alcohol. Lightly dab the swab on the lens. Be very gentle. Let the lens dry before putting the unit back together.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UXaHvPkSmBnedZQC.standard"
+            ],
+            "StepId": 42987,
+            "Tools_extracted": [
+                "high content rubbing alcohol"
+            ]
+        }
+    ],
+    "Subject": ""
+}

@@ -1,0 +1,238 @@
+{
+    "Title": "2009 Subaru Impreza WRX Front Door Panel Replacement",
+    "Ancestors": [
+        "Subaru Impreza",
+        "Subaru",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 42168,
+    "Category": "2007-2011 Subaru Impreza",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2009+Subaru+Impreza+WRX+Front+Door+Panel+Replacement/42168",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "pry up the plastic tab from inside the handle located on the front door armrest ."
+                }
+            ],
+            "Text_raw": "Pry up the plastic tab from inside the  handle located on the front door armrest.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wu3DVKaMOaJqN1js.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JbjLgAeVHvRFZX5B.standard"
+            ],
+            "StepId": 97400,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "pry up the plastic tab from inside the door handle housing ."
+                }
+            ],
+            "Text_raw": "Pry up the plastic tab from inside the door handle housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/b3QnGNsBJ3N1BCMC.standard"
+            ],
+            "StepId": 97405,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use your phillips screwdriver to unscrew the 8x3 /4 phillips screw by the upper door handle ."
+                },
+                {
+                    "Text": "unscrew the second 8x3 /4 phillips screw located inside the lower door handle on the door's armrest ."
+                }
+            ],
+            "Text_raw": "Use your Phillips screwdriver to unscrew the 8x3/4\" Phillips screw by the upper door handle. Unscrew the second 8x3/4\" Phillips screw located inside the lower door handle on the door's armrest.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WGuagFrFXnOPZNGZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4TKjSFSLZloj1Mi3.standard"
+            ],
+            "StepId": 97406,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "pry off the entire door speaker and its housing located inside of the mirror ."
+                },
+                {
+                    "Text": "using your flathead screwdriver , pry up the latch connecting the two white cords and disconnect the speaker ."
+                }
+            ],
+            "Text_raw": "Pry off the entire door speaker and its housing located inside of the mirror. Using your flathead screwdriver, pry up the latch connecting the two white cords and disconnect the speaker.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DLZwXUrpVlDaSjvt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EO2ypFf4GwxR5GSK.standard"
+            ],
+            "StepId": 97407,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "using your flathead screwdriver , pry the middle plastic door piece away from the armrest ."
+                }
+            ],
+            "Text_raw": "Using your flathead screwdriver, pry the middle plastic door piece away from the armrest.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wkWoT12II4d3kq1U.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/o5DK5Pqv5ZPOG2jZ.standard"
+            ],
+            "StepId": 97410,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "using your flathead screwdriver , press the white tab on the side of the larger cord bundle connecting the assembly ."
+                },
+                {
+                    "Text": "the larger cord bundle now can be pulled out ."
+                },
+                {
+                    "Text": "press the white tab on the smaller cord bundle and disconnect the smaller cord bundle from the assembly ."
+                },
+                {
+                    "Text": "take note of the two screws that are now visible in the middle of the door panel ."
+                }
+            ],
+            "Text_raw": "Using your flathead screwdriver, press the white tab on the side of the larger cord bundle connecting the assembly. The larger cord bundle now can be pulled out. Press the white tab on the smaller cord bundle and disconnect the smaller cord bundle from the assembly. Take note of the two screws that are now visible in the middle of the door panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wwO5FO1pLc16psMw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kG6Bw6oeKwWWZ2dF.standard"
+            ],
+            "StepId": 97412,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "unscrew both 8x3 /4 phillips screws from the middle of the door panel using your phillips screwdriver ."
+                }
+            ],
+            "Text_raw": "Unscrew both 8x3/4\" Phillips screws from the middle of the door panel using your Phillips screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZqQC3nrhkXynGYfa.standard"
+            ],
+            "StepId": 97414,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "pry the left side of the door panel away from the door using a flathead screwdriver ."
+                },
+                {
+                    "Text": "it may be easiest to start by prying away where the red circle is located ."
+                }
+            ],
+            "Text_raw": "Pry the left side of the door panel away from the door using a flathead screwdriver. It may be easiest to start by prying away where the red circle is located.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/h4LGwW1nF4MccwkM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wxd14cgMA6kZPAib.standard"
+            ],
+            "StepId": 97408,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "using your hands now , pry the door panel away from the door ."
+                },
+                {
+                    "Text": "you will hear a series of pops when the white tabs disconnect from the door ."
+                }
+            ],
+            "Text_raw": "Using your hands now, pry the door panel away from the door. You will hear a series of pops when the white tabs disconnect from the door.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YQ5dwhKhKHGgh2qN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/B6wbg5LIiqUAibSP.standard"
+            ],
+            "StepId": 97409,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "finish pulling the door off of the frame , now that all the clips have been disconnected ."
+                },
+                {
+                    "Text": "pull the door from the top , not the bottom or sides ."
+                }
+            ],
+            "Text_raw": "Finish pulling the door off of the frame, now that all the clips have been disconnected. Pull the door from the top, not the bottom or sides.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/X4xMHECTWaMRhrLj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4AgPgkFSEAJDehBF.standard"
+            ],
+            "StepId": 97415,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "disconnect the final two power window cables that connect the door panel to the door frame by pulling both out of their sockets ."
+                },
+                {
+                    "Text": "congratulations ! you are now done ."
+                }
+            ],
+            "Text_raw": "Disconnect the final two power window cables that connect the door panel to the door frame by pulling both out of their sockets. Congratulations! You are now done.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6pbjyj46KxOkp3G4.standard"
+            ],
+            "StepId": 97416,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Front Door Panel"
+}

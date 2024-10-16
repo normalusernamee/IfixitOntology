@@ -1,0 +1,195 @@
+{
+    "Title": "How to Replace a Tail Light for a 2011-2015 Ford Explorer",
+    "Ancestors": [
+        "Ford Explorer",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50472,
+    "Category": "2011-Present Ford Explorer",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "8 mm deep socket wrench",
+            "Url": "/Item/8_mm_deep_socket_wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+Replace+a+Tail+Light+for+a+2011+2012+2013+2014+2015+Ford+Explorer/50472",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "lift and open the rear cargo door ."
+                }
+            ],
+            "Text_raw": "Lift and open the rear cargo door.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OjGrHBlZZyDlIplD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bJOkcPXei5KEOYFP.standard"
+            ],
+            "StepId": 109236,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate the two plastic screw covers that are adjacent to the rear light covers ."
+                }
+            ],
+            "Text_raw": "Locate the two plastic screw covers that are adjacent to the rear light covers.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fVBUumwQDP4tkrsk.standard"
+            ],
+            "StepId": 109238,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "using a flathead screwdriver , pry out both plastic screw covers ."
+                }
+            ],
+            "Text_raw": "Using a flathead screwdriver, pry out both plastic screw covers.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KvSljpRZNCrSS6AQ.standard"
+            ],
+            "StepId": 109240,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "once covers are removed , there will be an 8 mm hex head screw located beneath each cover ."
+                }
+            ],
+            "Text_raw": "Once covers are removed, there will be an 8 mm hex head screw located beneath each cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/T6IQVKQXbFiEGQSO.standard"
+            ],
+            "StepId": 109242,
+            "Tools_extracted": [
+                "8 mm deep socket wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "using an 8 mm deep socket wrench , remove both of the 20 mm ( length ) hex-head screws ."
+                }
+            ],
+            "Text_raw": "Using an 8 mm Deep Socket Wrench, remove both of the 20 mm (length) hex-head screws.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/W2itLHVJC3oqupkP.standard"
+            ],
+            "StepId": 109243,
+            "Tools_extracted": [
+                "8 mm deep socket wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "gently pull the tail light cover from the car ."
+                },
+                {
+                    "Text": "you may have to gently play with the cover by moving it back and forth in order to pry it loose form the car ."
+                }
+            ],
+            "Text_raw": "Gently pull the tail light cover from the car. You may have to gently play with the cover by moving it back and forth in order to pry it loose form the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HogJnoXLK3petLyx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/N3GNuHh3BmWUu16E.standard"
+            ],
+            "StepId": 109247,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "once removed , the bulb sockets will be located on the inside portion of the tail light cover ."
+                }
+            ],
+            "Text_raw": "Once removed, the bulb sockets will be located on the inside portion of the tail light cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JsIAhh5Q2sBr3ed3.standard"
+            ],
+            "StepId": 109249,
+            "Tools_extracted": [
+                "8 mm deep socket wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "turn the bulb socket about one quarter turn in a counterclockwise direction ."
+                },
+                {
+                    "Text": "after it is turned , gently pull and remove the bulb socket from the tail light cover ."
+                }
+            ],
+            "Text_raw": "Turn the bulb socket about one quarter turn in a counterclockwise direction. After it is turned, gently pull and remove the bulb socket from the tail light cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jCHoIhESZb6kQhUO.standard"
+            ],
+            "StepId": 109255,
+            "Tools_extracted": [
+                "8 mm deep socket wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "gently remove the bulb from the bulb socket ."
+                }
+            ],
+            "Text_raw": "Gently remove the bulb from the bulb socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2KXImMwCy2lZDstO.standard"
+            ],
+            "StepId": 109259,
+            "Tools_extracted": [
+                "8 mm deep socket wrench"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "gently place the new bulb in the bulb socket ."
+                }
+            ],
+            "Text_raw": "Gently place the new bulb in the bulb socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UsuHxVPwRPIaKJhK.standard"
+            ],
+            "StepId": 109262,
+            "Tools_extracted": [
+                "8 mm deep socket wrench"
+            ]
+        }
+    ],
+    "Subject": "Tail Light Bulbs"
+}

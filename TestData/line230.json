@@ -1,0 +1,216 @@
+{
+    "Title": "How to Clean an Electric Valve for Air Horns",
+    "Ancestors": [
+        "Auto Accessory",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 53593,
+    "Category": "Marco Air Horn",
+    "Toolbox": [
+        {
+            "Name": "threadlocker",
+            "Url": "http://www.utensileriaonline.it/collanti-sigillanti-c-7/anaerobici-c-7_45/bloccante-forte-loxeal-fissa-cuscinetti-8521-250ml-p-244.php#.VmHMeLjqhBc",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "14 mm socket wrench",
+            "Url": "/Item/14_mm_Socket_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "compressed air",
+            "Url": "http://www.amazon.com/CRC-Compressed-Air-Duster-05185/dp/B0002JMCEQ/ref=sr_1_6?s=automotive&ie=UTF8&qid=1407345044&sr=1-6&keywords=compressed+air",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "rib joint pliers",
+            "Url": "http://www.amazon.com/CRL-Multiple-Rib-Joint-Pliers/dp/B001O492KA",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+Clean+an+Electric+Valve+for+Air+Horns/53593",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "use the socket wrench to rotate the valve ."
+                }
+            ],
+            "Text_raw": "Use the socket wrench to rotate the valve.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ffMQsrvm1WMYR4VE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LTU6EYPI6L24HPub.standard"
+            ],
+            "StepId": 118386,
+            "Tools_extracted": [
+                "14 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "unscrew the fixing nut using the wrench ."
+                },
+                {
+                    "Text": "don't lose the pieces : put them in order in a safe place . a good example is a white sheet of paper ."
+                }
+            ],
+            "Text_raw": "Unscrew the fixing nut using the wrench. Don't lose the pieces:  put them in order in a safe place. A good example is a white sheet of paper.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Y5qSXu3J1dhknsZ1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jYurkKweIwsXmoSh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NficZWFGZU4RLOHJ.standard"
+            ],
+            "StepId": 118387,
+            "Tools_extracted": [
+                "14 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the solenoid ( the black plastic box ) ."
+                },
+                {
+                    "Text": "carefully unscrew the head of the valve : it could be hard to remove due to the threadlocker ."
+                },
+                {
+                    "Text": "use the rib jonit plier and apply a counterclockwise rotation on it ."
+                },
+                {
+                    "Text": "finish the unscrewing by hand ."
+                },
+                {
+                    "Text": "don't lose the head : put it , again , in a safe place ."
+                }
+            ],
+            "Text_raw": "Remove the solenoid (the black plastic box). Carefully unscrew the head of the valve: it could be hard to remove due to the threadlocker. Use the Rib Jonit plier and apply a counterclockwise rotation on it. Finish the unscrewing by hand. Don't lose the head: put it, again, in a safe place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qv2ifQApS6E2cygu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6mFtIe2uc5rZuEWp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PIKlTUGhawRFB5Tr.standard"
+            ],
+            "StepId": 118388,
+            "Tools_extracted": [
+                "threadlocker",
+                "rib joint pliers"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "gently tilt the whole thing and the spring and piston should exit the valve ."
+                },
+                {
+                    "Text": "inspect them for cleanliness and put them in a safe place ."
+                }
+            ],
+            "Text_raw": "Gently tilt the whole thing and the spring and piston should exit the valve. Inspect them for cleanliness and put them in a safe place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1OdiaaObEAJ3LbmP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/o3VSEXPEjYwFTnKG.standard"
+            ],
+            "StepId": 118389,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "blow in the valve with compressed air to clean it"
+                },
+                {
+                    "Text": "blow on the piston and other pieces , if dirty , as well ."
+                }
+            ],
+            "Text_raw": "Blow in the valve with compressed air to clean it Blow on the piston and other pieces, if dirty, as well.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/otvavI3JWYYW6ncB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HKU53EJqgWEpLCKE.standard"
+            ],
+            "StepId": 118390,
+            "Tools_extracted": [
+                "compressed air"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "place the piston , first ."
+                },
+                {
+                    "Text": "then put the spring in the piston's hole ."
+                }
+            ],
+            "Text_raw": "Place the piston, first. Then put the spring in the piston's hole.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/G1VZerIWoDxbNpOh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JqJLiZFfwgUtmEfS.standard"
+            ],
+            "StepId": 118391,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "put some threadlocker on the thread"
+                },
+                {
+                    "Text": "'''don't exceed : ''' you may permanently damage the device !"
+                },
+                {
+                    "Text": "screw the head on the valve ."
+                },
+                {
+                    "Text": "use the plier to tighten valve's head : there's no need to tighten it too much ."
+                }
+            ],
+            "Text_raw": "Put some threadlocker on the thread '''Don't exceed:''' you may permanently damage the device! Screw the head on the valve. Use the plier to tighten valve's head: there's no need to tighten it too much.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nlt6gjeK5AUZqpGQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/f3cTXfUKZrttNY4e.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CNDgoiCuLCGSOaKQ.standard"
+            ],
+            "StepId": 118396,
+            "Tools_extracted": [
+                "threadlocker"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "insert the solenoid and put the washer on the top ."
+                },
+                {
+                    "Text": "finally , screw the nut with the wrench ."
+                },
+                {
+                    "Text": "set the valve back in blace , using the wrench ."
+                }
+            ],
+            "Text_raw": "Insert the solenoid and put the washer on the top. Finally, screw the nut with the wrench. Set the valve back in blace, using the wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cZAqH5ZGwtGUymdE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UTpDLMNHXOhREwPg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DvwKEhIKBSbATLr5.standard"
+            ],
+            "StepId": 118398,
+            "Tools_extracted": [
+                "14 mm socket wrench"
+            ]
+        }
+    ],
+    "Subject": ""
+}

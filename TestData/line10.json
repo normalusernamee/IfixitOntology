@@ -1,0 +1,381 @@
+{
+    "Title": "1998-2002 Honda Accord Ignition Switch Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3285,
+    "Category": "1998-2002 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "electrical tape in 6 assorted colors",
+            "Url": "http://www.ifixit.com/Store/Tools/Electrical-Tape-in-6-Assorted-Colors/IF145-088",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/3kDtLplL2LoTT4Wp.mini"
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "digital multimeter",
+            "Url": "http://www.ifixit.com/Tools/Digital-Multimeter/IF145-035",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xNFyZme2DEF2H5ZE.mini"
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1998+1999+2000+2001+2002+Honda+Accord+Ignition+Switch+Replacement/3285",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the tools and materials you will need :"
+                },
+                {
+                    "Text": "10 mm wrench"
+                },
+                {
+                    "Text": "phillips screwdriver"
+                },
+                {
+                    "Text": "flathead screwdriver"
+                },
+                {
+                    "Text": "electrical tape"
+                },
+                {
+                    "Text": "multimeter ( not shown )"
+                },
+                {
+                    "Text": "electrical portion of the honda accord ignition switch"
+                }
+            ],
+            "Text_raw": "The tools and materials you will need: 10 mm Wrench Phillips Screwdriver Flathead Screwdriver Electrical Tape Multimeter (not shown) Electrical portion of the Honda Accord ignition switch",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aTQGTkJGCOqBpFRH.standard"
+            ],
+            "StepId": 15906,
+            "Tools_extracted": [
+                "flathead screwdriver",
+                "10 mm wrench",
+                "phillips screwdriver",
+                "digital multimeter",
+                "electrical tape in 6 assorted colors"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "disconnect the battery . this is especially important because you're going to be working near the airbag ."
+                },
+                {
+                    "Text": "do not touch any yellow wires under the dash -- they're for the airbag ( or so i've heard ) ."
+                },
+                {
+                    "Text": "as you can see , i keep my battery in tip-top shape . the grime acts as a blanket layer of protection against the elements ."
+                }
+            ],
+            "Text_raw": "Disconnect the battery. This is especially important because you're going to be working near the airbag. Do not touch any yellow wires under the dash -- they're for the airbag (or so I've heard). As you can see, I keep my battery in tip-top shape. The grime acts as a blanket layer of protection against the elements.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eF2PBCONPJMKeSCi.standard"
+            ],
+            "StepId": 15885,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the driver's side fuse panel cover ."
+                }
+            ],
+            "Text_raw": "Remove the driver's side fuse panel cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/G5aEguOotLltVBIo.standard"
+            ],
+            "StepId": 15889,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the two phillips retaining screws that hold the driver's side lower panel to the dash ."
+                }
+            ],
+            "Text_raw": "Remove the two Phillips retaining screws that hold the driver's side lower panel to the dash.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pXIDTlUV2kHrQOsI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1rSSk1mo4wBTKkHv.standard"
+            ],
+            "StepId": 15890,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use a flathead screwdriver to pry off the left side of the panel immediately below the radio surround ."
+                }
+            ],
+            "Text_raw": "Use a flathead screwdriver to pry off the left side of the panel immediately below the radio surround.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/B2R5DCyOOaA1QvIc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/26l1WeWNEAYdeOQs.standard"
+            ],
+            "StepId": 15891,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the last phillips screw securing the right side of the driver's side lower panel ."
+                }
+            ],
+            "Text_raw": "Remove the last Phillips screw securing the right side of the driver's side lower panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LRNGA3xVXQCyw1Mv.standard"
+            ],
+            "StepId": 15892,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "now the driver's side lower panel can be removed . begin on the left side and gently pull it off , so that all of the retaining clips are released ."
+                }
+            ],
+            "Text_raw": "Now the driver's side lower panel can be removed. Begin on the left side and gently pull it off, so that all of the retaining clips are released.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hg44i25K6TTMuA1X.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vaHES125O6hYXsii.standard"
+            ],
+            "StepId": 15893,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "the ignition switch can now be unplugged for testing . the switch connects to the rear of the driver's side fuse panel . shine a flashlight and find the connector highlighted in red ."
+                }
+            ],
+            "Text_raw": "The ignition switch can now be unplugged for testing. The switch connects to the rear of the driver's side fuse panel. Shine a flashlight and find the connector highlighted in red.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mWsPiMoF2E54isPP.standard"
+            ],
+            "StepId": 15894,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "users are reporting a variation of the ignition switch positions on the pictured diagram that corresponds to these numbers :"
+                },
+                {
+                    "Text": "lock : all open acc : 1 + 5 on : 1+3+4+5 start 1+2+3"
+                },
+                {
+                    "Text": "now it's testing time . the key should be placed into the ignition switch and turned to the appropriate position ; you should test for continuity between each of the points as outlined in the guide ."
+                },
+                {
+                    "Text": "i want to mention that this testing should be performed as thoroughly as possible , since the switch may appear to be fine at first . i got lucky in the sense that the switch immediately failed one of the tests . the best way to test the switch is to plug in the multimeter leads into the 1 and 4 terminals , and then to cycle between on and start . eventually the multimeter should read no continuity in the on position , indicating that the switch is bad ."
+                }
+            ],
+            "Text_raw": "Users are reporting a variation of the ignition switch positions on the pictured diagram that corresponds to these numbers: LOCK: All Open | ACC: 1 + 5 | ON: 1+3+4+5 | START 1+2+3 Now it's testing time. The key should be placed into the ignition switch and turned to the appropriate position; you should test for continuity between each of the points as outlined in the guide. I want to mention that this testing should be performed as thoroughly as possible, since the switch may appear to be fine at first. I got lucky in the sense that the switch immediately failed one of the tests. The best way to test the switch is to plug in the multimeter leads into the 1 and 4 terminals, and then to cycle between \"On\" and \"Start.\" Eventually the multimeter should read \"no continuity\" in the \"On\" position, indicating that the switch is bad.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/q1hMnSuVUNnuuqp2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TwTNptZXPnT6bMOv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Xltujk3wHqjgcJFn.standard"
+            ],
+            "StepId": 15895,
+            "Tools_extracted": [
+                "digital multimeter"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "of course proceed at this point only if the switch failed one of the continuity tests . also , make sure that the ignition switch is in the lock position before proceeding any further ."
+                },
+                {
+                    "Text": "lower the steering wheel adjustment lever all the way down ."
+                }
+            ],
+            "Text_raw": "Of course proceed at this point only if the switch failed one of the continuity tests. Also, make sure that the ignition switch is in the \"Lock\" position before proceeding any further. Lower the steering wheel adjustment lever all the way down.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dtGhw5rV3Ae42qyx.standard"
+            ],
+            "StepId": 15896,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "remove the three phillips screws on the lower steering column cover ."
+                },
+                {
+                    "Text": "pop the lower steering column cover off the top cover , giving you access to the electrical portion of the ignition switch ."
+                }
+            ],
+            "Text_raw": "Remove the three Phillips screws on the lower steering column cover. Pop the lower steering column cover off the top cover, giving you access to the electrical portion of the ignition switch.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/24wHkfJug3Lr2Phj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ScnayoqaKNgeI2PG.standard"
+            ],
+            "StepId": 15897,
+            "Tools_extracted": [
+                "electrical tape in 6 assorted colors",
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "while in the general ignition switch area , make sure not to touch the steering column adjustment grease . i found it to be very greasy , as grease should be ."
+                }
+            ],
+            "Text_raw": "While in the general ignition switch area, make sure not to touch the steering column adjustment grease. I found it to be very greasy, as grease should be.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jUVqvqqfTOrpuhiK.standard"
+            ],
+            "StepId": 15902,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "unscrew the two phillips screws that hold the ignition switch cover ( and switch itself ) in place ."
+                }
+            ],
+            "Text_raw": "Unscrew the two Phillips screws that hold the ignition switch cover (and switch itself) in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PnsQcDQAx3tN3HWl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4TSNk3SOBmldBbFn.standard"
+            ],
+            "StepId": 15899,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "the cover should be loose on the switch , however there is another screw holding it in place behind the steering wheel ."
+                },
+                {
+                    "Text": "i found this screw by feeling around for it after realizing the cover was still held in place by something . it was not completely necessary to remove this screw to replace the switch , so i'll leave it up to you whether or not you want to remove it . the screw is in such a difficult place that i figured it would be harder to screw it back in place after removing it than just bending the ignition switch cover backwards and removing the switch ."
+                },
+                {
+                    "Text": "other users have partially broken the cover since they did not fully remove the third screw . you've been warned ."
+                }
+            ],
+            "Text_raw": "The cover should be loose on the switch, however there is another screw holding it in place behind the steering wheel. I found this screw by feeling around for it after realizing the cover was still held in place by something. It was not completely necessary to remove this screw to replace the switch, so I'll leave it up to you whether or not you want to remove it. The screw is in such a difficult place that I figured it would be harder to screw it back in place after removing it than just bending the ignition switch cover backwards and removing the switch. Other users have partially broken the cover since they did not fully remove the third screw. You've been warned.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KNodfbmMUFZjiXNT.standard"
+            ],
+            "StepId": 15900,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "gently rotate the black cover aside and pull out the ignition switch ."
+                }
+            ],
+            "Text_raw": "Gently rotate the black cover aside and pull out the ignition switch.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/N1boHhqZQ2gPdIbx.standard"
+            ],
+            "StepId": 15927,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "at this point you can test the new switch for continuity , just to make sure it's 100 functional before putting it into the car . follow the same steps outlined in step 7 except use the flat blade screwdriver to switch between ignition positions . you'll notice that the switch clicks just like it does when you insert your key into the steering column ignition . if the continuity tests pass , you can proceed with installing it into your car ."
+                },
+                {
+                    "Text": "once you remove the old switch from its cover , plug in the new switch connector into the rear of the fuse panel and connect the other side to the steering column ."
+                },
+                {
+                    "Text": "'''make sure that the new switch is in the lock position''' . to make sure it is in the lock position , use the flat blade screwdriver to gently twist the switch counter-clockwise until it will twist no more , ensuring that the switch is in the lock position ."
+                }
+            ],
+            "Text_raw": "At this point you can test the new switch for continuity, just to make sure it's 100% functional before putting it into the car. Follow the same steps outlined in step #7 except use the flat blade screwdriver to switch between ignition positions. You'll notice that the switch clicks just like it does when you insert your key into the steering column ignition. If the continuity tests pass, you can proceed with installing it into your car. Once you remove the old switch from its cover, plug in the new switch connector into the rear of the fuse panel and connect the other side to the steering column. '''Make sure that the new switch is in the \"Lock\" position'''. To make sure it is in the \"Lock\" position, use the flat blade screwdriver to gently twist the switch counter-clockwise until it will twist no more, ensuring that the switch is in the \"Lock\" position.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Cm3kWZo4ZufDCImt.standard"
+            ],
+            "StepId": 15903,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "route the wiring in the same manner the old switch wiring was routed , insert the switch into the steering column , and put back the ignition switch cover and screws ."
+                },
+                {
+                    "Text": "use the electrical tape to corral any of the loose wiring . put all paneling back the way it was by following the above directions in reverse . make sure that the rubber o-ring around the ignition switch is properly seated against the switch when putting back the lower steering wheel cover ."
+                }
+            ],
+            "Text_raw": "Route the wiring in the same manner the old switch wiring was routed, insert the switch into the steering column, and put back the ignition switch cover and screws. Use the electrical tape to corral any of the loose wiring. Put all paneling back the way it was by following the above directions in reverse. Make sure that the rubber O-ring around the ignition switch is properly seated against the switch when putting back the lower steering wheel cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZXk1cjeMlNfD1ZMO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tOE22Dg4gwADQaJx.standard"
+            ],
+            "StepId": 15904,
+            "Tools_extracted": [
+                "electrical tape in 6 assorted colors"
+            ]
+        }
+    ],
+    "Subject": "Ignition Switch"
+}

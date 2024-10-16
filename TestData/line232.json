@@ -1,0 +1,163 @@
+{
+    "Title": "Repairing 1984-1989 Toyota 4Runner Idler Arm",
+    "Ancestors": [
+        "Toyota 4Runner",
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 53781,
+    "Category": "1984-1989 Toyota 4Runner",
+    "Toolbox": [
+        {
+            "Name": "hammer",
+            "Url": "http://www.amazon.com/dp/B0000224VG/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "vise",
+            "Url": "http://www.ifixit.com/Store/Parts/Vise/IF145-100",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "penetrating lubricant",
+            "Url": "http://www.amazon.com/Blaster-16-PB-Penetrating-Catalyst-oz/dp/B000I2079E/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889196&sr=1-1&keywords=PB+blaster",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "safety glasses",
+            "Url": "http://www.ifixit.com/Tools/Safety-Glasses/IF145-125",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/VCJJ1SfK1pneiLkY.mini"
+        },
+        {
+            "Name": "latex or nitrile gloves",
+            "Url": "http://www.amazon.com/dp/B00J084MHA/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431007052&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "/Item/A_thin_flat_head_screwdriver",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Repairing+1984+1985+1986+1987+1988+1989+Toyota+4Runner+Idler+Arm/53781",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "first the idler arm must be removed from the truck . another guide has instructions to take the arm off ."
+                }
+            ],
+            "Text_raw": "First the Idler arm must be removed from the truck. Another guide has instructions to [https://www.ifixit.com/Guide/1984-1989+Toyota+4Runner+Idler+Arm+Replacement/53763| take the arm off.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LFw6IGZh3FCee45W.standard"
+            ],
+            "StepId": 118675,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "place the arm in a vise ."
+                },
+                {
+                    "Text": "spray the cap with penetrating lubricant ."
+                },
+                {
+                    "Text": "using a screwdriver , tap the idler arm bracket cap off ."
+                },
+                {
+                    "Text": "if it will not come off easily , then check out the shooting page ."
+                }
+            ],
+            "Text_raw": "Place the arm in a vise. Spray the cap with penetrating lubricant. Using a screw driver, tap the idler arm bracket cap off. If it will not come off easily, then check out the [https://www.ifixit.com/Wiki/1984-1989_Toyota_4Runner_Troubleshooting|trouble shooting page.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AdZLFAWLiSsO1NbD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HWvhV2BxCPouKVyT.standard"
+            ],
+            "StepId": 118676,
+            "Tools_extracted": [
+                "vise",
+                "flathead screwdriver",
+                "penetrating lubricant"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "using a 19 mm socket , take the nut off from inside the idler arm bracket ."
+                },
+                {
+                    "Text": "if the arm rotates in the bracket , then it can be taken out of the vice and placed on the ground ."
+                },
+                {
+                    "Text": "once on the ground , your foot can be used to stop the arm from rotating and enable you to put torque on the nut ."
+                },
+                {
+                    "Text": "once the nut is off , the arm can be gently tapped out of the bracket ."
+                }
+            ],
+            "Text_raw": "Using a 19 mm socket, take the nut off from inside the idler arm bracket. If the arm rotates in the bracket, then it can be taken out of the vice and placed on the ground. Once on the ground, your foot can be used to stop the arm from rotating and enable you to put torque on the nut. Once the nut is off, the arm can be gently tapped out of the bracket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2OLAiUi4TIdJZk2o.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KbCCptixsDjtXVVO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3rRdaFe2sxiBAxc6.standard"
+            ],
+            "StepId": 118677,
+            "Tools_extracted": [
+                "socket 19 mm",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the oil seal ."
+                },
+                {
+                    "Text": "remove the plastic bushings with a flat head ."
+                },
+                {
+                    "Text": "both bushings and oil seals should be removed and replaced ."
+                },
+                {
+                    "Text": "fill the bracket with mp grease and then put the arm back into the bracket ."
+                },
+                {
+                    "Text": "wipe off any grease that squeezes out of the bracket ."
+                }
+            ],
+            "Text_raw": "Remove the oil seal. Remove the plastic bushings with a flat head. Both bushings and oil seals should be removed and replaced. Fill the bracket with MP grease and then put the arm back into the bracket. Wipe off any grease that squeezes out of the bracket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/byHyTUWGRIek5kxJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gbEXajkmTEdNFaGK.standard"
+            ],
+            "StepId": 118678,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

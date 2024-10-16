@@ -1,0 +1,1004 @@
+{
+    "Title": "2000-2004 Ford Focus Zetec SVT Timing Belt Replacement",
+    "Ancestors": [
+        "Ford Focus",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 102155,
+    "Category": "1998-2004 Ford Focus",
+    "Toolbox": [
+        {
+            "Name": "camshaft and crankshaft alignment tool",
+            "Url": "https://www.c-f-m.com/performanceparts/pc/CFM-Camshaft-and-Cam-Gear-Installation-Timing-Tools-for-Focus-Zetec-SVT-ST170-325p152.htm",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stands",
+            "Url": "https://www.amazon.com/Torin-T43002-Jack-Stands-pair/dp/B000CO86BY/ref=sr_1_7?ie=UTF8&qid=1487796892&sr=8-7&keywords=floor+jack",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "open end wrench set",
+            "Url": "https://www.harborfreight.com/22-piece-metric-sae-combination-wrench-set-47467.html",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench set",
+            "Url": "https://www.harborfreight.com/64-pc-14-in-38-in-12-in-drive-sae-metric-socket-set-63462.html",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torx socket set",
+            "Url": "https://www.harborfreight.com/9-pc-14-in-and-38-in-drive-star-bit-socket-set-67914.html",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "e-socket set",
+            "Url": "https://www.harborfreight.com/6-pc-38-in-drive-e-socket-set-68016.html",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wood block",
+            "Url": "/Item/Wood_Block",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hex key set",
+            "Url": "/Item/Hex_Key_Set",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "bit driver",
+            "Url": "/Item/Bit_Driver",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "spark plug socket",
+            "Url": "https://www.amazon.com/GearWrench-80546-8-Inch-6-Inch-Swivel/dp/B0014ZVSVK/ref=sr_1_1?ie=UTF8&qid=1480629388&sr=8-1&keywords=5%2F8+spark+plug+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "strap wrench",
+            "Url": "https://www.harborfreight.com/2-pc-rubber-strap-wrench-set-69373.html",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2000+2001+2002+2003+2004+Ford+Focus+Zetec+SVT+Timing+Belt+Replacement/102155",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "safety first !"
+                },
+                {
+                    "Text": "always disconnect the negative battery terminal before beginning to work"
+                },
+                {
+                    "Text": "a 10 mm wrench makes quick work of the battery connector"
+                }
+            ],
+            "Text_raw": "SAFETY FIRST! Always disconnect the negative battery terminal before beginning to work A 10mm wrench makes quick work of the battery connector",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2sbMkaDBAhlIGQAi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ukJyPREqrwnmTBKZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/J3y2Vgjvts2JPuBj.standard"
+            ],
+            "StepId": 191412,
+            "Tools_extracted": [
+                "wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "jack up the car"
+                },
+                {
+                    "Text": "when looking for safe jack points , refer to the owner's manual"
+                },
+                {
+                    "Text": "always use jack stands to support the vehicle !"
+                },
+                {
+                    "Text": "remove the four lug nuts holding on the tire . they are a 19 mm"
+                }
+            ],
+            "Text_raw": "Jack up the car When looking for safe jack points, refer to the owner's manual Always use jack stands to support the vehicle! Remove the four lug nuts holding on the tire.  They are a 19mm",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CQE1BQ6hOlqJRvNy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FPpmkVTf4tH6F3eE.standard"
+            ],
+            "StepId": 191413,
+            "Tools_extracted": [
+                "jack stands"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "there are 2 snaps and one screw holding on the splash shield"
+                },
+                {
+                    "Text": "the top two are a phillips 2 located directly behind the tire"
+                },
+                {
+                    "Text": "the one attached to the bumper is a torx"
+                },
+                {
+                    "Text": "pull back the splash guard for better visibility"
+                }
+            ],
+            "Text_raw": "There are 2 snaps and one screw holding on the splash shield The top two are a Phillips #2 located directly behind the tire The one attached to the bumper is a Torx Pull back the splash guard for better visibility",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ywaNuBNOEdFsTUIJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AvmKYKF1KTZjriMi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JFwaJOIwpBEUsOAU.standard"
+            ],
+            "StepId": 191414,
+            "Tools_extracted": [
+                "phillips 2 screwdriver",
+                "torx socket set"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "there is a cover protecting the accessory belt"
+                },
+                {
+                    "Text": "there are two 10 mm bolts holding this splash guard on , one in the front and one in the back"
+                }
+            ],
+            "Text_raw": "There is a cover protecting the Accessory Belt There are two 10mm bolts holding this splash guard on, one in the front and one in the back",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nb3JSOQVEq4Mh4dI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/X6lprgEmJI1jyhMA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oNGT5qFCsWwqWDMs.standard"
+            ],
+            "StepId": 191415,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "relocate the coolant overflow and power steering resevoirs"
+                },
+                {
+                    "Text": "there is one 10 mm bolt holding the coolant overflow reservoir to the frame"
+                },
+                {
+                    "Text": "there is a snap tab located behind the coolant overflow reservoir holding it in place"
+                },
+                {
+                    "Text": "the power steering reservoir will just lift out"
+                },
+                {
+                    "Text": "both can be pulled gently to the side"
+                }
+            ],
+            "Text_raw": "Relocate the coolant overflow and power steering resevoirs There is one 10mm bolt holding the coolant overflow reservoir to the frame There is a snap tab located behind the coolant overflow reservoir holding it in place The power steering reservoir will just lift out Both can be pulled gently to the side",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vGyUNojOKlEdciiK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iZsqKUl55rPtCXOl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/y1cUASaCiRZcqke1.standard"
+            ],
+            "StepId": 191416,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "there are four 8 mm bolts holding down the spark plug cover"
+                },
+                {
+                    "Text": "gently lift it out of the way"
+                }
+            ],
+            "Text_raw": "There are four 8mm bolts holding down the spark plug cover Gently lift it out of the way",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oNQt4AO16ONyrPLh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EJ3QkhuJCNnS1f6b.standard"
+            ],
+            "StepId": 191417,
+            "Tools_extracted": [
+                "spark plug socket"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "the connector for the vct solenoid will need to be unplugged"
+                },
+                {
+                    "Text": "there is a small metal tab holding the connector on"
+                },
+                {
+                    "Text": "remove the tab with a small flat head screwdriver underneath it"
+                },
+                {
+                    "Text": "be careful not to lose it !"
+                },
+                {
+                    "Text": "the connector will just pull off"
+                },
+                {
+                    "Text": "pull the wire back out of the way"
+                }
+            ],
+            "Text_raw": "The connector for the VCT Solenoid will need to be unplugged There is a small metal tab holding the connector on Remove the tab with a small flat head screw driver underneath it Be careful not to lose it! The connector will just pull off Pull the wire back out of the way",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/j1ETJqWK46ekjqmh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tfpMoxqQuFHJBq1R.standard"
+            ],
+            "StepId": 191418,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "there are four 8 mm bolts holding on the upper timing belt cover"
+                },
+                {
+                    "Text": "this exposes the timing blet"
+                },
+                {
+                    "Text": "this belt is cracking , indicating it needs to be replaced"
+                }
+            ],
+            "Text_raw": "There are four 8mm bolts holding on the upper timing belt cover This exposes the timing blet This belt is cracking, indicating it needs to be replaced",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YNC2IVSTdhlWbwFU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CdfLi46NDGfMRp3B.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3gywhmmxdbyw5EQo.standard"
+            ],
+            "StepId": 191419,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "gently twist and pull straight up to remove the spark plug connectors"
+                },
+                {
+                    "Text": "do not unplug the other side !"
+                },
+                {
+                    "Text": "pull them gently back out of the way"
+                }
+            ],
+            "Text_raw": "Gently twist and pull straight up to remove the spark plug connectors Do not unplug the other side! Pull them gently back out of the way",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/G1UTJNybXhDfsFgg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/feGwsyhQsjHDhY2u.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cXwKohLcOdJJKSLK.standard"
+            ],
+            "StepId": 191420,
+            "Tools_extracted": [
+                "spark plug socket"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "using a 15 mm wrench , rotate the tensioner assembly clockwise releasing tension on the belt"
+                },
+                {
+                    "Text": "a long wrench may make this easier"
+                },
+                {
+                    "Text": "slip the belt gently off the pulleys and out of the engine bay"
+                },
+                {
+                    "Text": "on reassembly , check your owner's manual for accessory belt routing"
+                }
+            ],
+            "Text_raw": "Using a 15mm wrench, rotate the tensioner assembly clockwise releasing tension on the belt A long wrench may make this easier Slip the belt gently off the pulleys and out of the engine bay On reassembly, check your owner's manual for accessory belt routing",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JVNZMTWkCXO6myDr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xxgBYaUUOnjXQIXd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Pjo22Qm5GnPkM5Nc.standard"
+            ],
+            "StepId": 191421,
+            "Tools_extracted": [
+                "wrench"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "there are three 13 mm bolts holding the water pump pulley to the water pump"
+                },
+                {
+                    "Text": "you can use a strap wrench to prevent the pulley from rotating"
+                },
+                {
+                    "Text": "you can also use a flat head screwdriver to prevent rotation"
+                },
+                {
+                    "Text": "during reassembly , snug the bolts to hand tight , install the accessory belt , then torque down the bolts"
+                },
+                {
+                    "Text": "gently remove the pulley"
+                },
+                {
+                    "Text": "while it is not necessary to remove the water pump , it is a great time to change it !"
+                }
+            ],
+            "Text_raw": "There are three 13mm bolts holding the water pump pulley to the water pump You can use a strap wrench to prevent the pulley from rotating You can also use a flat head screwdriver to prevent rotation During reassembly, snug the bolts to hand tight, install the accessory belt, then torque down the bolts Gently remove the pulley While it is not necessary to remove the water pump, it is a great time to change it!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aULRvJQH4CLPYCvV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QwYRyBNGXPvPmJrb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pCAtHQMZRSM6oWbJ.standard"
+            ],
+            "StepId": 191422,
+            "Tools_extracted": [
+                "screwdriver",
+                "strap wrench",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "there is one 13 mm bolt holding the idler pulley in place"
+                },
+                {
+                    "Text": "a little finagling may be required to get the pulley out"
+                },
+                {
+                    "Text": "don't lose the spacer washer on the pulley !"
+                }
+            ],
+            "Text_raw": "There is one 13mm bolt holding the idler pulley in place A little finagling may be required to get the pulley out Don't lose the spacer washer on the pulley!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HCJqf2A3tbcNUiVO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xLrP5jshoSqrhmCI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fBf1h4IffgYEj1IB.standard"
+            ],
+            "StepId": 191423,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "there are ten 8 mm bolts holding the valve cover down"
+                },
+                {
+                    "Text": "these bolts must be removed from outside to inside , working diagonally"
+                },
+                {
+                    "Text": "on reassembly these bolts must be torqued in two stages , working from inside to outside"
+                },
+                {
+                    "Text": "on the first stage , tighten to 2 nm"
+                },
+                {
+                    "Text": "on the second stage , tighten to 7 nm"
+                },
+                {
+                    "Text": "disconnect the vacuum hose going to the intake"
+                },
+                {
+                    "Text": "it is recommended that you change the valve cover gasket before reassembly"
+                }
+            ],
+            "Text_raw": "There are ten 8mm bolts holding the valve cover down These bolts must be removed from outside to inside, working diagonally On reassembly these bolts must be torqued in two stages, working from inside to outside On the first stage, tighten to 2 Nm On the second stage, tighten to 7 Nm Disconnect the vacuum hose  going to the intake It is recommended that you change the valve cover gasket before reassembly",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PkoveiVSmPsW2LjF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QrKVpdYcdaflQmu6.standard"
+            ],
+            "StepId": 191424,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "remove the four spark plugs using a 5 /8 spark plug socket"
+                }
+            ],
+            "Text_raw": "Remove the four spark plugs using a 5/8\" spark plug socket",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/U2KsJbi2O6ec2yYO.standard"
+            ],
+            "StepId": 191425,
+            "Tools_extracted": [
+                "spark plug socket"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "using a block of scrap wood between a hydraulic jack and the oil pan , use the jack to support the engine"
+                },
+                {
+                    "Text": "do not lift the engine ! merely allow it to rest on the jack ."
+                },
+                {
+                    "Text": "mark the position of the motor mount relative to the car frame with a sharpie"
+                },
+                {
+                    "Text": "there are three 15 mm bolts holding the motor mount to the car frame ."
+                },
+                {
+                    "Text": "during reassembly these bolts must be torqued to 48 nm"
+                },
+                {
+                    "Text": "there are two 18 mm nuts holding the motor mount to the engine"
+                },
+                {
+                    "Text": "it is normal for the stud to come out with these nuts"
+                },
+                {
+                    "Text": "during reassembly these bolts must be torqued to 80 nm"
+                }
+            ],
+            "Text_raw": "Using a block of scrap wood between a hydraulic jack and the oil pan, use the jack to support the engine Do not lift the engine! Merely allow it to rest on the jack. Mark the position of the motor mount relative to the car frame with a sharpie There are three 15mm bolts holding the motor mount to the car frame. During reassembly these bolts must be torqued to 48 Nm There are two 18mm nuts holding the motor mount to the engine It is normal for the stud to come out with these nuts During reassembly these bolts must be torqued to 80 Nm",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gCX1uE2SGhHv1TTN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KBBbhqZbKfghZ2ST.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RI5VXUQ6rWXYKkap.standard"
+            ],
+            "StepId": 191426,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "there are three 15 mm bolts and one t50 bolt holding the middle timing belt cover in place"
+                },
+                {
+                    "Text": "during reassembly these bolts must be torqued to 50 nm"
+                }
+            ],
+            "Text_raw": "There are three 15mm bolts and one T50 bolt holding the middle timing belt cover in place During reassembly these bolts must be torqued to 50 Nm",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/24GvZoFKReI4dnfQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iHwqqhTlPn1N5XbJ.standard"
+            ],
+            "StepId": 191428,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "there is one 18 mm bolt holding the harmonic balancer pulley in place"
+                },
+                {
+                    "Text": "care must be taken to not allow the engine to rotate counterclockwise during its removal"
+                },
+                {
+                    "Text": "during reassembly the bolt must be torqued to 115 nm"
+                },
+                {
+                    "Text": "after the bolt is removed , the pulley should slide off"
+                },
+                {
+                    "Text": "the pulley is keyed , and must be in the correct orientation during reassembly"
+                }
+            ],
+            "Text_raw": "There is one 18mm bolt holding the harmonic balancer pulley in place Care must be taken to not allow the engine to rotate counterclockwise during its removal During reassembly the bolt must be torqued to 115 Nm After the bolt is removed, the pulley should slide off The pulley is keyed, and must be in the correct orientation during reassembly",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bO13rKgtofjLZGKf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HtGpGujIDWMLqHRC.standard"
+            ],
+            "StepId": 191430,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "there are two 10 mm bolts holding the lower timing belt cover in place"
+                },
+                {
+                    "Text": "the removal of this cover fully exposes the remainder of the timing belt"
+                }
+            ],
+            "Text_raw": "There are two 10mm bolts holding the lower timing belt cover in place The removal of this cover fully exposes the remainder of the timing belt",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bYIMr6LB4Gr1LHDe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sZQvy5uPU3aNofLP.standard"
+            ],
+            "StepId": 191431,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "the following steps illustrate how to align the engine to top dead center ( tdc )"
+                },
+                {
+                    "Text": "it is '''crucial''' that extra care is taken to ensure the engine is at tdc before reassembly"
+                },
+                {
+                    "Text": "'''never''' rotate the engine counterclockwise . only rotate the engine in the direction of rotation , clockwise"
+                },
+                {
+                    "Text": "you will need the proper bar and pin tool to check the timing ."
+                },
+                {
+                    "Text": "'''never''' use the bar and pin to hold the crank or camshafts . doing so could result in permanent engine damage"
+                },
+                {
+                    "Text": "with the timing belt removed '''never''' rotate the crankshaft or camshafts independently of one another . doing so could result in permanent engine damage"
+                }
+            ],
+            "Text_raw": "The following steps illustrate how to align the engine to Top Dead Center (TDC) It is '''crucial''' that extra care is taken to ensure the engine is at TDC before reassembly '''Never''' rotate the engine counterclockwise.  Only rotate the engine in the direction of rotation, clockwise You will need the proper bar and pin tool to check the timing. '''Never''' use the bar and pin to hold the crank or camshafts.  Doing so could result in permanent engine damage With the timing belt removed '''never''' rotate the crankshaft or camshafts independently of one another.  Doing so could result in permanent engine damage",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DDjXybYLX42eBpOJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EUk2tWkAUwH5ONPD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2OET3HSqjoAuxYMJ.standard"
+            ],
+            "StepId": 191432,
+            "Tools_extracted": [
+                "camshaft and crankshaft alignment tool"
+            ]
+        },
+        {
+            "Order": 19,
+            "Lines": [
+                {
+                    "Text": "after putting the harmonic balancer pulley back on ( you do not have to torque it down ) , use the 18 mm bolt and a wrench to turn the engine clockwise . the engine should move with relative ease , if it does not move ensure that the car is in neutral . '''do not use excess force ! '''"
+                },
+                {
+                    "Text": "you may want to rest a wooden dowel in the spark plug hole of piston 1 to observe its movement"
+                },
+                {
+                    "Text": "you will reach tdc when piston 1 is at its highest point and the exhaust valve is just about to open"
+                },
+                {
+                    "Text": "this will occur once every two complete revolutions of the motor"
+                },
+                {
+                    "Text": "when you are at tdc , the timing bar should slide into the slot in both camshafts"
+                },
+                {
+                    "Text": "since this is a 4 stroke engine , there are two times when piston 1 will be at its highest point . to be at tdc , we must use the intake stroke"
+                },
+                {
+                    "Text": "during the compression stroke , the intake valve will have just closed . this is '''not''' tdc . the timing bar will not fit"
+                },
+                {
+                    "Text": "if you overshoot tdc '''do not''' rotate the engine counterclockwise . turn the engine two complete revolutions clockwise"
+                }
+            ],
+            "Text_raw": "After putting the harmonic balancer pulley back on (you do not have to torque it down), use the 18mm bolt and a wrench to turn the engine clockwise.  The engine should move with relative ease, if it does not move ensure that the car is in neutral.  '''Do not use excess force!''' You may want to rest a wooden dowel in the spark plug hole of piston #1 to observe its movement You will reach TDC when piston #1 is at its highest point and the exhaust valve is just about to open This will occur once every two complete revolutions of the motor When you are at TDC, the timing bar should slide into the slot in both camshafts Since this is a 4 stroke engine, there are two times when piston #1 will be at its highest point.  To be at TDC, we must use the intake stroke During the compression stroke, the intake valve will have just closed.  This is '''not''' TDC. The timing bar will not fit If you overshoot TDC '''do not''' rotate the engine counterclockwise.   Turn the engine two complete revolutions clockwise",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2dA3yEGdxWsAqiVi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IbubqEh2rEUvdiYM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FTyF6LfKnyMZ2de6.standard"
+            ],
+            "StepId": 191434,
+            "Tools_extracted": [
+                "camshaft and crankshaft alignment tool",
+                "open end wrench set",
+                "spark plug socket",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 20,
+            "Lines": [
+                {
+                    "Text": "underneath the exhaust manifold there is a 13 mm plug where the crankshaft stopper must be inserted . use a wrench to remove the stud"
+                },
+                {
+                    "Text": "using the longer stopper , fully insert and screw it in until snug ."
+                },
+                {
+                    "Text": "this will prevent the crankshaft from moving clockwise past tdc . with the stopper in place rotate the engine clockwise until it no longer turns . the crankshaft will be at exactly tdc ."
+                },
+                {
+                    "Text": "this will '''not''' prevent the engine from rotating counter clockwise . '''never''' rotate the engine counterclockwise"
+                },
+                {
+                    "Text": "'''do not''' use the stopper to prevent engine rotation . always restrain engine movement with a proper tools"
+                }
+            ],
+            "Text_raw": "Underneath the exhaust manifold there is a 13mm plug where the crankshaft stopper must be inserted.   Use a wrench to remove the stud Using the longer stopper, fully insert and screw it in until snug. This will prevent the crankshaft from moving clockwise past TDC.  With the stopper in place rotate the engine clockwise until it no longer turns.   The crankshaft will be at exactly TDC. This will '''not''' prevent the engine from rotating counter clockwise.  '''Never''' rotate the engine counterclockwise '''Do not''' use the stopper to prevent engine rotation.   Always restrain engine movement with a proper tools",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5FkQcsv1XQJcBcCS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TR1RngYesTXngr2A.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hmAiwvsuncqfZfF2.standard"
+            ],
+            "StepId": 191436,
+            "Tools_extracted": [
+                "camshaft and crankshaft alignment tool"
+            ]
+        },
+        {
+            "Order": 21,
+            "Lines": [
+                {
+                    "Text": "with the crankshaft stopper in place , rotate the engine clockwise until it no longer moves . the timing bar should slide into place with relative ease . we are now at tdc"
+                },
+                {
+                    "Text": "if the bar does not slide in easily , check that you are indeed at tdc and not at the top of the compression stroke"
+                },
+                {
+                    "Text": "if you are at tdc , the timing bar may still not quite fit . as the belt ages it stretches , causing slight variations in the timing . using a proper sized open end wrench , you can rotate the cams '''slightly''' to get the bar into place"
+                },
+                {
+                    "Text": "the camshafts are keyed to be held with open end wrenches between cylinders 1 and 2"
+                },
+                {
+                    "Text": "the intake camshaft is a 1"
+                },
+                {
+                    "Text": "the exhaust camshaft is a 1 1 /4"
+                }
+            ],
+            "Text_raw": "With the crankshaft stopper in place, rotate the engine clockwise until it no longer moves.  The timing bar should slide into place with relative ease.  We are now at TDC If the bar does not slide in easily, check that you are indeed at TDC and not at the top of the compression stroke If you are at TDC, the timing bar may still not quite fit.  As the belt ages it stretches, causing slight variations in the timing.  Using a proper sized open end wrench, you can rotate the cams '''slightly''' to get the bar into place The camshafts are keyed to be held with open end wrenches between cylinders #1 and #2 The intake camshaft is a 1\" The exhaust camshaft is a 1 1/4\"",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OAvLyIwkQ1llXTyd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3DeeNoGAnVMxunmu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EtUhJUuAe2A651LK.standard"
+            ],
+            "StepId": 191437,
+            "Tools_extracted": [
+                "camshaft and crankshaft alignment tool",
+                "open end wrench set"
+            ]
+        },
+        {
+            "Order": 22,
+            "Lines": [
+                {
+                    "Text": "due to slight variations in the the spacing between timing belt teeth , we must loosen but not remove the camshaft sprockets . the intake sprocket bolt is hidden inside of the vct gear , and the cover must be removed to expose it ."
+                },
+                {
+                    "Text": "there is a t55 bolt holding the exhaust sprocket in place . while holding the camshaft with a proper open end wrench , loosen but do not remove this bolt . this will allow the camshaft sprocket to rotate ."
+                },
+                {
+                    "Text": "it is reccommended that you remove the timing bar while loosening to avoid damage to the bar or the camshafts . '''do not''' use the bar to prevent rotation . use a proper sized open end wrench ."
+                },
+                {
+                    "Text": "there is a t55 cap on the vct gear . unscrew it to expose the e18 bolt holding the exhaust camshaft sprocket in place with a proper open end wrench ."
+                },
+                {
+                    "Text": "'''there is oil in this gear ! ''' be prepared with a small container to catch it in . clean all of the oil from the gear and ensure none gets on your crankshaft sprocket"
+                }
+            ],
+            "Text_raw": "Due to slight variations in the the spacing between timing belt teeth, we must loosen but not remove the camshaft sprockets.   The intake sprocket bolt is hidden inside of the VCT gear, and the cover must be removed to expose it. There is a T55 Bolt holding the exhaust sprocket in place.  While holding the camshaft with a proper open end wrench, loosen but do not remove this bolt.  This will allow the camshaft sprocket to rotate. It is reccommended that you  remove the timing bar while loosening to avoid damage to the bar or the camshafts.  '''Do not''' use the bar to prevent rotation.   Use a proper sized open end wrench. There is a T55 cap on the VCT gear.  Unscrew it to expose the E18 bolt holding the exhaust camshaft sprocket in place with a proper open end wrench. '''There is oil in this gear!''' Be prepared with a small container to catch it in.  Clean all of the oil from the gear and ensure none gets on your crankshaft sprocket",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1UJp6glNBYZt5gm5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2uSOyQcFtVCXPTs4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UvSALHjUNZbdFTv3.standard"
+            ],
+            "StepId": 191438,
+            "Tools_extracted": [
+                "camshaft and crankshaft alignment tool",
+                "open end wrench set"
+            ]
+        },
+        {
+            "Order": 23,
+            "Lines": [
+                {
+                    "Text": "after all of the oil is drained , loosen the e18 bolt holding the intake sprocket in place while holding the camshaft with a proper open end wrench"
+                },
+                {
+                    "Text": "during reassembly this bolt will need to be torqued to 120 nm"
+                },
+                {
+                    "Text": "during reassembly this bolt will need to be torqued to 37 nm"
+                },
+                {
+                    "Text": "during reassembly this bolt will need to be torqued to 68 nm"
+                },
+                {
+                    "Text": "with both sprockets loose , place the timing bar back into the camshafts to ensure they remain at tdc"
+                }
+            ],
+            "Text_raw": "After all of the oil is drained, loosen the E18 bolt holding the intake sprocket in place while holding the camshaft with a proper open end wrench During reassembly this bolt will need to be torqued to 120 Nm During reassembly this bolt will need to be torqued to 37 Nm During reassembly this bolt will need to be torqued to 68 Nm With both sprockets loose, place the timing bar back into the camshafts to ensure they remain at TDC",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Xy4HF5xlP3P1aXTd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CqpAa2F24uVBLREp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yiFYW3noZCpOaNE3.standard"
+            ],
+            "StepId": 191439,
+            "Tools_extracted": [
+                "camshaft and crankshaft alignment tool",
+                "open end wrench set"
+            ]
+        },
+        {
+            "Order": 24,
+            "Lines": [
+                {
+                    "Text": "it is recommended that the tensioner and idler pulleys be changed at the same time as the timing belt ."
+                },
+                {
+                    "Text": "there is one 10 mm bolt holding the tensioner pulley in place"
+                },
+                {
+                    "Text": "there is one 15 mm bolt holding the idler pulley in place"
+                },
+                {
+                    "Text": "the belt should slide off"
+                },
+                {
+                    "Text": "this is the hole where the tensioner pulley's tab should slide into on reassembly"
+                },
+                {
+                    "Text": "with the timing belt off , you should be able to freely spin the camshaft sprockets without rotating the camshafts while the timing bar is in place"
+                },
+                {
+                    "Text": "with the timing belt removed '''never''' rotate the crankshaft or camshafts independently of one another . doing so could result in permanent engine damage"
+                }
+            ],
+            "Text_raw": "It is recommended that the tensioner and idler pulleys be changed at the same time as the timing belt. There is one 10mm bolt holding the tensioner pulley in place There is one 15mm bolt holding the idler pulley in place The belt should slide off This is the hole where the tensioner pulley's tab should slide into on reassembly With the timing belt off, you should be able to freely spin the camshaft sprockets without rotating the camshafts while the timing bar is in place With the timing belt removed '''never''' rotate the crankshaft or camshafts independently of one another.  Doing so could result in permanent engine damage",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qaK2GDww45pjWFHW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IknESWgwm2aOGHPe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hLGMHmYGcuEoSISt.standard"
+            ],
+            "StepId": 191440,
+            "Tools_extracted": [
+                "camshaft and crankshaft alignment tool"
+            ]
+        },
+        {
+            "Order": 25,
+            "Lines": [
+                {
+                    "Text": "after rotating the crankshaft clockwise until it no longer moves to ensure it has remained at tdc , and the timing bar is inserted on the camshafts to ensure that they remained at tdc , we can begin to install the new timing belt ."
+                },
+                {
+                    "Text": "begin by installing the new tensioner , tightening the 10 mm bolt until it is '''hand tight'''"
+                },
+                {
+                    "Text": "ensure that the tab on the pulley has fallen into its proper slot"
+                },
+                {
+                    "Text": "ensure that the tensioner adjusting washer is in the 4 o'clock position"
+                },
+                {
+                    "Text": "install the new idler pulley , torquing the bolt to 25 nm"
+                }
+            ],
+            "Text_raw": "After rotating the crankshaft clockwise until it no longer moves to ensure it has remained at TDC, and the timing bar is inserted on the camshafts to ensure that they remained at TDC, we can begin to install the new timing belt. Begin by installing the new tensioner, tightening the 10mm bolt until it is '''hand tight''' Ensure that the tab on the pulley has fallen into its proper slot Ensure that the tensioner adjusting washer is in the 4 o'clock position Install the new idler pulley, torquing the bolt to 25 Nm",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4QAJrOKAgDhVS66V.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rJ245MHYPGxNseML.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QjTqV3SJlWYZg6jQ.standard"
+            ],
+            "StepId": 191441,
+            "Tools_extracted": [
+                "camshaft and crankshaft alignment tool"
+            ]
+        },
+        {
+            "Order": 26,
+            "Lines": [
+                {
+                    "Text": "starting on the crankshaft sprocket , slip the belt around it , working clockwise around the tensioner pulley , intake sprocket , exhaust sprocket , then idler pulley , all while keeping the belt under tension"
+                }
+            ],
+            "Text_raw": "Starting on the crankshaft sprocket, slip the belt around it, working clockwise around the tensioner pulley, intake sprocket, exhaust sprocket, then idler pulley, all while keeping the belt under tension",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OohGiZhhOtcq52hN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2RmlsvBGjGYWGNhV.standard"
+            ],
+            "StepId": 191442,
+            "Tools_extracted": [
+                "camshaft and crankshaft alignment tool"
+            ]
+        },
+        {
+            "Order": 27,
+            "Lines": [
+                {
+                    "Text": "with the belt installed , insert a 6 mm hex key into the tensioner adjusting washer"
+                },
+                {
+                    "Text": "rotate the washer '''counterclockwise''' to tension the belt"
+                },
+                {
+                    "Text": "during this process the tension indicator will move '''clockwise'''"
+                },
+                {
+                    "Text": "continue rotation until the tension indicator has reached the point where the mark on the tab is centered between the forks of the indicator"
+                },
+                {
+                    "Text": "while preventing the tensoiner adjusting washer from moving , torque the 10 mm bolt to 25 nm"
+                }
+            ],
+            "Text_raw": "With the belt installed, insert a 6mm hex key into the tensioner adjusting washer Rotate the washer '''counterclockwise''' to tension the belt During this process the tension indicator will move '''clockwise''' Continue rotation until the tension indicator has reached the point where the mark on the tab is centered between the forks of the indicator While preventing the tensoiner adjusting washer from moving, torque the 10mm bolt to 25 Nm",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Y26uKeAIawYfqKcE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/K61NEEhmbmoQMvAO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iQS6Y2r5gxSLvZkl.standard"
+            ],
+            "StepId": 191443,
+            "Tools_extracted": [
+                "hex key set",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 28,
+            "Lines": [
+                {
+                    "Text": "with the new belt installed and tensioned , we must now torque the camshaft sprockets"
+                },
+                {
+                    "Text": "after removing the timing bar , while holding the camshaft with the proper wrench , torque the intake cam to 120 nm"
+                },
+                {
+                    "Text": "after removing the timing bar , while holding the camshaft with the proper wrench , torque the exhaust cam to 80 nm"
+                }
+            ],
+            "Text_raw": "With the new belt installed and tensioned, we must now torque the camshaft sprockets After removing the timing bar, while holding the camshaft with the proper wrench, torque the intake cam to 120 Nm After removing the timing bar, while holding the camshaft with the proper wrench, torque the exhaust cam to 80 Nm",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4gw4XiqmRBOhvaVs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MFTDKZFWM2dm56C2.standard"
+            ],
+            "StepId": 191444,
+            "Tools_extracted": [
+                "camshaft and crankshaft alignment tool",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 29,
+            "Lines": [
+                {
+                    "Text": "remove the timing bar and crankshaft stopper ."
+                },
+                {
+                    "Text": "using the 18 mm bolt on the crankshaft , rotate the engine 2 complete revolutions ."
+                },
+                {
+                    "Text": "when you get close to the second complete revolution , reinsert the stopper pin . see step 22."
+                },
+                {
+                    "Text": "rotate the crankshaft until it hits the stopper pin ."
+                },
+                {
+                    "Text": "attempt to reinsert the timing bar . if it slides right in , your engine is 100 in time ! congratulations ! go ahead and try this check again in any multiple of 2 complete rotations just to be triple sure ."
+                },
+                {
+                    "Text": "if the bar does not slide in , and both camshafts are off : first ensure you are at tdc . if you are , follow the procedure to reloosen the camshaft sprockets , adjust them , and retorque them . repeat this process until you can rotate the engine two complete revolutions , hit the stopper , and have the bar slide right in ."
+                },
+                {
+                    "Text": "failure to ensure proper timing could cause permanent engine damage . take the time to follow each step again as precisely as possible ."
+                },
+                {
+                    "Text": "if the bar does not slide in , and only the intake camshaft is off , your vct gear may have to be timed independently . see the next step for more information on this ."
+                }
+            ],
+            "Text_raw": "Remove the timing bar and crankshaft stopper. Using the 18mm bolt on the crankshaft, rotate the engine 2 complete revolutions. When you get close to the second complete revolution, reinsert the stopper pin.  See Step #22. Rotate the crankshaft until it hits the stopper pin. Attempt to reinsert the timing bar.   If it slides right in, your engine is 100% in time!  Congratulations!  Go ahead and try this check again in any multiple of 2 complete rotations just to be triple sure. If the bar does not slide in, and both camshafts are off:  First ensure you are at TDC.  If you are, follow the procedure to reloosen the camshaft sprockets, adjust them, and retorque them.   Repeat this process until you can rotate the engine two complete revolutions, hit the stopper, and have the bar slide right in. Failure to ensure proper timing could cause permanent engine damage.  Take the time to follow each step again as precisely as possible. If the bar does not slide in, and only the intake camshaft is off, your VCT gear may have to be timed independently.  See the next step for more information on this.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oURrAyAxXn4eEXoW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/txPNqQYLEtkiITuA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ohUuBdOjHbJu6kFB.standard"
+            ],
+            "StepId": 191445,
+            "Tools_extracted": [
+                "camshaft and crankshaft alignment tool",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 30,
+            "Lines": [
+                {
+                    "Text": "vct or variable cam timing allows the intake camshaft to rotate '''relative''' to the camshaft sprocket . the vct system must be in positive dead stop for the engine to be 100 in time ."
+                },
+                {
+                    "Text": "failure to ensure the vct system is in positive dead stop will result in poor engine performance and dtcs p1381 or p1383"
+                },
+                {
+                    "Text": "with the intake sprocket torqued , and the timing bar removed , attempt to rotate the intake camshaft with a proper open end wrench counterclockwise while holding the vct housing with a strap wrench . the intake camshaft should not move . if so , you are at positive dead stop ."
+                },
+                {
+                    "Text": "rotate the camshaft clockwise '''no more than 1 /4 of a rotation''' . you will hear oil sputter and drain from the vct system . rotating more than 1 /4 of a rotation could result in permanent engine damage ."
+                },
+                {
+                    "Text": "attempt this counterclockwise rotation again . when you reach the limit of motion , you are at positive dead stop ."
+                },
+                {
+                    "Text": "if your vct gear is at positive dead stop '''and''' your intake camshaft is at tdc ( the bar slides in ) then torque the cap to 37 nm"
+                },
+                {
+                    "Text": "see forum post for more information on clocking the vct gear"
+                }
+            ],
+            "Text_raw": "VCT or Variable Cam Timing allows the intake camshaft to rotate '''relative''' to the camshaft sprocket.  The VCT system must be in positive dead stop for the engine to be 100% in time. Failure to ensure the VCT system is in positive dead stop will result in poor engine performance and DTCs P1381 or P1383 With the intake sprocket torqued, and the timing bar removed, attempt to rotate the intake camshaft with a proper open end wrench counterclockwise while holding the VCT housing with a strap wrench.  The intake camshaft should not move.  If so, you are at positive dead stop. Rotate the camshaft clockwise '''no more than 1/4 of a rotation'''.  You will hear oil sputter and drain from the VCT system.  Rotating more than 1/4 of a rotation could result in permanent engine damage. Attempt this counterclockwise rotation again.   When you reach the limit of motion, you are at positive dead stop. If your VCT gear is at positive dead stop '''and''' your intake camshaft is at TDC (the bar slides in) then torque the cap to 37 Nm See [http://forums.focaljet.com/showthread.php/652671-P1381-amp-P1383-Fix-(IMPORTANT-Timing-Belt-Info)|this forum post] for more information on clocking the VCT gear",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PMvHZCENGkMBj3WX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fdQ5O4wxuKJBnWxl.standard"
+            ],
+            "StepId": 191446,
+            "Tools_extracted": [
+                "camshaft and crankshaft alignment tool",
+                "open end wrench set"
+            ]
+        },
+        {
+            "Order": 31,
+            "Lines": [
+                {
+                    "Text": "once you are convinced you engine is 100 in time , begin reassembly following proper torque specs starting on step 18 and working backwards ."
+                },
+                {
+                    "Text": "failure to ensure your timing bar and pin do not line up nearly perfectly 100 of the time could result in permanent engine damage ."
+                },
+                {
+                    "Text": "start the car up and let it warm up . take it for a test drive , briefly running the engine all the way through to its highest rpm"
+                },
+                {
+                    "Text": "if you get dtcs p1381 or 1383 , see the previous step for how to alleviate them . if you see poor performance or other dtcs , it may be that you did not carefully verify your engine was in time ."
+                }
+            ],
+            "Text_raw": "Once you are convinced you engine is 100% in time, begin reassembly following proper torque specs starting on Step #18 and working backwards. Failure to ensure your timing bar and pin do not line up nearly perfectly 100% of the time could result in permanent engine damage. Start the car up and let it warm up.  Take it for a test drive, briefly running the engine all the way through to its highest RPM If you get DTCs P1381 or 1383, see the previous step for how to alleviate them.  If you see poor performance or other DTCs, it may be that you did not carefully verify your engine was in time.",
+            "Images": [],
+            "StepId": 191447,
+            "Tools_extracted": [
+                "torque wrench"
+            ]
+        }
+    ],
+    "Subject": "Timing Belt"
+}

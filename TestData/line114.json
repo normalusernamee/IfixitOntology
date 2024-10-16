@@ -1,0 +1,89 @@
+{
+    "Title": "2001-2006 Mini Cooper Door panel Replacement",
+    "Ancestors": [
+        "Mini",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 19610,
+    "Category": "2001-2006 Mini Cooper",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "t30 torx driver",
+            "Url": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=t30+torx&rh=i%3Aaps%2Ck%3At30+torx",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2001+2002+2003+2004+2005+2006+Mini+Cooper+Door+panel+Replacement/19610",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the first step is to remove the door handle and speaker cover . this is easily done by prying it off the plastic tabs with a flathead screwdriver or possibly even your hands ."
+                },
+                {
+                    "Text": "next you need to remove the four size t30 torx screws that hold the panel in place . three of these are in the obvious screw holes shown but the last is hidden behind the colored reflector , which you will need to pry off . it is easy to remove with a small flathead screwdriver . of the four screws , two are 18 mm and the other two are 52.5 mm long ."
+                }
+            ],
+            "Text_raw": "The first step is to remove the door handle and speaker cover. This is easily done by prying it off the plastic tabs with a flathead screwdriver or possibly even your hands. Next you need to remove the four size T30 torx screws that hold the panel in place. Three of these are in the obvious screw holes shown but the last is hidden behind the colored reflector, which you will need to pry off. It is easy to remove with a small flathead screwdriver. Of the four screws, two are 18mm and the other two are 52.5mm long.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/loYfkdfFeaBr5Wwx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mniNVcBpDKmkKlpG.standard"
+            ],
+            "StepId": 54994,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "with the screws removed , you will need to pry the panel off of the door using a prybar or flathead screwdriver . i wrapped my screwdriver in electrical tape to keep it from scratching the car ."
+                },
+                {
+                    "Text": "the bottom and sides of the panel are held on with one type of clip while the top is held on by another . because of this , you want to start prying it somewhere along the bottom edge of the panel , i chose the lower outside corner ."
+                }
+            ],
+            "Text_raw": "With the screws removed, you will need to pry the panel off of the door using a prybar or flathead screwdriver. I wrapped my screwdriver in electrical tape to keep it from scratching the car. The bottom and sides of the panel are held on with one type of clip while the top is held on by another. Because of this, you want to start prying it somewhere along the bottom edge of the panel, I chose the lower outside corner.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AXQBmUQ2llJJClMj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZT4aWKj2eBeUcmTP.standard"
+            ],
+            "StepId": 54996,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "once you have the bottom and sides of the panel popped off the tabs , you want to to a combination of lifting and pulling along the top edge to remove it from these other types of tabs ."
+                },
+                {
+                    "Text": "once the panel is free from these , you can slide it over the door lock knob and pull the whole thing away ."
+                },
+                {
+                    "Text": "that's it . you now have access to the rest of the door . in order to put the panel back on , just follow these directions in reverse order ."
+                }
+            ],
+            "Text_raw": "Once you have the bottom and sides of the panel popped off the tabs, you want to to a combination of lifting and pulling along the top edge to remove it from these other types of tabs. Once the panel is free from these, you can slide it over the door lock knob and pull the whole thing away. That's it. You now have access to the rest of the door. In order to put the panel back on, just follow these directions in reverse order.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WIXyFqPbPjIfEyYE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2qa3oBWBah4d3c6D.standard"
+            ],
+            "StepId": 54997,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Door panel"
+}

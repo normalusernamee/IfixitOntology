@@ -1,0 +1,146 @@
+{
+    "Title": "Mercedes W123 Brake Line, Front Driver's Side Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 21518,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "11 wrench",
+            "Url": "https://www.amazon.com/TEKTON-WRN53111-Ratcheting-Combination-Wrench/dp/B01F511MB4/ref=sr_1_1?ie=UTF8&qid=1487888260&sr=8-1&keywords=11mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "14 mm socket wrench",
+            "Url": "https://www.amazon.com/TEKTON-WRN53114-Ratcheting-Combination-Wrench/dp/B01F511MHI/ref=sr_1_4?ie=UTF8&qid=1487884372&sr=8-4&keywords=14mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "penetrating lubricant",
+            "Url": "http://www.amazon.com/Blaster-16-PB-Penetrating-Catalyst-oz/dp/B000I2079E/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889196&sr=1-1&keywords=PB+blaster",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Brake+Line+Front+Driver%27s+Side+Replacement/21518",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before you can begin you'll need to remove the front driver's wheel for easier access to the parts to be removed ."
+                },
+                {
+                    "Text": "next you'll want to drain the brake fluid from the front driver's side caliper ."
+                },
+                {
+                    "Text": "loosen the bleed screw on the caliper and allow the fluid to drain in to a pan ."
+                }
+            ],
+            "Text_raw": "Before you can begin you'll need to remove the front driver's wheel for easier access to the parts to be removed. Next you'll want to drain the brake fluid from the front driver's side caliper. Loosen the bleed screw on the caliper and allow the fluid to drain in to a pan.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EekADewrRFfgS2W1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LseGnVwY2wwmFKXq.standard"
+            ],
+            "StepId": 57469,
+            "Tools_extracted": [
+                "drain pan"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "spray the connection of the hard brake line and the soft rubber brake hose with penetrating lubricant ."
+                },
+                {
+                    "Text": "this is a good time to consider also changing the soft rubber brake hose since it will already be halfway disconnected and the fluid drained . for more on this , and for more tips on disconnecting the hard lines from the rubber hose , the rubber brake hose replacement guide ."
+                }
+            ],
+            "Text_raw": "Spray the connection of the hard brake line and the soft rubber brake hose with penetrating lubricant. This is a good time to consider also changing the soft rubber brake hose since it will already be halfway disconnected and the fluid drained. For more on this, and for more tips on disconnecting the hard lines from the rubber hose, [https://www.ifixit.com/Guide/Mercedes+W123+Brake+Hose+Replacement/22767|see the rubber brake hose replacement guide.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2ADFnRFfhWduLSZf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1XfJZ6t6uTUNZSIW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/agBPlGA1It5rkPjk.standard"
+            ],
+            "StepId": 57470,
+            "Tools_extracted": [
+                "penetrating lubricant"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "place a 14 mm line wrench or open end wrench on the soft rubber brake line . use it to hold the soft rubber line to prevent it from twisting ."
+                },
+                {
+                    "Text": "place a 11 mm line wrench or open end wrench on the hard line nut . use it to loosen this nut to back the connection out of the soft rubber line ."
+                }
+            ],
+            "Text_raw": "Place a 14mm line wrench or open end wrench on the soft rubber brake line. Use it to hold the soft rubber line to prevent it from twisting. Place a 11mm line wrench or open end wrench on the hard line nut. Use it to loosen this nut to back the connection out of the soft rubber line.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bJpJVv6DSYGfqYfC.standard"
+            ],
+            "StepId": 57472,
+            "Tools_extracted": [
+                "11 wrench",
+                "14 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "under the hood , locate the connection for the driver's side front hard line on the master cylinder , just below the brake fluid reservoir . the line is the rear line on the driver's side of the master cylinder ."
+                },
+                {
+                    "Text": "use an 11 mm line wrench or open end wrench to loosen the nut on the hard line at the master cylinder ."
+                }
+            ],
+            "Text_raw": "Under the hood, locate the connection for the driver's side front hard line on the master cylinder, just below the brake fluid reservoir. The line is the rear line on the driver's side of the master cylinder. Use an 11mm line wrench or open end wrench to loosen the nut on the hard line at the master cylinder.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4EtYTAVRcL5uhk4o.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MNEp2oEYkDL5RvOF.standard"
+            ],
+            "StepId": 57473,
+            "Tools_extracted": [
+                "11 wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "the hard line on this side goes down through a rubber grommet in the fender ."
+                },
+                {
+                    "Text": "pull the line up and out of this grommet ."
+                },
+                {
+                    "Text": "you can now begin to install the replacement brake line ."
+                },
+                {
+                    "Text": "since you opened up the brake system to the air you will need to bleed the system before driving . never drive a car after working on the brake lines without first bleeding it properly . guide"
+                }
+            ],
+            "Text_raw": "The hard line on this side goes down through a rubber grommet in the fender. Pull the line up and out of this grommet. You can now begin to install the replacement brake line. Since you opened up the brake system to the air you will need to bleed the system before driving. Never drive a car after working on the brake lines without first bleeding it properly. [guide|21442|See the brake flush/bleeding guide for guidance on this process.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LIv3rQWK2CHFrnbL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XcmD3Ap5USBTpXhZ.standard"
+            ],
+            "StepId": 57474,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Brake Line, Front Driver's Side"
+}

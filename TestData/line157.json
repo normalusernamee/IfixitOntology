@@ -1,0 +1,182 @@
+{
+    "Title": "Mercedes W123 Sway Bar Link Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22884,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "17 mm open end wrench",
+            "Url": "/Item/17_mm_Open_End_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "17 mm socket",
+            "Url": "/Item/17_mm_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "penetrating lubricant",
+            "Url": "http://www.amazon.com/Blaster-16-PB-Penetrating-Catalyst-oz/dp/B000I2079E/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889196&sr=1-1&keywords=PB+blaster",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Sway+Bar+Link+Replacement/22884",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "you will need to begin by jacking up the rear end of your car , and removing the rear wheels . if you need help with these , see the guides below :"
+                },
+                {
+                    "Text": "guide"
+                },
+                {
+                    "Text": "guide"
+                }
+            ],
+            "Text_raw": "You will need to begin by jacking up the rear end of your car, and removing the rear wheels. If you need help with these, see the guides below: [guide|22770|Jacking technique guide.] [guide|22883|Wheel removal technique guide]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vFMIdM5KPdRWDZIM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZKLaTOhP1HKI5eGW.standard"
+            ],
+            "StepId": 60029,
+            "Tools_extracted": [
+                "17 mm open end wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "you can see here the sway bar link where it attaches to the sway bar . it's hidden partially behind the brake shield . it's tricky to take a good picture of . . ."
+                },
+                {
+                    "Text": "the threaded portion of the link goes through a hole in the sway bar end and is held in place by a nut ."
+                }
+            ],
+            "Text_raw": "You can see here the sway bar link where it attaches to the sway bar. It's hidden partially behind the brake shield. It's tricky to take a good picture of... The threaded portion of the link goes through a hole in the sway bar end and is held in place by a nut.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KhLTIGN5A5EKCIWJ.standard"
+            ],
+            "StepId": 60030,
+            "Tools_extracted": [
+                "17 mm open end wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "at the bottom , it screws in to the hub assembly ."
+                }
+            ],
+            "Text_raw": "At the bottom, it screws in to the hub assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ELRWmpBoaV1aYUqk.standard"
+            ],
+            "StepId": 60031,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "view this video to hear what a bad sway bar link sounds like when you move the sway bar around . if yours sounds like this is definitely time to replace it ."
+                }
+            ],
+            "Text_raw": "View this video to hear what a bad sway bar link sounds like when you move the sway bar around. If yours sounds like this is definitely time to replace it.",
+            "Images": [],
+            "StepId": 60032,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the nut from the top of the sway bar link using a 17 mm socket to turn off the nut while holding the inside of the sway bar link joint with an open end 17 mm wrench ."
+                },
+                {
+                    "Text": "then use the open end 17 mm wrench to loosen the bottom joint of the sway bar from the hub assembly ."
+                },
+                {
+                    "Text": "you'll then be able to remove the sway bar link for inspection . save the nut and any washers as the new links do not come with replacements ."
+                }
+            ],
+            "Text_raw": "Remove the nut from the top of the sway bar link using a 17 mm socket to turn off the nut while holding the inside of the sway bar link joint with an open end 17mm wrench. Then use the open end 17mm wrench to loosen the bottom joint of the sway bar from the hub assembly. You'll then be able to remove the sway bar link for inspection. Save the nut and any washers as the new links do not come with replacements.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ELoOVqZMvKRBWIAX.standard"
+            ],
+            "StepId": 60033,
+            "Tools_extracted": [
+                "17 mm open end wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "pictured are example of the joints on the two sway bar links that were removed from this 1985 300 d . each one is split or even missing ."
+                },
+                {
+                    "Text": "you can see how this exposes the joint to moisture , dust , and road debris ; this quickly ruins the joint ."
+                }
+            ],
+            "Text_raw": "Pictured are example of the joints on the two sway bar links that were removed from this 1985 300D. Each one is split or even missing. You can see how this exposes the joint to moisture, dust, and road debris; this quickly ruins the joint.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HEEsFUP46TyLRUYi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FWLqHcOF5s26pmMZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rI1LQYkTIcEyh3TI.standard"
+            ],
+            "StepId": 60034,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "watch this video to see how loose the bottom joint on this sway bar link was . it was half of the culprit for the clunking . the other side was just as bad ."
+                }
+            ],
+            "Text_raw": "Watch this video to see how loose the bottom joint on this sway bar link was. It was half of the culprit for the clunking. The other side was just as bad.",
+            "Images": [],
+            "StepId": 60035,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "install the new sway bar links by following these steps generally in reverse ."
+                },
+                {
+                    "Text": "view this video to hear the difference with new links . or , perhaps more accurately , not hear anything at all !"
+                }
+            ],
+            "Text_raw": "Install the new sway bar links by following these steps generally in reverse. View this video to hear the difference with new links. Or, perhaps more accurately, not hear anything at all!",
+            "Images": [],
+            "StepId": 60036,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Sway Bar Link"
+}

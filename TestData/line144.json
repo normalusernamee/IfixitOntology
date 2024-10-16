@@ -1,0 +1,178 @@
+{
+    "Title": "2010-2014 Subaru Legacy Horn Replacement",
+    "Ancestors": [
+        "Subaru Legacy",
+        "Subaru",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22000,
+    "Category": "2010-2014 Subaru Legacy",
+    "Toolbox": [
+        {
+            "Name": "12 mm socket",
+            "Url": "http://www.amazon.com/dp/B0002NYD7G/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wire stripper",
+            "Url": "http://www.ifixit.com/Tools/6-Inch-Wire-Stripper/IF145-046",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/KVMjZiV5sFidEgEX.mini"
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "http://www.ifixit.com/Tools/Large-Needle-Nose-Pliers/IF145-024",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xsuUhWaHMfDB6FnN.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2010+2011+2012+2013+2014+Subaru+Legacy+Horn+Replacement/22000",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "these are the stock horns you are looking for . one is located on the left-side of the radiator ( when looking at the car ) , while the other one is next to the air intake / water tank ."
+                },
+                {
+                    "Text": "both horns are identical in terms of disassembly/replacement . the one mounted near the radiator is a bit harder to access , since the hex bolt is obscured by a frame -- but it's not that much more difficult to remove ."
+                }
+            ],
+            "Text_raw": "These are the [stock] horns you are looking for. One is located on the left-side of the radiator (when looking at the car), while the other one is next to the air intake / water tank. Both horns are identical in terms of disassembly/replacement. The one mounted near the radiator is a bit harder to access, since the hex bolt is obscured by a frame -- but it's not that much more difficult to remove.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/h2yQRD3rYJLo2Iwc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dGE1IEkCvIQC3YEJ.standard"
+            ],
+            "StepId": 57981,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a 12 mm wrench to remove the bolt holding the horn in place ."
+                }
+            ],
+            "Text_raw": "Use a 12 mm wrench to remove the bolt holding the horn in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hYAXQ6Iu6ItCLPGw.standard"
+            ],
+            "StepId": 57975,
+            "Tools_extracted": [
+                "12 mm socket"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "unplug the power connector from the horn , and use a wire stripper to expose a bare portion of the wire . the 20 ga hole seemed the best fit for this purpose ."
+                },
+                {
+                    "Text": "the piaa horns have their power/ground connections on top of the horn , so the stock wire won't be long enough . at the same time , the ground cables that come with the horns are too long -- which is a perfect hack in this case !"
+                },
+                {
+                    "Text": "snip about 4 of the ground cable wire ( the 1 /4 female spade connector side ) and use a butt connector to attach it to the horn's power wire ."
+                },
+                {
+                    "Text": "it may be a good idea to insulate the connection with some electrical tape after it's been crimped properly ."
+                }
+            ],
+            "Text_raw": "Unplug the power connector from the horn, and use a wire stripper to expose a bare portion of the wire. The \"20 ga\" hole seemed the best fit for this purpose. The PIAA horns have their power/ground connections on top of the horn, so the stock wire won't be long enough. At the same time, the ground cables that come with the horns are too long -- which is a perfect hack in this case! Snip about 4\" of the ground cable wire (the 1/4\" female spade connector side) and use a butt connector to attach it to the horn's power wire. It may be a good idea to insulate the connection with some electrical tape after it's been crimped properly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pDSX5UvdseOSRBSL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZLydJLIWEATP2TQr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mWbeyYCbFdp3ICEN.standard"
+            ],
+            "StepId": 57976,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "now you should have a shortened ground cable with a bare wire on one end , and that half-loop connector on the other ."
+                },
+                {
+                    "Text": "attach another 1 /4 female spade connector to the end of the ground cable , and plug it into the ''lower'' of the two male spade connectors on the piaa horn ."
+                }
+            ],
+            "Text_raw": "Now you should have a shortened ground cable with a bare wire on one end, and that half-loop connector on the other. Attach another 1/4\" female spade connector to the end of the ground cable, and plug it into the ''lower'' of the two male spade connectors on the PIAA horn.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1uaAXic4J55yHC2X.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ft2dwB41x2xUZ1vR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yn2KLqcciBcdPfQA.standard"
+            ],
+            "StepId": 57977,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "the factory bolt is a bit larger in diameter than the half-circle connector will allow -- unless it is expanded ! so insert a needle-nose plier into the center for the connector and then spread it apart in order to accommodate the bolt ."
+                },
+                {
+                    "Text": "route the bolt through the horn's mounting hole ."
+                },
+                {
+                    "Text": "screw the bolt / ground wire / horn assembly into the factory mounting hole ."
+                }
+            ],
+            "Text_raw": "The factory bolt is a bit larger in diameter than the half-circle connector will allow -- unless it is expanded! So insert a needle-nose plier into the center for the connector and then spread it apart in order to accommodate the bolt. Route the bolt through the horn's mounting hole. Screw the bolt / ground wire / horn assembly into the factory mounting hole.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dFoTyVU5qFgJhfMG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SbXWZTUMBUJr5TQD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wV3YcjiO1ZVIZfeC.standard"
+            ],
+            "StepId": 57978,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "plug in the dc power line into the top male connector of the horn . the final wiring / horn assembly can be seen in the first image ."
+                },
+                {
+                    "Text": "once you're done with the first horn , the second should be the same exact procedure -- so go get 'em !"
+                }
+            ],
+            "Text_raw": "Plug in the DC power line into the top male connector of the horn. The final wiring / horn assembly can be seen in the first image. Once you're done with the first horn, the second should be the same exact procedure -- so go get 'em!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/V62fMndYfjRZyMQm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GoARhMBmUyPWCTfd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JSkSkmSpJGNVJNBV.standard"
+            ],
+            "StepId": 57979,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "so that's it ! here's a before-and-after horn comparison , so you get an idea of the sound difference ."
+                },
+                {
+                    "Text": "i don't believe the piaas are that much more loud , but they are definitely a nicer sounding setup than the stock honkers ."
+                }
+            ],
+            "Text_raw": "So that's it! Here's a before-and-after horn comparison, so you get an idea of the sound difference. I don't believe the PIAAs are that much more loud, but they are definitely a nicer sounding setup than the stock honkers.",
+            "Images": [],
+            "StepId": 57980,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Horn"
+}

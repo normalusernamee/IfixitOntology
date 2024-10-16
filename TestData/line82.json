@@ -1,0 +1,281 @@
+{
+    "Title": "2003-2007 Honda Accord Engine Air Filter Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 10941,
+    "Category": "2003-2007 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "5 16 socket",
+            "Url": "http://www.amazon.com/TEKTON-14150-16-Inch-Shallow-12-Point/dp/B00DP14MNW/ref=sr_1_1?s=hi&ie=UTF8&qid=1434652727&sr=1-1&keywords=tekton+14150&pebp=1434652729911&perid=0Q2G2QJGES0ZHBY21NGN",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2003+2004+2005+2006+2007+Honda+Accord+Engine+Air+Filter+Replacement/10941",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the hood latch beside the driver's side door , right next to the left foot rest ."
+                }
+            ],
+            "Text_raw": "Locate the hood latch beside the driver's side door, right next to the left foot rest.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NSjYhEA23iAKNwmh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/diHAcUUQAKctjJHl.standard"
+            ],
+            "StepId": 39936,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "pull the latch toward you to release the hood ."
+                }
+            ],
+            "Text_raw": "Pull the latch toward you to release the hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YIuxlPgwiJUSChbd.standard"
+            ],
+            "StepId": 41987,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "walk around to the front of the vehicle ."
+                },
+                {
+                    "Text": "slide your hand under the hood , directly above the honda emblem . locate and pull the hood tab to unlock the hood ."
+                },
+                {
+                    "Text": "once the tab is released , lift the hood up ."
+                }
+            ],
+            "Text_raw": "Walk around to the front of the vehicle. Slide your hand under the hood, directly above the Honda emblem. Locate and pull the hood tab to unlock the hood. Once the tab is released, lift the hood up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ybu3ZsR2KjnojtMl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KGkLxNUjKGvWtJuj.standard"
+            ],
+            "StepId": 39937,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use your left hand to hold the hood up . locate the hood stand and pull it out of the clip ."
+                }
+            ],
+            "Text_raw": "Use your left hand to hold the hood up. Locate the hood stand and pull it out of the clip.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bk3mU1myDjWAa1p4.standard"
+            ],
+            "StepId": 39938,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "place the tip of the hood stand into the hole located in the upper left of the hood ."
+                },
+                {
+                    "Text": "let the hood rest on the stand ."
+                }
+            ],
+            "Text_raw": "Place the tip of the hood stand into the hole located in the upper left of the hood. Let the hood rest on the stand.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LnPagmD6xDNhLhXl.standard"
+            ],
+            "StepId": 41988,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "be sure your engine is turned off ."
+                },
+                {
+                    "Text": "identify the engine's air duct hose ."
+                },
+                {
+                    "Text": "the emission hose is located on the top ."
+                },
+                {
+                    "Text": "remove the emission hose by gently wiggling it out of place ."
+                }
+            ],
+            "Text_raw": "Be sure your engine is turned off. Identify the engine's air duct hose. The emission hose is located on the top. Remove the emission hose by gently wiggling it out of place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RNrmGQxeQnZJkJTJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CZXQA2WLXOIngNIk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SREZowDsOvNwBsPS.standard"
+            ],
+            "StepId": 39930,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the smog hose by squeezing the tubing and pulling it off ."
+                }
+            ],
+            "Text_raw": "Remove the smog hose by squeezing the tubing and pulling it off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lHI5u6Xv5gSHlj16.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/O1TmC1MP1WhAIL32.standard"
+            ],
+            "StepId": 40955,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "using a phillips screwdriver , loosen air duct clamp screws ."
+                }
+            ],
+            "Text_raw": "Using a Phillips screwdriver, loosen air duct clamp screws.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DnnndVyk5PhHDkQv.standard"
+            ],
+            "StepId": 40084,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "once the screws are loose , completely remove the air duct hose by gently wiggling it off the engine and the air filter housing ."
+                }
+            ],
+            "Text_raw": "Once the screws are loose, completely remove the air duct hose by gently wiggling it off the engine and the air filter housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JwVTiTCNUkHaSv5Z.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6BMApRtviQXABVSy.standard"
+            ],
+            "StepId": 39931,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "remove the air filter housing cap ."
+                },
+                {
+                    "Text": "using a long phillips screwdriver or a long 5 /16 hex driver , remove the four screws holding down the air filter housing cap ."
+                }
+            ],
+            "Text_raw": "Remove the air filter housing cap. Using a Long Philips Screwdriver or a Long 5/16 Hex Driver, remove the four screws holding down the air filter housing cap.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JDrttUVAOWmICHCX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KkksCpQQOE2KbFg4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OQ6X5ixVVa4PRh6O.standard"
+            ],
+            "StepId": 39932,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "lift the engine air filter housing cap and place it aside ."
+                },
+                {
+                    "Text": "do not turn the housing cap upside down . screws left in holes of housing cap might fall out ."
+                }
+            ],
+            "Text_raw": "Lift the engine air filter housing cap and place it aside. Do not turn the housing cap upside down. Screws left in holes of housing cap might fall out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/im5ROhGbJxRGYDC5.standard"
+            ],
+            "StepId": 39934,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "lift the dirty filter out of the housing ."
+                },
+                {
+                    "Text": "vacuum any dirt or debris out of the air filter box ."
+                }
+            ],
+            "Text_raw": "Lift the dirty filter out of the housing. Vacuum any dirt or debris out of the air filter box.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KZscNEbhO2KvWB5B.standard"
+            ],
+            "StepId": 41994,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "replace the old filter with the new filter ."
+                },
+                {
+                    "Text": "ensure that it seats properly in the lip of the air cleaner box ."
+                },
+                {
+                    "Text": "screw down the air filter housing cap . connect air dust , emission , and smog hoses ."
+                }
+            ],
+            "Text_raw": "Replace the old filter with the new filter. Ensure that it seats properly in the lip of the air cleaner box. Screw down the air filter housing cap. Connect air dust, emission, and smog hoses.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VSGF1EZojPvarmC2.standard"
+            ],
+            "StepId": 39935,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Engine Air Filter"
+}

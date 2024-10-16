@@ -1,0 +1,138 @@
+{
+    "Title": "2010-2014 Ford Mustang Wheel Replacement",
+    "Ancestors": [
+        "Ford Mustang",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 10824,
+    "Category": "2010-2014 Ford Mustang",
+    "Toolbox": [
+        {
+            "Name": "13 16 socket",
+            "Url": "/Item/13_16%22_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 breaker bar",
+            "Url": "https://www.amazon.com/Capri-Tools-Extension-Breaker-inches/dp/B00V3X3NJS/ref=sr_1_5?s=power-hand-tools&ie=UTF8&qid=1488910150&sr=1-5&keywords=breaker+bar",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2010+2011+2012+2013+2014+Ford+Mustang+Wheel+Replacement/10824",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "read over the guidelines for safety reasons before you begin ."
+                },
+                {
+                    "Text": "place the hydraulic jack under the metal frame of the car near the tire that you want to change ."
+                },
+                {
+                    "Text": "consult the car owner's manual for exact locations to place the hydraulic jack ."
+                }
+            ],
+            "Text_raw": "Read over the guidelines for safety reasons before you begin. Place the hydraulic jack under the metal frame of the car near the tire that you want to change. Consult the car owner's manual for exact locations to place the hydraulic jack.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jACEXGrOvY4mN1UJ.standard"
+            ],
+            "StepId": 39637,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "cars are very heavy and can pose danger when they are elevated by the car jack . exercise caution around the elevated vehicle ."
+                },
+                {
+                    "Text": "crack the bolts loose before raising the car"
+                },
+                {
+                    "Text": "pump the jack handle evenly until the tire raises only an inch or two off of the ground . be sure not to lay underneath the vehicle until the new wheel is properly installed ."
+                }
+            ],
+            "Text_raw": "Cars are very heavy and can pose danger when they are elevated by the car jack. Exercise caution around the elevated vehicle. Crack the bolts loose before raising the car Pump the jack handle evenly until the tire raises only an inch or two off of the ground. Be sure not to lay underneath the vehicle until the new wheel is properly installed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MDYqgP2Tq5nVNEix.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FxVLq6WuMs31JneG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/puNKB4PAs5RrVyFZ.standard"
+            ],
+            "StepId": 39638,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "lug nuts hold the wheel in place . use the 13 /16 socket with a breaker bar to remove the lug nuts by turning the nuts counterclockwise ."
+                },
+                {
+                    "Text": "store the lug nuts in a safe place so that you do not lose them ."
+                }
+            ],
+            "Text_raw": "Lug nuts hold the wheel in place. Use the 13/16\" socket with a breaker bar to remove the lug nuts by turning the nuts counterclockwise. Store the lug nuts in a safe place so that you do not lose them.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZkqQXtnflUIXcxeT.standard"
+            ],
+            "StepId": 39639,
+            "Tools_extracted": [
+                "3 8 breaker bar"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "the wheel will be heavy . you should brace yourself to bear the weight . seek help if the wheel is too heavy for you ."
+                },
+                {
+                    "Text": "grab the wheel with both hands and pull the wheel straight off and away from the car ."
+                },
+                {
+                    "Text": "do not risk dropping the wheel onto the brake rotor , which would cause damage to it ."
+                }
+            ],
+            "Text_raw": "The wheel will be heavy. You should brace yourself to bear the weight. Seek help if the wheel is too heavy for you. Grab the wheel with both hands and pull the wheel straight off and away from the car. Do not risk dropping the wheel onto the brake rotor, which would cause damage to it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YOsYZeLNayrp4IbY.standard"
+            ],
+            "StepId": 39640,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "place a new wheel on the hub , and then fix it in place by tightening the lug nuts clockwise . in other words , skip every other nut as you go around the wheel ."
+                },
+                {
+                    "Text": "lower the car after snugging the bolts then torque the wheel nuts to 100 ftlb"
+                }
+            ],
+            "Text_raw": "Place a new wheel on the hub, and then fix it in place by tightening the lug nuts clockwise. In other words, skip every other nut as you go around the wheel. Lower the car after snugging the bolts then torque the wheel nuts to 100ftlb",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/viZYfySlPUMUCVZq.standard"
+            ],
+            "StepId": 39641,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Wheel"
+}

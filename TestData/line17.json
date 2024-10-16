@@ -1,0 +1,173 @@
+{
+    "Title": "1998-2002 Honda Accord Distributor Rotor Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3636,
+    "Category": "1998-2002 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": ".25 socket wrench",
+            "Url": "http://www.amazon.com/Stanley-91-928-4-Inch-Release-Ratchet/dp/B000NJ7U1A/ref=sr_1_6?ie=UTF8&qid=1390863167&sr=8-6&keywords=1%2F4%22+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "8 mm deep socket",
+            "Url": "http://www.amazon.com/TEKTON-1220-Socket-5-5-12mm-Sockets/dp/B000NPUJF8/ref=sr_1_1?ie=UTF8&qid=1390863785&sr=8-1&keywords=8+mm+deep+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "probe_and_pickset",
+            "Url": "http://www.ifixit.com/Tools/Probe-and-Pick-Set/IF145-059",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/1fZMHbcDB1yWGpkp.mini"
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1998+1999+2000+2001+2002+Honda+Accord+Distributor+Rotor+Replacement/3636",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before disconnecting the spark plug wires , be sure to trace their orientation from the individual cylinders back to the distributor cap ."
+                },
+                {
+                    "Text": "the cylinders are ordered from left to right when viewing the engine from the front of the car , with cylinder 1 being closest to the passenger side of the vehicle ."
+                },
+                {
+                    "Text": "mark the order of the spark plug wires on the new distributor cap with a silver sharpie marker -- it will make reinstallation much easier ."
+                }
+            ],
+            "Text_raw": "Before disconnecting the spark plug wires, be sure to trace their orientation from the individual cylinders back to the distributor cap. The cylinders are ordered from left to right when viewing the engine from the front of the car, with cylinder #1 being closest to the passenger side of the vehicle. Mark the order of the spark plug wires on the new distributor cap with a silver sharpie marker -- it will make reinstallation much easier.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QKH6jPOupnCZUAeF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TwNbwO5Ql3ZBrUxm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/32tjeienbVPOqCML.standard"
+            ],
+            "StepId": 17372,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "disconnect the four spark plug wires from the distributor cap by pulling their connectors straight away from the sockets on the distributor cap ."
+                },
+                {
+                    "Text": "it may be helpful to slightly twist the wires as you pull them ."
+                }
+            ],
+            "Text_raw": "Disconnect the four spark plug wires from the distributor cap by pulling their connectors straight away from the sockets on the distributor cap. It may be helpful to slightly twist the wires as you pull them.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EHAnIIsJMwKlOLhO.standard"
+            ],
+            "StepId": 17393,
+            "Tools_extracted": [
+                "socket"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a 1 /4 drive , 8 mm deep socket to remove the three hex bolts securing the distributor cap to the engine ."
+                },
+                {
+                    "Text": "the position of the third bolt is not visible in the second picture ."
+                }
+            ],
+            "Text_raw": "Use a 1/4\" drive, 8 mm deep socket to remove the three hex bolts securing the distributor cap to the engine. The position of the third bolt is not visible in the second picture.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ltXlLXGBApWs2IAb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/do3eRlTYWFOrlBvU.standard"
+            ],
+            "StepId": 17373,
+            "Tools_extracted": [
+                "8 mm deep socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "pull the distributor cap away from the engine and set it aside ."
+                }
+            ],
+            "Text_raw": "Pull the distributor cap away from the engine and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GnM4JhWXOfr1WOXH.standard"
+            ],
+            "StepId": 17374,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use a dental pick or a small screwdriver to gently remove the d-shaped o-ring around the distributor cap flange ."
+                },
+                {
+                    "Text": "install a new o-ring in the seal recess , making sure that it is sitting flush against the flange ."
+                }
+            ],
+            "Text_raw": "Use a dental pick or a small screwdriver to gently remove the D-shaped o-ring around the distributor cap flange. Install a new o-ring in the seal recess, making sure that it is sitting flush against the flange.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QsJ2GpRluWRFo4vH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TwTTFeLGpWdqXDuL.standard"
+            ],
+            "StepId": 17375,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the single 2 phillips screw securing the distributor rotor to the shaft ."
+                }
+            ],
+            "Text_raw": "Remove the single #2 Phillips screw securing the distributor rotor to the shaft.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Tw2VWoFqPB6DWggF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dprDjBjCYTd6NlkN.standard"
+            ],
+            "StepId": 17376,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "pull the distributor rotor straight off its shaft , being careful not to rotate the shaft as you remove it ."
+                },
+                {
+                    "Text": "when installing the new distributor rotor , press it onto the shaft with the screw holes aligned axially ."
+                }
+            ],
+            "Text_raw": "Pull the distributor rotor straight off its shaft, being careful not to rotate the shaft as you remove it. When installing the new distributor rotor, press it onto the shaft with the screw holes aligned axially.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NUFyDu1yXXN4SlbG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PoAa1mDw51AW6ATX.standard"
+            ],
+            "StepId": 17377,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Distributor Rotor"
+}

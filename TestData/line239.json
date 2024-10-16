@@ -1,0 +1,142 @@
+{
+    "Title": "2001 Volkswagen Passat Key Fob Battery Replacement",
+    "Ancestors": [
+        "Volkswagen Passat",
+        "Volkswagen",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 62152,
+    "Category": "1996-2005 Volkswagen Passat",
+    "Toolbox": [
+        {
+            "Name": "cr2032 lithium battery",
+            "Url": "http://www.ifixit.com/Apple-Parts/CR2032-Lithium-Battery/IF207-011",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/UAjjP1aaaQBXcVLb.mini"
+        },
+        {
+            "Name": "opening tool",
+            "Url": "https://www.ifixit.com/Store/Parts/iFixit-Opening-Tool/IF145-335",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "2.5mm flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Flathead-3-32-Inch-or-2-5-mm-Screwdriver/IF145-011",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/IRnGQ4e2ZPBSxpuB.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2001+Volkswagen+Passat+Key+Fob+Battery+Replacement/62152",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "press the release button on the key fob so that key is extended ."
+                },
+                {
+                    "Text": "locate the small indentation in the middle of the key fob ."
+                }
+            ],
+            "Text_raw": "Press the release button on the key fob so that key is extended. Locate the small indentation in the middle of the key fob.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TN1iCEc3wwADBxav.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rDFZPGmn1VBGXsWs.standard"
+            ],
+            "StepId": 130638,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "place a screwdriver in the indentation of the key fob ."
+                },
+                {
+                    "Text": "apply pressure and rotate the screwdriver until key fob begins to separate ."
+                },
+                {
+                    "Text": "using light force , pull the key fob apart ."
+                },
+                {
+                    "Text": "remove the cover on lower part of the key fob and locate the battery ."
+                }
+            ],
+            "Text_raw": "Place a screwdriver in the indentation of the key fob. Apply pressure and rotate the screwdriver until key fob begins to separate. Using light force, pull the key fob apart. Remove the cover on lower part of the key fob and locate the battery.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/J5DhKOWaABYpox2C.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hQiRin6GFWdyxQbi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FkQSHU1ZyOQNYSsk.standard"
+            ],
+            "StepId": 130646,
+            "Tools_extracted": [
+                "2.5mm flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a screwdriver to remove the battery ."
+                },
+                {
+                    "Text": "place a new battery in the key fob and press down gently to secure it in place ."
+                }
+            ],
+            "Text_raw": "Use a screwdriver to remove the battery. Place a new battery in the key fob and press down gently to secure it in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/O1NYuXhRCQlKaERw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tqN2VkVORjpMMV5E.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jqI3kZaO6WrLrKPo.standard"
+            ],
+            "StepId": 130648,
+            "Tools_extracted": [
+                "2.5mm flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "pick up the pieces of the key fob and begin to slide the pieces together ."
+                },
+                {
+                    "Text": "this needs to be done slowly to not break the plastic on the fob ."
+                }
+            ],
+            "Text_raw": "Pick up the pieces of the key fob and begin to slide the pieces together. This needs to be done slowly to not break the plastic on the fob.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bxIxyEvkUVnftCd1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PmQuW1gtVmTPNZZK.standard"
+            ],
+            "StepId": 130651,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "press the key release button to make sure that the key fob operates correctly ."
+                },
+                {
+                    "Text": "press the lock , unlock and trunk buttons and check for the red indicator light to make sure the key fob working properly ."
+                },
+                {
+                    "Text": "depending on your vehicle , you may need to reprogram your key fob to your car . either consult a dealership or review your owner's manual on how to reprogram your key fob ."
+                }
+            ],
+            "Text_raw": "Press the key release button to make sure that the key fob operates correctly. Press the lock, unlock and trunk buttons and check for the red indicator light to make sure the key fob working properly. Depending on your vehicle, you may need to reprogram your key fob to your car. Either consult a dealership or review your owner's manual on how to reprogram your key fob.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aUssaSNFhZth4NqD.standard"
+            ],
+            "StepId": 130653,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Key Fob Battery"
+}

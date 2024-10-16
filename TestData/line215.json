@@ -1,0 +1,193 @@
+{
+    "Title": "Installing Truck LED Roof Cab Lights",
+    "Ancestors": [
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 44304,
+    "Category": "Ford F-Series",
+    "Toolbox": [
+        {
+            "Name": "dry erase marker",
+            "Url": "/Item/dry_erase_marker",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drill",
+            "Url": "/Item/Drill",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "screws",
+            "Url": "/Item/Screws",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "screwdriver",
+            "Url": "https://www.ifixit.com/Store/Parts/64-Bit-Driver-Kit/IF145-299-1",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "painter s tape",
+            "Url": "/Item/painter%27s_tape",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Installing+Truck+LED+Roof+Cab+Lights/44304",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "lower the headliner . you'll need to remove both visors and the overhead storage console ."
+                },
+                {
+                    "Text": "get your fingers where you can grab the ( 4 ) metal clips to release ."
+                },
+                {
+                    "Text": "you will also need to remove the driver and passenger side a-pillar covers ."
+                }
+            ],
+            "Text_raw": "Lower the headliner. You'll need to remove both visors and the overhead storage console. Get your fingers where you can grab the (4) metal clips to release. You will also need to remove the driver and passenger side A-pillar covers.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/a4UPk22NGxofUO2w.standard"
+            ],
+            "StepId": 99373,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "get some painters tape and tape up the entire front area of the roof where you will be installing the led cab lights ."
+                },
+                {
+                    "Text": "mark the locations where you will be attaching each led light and the holes that you will be drilling . ( you can use a dry erase marker . )"
+                }
+            ],
+            "Text_raw": "Get some painters tape and tape up the entire front area of the roof where you will be installing the LED cab lights. Mark the locations where you will be attaching each LED light and the holes that you will be drilling. (You can use a dry erase marker.)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WMYCHMCUITSYnECI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qNmSTtdv1jlklJnu.standard"
+            ],
+            "StepId": 99374,
+            "Tools_extracted": [
+                "painter s tape",
+                "dry erase marker"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "draw a line perpendicular to the sides of the truck and measure the distance from the windshield molding by the driver's side door . you will basically need to draw a horizontal straight line from both sides of the truck and then find the center of the truck . use the midpoint as a guideline and measure where you will be placing the rest ."
+                }
+            ],
+            "Text_raw": "Draw a line perpendicular to the sides of the truck and measure the distance from the windshield molding by the driver's side door.  You will basically need to draw a horizontal straight line from both sides of the truck and then find the center of the truck. Use the midpoint as a guideline and measure where you will be placing the rest.",
+            "Images": [],
+            "StepId": 99375,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "you should have five lines to mark each of the led roof lights ."
+                },
+                {
+                    "Text": "measure 6.5 inches for each of the lines to mark the center hole . when you mark all the center holes , lay all of the led cab lights in place to see if you like the look ."
+                }
+            ],
+            "Text_raw": "You should have five lines to mark each of the LED roof lights. Measure 6.5 inches for each of the lines to mark the center hole. When you mark all the center holes, lay all of the LED cab lights in place to see if you like the look.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SDk1grAscOinkNcl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/11jSyDjUaTr1CuyR.standard"
+            ],
+            "StepId": 99377,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "get some spare cardboard laying around and trace out a template of the led roof light . mark the locations where you will drill the holes and align the template onto the lines you drew so you know where all the holes will be drilled later on ."
+                },
+                {
+                    "Text": "double check all the locations ."
+                }
+            ],
+            "Text_raw": "Get some spare cardboard laying around and trace out a template of the LED roof light. Mark the locations where you will drill the holes and align the template onto the lines you drew so you know where all the holes will be drilled later on. Double check all the locations.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hUTjwPp1HNuPYTm1.standard"
+            ],
+            "StepId": 99378,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "drill the holes through the painter's tape ."
+                },
+                {
+                    "Text": "bolt down the led cab lights onto the truck's roof ."
+                },
+                {
+                    "Text": "the underside of the led roof cab light shows the 3 locations that will need to be marked on the roof to drill ."
+                }
+            ],
+            "Text_raw": "Drill the holes through the painter's tape. Bolt down the LED cab lights onto the truck's roof. The underside of the LED roof cab light shows the 3 locations that will need to be marked on the roof to drill.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/emCrVK4mhIlVaNBw.standard"
+            ],
+            "StepId": 99379,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "connect the wires . the plugs are polar sensitive , so if it doesn't light up , you will need to flip it 180 degrees . you'll need to wire them up in parallel and use some electrical tape so they maintain a parallel wiring ."
+                },
+                {
+                    "Text": "tape the wire harness onto the reinforcement beam ."
+                }
+            ],
+            "Text_raw": "Connect the wires. The plugs are polar sensitive, so if it doesn't light up, you will need to flip it 180 degrees.  You'll need to wire them up in parallel and use some electrical tape so they maintain a parallel wiring. Tape the wire harness onto the reinforcement beam.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ocGSiKFCIGNLOv5q.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XJfFK4LaLKjVOQiO.standard"
+            ],
+            "StepId": 99380,
+            "Tools_extracted": [
+                "painter s tape"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "route all the wire through the front map light assembly to complete installation ."
+                }
+            ],
+            "Text_raw": "Route all the wire through the front map light assembly to complete installation.",
+            "Images": [],
+            "StepId": 99381,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Ford F250 LED Roof Cab Lights"
+}

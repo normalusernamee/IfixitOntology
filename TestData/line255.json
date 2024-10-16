@@ -1,0 +1,201 @@
+{
+    "Title": "Kenwood KDC-BT362U Button  Replacement",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 74739,
+    "Category": "Kenwood KDC-BT362U",
+    "Toolbox": [
+        {
+            "Name": "opening tool",
+            "Url": "https://www.ifixit.com/Store/Parts/iFixit-Opening-Tool/IF145-335",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Kenwood+KDC-BT362U+Button++Replacement/74739",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the face-plate eject button ."
+                }
+            ],
+            "Text_raw": "Locate the face-plate eject button.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AyWsMLwoiTWuqFfD.standard"
+            ],
+            "StepId": 147009,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "press the eject button with your forefinger ."
+                },
+                {
+                    "Text": "remove the face-plate ."
+                }
+            ],
+            "Text_raw": "Press the eject button with your forefinger. Remove the face-plate.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FyrHDQbARNQx2ZXL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tDPW4nqxTDEIbTuX.standard"
+            ],
+            "StepId": 147903,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "starting on the top side , pop the front panel frame out ."
+                },
+                {
+                    "Text": "remove the face-plate frame ."
+                }
+            ],
+            "Text_raw": "Starting on the top side, pop the front panel frame out. Remove the face-plate frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/j3lJAGYwAHCOvDNr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nsME2qxXF1V3PKHx.standard"
+            ],
+            "StepId": 147911,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use the plastic opening tool to pry open the tabs ."
+                },
+                {
+                    "Text": "repeat on the opposite side ."
+                }
+            ],
+            "Text_raw": "Use the plastic opening tool to pry open the tabs. Repeat on the opposite side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/leEN1Z3aovxNTRGk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3DaVdVXCgW5rQyQt.standard"
+            ],
+            "StepId": 147912,
+            "Tools_extracted": [
+                "opening tool"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the front panel ."
+                }
+            ],
+            "Text_raw": "Remove the front panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UMbncD1ixfr2qeWi.standard"
+            ],
+            "StepId": 147958,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "use the phillips 0 screwdriver to remove the four screws ."
+                }
+            ],
+            "Text_raw": "Use the Phillips #0 Screwdriver to remove the four screws.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bXPE5tODGHNVN1fL.standard"
+            ],
+            "StepId": 152209,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "use the plastic opening tool to pry it open ."
+                }
+            ],
+            "Text_raw": "Use the plastic opening tool to pry it open.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oJk6Ueoc3y3TXyDM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jTgqE1YwFfqHqLsl.standard"
+            ],
+            "StepId": 152210,
+            "Tools_extracted": [
+                "opening tool"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "lift and remove the motherboard to reveal the inside of the front panel ."
+                }
+            ],
+            "Text_raw": "Lift and remove the motherboard to reveal the inside of the front panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pvWIAT5i2Qsmk2ae.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QnRDCJsCmbEESiVi.standard"
+            ],
+            "StepId": 152212,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "use the plastic opening tool to lift up and remove the cover ."
+                }
+            ],
+            "Text_raw": "Use the plastic opening tool to lift up and remove the cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EIFoQtVfMoITtTIc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ksDIi3VbEbpBLURo.standard"
+            ],
+            "StepId": 152213,
+            "Tools_extracted": [
+                "opening tool"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "the buttons are now able to be removed and replaced if damaged or missing ."
+                }
+            ],
+            "Text_raw": "The buttons are now able to be removed and replaced if damaged or missing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BDPOSNS5RkQ66L3I.standard"
+            ],
+            "StepId": 152214,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Button"
+}

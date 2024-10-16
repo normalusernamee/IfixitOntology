@@ -1,0 +1,133 @@
+{
+    "Title": "2002-2007 Jeep Liberty fuel pipes on tank Replacement",
+    "Ancestors": [
+        "Jeep Liberty",
+        "Jeep",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 55456,
+    "Category": "2002-2007 Jeep Liberty",
+    "Toolbox": [
+        {
+            "Name": "drill",
+            "Url": "https://www.amazon.com/DEWALT-DC970K-2-18-Volt-Compact-Driver/dp/B002RLR0EY/ref=sr_1_6?s=power-hand-tools&rps=1&ie=UTF8&qid=1487961385&sr=1-6&keywords=cordless+drill&refinements=p_85%3A2470955011",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drill",
+            "Url": "/Item/approx._6mm_drill_bit",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hammer",
+            "Url": "http://www.amazon.com/dp/B0000224VG/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "chisel",
+            "Url": "http://www.amazon.com/Stanley-16-150-Series-3-Piece-Chisel/dp/B00002X1YO/ref=sr_1_1?ie=UTF8&qid=1407452845&sr=8-1&keywords=chisel",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "rivet gun",
+            "Url": "/Item/rivet_gun",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "screwdriver",
+            "Url": "https://www.ifixit.com/Store/Parts/64-Bit-Driver-Kit/IF145-299-1",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2002+2003+2004+2005+2006+2007+Jeep+Liberty+fuel+pipes+on+tank+Replacement/55456",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "there are 2 rivets in each corner that need to be drilled out ."
+                },
+                {
+                    "Text": "once the head of the rivet is drilled off , you will likely end up with the rest of the rivet sticking out the floor . just take a punch and knock them out ,"
+                },
+                {
+                    "Text": "you only need to remove the rear most 2 to be able to pull the carpet back far enough to gain access , although i did end up removing 3 corners ."
+                }
+            ],
+            "Text_raw": "there are 2 rivets in each corner that need to be drilled out. Once the head of the rivet is drilled off, you will likely end up with the rest of the rivet sticking out the floor. Just take a punch and knock them out, You only need to remove the rear most 2 to be able to pull the carpet back far enough to gain access, although I did end up removing 3 corners.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2QbPaFJE51gqoQKU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TXEeDbHdk5PovKWb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SnkGQrDDRWIFnE2M.standard"
+            ],
+            "StepId": 120338,
+            "Tools_extracted": [
+                "rivet gun"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "the is a 10 mm head nut in each corner of the panel under all that sealant . so the first job is to chip it away by whatever means possible . i used a hammer and chisel ."
+                },
+                {
+                    "Text": "once the nuts are removed , you then need to chip away all the sealant around the panel itself . it takes a while !"
+                }
+            ],
+            "Text_raw": "The is a 10mm head nut in each corner of the panel under all that sealant. So the first job is to chip it away by whatever means possible. I used a hammer and chisel. Once the nuts are removed, you then need to chip away all the sealant around the panel itself. It takes a while!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2J1deB6oqt2MyVP5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GEcxBU6LZ2A2lSYO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gBtMfjmgTmm5F6EH.standard"
+            ],
+            "StepId": 120339,
+            "Tools_extracted": [
+                "hammer"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "with the access panel now removed , you're ready to start removing and replacing the pipes . i started with the outlet which is the bigger of the 2 and the one closest to the rear of the vehicle . just press both sides of the quick connect coupling in simultaneously and pull it off . then go underneath and remove it from there ."
+                }
+            ],
+            "Text_raw": "with the access panel now removed, you're ready to start removing and replacing the pipes. I started with the outlet which is the bigger of the 2 and the one closest to the rear of the vehicle. Just press both sides of the quick connect coupling in simultaneously and pull it off. Then go underneath and remove it from there.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1NZqO1nRKcZsmXyG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JfhH6rkPcM25g56J.standard"
+            ],
+            "StepId": 120341,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "grab your new hose and slide it onto the connector on the tank first . be careful when pushing it on as the elbows on the tank are plastic . if you break them off , you're gonna have a bad day ! the size of hose you need for the outlet is 8 mm id ( inside diameter ) before sliding it onto the tank , be sure to put your new clamp on first !"
+                },
+                {
+                    "Text": "tighten the clamp up but be careful . you want it to be tight , but bear in mind the elbow is plastic and could easily break . once that's done , head underneath , cut your hose to size , put another clamp on and tighten up . this end is going onto a metal pipe , so tighten it up good ."
+                },
+                {
+                    "Text": "once you've done that , it's just a case of repeating the process for the return pipe . whilst not strictly necessary to replace both , for all the time it will take , i did it anyway . the only difference for the return pipe , is that you will need 7 mm id pipe ."
+                }
+            ],
+            "Text_raw": "Grab your new hose and slide it onto the connector on the tank first. Be careful when pushing it on as the elbows on the tank are plastic. If you break them off, you're gonna have a bad day! The size of hose you need for the outlet is 8mm id (inside diameter) before sliding it onto the tank, be sure to put your new clamp on first! tighten the clamp up but be careful. You want it to be tight, but bear in mind the elbow is plastic and could easily break. Once that's done, head underneath, cut your hose to size, put another clamp on and tighten up. This end is going onto a metal pipe, so tighten it up good. Once you've done that, it's just a case of repeating the process for the return pipe.  Whilst not strictly necessary to replace both, for all the time it will take, I did it anyway. The only difference for the return pipe, is that you will need 7mm id pipe.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/voAbxE2ujJDVwOC5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6S42TXWvaucgbVcQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xRkjmSGxBFxWGHA4.standard"
+            ],
+            "StepId": 120342,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "fuel pipes on tank"
+}

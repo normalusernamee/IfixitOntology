@@ -1,0 +1,118 @@
+{
+    "Title": "How to clean Mercedes W123 Electric Ground contacts",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20580,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "emory cloth or sandpaper",
+            "Url": "/Item/Emory_cloth_or_sandpaper",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wire brush",
+            "Url": "https://www.amazon.com/eBoot-Brush-Cleaning-Welding-Stainless/dp/B01M34Q848/ref=sr_1_10?ie=UTF8&qid=1488831304&sr=8-10&keywords=wire+brush",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "smart wrench",
+            "Url": "https://www.ifixit.com/Store/Parts/Smart-Wrench/IF145-231",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/bIqPGgt6wXCOMSeU.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+clean+Mercedes+W123+Electric+Ground+contacts/20580",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the primary ground for your car's electric system is the ground on the car's battery . it connects to the chassis of the car next to the battery itself ."
+                },
+                {
+                    "Text": "begin by disconnecting the ground or negative terminal from your battery . for guidance on removing the terminal , and for other suggested battery maintenance while it is disconnected , guide follow the cable to the attachment point on the chassis ; it will be very nearby ."
+                },
+                {
+                    "Text": "loosen and remove the nut that holds the battery ground cable to the chassis , which will allow you to set aside the cable for now ."
+                },
+                {
+                    "Text": "use some emory cloth , very fine sandpaper , or a soft metal brush such as brass to remove any dirt or corrosion from the area where the battery cable connects to the chassis . then re-install the cable and reconnect it to the battery ."
+                }
+            ],
+            "Text_raw": "The primary ground for your car's electric system is the ground on the car's battery. It connects to the chassis of the car next to the battery itself. Begin by disconnecting the ground or negative terminal from your battery. For guidance on removing the terminal, and for other suggested battery maintenance while it is disconnected, [guide|20575|click here to see the battery maintenance guide.] Follow the cable to the attachment point on the chassis; it will be very nearby. Loosen and remove the nut that holds the battery ground cable to the chassis, which will allow you to set aside the cable for now. Use some emory cloth, very fine sandpaper, or a soft metal brush such as brass to remove any dirt or corrosion from the area where the battery cable connects to the chassis. Then re-install the cable and reconnect it to the battery.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RSxsLCUSBY2r5vyA.standard"
+            ],
+            "StepId": 56569,
+            "Tools_extracted": [
+                "emory cloth or sandpaper"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "next find the ground connection for many of the other electric components under the hood of your car , such as your headlights and turn signals ."
+                },
+                {
+                    "Text": "this set of ground connections is usually just behind the left/passenger's side turn signal . if you do not find it there you can look around the rest of the engine compartment . keep in mind that on a mercedes-benz of this era ground cables should all be brown in color as shown ."
+                }
+            ],
+            "Text_raw": "Next find the ground connection for many of the other electric components under the hood of your car, such as your headlights and turn signals. This set of ground connections is usually just behind the left/passenger's side turn signal. If you do not find it there you can look around the rest of the engine compartment. Keep in mind that on a Mercedes-Benz of this era ground cables should all be brown in color as shown.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uOuVNOLMRm2Ecutb.standard"
+            ],
+            "StepId": 56570,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "loosen this ground connection . you will need to remove the turn signal to reach the nut on the back of the bolt that holds those ground wires . for guidance on removing the turn signal guide"
+                },
+                {
+                    "Text": "just as you did for the main battery ground clean the area where these wires connect to the chassis ."
+                }
+            ],
+            "Text_raw": "Loosen this ground connection. You will need to remove the turn signal to reach the nut on the back of the bolt that holds those ground wires. For guidance on removing the turn signal [guide|20583|click here to review the turn signal bulb replacement guide.] Just as you did for the main battery ground clean the area where these wires connect to the chassis.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wJAKeC5hMDvWCi3Y.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oIcRuQW5UffVYlub.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tX2AoOhO6beDRh3b.standard"
+            ],
+            "StepId": 56571,
+            "Tools_extracted": [
+                "wire brush"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "while the connections are loose you can also clean the ends to ensure a good electric current ."
+                },
+                {
+                    "Text": "re-attach these wires ."
+                },
+                {
+                    "Text": "there are more ground wires than these on the car . the theory applies to them all . continue to maintain any other ground wires you find in the trunk , under the car by the transmission , behind the dash ."
+                }
+            ],
+            "Text_raw": "While the connections are loose you can also clean the ends to ensure a good electric current. Re-attach these wires. There are more ground wires than these on the car. The theory applies to them all. Continue to maintain any other ground wires you find in the trunk, under the car by the transmission, behind the dash.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/J6eXsP5MxACEHaBP.standard"
+            ],
+            "StepId": 56572,
+            "Tools_extracted": [
+                "wire brush"
+            ]
+        }
+    ],
+    "Subject": ""
+}

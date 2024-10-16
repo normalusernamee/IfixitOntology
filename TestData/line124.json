@@ -1,0 +1,143 @@
+{
+    "Title": "Repairing Mercedes W123 Power Window Regulator, Rear",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20430,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "bench vice",
+            "Url": "/Item/Bench_vice",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431007689&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Repairing+Mercedes+W123+Power+Window+Regulator+Rear/20430",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before you can attempt to repair your rear power window regulator it must be removed from the door . guide"
+                }
+            ],
+            "Text_raw": "Before you can attempt to repair your rear power window regulator it must be removed from the door. [guide|20428|Click here to review the rear power window regulator removal guide.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RJI3XtF4FJoW6NgU.standard"
+            ],
+            "StepId": 56352,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "once removed , inspect the regulator . the primary metal structure of the regulator should be relatively flat/straight . inspect it for bends . inspect the teeth on the large regulator gear and on the small motor gear for uneven wear or broken teeth ."
+                },
+                {
+                    "Text": "on this particular regulator used in this example you can see it is very obviously bent away from the motor ."
+                },
+                {
+                    "Text": "this is causing the large gear to rub against the motor body in two places . this explains the slow movement of the window even after greasing the felt slides on the window rails ; the friction of the gear rubbing on the motor housing is stressing the motor ."
+                },
+                {
+                    "Text": "the teeth on the gears and motor showed some wear but still appeared serviceable and none of the teeth were broken . if this was not the case the process would need to stop here while a good used regulator was sourced ."
+                }
+            ],
+            "Text_raw": "Once removed, inspect the regulator. The primary metal structure of the regulator should be relatively flat/straight. Inspect it for bends. Inspect the teeth on the large regulator gear and on the small motor gear for uneven wear or broken teeth. On this particular regulator used in this example you can see it is very obviously bent away from the motor. This is causing the large gear to rub against the motor body in two places. This explains the slow movement of the window even after greasing the felt slides on the window rails; the friction of the gear rubbing on the motor housing is stressing the motor. The teeth on the gears and motor showed some wear but still appeared serviceable and none of the teeth were broken. If this was not the case the process would need to stop here while a good used regulator was sourced.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/g5cSgc6Hfl2chQah.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UFTt5BRDVPnWYNmW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tNevYlVJDGZLNvNL.standard"
+            ],
+            "StepId": 56353,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "after diagnosing the regulator and finding it to be badly bent it can be secured in a vice . be thoughtful about where you are compressing the vice on the regulator so as to not damage the various parts of the regulator ."
+                }
+            ],
+            "Text_raw": "After diagnosing the regulator and finding it to be badly bent it can be secured in a vice. Be thoughtful about where you are compressing the vice on the regulator so as to not damage the various parts of the regulator.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HJAhINQuRQY2UeJh.standard"
+            ],
+            "StepId": 56354,
+            "Tools_extracted": [
+                "bench vice"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "with the regulator properly secured begin bending the regulator in an effort to straighten the main frame . no two regulators bend in just the same way so you will need to bend it with your best judgement ."
+                },
+                {
+                    "Text": "in these pictures you can see that in this case a flat metal piece was used to help pry the regulator body away from the motor at one point . it's just one example of places that the regulator can bend and how it can be returned to its proper position ."
+                },
+                {
+                    "Text": "the metal of the regulators is fairly soft so it will usually bend without excessive effort . however , be thoughtful about how you bend it especially when bending the ends near the door attachment pegs . if pushed too far the metal of the frame can break at which time you'll need to source a good used regulator ."
+                },
+                {
+                    "Text": "if necessary , the motor can be removed from the regulator to allow for that end to be held in the vice or otherwise manipulated . to do so , remove the three bolts holding it to the regulator and pull it away from the frame ."
+                }
+            ],
+            "Text_raw": "With the regulator properly secured begin bending the regulator in an effort to straighten the main frame. No two regulators bend in just the same way so you will need to bend it with your best judgement. In these pictures you can see that in this case a flat metal piece was used to help pry the regulator body away from the motor at one point. It's just one example of places that the regulator can bend and how it can be returned to its proper position. The metal of the regulators is fairly soft so it will usually bend without excessive effort. However, be thoughtful about how you bend it especially when bending the ends near the door attachment pegs. If pushed too far the metal of the frame can break at which time you'll need to source a good used regulator. If necessary, the motor can be removed from the regulator to allow for that end to be held in the vice or otherwise manipulated. To do so, remove the three bolts holding it to the regulator and pull it away from the frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NMXDANYwCWhBNIcI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AoGxZnSLHuqaiqVE.standard"
+            ],
+            "StepId": 56355,
+            "Tools_extracted": [
+                "bench vice"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "after bending the regulator back you can see that it's much straighter and that the gear now can move freely without rubbing . you can compare it to the original state of the regulator in the third picture ."
+                },
+                {
+                    "Text": "before re-installing the regulator grease the gears thoroughly with an extreme duty grease like moly wheel bearing grease or superlube silicone grease ."
+                },
+                {
+                    "Text": "after bending and lubricating the regulator on this car was re-installed in the door . the window moves up and down somewhat more quickly , and without any rattling or clunking , but it still moves much more slowly than desired . it is likely that this motor has been damaged by the window being used despite the bent regulator ."
+                },
+                {
+                    "Text": "in a future guide the motor will be replaced with a good used motor ."
+                }
+            ],
+            "Text_raw": "After bending the regulator back you can see that it's much straighter and that the gear now can move freely without rubbing. You can compare it to the original state of the regulator in the third picture. Before re-installing the regulator grease the gears thoroughly with an extreme duty grease like moly wheel bearing grease or SuperLube silicone grease. After bending and lubricating the regulator on this car was re-installed in the door. The window moves up and down somewhat more quickly, and without any rattling or clunking, but it still moves much more slowly than desired. It is likely that this motor has been damaged by the window being used despite the bent regulator. In a future guide the motor will be replaced with a good used motor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yx5wOnYpUrEFHO4V.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UAIqIgbQTIv65Xhf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6YrkxI2TEbvF13fZ.standard"
+            ],
+            "StepId": 56356,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

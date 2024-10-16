@@ -1,0 +1,344 @@
+{
+    "Title": "Honda CSC29 Stator Replacement",
+    "Ancestors": [
+        "Auto Part",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 62800,
+    "Category": "Honda CSC29",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "8 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14113-4-Inch-Shallow-6-Point/dp/B000NPPCGE/ref=sr_1_1?ie=UTF8&qid=1431011181&sr=8-1&keywords=8+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "soldering station",
+            "Url": "https://www.ifixit.com/Tools/Soldering-Station/IF145-018",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/OiyVpTEtEQyw1Ije.mini"
+        },
+        {
+            "Name": "pry bar",
+            "Url": "http://www.amazon.com/Stanley-55-045-7-1-2-Inch-Wonder/dp/B00002X1XS/ref=sr_1_1?ie=UTF8&qid=1407359568&sr=8-1&keywords=pry+bar",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wire cutter",
+            "Url": "http://www.ifixit.com/Tools/Flush-Wire-Cutter/IF145-056",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "25 mm socket",
+            "Url": "/Item/25mm_socket",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Honda+CSC29+Stator+Replacement/62800",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "remove 4 , 7.9 mm nuts using a 7.9 mm socket driver head"
+                },
+                {
+                    "Text": "one of the nuts is placed underneath the l-bracket . remove the l-bracket and the 3 circled nuts before attempting to remove the remaining nut"
+                },
+                {
+                    "Text": "there are two covers that need to be removed from the alternator . this step describes how to remove the back cover ."
+                }
+            ],
+            "Text_raw": "Remove 4, 7.9mm  nuts using a 7.9mm socket driver head One of the nuts is placed underneath the L-Bracket. Remove the L-Bracket and the 3 circled nuts before attempting to remove the remaining nut There are two covers that need to be removed from the alternator. This step describes how to remove the back cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BAhkNBdqeLrZCcng.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Wv6N6Jepf4BwFYBS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bmSSDyKTXymEt1bI.standard"
+            ],
+            "StepId": 132385,
+            "Tools_extracted": [
+                "socket"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "pull cover off the body of the alternator"
+                },
+                {
+                    "Text": "once you have done this , you should be able to see the internal components of the alternator , particularly the bridge assembly that houses the rectifier , voltage regulator and brushes ."
+                }
+            ],
+            "Text_raw": "Pull cover off the body of the alternator Once you have done this, you should be able to see the internal components of the alternator, particularly the bridge assembly that houses the rectifier, voltage regulator and brushes.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/h35iNqkANoAkkSlc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NsoGtlflcFaGrifN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oOOhy2WBOqDvCwZw.standard"
+            ],
+            "StepId": 132386,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "with the alternator cover removed , use a 2 phillips screwdriver to remove the two , 6 mm screws that hold the brush cover in place ."
+                },
+                {
+                    "Text": "remove the brush cover assembly from the alternator . you might need to insert a needle in the small hole to separate the brushes from the rotor . pull it out without using much force to avoid damage ."
+                },
+                {
+                    "Text": "avoid disconnecting wires unless otherwise specified !"
+                }
+            ],
+            "Text_raw": "With the alternator cover removed, use a #2 Phillips screwdriver to remove the two, 6 mm screws that hold the brush cover in place. Remove the brush cover assembly from the alternator. You might need to insert a needle in the small hole to separate the brushes from the rotor. Pull it out without using much force to avoid damage. Avoid disconnecting wires unless otherwise specified!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wF2LRSylOthPrJKl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Iaigpqq4PmxYnsfH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3gKs4yln6B3kIqho.standard"
+            ],
+            "StepId": 132186,
+            "Tools_extracted": [
+                "wire cutter",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use a 2 phillips screwdriver to remove the two 6 mm screws holding down the voltage regulator"
+                },
+                {
+                    "Text": "there are three screws that attach the voltage regulator to the bridge assembly . one of these screws was removed in the previous step ."
+                }
+            ],
+            "Text_raw": "Use a #2 Phillips screwdriver to remove the two 6mm screws holding down the voltage regulator There are three screws that attach the voltage regulator to the bridge assembly. One of these screws was removed in the previous step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lZ2ZGkXq3G2WTZJN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DCqPJfbB3SLaWsbB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/e4J11o4WHot2XIDh.standard"
+            ],
+            "StepId": 132550,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "locate and unscrew the 3 , 6 mm screws holding the bridge assembly in place"
+                },
+                {
+                    "Text": "there are 4 screws attaching the bridge assembly to the alternator . one of these screws were removed in the previous step ."
+                }
+            ],
+            "Text_raw": "Locate and unscrew the 3, 6mm screws holding the bridge assembly in place There are 4 screws attaching the bridge assembly to the alternator. One of these screws were removed in the previous step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/B5gEeRwERlqCK1AG.standard"
+            ],
+            "StepId": 132552,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "locate the copper leads connecting the stator to the bridge assembly . there are 3 sets of 2 leads on the perimeter of the bridge , making 6 leads total ."
+                },
+                {
+                    "Text": "these leads must be cut in order to remove the bridge from the alternator . these leads will have to be soldered back together on reassembly . keep the cut as clean as possible ."
+                },
+                {
+                    "Text": "use wire cutters to cut all 6 of the leads on the perimeter of the bridge ."
+                }
+            ],
+            "Text_raw": "Locate the copper leads connecting the stator to the bridge assembly. There are 3 sets of 2 leads on the perimeter of the bridge, making 6 leads total. These leads must be cut in order to remove the bridge from the alternator. These leads will have to be soldered back together on reassembly. Keep the cut as clean as possible. Use wire cutters to cut all 6 of the leads on the perimeter of the bridge.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LlGZdUoRy3KLrBYK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xJPHiUYPkxTI6bUd.standard"
+            ],
+            "StepId": 132560,
+            "Tools_extracted": [
+                "wire cutter",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "if necessary , use a pry bar to gently raise the top of the bridge assembly off the alternator"
+                },
+                {
+                    "Text": "be extremely careful with the pry bar . excessive force will damage the bridge assembly ."
+                },
+                {
+                    "Text": "make sure the cut ends of the copper leads are straight to make bridge assembly easier to pull off ."
+                }
+            ],
+            "Text_raw": "If necessary, use a pry bar to gently raise the top of the bridge assembly off the alternator Be extremely careful with the pry bar. Excessive force will damage the bridge assembly. Make sure the cut ends of the copper leads are straight to make bridge assembly easier to pull off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MljetcECmLEHibG3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PSFgxZE6tJJbNaYC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cX2JL6WSRMBLenRA.standard"
+            ],
+            "StepId": 132562,
+            "Tools_extracted": [
+                "pry bar"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "remove the lower section of the bridge assembly"
+                },
+                {
+                    "Text": "use of a pry bar may be necessary . be gentle ."
+                }
+            ],
+            "Text_raw": "Remove the lower section of the bridge assembly Use of a pry bar may be necessary. Be gentle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wB32lxkR1YTZaJRF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rJ43Ye6tWuV2EGCO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iCNcSfUUfStbPFhv.standard"
+            ],
+            "StepId": 132563,
+            "Tools_extracted": [
+                "pry bar"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "use a phillips 2 screwdriver or a 7.5 mm socket driver to unscrew the 4 , 7.5 mm bolts running along the outer perimeter of the alternator"
+                }
+            ],
+            "Text_raw": "Use a Philips #2 Screwdriver or a 7.5mm socket driver to unscrew the 4, 7.5mm bolts running along the outer perimeter of the alternator",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vaFBLFk2dh5ZYSrt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TXKPMElXruP2NaKU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PHs1NdALNcUtwYMb.standard"
+            ],
+            "StepId": 132516,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "use a c-clamp or another fixture to hold the pulley in place"
+                },
+                {
+                    "Text": "be gentle with the clamp . excessive force will bend the pulley out of shape"
+                }
+            ],
+            "Text_raw": "Use a c-clamp or another fixture to hold the pulley in place Be gentle with the clamp. Excessive force will bend the pulley out of shape",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TtGtrYWrDCuyKf2r.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2NEn1SlKHQDUApnn.standard"
+            ],
+            "StepId": 132630,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "use a ratchet with a 25 mm socket to remove the 25 mm hex nut from the pulley"
+                },
+                {
+                    "Text": "may need to use a power ratchet , depending on how tight the fit is on the nut"
+                }
+            ],
+            "Text_raw": "Use a ratchet with a 25mm socket to remove the 25mm hex nut from the pulley May need to use a power ratchet, depending on how tight the fit is on the nut",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aedhCVRJJnbHwfVq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RSWgvKXVpdfbwSPR.standard"
+            ],
+            "StepId": 132631,
+            "Tools_extracted": [
+                "25 mm socket"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "once the nut is off , you can then remove the pulley ."
+                }
+            ],
+            "Text_raw": "Once the nut is off, you can then remove the pulley.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iiyUNj1ggMfSejLh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IJQtKXCdSAnOmbwD.standard"
+            ],
+            "StepId": 132632,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "once the pulley is removed , separate the rotor and stator . the stator is the piece with copper windings ."
+                }
+            ],
+            "Text_raw": "Once the pulley is removed,  separate the rotor and stator. The stator is the piece with copper windings.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4ioucQ2AOP6PTOlc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/colYbYbUmUKOBmOL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YgDcRSvaASIMaFPc.standard"
+            ],
+            "StepId": 132633,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "you can pull the stator out of the remaining cover and examine it ."
+                },
+                {
+                    "Text": "if the stator is scratched or damaged , you will need to replace it . look for scoring marks or cut pieces of winding ."
+                }
+            ],
+            "Text_raw": "You can pull the stator out of the remaining cover and examine it. If the stator is scratched or damaged, you will need to replace it. Look for scoring marks or cut pieces of winding.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SGfrbbs6r5vwnEwP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jWYux6uSTksBjhMA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MFEwTNTWjKLuXMA6.standard"
+            ],
+            "StepId": 132634,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Stator"
+}

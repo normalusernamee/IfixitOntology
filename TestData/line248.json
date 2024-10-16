@@ -1,0 +1,164 @@
+{
+    "Title": "Rear Turn Signal Bulb Replacement",
+    "Ancestors": [
+        "Jeep Grand Cherokee",
+        "Jeep",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 67077,
+    "Category": "2011-2014 Jeep Grand Cherokee",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "basic pliers",
+            "Url": "http://www.amazon.com/Stanley-84-097-6-Inch-Joint-Plier/dp/B0001IW892/ref=sr_1_3?s=hi&ie=UTF8&qid=1420940347&sr=1-3",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Rear+Turn+Signal+Bulb+Replacement/67077",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the stop/turn signal bulb is located in the outer rear lamp unit that is secured at the rear of each quarter panel"
+                },
+                {
+                    "Text": "open the tail gate and locate the two fasteners holding the light assembly to the quarter panel ."
+                },
+                {
+                    "Text": "locate the notches in the outer ring of the fasteners . those are to facilitate the use of a screwdriver to remove the fasteners ."
+                }
+            ],
+            "Text_raw": "The stop/turn signal bulb is located in the outer rear lamp unit that is secured at the rear of each quarter panel Open the tail gate and locate the two fasteners holding the light assembly to the quarter panel. Locate the notches in the outer ring of the fasteners. Those are to facilitate the use of a screw driver to remove the fasteners.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ifN2y6jdkSALmF4D.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IPiHLkWTAOgZNTTQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MeRmPhKNrIfCNXSg.standard"
+            ],
+            "StepId": 136158,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "insert a flathead screwdriver or similar tool and pry out the center of the fastener"
+                },
+                {
+                    "Text": "a pair of pliers , or similar tool , can be used to get a better hold on the fastener"
+                },
+                {
+                    "Text": "completely remove the fastener"
+                }
+            ],
+            "Text_raw": "Insert a flathead screwdriver or similar tool and pry out the center of the fastener A pair of pliers, or similar tool, can be used to get a better hold on the fastener Completely remove the fastener",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kMtqyUQLgENYH5Zl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nkR4iy2ubjGwRpO2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/G544CyPlLOHl2RZd.standard"
+            ],
+            "StepId": 136159,
+            "Tools_extracted": [
+                "flathead screwdriver",
+                "basic pliers"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "proceed the same way with the bottom fastener . pry out the center ."
+                },
+                {
+                    "Text": "use pliers or similar tool to pull the fastener"
+                },
+                {
+                    "Text": "completely remove fastener"
+                }
+            ],
+            "Text_raw": "Proceed the same way with the bottom fastener. Pry out the center. Use pliers or similar tool to pull the fastener Completely remove fastener",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Vcjp2wk1wjXTY6Fy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SHVncWL3GuCAeLLj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dFVjniUltlBFKLcG.standard"
+            ],
+            "StepId": 136160,
+            "Tools_extracted": [
+                "basic pliers"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "the tail light assembly is still held in place by two guide pegs . gently pull the complete assembly toward the rear of the vehicle to unseat the pegs ."
+                },
+                {
+                    "Text": "fully remove the tail light assembly"
+                },
+                {
+                    "Text": "the assembly can rest on the top of the rear bumper . the stop/turn signal bulb is the larger one of the two bulb fixtures ."
+                }
+            ],
+            "Text_raw": "The tail light assembly is still held in place by two guide pegs. Gently pull the complete assembly toward the rear of the vehicle to unseat the pegs. Fully remove the tail light assembly The assembly can rest on the top of the rear bumper. The Stop/Turn signal bulb is the larger one of the two bulb fixtures.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WM1V5aTnUFcCtmE3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sqDAZVKgtyGWfmii.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GVP6kkWblpT3rYdH.standard"
+            ],
+            "StepId": 136161,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the bulb socket by turning it about 1 /4 turn in a counter clockwise direction"
+                },
+                {
+                    "Text": "remove the socket from the light assembly"
+                },
+                {
+                    "Text": "remove the bulb from the socket by pulling it straight out ."
+                }
+            ],
+            "Text_raw": "Remove the bulb socket by turning it about 1/4 turn in a counter clockwise direction Remove the socket from the light assembly Remove the bulb from the socket by pulling it straight out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Q2oEMLyJfqUIfuDB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OhJZ5gjENbn22wT2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6VO1wEVBE6MHijUO.standard"
+            ],
+            "StepId": 136162,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "replace the burned out bulb with a new type 3057 dual filament bulb"
+                }
+            ],
+            "Text_raw": "Replace the burned out bulb with a new type 3057 dual filament bulb",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YYYhYPUDJFFwGyAq.standard"
+            ],
+            "StepId": 136163,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Rear Turn Signal Bulb"
+}

@@ -1,0 +1,105 @@
+{
+    "Title": "1986-1993 Volvo 240 Wheel Adapters Replacement",
+    "Ancestors": [
+        "Volvo",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 8197,
+    "Category": "1986-1993 Volvo 240",
+    "Toolbox": [
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431007052&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "impact wrench",
+            "Url": "http://www.amazon.com/Kawasaki-841337-2-Inch-Impact-12-Volt/dp/B00544EZQ2/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356974328&sr=1-1&keywords=electric+impact+gun",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1986+1987+1988+1989+1990+1991+1992+1993+Volvo+240+Wheel+Adapters+Replacement/8197",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "jack up the front of the car and place it on jack stands ."
+                },
+                {
+                    "Text": "never work on or underneath a car that is only supported by a jack . the jack may slip or fail , resulting in serious injury or even death ."
+                },
+                {
+                    "Text": "use an impact wrench or lug wrench to remove the five 19 mm lug nuts from the front wheel ."
+                },
+                {
+                    "Text": "the wheel lug nuts should be torqued to 85 ft-lbs when the wheels are put back on the car ."
+                },
+                {
+                    "Text": "pull the front wheel off the wheel lugs and set it aside ."
+                }
+            ],
+            "Text_raw": "Jack up the front of the car and place it on jack stands. Never work on or underneath a car that is only supported by a jack. The jack may slip or fail, resulting in serious injury or even death. Use an impact wrench or lug wrench to remove the five 19 mm lug nuts from the front wheel. The wheel lug nuts should be torqued to 85 ft-lbs when the wheels are put back on the car. Pull the front wheel off the wheel lugs and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WUDIKbAMUrokAxst.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wjJnFMQpCMAKXxv2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vIWmA51vceY1Zdlr.standard"
+            ],
+            "StepId": 33105,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "place the wheel adapter over the existing wheel lugs , then install and hand-tighten the provided lug nuts ."
+                },
+                {
+                    "Text": "tighten the lug nuts to 85 ft-lbs with a torque wrench or impact gun ."
+                },
+                {
+                    "Text": "the choice is yours as to what adapters you'd like to install . we chose 5x4.75 adapters so that we could equip our volvo 240 with c4 corvette wheels !"
+                }
+            ],
+            "Text_raw": "Place the wheel adapter over the existing wheel lugs, then install and hand-tighten the provided lug nuts. Tighten the lug nuts to 85 ft-lbs with a torque wrench or impact gun. The choice is yours as to what adapters you'd like to install. We chose 5x4.75 adapters so that we could equip our Volvo 240 with C4 Corvette wheels!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fsJxDApbXILawEKK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CSgFFmodp1jsRaIt.standard"
+            ],
+            "StepId": 33108,
+            "Tools_extracted": [
+                "impact wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "install your new wheels over the lugs of the wheel adapters and tighten the lug nuts to 85 ft-lbs ."
+                }
+            ],
+            "Text_raw": "Install your new wheels over the lugs of the wheel adapters and tighten the lug nuts to 85 ft-lbs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gcJVATOHjY3SaPVR.standard"
+            ],
+            "StepId": 33126,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Wheel Adapters"
+}

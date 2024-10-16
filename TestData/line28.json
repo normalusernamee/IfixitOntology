@@ -1,0 +1,544 @@
+{
+    "Title": "2005-2007 Ford Focus Brake Shoes Replacement",
+    "Ancestors": [
+        "Ford Focus",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 6153,
+    "Category": "2005-2007 Ford Focus",
+    "Toolbox": [
+        {
+            "Name": "13 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-14145-8-Inch-Shallow-6-Point/dp/B000NY5CQK/ref=sr_1_1?ie=UTF8&qid=1488830200&sr=8-1&keywords=13mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431007052&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "29 mm socket",
+            "Url": "/Item/29_mm_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "lug wrench",
+            "Url": "http://www.amazon.com/Wilmar-W2-Metric-Lug-Wrench/dp/B000FW2NU8/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889157&sr=1-1&keywords=lug+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "http://www.ifixit.com/Tools/Large-Needle-Nose-Pliers/IF145-024",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xsuUhWaHMfDB6FnN.mini"
+        },
+        {
+            "Name": "penetrating lubricant",
+            "Url": "http://www.amazon.com/Blaster-16-PB-Penetrating-Catalyst-oz/dp/B000I2079E/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889196&sr=1-1&keywords=PB+blaster",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "ratchet swivel socket",
+            "Url": "/Item/Ratchet_Swivel_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "rubber mallet",
+            "Url": "https://www.amazon.com/TEKTON-30603-Fiberglass-Handle-16-Ounce/dp/B00KX4KB5M/ref=sr_1_4?ie=UTF8&qid=1499456771&sr=8-4&keywords=rubber+mallet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "turkey baster",
+            "Url": "https://www.amazon.com/Resistant-Baster-Rubber-measurement-Model/dp/B002U9JSIE/ref=sr_1_3?ie=UTF8&qid=1488061666&sr=8-3&keywords=turkey+baster+heat+resistant",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wheel chocks",
+            "Url": "https://www.amazon.com/gp/product/B008CE0R5E/ref=oh_aui_search_detailpage?ie=UTF8&psc=1",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "white lithium grease",
+            "Url": "https://www.amazon.com/Lucas-Oil-10533-Lithium-Grease/dp/B004X70LZA/ref=sr_1_1?ie=UTF8&qid=1488233410&sr=8-1&keywords=white+lithium+grease",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2005+2006+2007+Ford+Focus+Brake+Shoes+Replacement/6153",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "jack up the rear of the car and place it on jack stands . remove the rear wheels and chock the front wheels ."
+                },
+                {
+                    "Text": "never work underneath a car that is supported only by a jack ."
+                },
+                {
+                    "Text": "open the hood and locate the brake fluid reservoir ."
+                },
+                {
+                    "Text": "remove the cap from the brake fluid reservoir and set it aside ."
+                },
+                {
+                    "Text": "be careful when handling brake fluid . avoid getting any on painted parts or skin ."
+                },
+                {
+                    "Text": "use a turkey baster to remove 2-3 ounces of brake fluid from the reservoir to prevent overflow when working on the brakes ."
+                }
+            ],
+            "Text_raw": "Jack up the rear of the car and place it on jack stands. Remove the rear wheels and chock the front wheels. Never work underneath a car that is supported only by a jack. Open the hood and locate the brake fluid reservoir. Remove the cap from the brake fluid reservoir and set it aside. Be careful when handling brake fluid. Avoid getting any on painted parts or skin. Use a turkey baster to remove 2-3 ounces of brake fluid from the reservoir to prevent overflow when working on the brakes.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tUhLxAgCcfWXGpiG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VAEKLQAE4HVjqJbn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/udLC12ypFqvQT6Za.standard"
+            ],
+            "StepId": 26724,
+            "Tools_extracted": [
+                "turkey baster",
+                "jack stand",
+                "jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "read before continuing ( photo courtesy of"
+                },
+                {
+                    "Text": "there are two different methods for removing the brake drum on the focus . one removes both the drum and the rear wheel bearing , and one removes just the drum ."
+                },
+                {
+                    "Text": "if you are replacing the brake drums , then follow the appropriate directions for your replacement part : with or without the bearing installed . if you are not replacing the drums , keep in mind that the rear wheel hub bolt that holds the bearing in place must be torqued to 175 ft-lbs ."
+                }
+            ],
+            "Text_raw": "Read before continuing (photo courtesy of [http://www.flickr.com/photos/katerha/4526272937/|katerha]). There are two different methods for removing the brake drum on the Focus. One removes both the drum and the rear wheel bearing, and one removes just the drum. If you are replacing the brake drums, then follow the appropriate directions for your replacement part: with or without the bearing installed. If you are not replacing the drums, keep in mind that the rear wheel hub bolt that holds the bearing in place must be torqued to 175 ft-lbs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SXUjDvgZdZG6MY4u.standard"
+            ],
+            "StepId": 26725,
+            "Tools_extracted": [
+                "wheel chocks"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "this step is for removing the brake drum and the wheel bearing together ."
+                },
+                {
+                    "Text": "use a mallet and a flat head screwdriver to make a small indentation along the edge of the wheel bearing dust cap ."
+                },
+                {
+                    "Text": "pry the dust cap out of the brake drum with the flat head screwdriver ."
+                },
+                {
+                    "Text": "remove the 29 mm rear hub bolt nut from the brake drum . this will require either a breaker bar or an impact wrench ."
+                },
+                {
+                    "Text": "this nut is torqued to 175 ft-lbs , and should not be removed more than four times . use a permanent marker to make a mark on the nut each time it is removed ."
+                }
+            ],
+            "Text_raw": "This step is for removing the brake drum and the wheel bearing together. Use a mallet and a flat head screwdriver to make a small indentation along the edge of the wheel bearing dust cap. Pry the dust cap out of the brake drum with the flat head screwdriver. Remove the 29 mm rear hub bolt nut from the brake drum. This will require either a breaker bar or an impact wrench. This nut is torqued to 175 ft-lbs, and should not be removed more than four times. Use a permanent marker to make a mark on the nut each time it is removed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EhSFynJupkMtqeup.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jQDGkhyfCyb6AOdP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JqTyFOTYOe6jkvyb.standard"
+            ],
+            "StepId": 26734,
+            "Tools_extracted": [
+                "wheel chocks",
+                "wrench",
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "this step is for removing the brake drum without the rear wheel bearing ."
+                },
+                {
+                    "Text": "use a socket wrench with a swivel adapter to remove the four 13 mm bolts from the back of the hub assembly ."
+                }
+            ],
+            "Text_raw": "This step is for removing the brake drum without the rear wheel bearing. Use a socket wrench with a swivel adapter to remove the four 13 mm bolts from the back of the hub assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TKxCSl5N4NPiMXFe.standard"
+            ],
+            "StepId": 26735,
+            "Tools_extracted": [
+                "wheel chocks",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "pull the brake drum straight away from the hub assembly to remove it ."
+                },
+                {
+                    "Text": "if the drum will not come off easily , make sure that the parking brake is not engaged ."
+                },
+                {
+                    "Text": "if your focus is equipped with abs , you will need to disconnect the abs connector before you can remove the brake drum ."
+                }
+            ],
+            "Text_raw": "Pull the brake drum straight away from the hub assembly to remove it. If the drum will not come off easily, make sure that the parking brake is not engaged. If your Focus is equipped with ABS, you will need to disconnect the ABS connector before you can remove the brake drum.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DiJC3XFK3wrofjAB.standard"
+            ],
+            "StepId": 26736,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "use a flat head screwdriver to remove the two brake shoe retaining clips ."
+                },
+                {
+                    "Text": "pull the small retaining pins out from the back side of the hub assembly ."
+                }
+            ],
+            "Text_raw": "Use a flat head screwdriver to remove the two brake shoe retaining clips. Pull the small retaining pins out from the back side of the hub assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/puwWJXXP3EWHsSSo.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LaSunZrQdI3sBIEg.standard"
+            ],
+            "StepId": 26737,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "pull the brake shoe assembly off the backing plate ."
+                },
+                {
+                    "Text": "remove the two springs from the top and bottom of the brake shoes that hold the leading ( front ) and trailing ( rear ) shoes together ."
+                },
+                {
+                    "Text": "remove the leading brake shoe ."
+                }
+            ],
+            "Text_raw": "Pull the brake shoe assembly off the backing plate. Remove the two springs from the top and bottom of the brake shoes that hold the leading (front) and trailing (rear) shoes together. Remove the leading brake shoe.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GxTbMkEWMx3beUtH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CKHUQd2npsJA3RtV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jSfIwFQkHhYo12nG.standard"
+            ],
+            "StepId": 26738,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "remove the emergency brake cable from the trailing brake shoe by feeding it through its hole in the trailing shoe ."
+                },
+                {
+                    "Text": "the cable only sits in the shoe in one orientation . be sure to note how it is installed for reassembly ."
+                }
+            ],
+            "Text_raw": "Remove the emergency brake cable from the trailing brake shoe by feeding it through its hole in the trailing shoe. The cable only sits in the shoe in one orientation. Be sure to note how it is installed for reassembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xHBISE5ZSCk3jHUf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CPF1huXiWJ45teuK.standard"
+            ],
+            "StepId": 26739,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "use a pair of needle nose pliers to remove the small spring that holds the trailing brake shoe to the metal spacer ."
+                },
+                {
+                    "Text": "remove the trailing brake shoe from the spacer ."
+                }
+            ],
+            "Text_raw": "Use a pair of needle nose pliers to remove the small spring that holds the trailing brake shoe to the metal spacer. Remove the trailing brake shoe from the spacer.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wOFMIHoDDrA2TiTS.standard"
+            ],
+            "StepId": 26838,
+            "Tools_extracted": [
+                "needlenose pliers"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "use an aerosol brake cleaner to clean all of the dirt and brake dust from the hub assembly ."
+                },
+                {
+                    "Text": "brake components contain asbestos , and should not be inhaled . it is recommended to wear a mask and gloves when cleaning brakes ."
+                },
+                {
+                    "Text": "i was obviously not as smart as i tell you to be . do as i say , not as i do ."
+                }
+            ],
+            "Text_raw": "Use an aerosol brake cleaner to clean all of the dirt and brake dust from the hub assembly. Brake components contain asbestos, and should not be inhaled. It is recommended to wear a mask and gloves when cleaning brakes. I was obviously not as smart as I tell you to be. Do as I say, not as I do.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eIAEvLBjPCy4yjdA.standard"
+            ],
+            "StepId": 26839,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "apply a generous amount white lithium grease to the six rub points on the backing plate ."
+                },
+                {
+                    "Text": "drum brakes are notoriously noisy , so don't be afraid to put plenty of grease on the backing plate ."
+                },
+                {
+                    "Text": "do not get any grease on the brake shoe material . if you do , clean it off with the aerosol brake cleaner ."
+                }
+            ],
+            "Text_raw": "Apply a generous amount white lithium grease to the six rub points on the backing plate. Drum brakes are notoriously noisy, so don't be afraid to put plenty of grease on the backing plate. Do not get any grease on the brake shoe material. If you do, clean it off with the aerosol brake cleaner.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nWrsyCVLWbWEqPai.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QoQYUWORXRZknZnL.standard"
+            ],
+            "StepId": 26840,
+            "Tools_extracted": [
+                "white lithium grease"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "reassemble the brake shoe assembly with your new brake shoes and hardware ."
+                },
+                {
+                    "Text": "if you don't remember where the different springs attach , refer to the brakes on the opposite side of the car or the pictures earlier in this guide ."
+                }
+            ],
+            "Text_raw": "Reassemble the brake shoe assembly with your new brake shoes and hardware. If you don't remember where the different springs attach, refer to the brakes on the opposite side of the car or the pictures earlier in this guide.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LWflMXCCalQZF3Ny.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/js1DMyAWkDuiPHuA.standard"
+            ],
+            "StepId": 26855,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "attach the emergency brake cable to the trailing shoe by feeding it through its hole in the trailing shoe ."
+                },
+                {
+                    "Text": "the cable only fits in one orientation . be patient and keep working at it until it is seated correctly ."
+                }
+            ],
+            "Text_raw": "Attach the emergency brake cable to the trailing shoe by feeding it through its hole in the trailing shoe. The cable only fits in one orientation. Be patient and keep working at it until it is seated correctly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YIr3cAwMuZ2hRjwv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SmO3TRSBahSY4BVI.standard"
+            ],
+            "StepId": 26856,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "use your hands to compress the pistons of the brake cylinder ."
+                },
+                {
+                    "Text": "install the brake shoe assembly , being sure that the tops of the shoes are seated correctly on the pistons ."
+                },
+                {
+                    "Text": "spread the brake shoes far enough apart that the bottoms of the shoes sit on either side of the adjuster ."
+                },
+                {
+                    "Text": "you may want to enlist the help of a second person to do this ."
+                }
+            ],
+            "Text_raw": "Use your hands to compress the pistons of the brake cylinder. Install the brake shoe assembly, being sure that the tops of the shoes are seated correctly on the pistons. Spread the brake shoes far enough apart that the bottoms of the shoes sit on either side of the adjuster. You may want to enlist the help of a second person to do this.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MA4I5hBXCD5FGWqq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/reYEk1HMJDo3JmWK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FQe2cyaYyGEHoAV1.standard"
+            ],
+            "StepId": 26857,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "reinstall the retainers by first sliding the pins through the back of the hub assembly , and then into the clips ."
+                }
+            ],
+            "Text_raw": "Reinstall the retainers by first sliding the pins through the back of the hub assembly, and then into the clips.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1hOywDynIYNLYAGZ.standard"
+            ],
+            "StepId": 26858,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "place the brake drum back on the hub ."
+                },
+                {
+                    "Text": "use a rubber mallet to knock the brake drum into place over the shoes ."
+                },
+                {
+                    "Text": "if you don't have any sort of soft mallet , place a rag over the drum to protect it before knocking it into place ."
+                }
+            ],
+            "Text_raw": "Place the brake drum back on the hub. Use a rubber mallet to knock the brake drum into place over the shoes. If you don't have any sort of soft mallet, place a rag over the drum to protect it before knocking it into place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sqSSDZUB1KWisRu6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bjSWojDGGSrZDf1B.standard"
+            ],
+            "StepId": 26859,
+            "Tools_extracted": [
+                "rubber mallet"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "if you removed the wheel bearing with the brake drum , reinstall the rear hub nut ."
+                },
+                {
+                    "Text": "torque this nut to 175 ft-lbs . failure to properly tighten this nut could lead to premature wheel bearing failure ."
+                },
+                {
+                    "Text": "reinstall the wheel bearing dust cap ."
+                },
+                {
+                    "Text": "if you removed the brake drum by itself , reinstall the four retaining bolts on the back of the hub assembly ."
+                },
+                {
+                    "Text": "torque each bolt to 49 ft-lbs ."
+                }
+            ],
+            "Text_raw": "If you removed the wheel bearing with the brake drum, reinstall the rear hub nut. Torque this nut to 175 ft-lbs. Failure to properly tighten this nut could lead to premature wheel bearing failure. Reinstall the wheel bearing dust cap. If you removed the brake drum by itself, reinstall the four retaining bolts on the back of the hub assembly. Torque each bolt to 49 ft-lbs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4lpJfSJLXuXLWXBP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tEImqBQhpudxBTdK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cmhEosjNAYN2sUHU.standard"
+            ],
+            "StepId": 26860,
+            "Tools_extracted": [
+                "wheel chocks",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "reinstall the rear wheel and lug nuts ."
+                },
+                {
+                    "Text": "torque each lug nut to 94 ft-lbs ."
+                }
+            ],
+            "Text_raw": "Reinstall the rear wheel and lug nuts. Torque each lug nut to 94 ft-lbs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/K2skWHfFACtrORjs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BrsodcXRPKBOhA6h.standard"
+            ],
+            "StepId": 26861,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "place the cap back on the brake fluid reservoir ."
+                },
+                {
+                    "Text": "turn the key to the on position . press the brake pedal a few times ; it should go to the floor once , and then become firm ."
+                },
+                {
+                    "Text": "if needed , remove the reservoir cap and add brake fluid until the level is between the max and min lines ."
+                },
+                {
+                    "Text": "close the hood and lower the car back to the ground ."
+                }
+            ],
+            "Text_raw": "Place the cap back on the brake fluid reservoir. Turn the key to the \"on\" position. Press the brake pedal a few times; it should go to the floor once, and then become firm. If needed, remove the reservoir cap and add brake fluid until the level is between the \"max\" and \"min\" lines. Close the hood and lower the car back to the ground.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oxWPQ4LwQ2QBFFgB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/I4PaAq1NXKBjVYIw.standard"
+            ],
+            "StepId": 26862,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        }
+    ],
+    "Subject": "Brake Shoes"
+}

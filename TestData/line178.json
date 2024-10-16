@@ -1,0 +1,369 @@
+{
+    "Title": "Sony CDX-GT540UI Motherboard Replacement",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 30433,
+    "Category": "Sony CDX-GT540UI",
+    "Toolbox": [
+        {
+            "Name": "ph00 phillips screwdriver",
+            "Url": "https://www.ifixit.com/Store/Parts/Phillips-00-Screwdriver/IF145-006",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/rLfPqcRxAVqNxfwc.mini"
+        },
+        {
+            "Name": "opening tool",
+            "Url": "https://www.ifixit.com/Store/Parts/iFixit-Opening-Tool/IF145-335",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Sony+CDX-GT540UI+Motherboard+Replacement/30433",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate face-plate eject button ."
+                }
+            ],
+            "Text_raw": "Locate face-plate eject button.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KNVo5iatKXwZGD6D.standard"
+            ],
+            "StepId": 71247,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "press the eject button ."
+                },
+                {
+                    "Text": "remove the face-plate ."
+                }
+            ],
+            "Text_raw": "Press the eject button. Remove the face-plate.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LOo4eLTeiOIXk1Lv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xJrVoasoi6ZaiVOB.standard"
+            ],
+            "StepId": 71249,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove two 4.9 mm phillips 00 screws on the front of the device ."
+                },
+                {
+                    "Text": "remove two 7.5 mm phillips 00 screws on the front of the device ."
+                },
+                {
+                    "Text": "when the screws are removed , the eject lever may fall into the device . make sure the device is held horizontal and level ."
+                }
+            ],
+            "Text_raw": "Remove two 4.9mm Phillips #00screws on the front of the device. Remove two 7.5mm Phillips #00screws on the front of the device. When the screws are removed, the eject lever may fall into the device. Make sure the device is held horizontal and level.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZXDhKBfdrweVCpIe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nKLFtqtNKtIqrDgC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FnhCTrAQhTBcRyDP.standard"
+            ],
+            "StepId": 71252,
+            "Tools_extracted": [
+                "ph00 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "rotate device 90 degrees to either side ."
+                },
+                {
+                    "Text": "use the plastic opening tool to pry open the top and bottom tab respectively ."
+                },
+                {
+                    "Text": "repeat on opposite side ."
+                }
+            ],
+            "Text_raw": "Rotate device 90 degrees to either side. Use the plastic opening tool to pry open the top and bottom tab respectively. Repeat on opposite side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3VOHYRZTaZkojNSF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fpRlV2jx6tqHRovQ.standard"
+            ],
+            "StepId": 71255,
+            "Tools_extracted": [
+                "opening tool"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove front panel ."
+                }
+            ],
+            "Text_raw": "Remove front panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/duckXUraPxKLY4QE.standard"
+            ],
+            "StepId": 71257,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "locate the clip on the wiring harness ."
+                }
+            ],
+            "Text_raw": "Locate the clip on the wiring harness.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UI4ZBKYYuSJB4pEc.standard"
+            ],
+            "StepId": 70732,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "press down on the clip like you would an ethernet cable ."
+                },
+                {
+                    "Text": "rock harness side to side , pulling gently towards you until harness detaches ."
+                }
+            ],
+            "Text_raw": "Press down on the clip like you would an Ethernet cable. Rock harness side to side, pulling gently towards you until harness detaches.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RCK2NYDkUGKHsv56.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DyhJblEEZNnYXpQW.standard"
+            ],
+            "StepId": 70733,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "locate back panel ."
+                }
+            ],
+            "Text_raw": "Locate back panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BLMhdTkIQWvUTsJ6.standard"
+            ],
+            "StepId": 71628,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "remove four 11.5 mm phillips 00 ( silver ) screws from back panel ."
+                }
+            ],
+            "Text_raw": "Remove four 11.5mm Phillips #00 (silver) screws from back panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eo1gAtsHJjF3u2H3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pJmWVdUtvdwCOSDS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iBMkMDKUFT1uu1hS.standard"
+            ],
+            "StepId": 71263,
+            "Tools_extracted": [
+                "ph00 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "remove four 9.5 mm phillips 00 ( black ) screws from back panel ."
+                },
+                {
+                    "Text": "remove two 7.5 mm phillips 00 ( black ) screws from back panel ."
+                }
+            ],
+            "Text_raw": "Remove four 9.5mm Phillips #00 (black) screws from back panel. Remove two 7.5mm Phillips #00 (black) screws from back panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kLhgNPsf4MrOwMId.standard"
+            ],
+            "StepId": 71266,
+            "Tools_extracted": [
+                "ph00 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "remove back panel ."
+                },
+                {
+                    "Text": "on the back panel there will be thermal ( white ) paste . do not touch ."
+                }
+            ],
+            "Text_raw": "Remove back panel. On the back panel there will be thermal (white) paste. Do not touch.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BBYTYAUW3HFEHgtv.standard"
+            ],
+            "StepId": 71267,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "remove one 9.5 mm phillips 00 screw ."
+                },
+                {
+                    "Text": "rotate device 180 degrees and repeat step ."
+                }
+            ],
+            "Text_raw": "Remove one  9.5mm Phillips #00 screw. Rotate device 180 degrees and repeat step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rvTKRtoRskaM5SbT.standard"
+            ],
+            "StepId": 71271,
+            "Tools_extracted": [
+                "ph00 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "using plastic opening tool , detach the tabs . there are two on either side ."
+                },
+                {
+                    "Text": "you will need to apply a decent amount of force to detach ."
+                }
+            ],
+            "Text_raw": "Using plastic opening tool, detach the tabs. There are two on either side. You will need to apply a decent amount of force to detach.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VQWKeyLUldjWRqpX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lKW2STCO52Eeq1dE.standard"
+            ],
+            "StepId": 71275,
+            "Tools_extracted": [
+                "opening tool"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "remove top panel ."
+                }
+            ],
+            "Text_raw": "Remove top panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bvvJLedI5FGsKyqP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QB4NjdTLH1BxfMOr.standard"
+            ],
+            "StepId": 71276,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "pull up cd drive slightly ."
+                }
+            ],
+            "Text_raw": "Pull up CD drive slightly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BD3i2TmJlBbkRtks.standard"
+            ],
+            "StepId": 71279,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "disconnect motherboard connection ."
+                }
+            ],
+            "Text_raw": "Disconnect motherboard connection.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WaOdaFs5KGdWCun4.standard"
+            ],
+            "StepId": 71280,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "remove cd drive ."
+                }
+            ],
+            "Text_raw": "Remove CD drive.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tad2uBlVOROEtCjR.standard"
+            ],
+            "StepId": 71281,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "remove three 6.7 mm phillips 300 screws ."
+                }
+            ],
+            "Text_raw": "Remove three 6.7mm Phillips 300 screws.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RSqGFnN4rMKADXCq.standard"
+            ],
+            "StepId": 71283,
+            "Tools_extracted": [
+                "ph00 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "pull motherboard up ."
+                }
+            ],
+            "Text_raw": "Pull motherboard up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ODOt35ivVqFZbHq2.standard"
+            ],
+            "StepId": 71284,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Motherboard"
+}

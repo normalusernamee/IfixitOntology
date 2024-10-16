@@ -1,0 +1,197 @@
+{
+    "Title": "2007-2012 Jeep Wrangler Headlight Replacement",
+    "Ancestors": [
+        "Jeep Wrangler",
+        "Jeep",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50458,
+    "Category": "2007-2012 Jeep Wrangler",
+    "Toolbox": [
+        {
+            "Name": "star bit screwdriver",
+            "Url": "http://www.harborfreight.com/6-piece-star-bit-screwdriver-set-94757.html",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2007+2008+2009+2010+2011+2012+Jeep+Wrangler+Headlight+Replacement/50458",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the two gray latches on either side of the hood near the headlights ."
+                },
+                {
+                    "Text": "pull the latches away from the hood to release the latches ."
+                }
+            ],
+            "Text_raw": "Locate the two gray latches on either side of the hood near the headlights. Pull the latches away from the hood to release the latches.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YysT6eTllmtaBZoB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZTKREAlfEiBWVOmA.standard"
+            ],
+            "StepId": 109220,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "reach under the hood and push the lever left to right . you should now be able to lift the hood ."
+                },
+                {
+                    "Text": "prop open the hood by inserting the support rod into the designated hole on the underside of the hood ."
+                }
+            ],
+            "Text_raw": "Reach under the hood and push the lever left to right.  You should now be able to lift the hood. Prop open the hood by inserting the support rod into the designated hole on the underside of the hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fdTHMpME3lmHvbY6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qwJNWXx62NYxOD2G.standard"
+            ],
+            "StepId": 109767,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "locate all six push on fasteners on the top of the grill ."
+                },
+                {
+                    "Text": "use a flathead screwdriver to pry up the fasteners , and make sure you put the screws somewhere safe ."
+                },
+                {
+                    "Text": "if the fasteners will not come up , use two flathead screwdrivers on either side of the fastener to remove ."
+                }
+            ],
+            "Text_raw": "Locate all six push on fasteners on the top of the grill. Use a flathead screwdriver to pry up the fasteners, and make sure you put the screws somewhere safe. If the fasteners will not come up, use two flathead screwdrivers on either side of the fastener to remove.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ymYFFHZBOknDXVY6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SupdHZucH2A4IdLH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3SXVHM5tNVTmUTpH.standard"
+            ],
+            "StepId": 109853,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "locate right and left blinker lights under the fenders ."
+                },
+                {
+                    "Text": "twist blinker light toward the ground , and make sure you pull the bulb out carefully ."
+                },
+                {
+                    "Text": "make sure you are handling bulb carefully ."
+                }
+            ],
+            "Text_raw": "Locate right and left blinker lights under the fenders. Twist blinker light toward the ground, and make sure you pull the bulb out carefully. Make sure you are handling bulb carefully.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MfjiT1ZWogkcfDFj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WFPh4HywTpI2Wlb5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ydapi3IvhliSbOMc.standard"
+            ],
+            "StepId": 109855,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "make sure all fasteners are removed from top of the grill , and the top of the grill is loose ."
+                },
+                {
+                    "Text": "firmly pull the bottom of the grill until the grill disconnects from the jeep ."
+                }
+            ],
+            "Text_raw": "Make sure all fasteners are removed from top of the grill, and the top of the grill is loose. Firmly pull the bottom of the grill until the grill disconnects from the jeep.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZjyrlCC1MYOp2Pr2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Tdb3LFT2YBETJQtA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MmwjlpJqnkbYRvoB.standard"
+            ],
+            "StepId": 109869,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "locate the 4 screws holding the headlight in place ."
+                },
+                {
+                    "Text": "use a star bit screwdriver to unscrew the . 164-18 x . 625 mm star bit screws around the headlight , and make sure you place screws somewhere safe ."
+                },
+                {
+                    "Text": "hold the headlight when unscrewing last screw to prevent the headlight from falling ."
+                }
+            ],
+            "Text_raw": "Locate the 4 screws holding the headlight in place. Use a star bit screwdriver to unscrew the .164-18 x .625 mm star bit screws around the headlight, and make sure you place screws somewhere safe. Hold the headlight when unscrewing last screw to prevent the headlight from falling.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pVYwRi4lDAFguasE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rDSJGLSMexGUGy6j.standard"
+            ],
+            "StepId": 109875,
+            "Tools_extracted": [
+                "star bit screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "use your hands to carefully remove silver ring from the headlight ."
+                }
+            ],
+            "Text_raw": "Use your hands to carefully remove silver ring from the headlight.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iMn4R3sSuINboAWb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oAcAwjtUWDVu2SMa.standard"
+            ],
+            "StepId": 109879,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "locate red tab on the headlight plug connector , and push it away from the headlight ."
+                },
+                {
+                    "Text": "firmly pull the connector away from headlight to remove ."
+                }
+            ],
+            "Text_raw": "Locate red tab on the headlight plug connector, and push it away from the headlight. Firmly pull the connector away from headlight to remove.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xrjPIQNZVHvdCwlW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/11AZVPqtFSaaEAhl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4lSFkDdF22USvh1X.standard"
+            ],
+            "StepId": 109880,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Headlight"
+}

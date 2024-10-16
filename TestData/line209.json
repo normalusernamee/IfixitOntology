@@ -1,0 +1,208 @@
+{
+    "Title": "2009 Subaru Impreza WRX Rear Door Panel Replacement",
+    "Ancestors": [
+        "Subaru Impreza",
+        "Subaru",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 42178,
+    "Category": "2007-2011 Subaru Impreza",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2009+Subaru+Impreza+WRX+Rear+Door+Panel+Replacement/42178",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "pry off the plastic tab inside the rear door handle ."
+                }
+            ],
+            "Text_raw": "Pry off the plastic tab inside the rear door handle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/faRK4ElTjfa5LQr1.standard"
+            ],
+            "StepId": 97442,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use the phillips screwdriver to unscrew the 8x3 /4 phillips screw inside the door handle ."
+                }
+            ],
+            "Text_raw": "Use the Phillips screwdriver to unscrew the 8x3/4\" Phillips screw inside the door handle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QcNCgZYOExGkQUSA.standard"
+            ],
+            "StepId": 97445,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a flathead screwdriver to pry up the plastic tab inside the rear door armrest ."
+                }
+            ],
+            "Text_raw": "Use a flathead screwdriver to pry up the plastic tab inside the rear door armrest.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6MfVaNPPVQnMNPAm.standard"
+            ],
+            "StepId": 97439,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use the phillips screwdriver to unscrew the 8x3 /4 phillips screw inside the armrest ."
+                }
+            ],
+            "Text_raw": "Use the Phillips screwdriver to unscrew the 8x3/4\" Phillips screw inside the armrest.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VWFvHJVRyikyfKuO.standard"
+            ],
+            "StepId": 97446,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use flathead to pry off the upper panel located at the top of the rear door panel ."
+                }
+            ],
+            "Text_raw": "Use flathead to pry off the upper panel located at the top of the rear door panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jIXROKWCesuWRBBO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PNOFq1yw4tJAF5Il.standard"
+            ],
+            "StepId": 97447,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "use the flathead screwdriver to pry off and remove the panel over the door handle ."
+                }
+            ],
+            "Text_raw": "Use the flathead screwdriver to pry off and remove the panel over the door handle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kNBhIDpdJS12SxIN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5IFvqF25qhPTRIDa.standard"
+            ],
+            "StepId": 97448,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the bundle of wires from the panel by pressing the tabs on the sides of the large white plastic connector ."
+                }
+            ],
+            "Text_raw": "Remove the bundle of wires from the panel by pressing the tabs on the sides of the large white plastic connector.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DjmZY1oC2ECV6qvN.standard"
+            ],
+            "StepId": 97449,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "use the phillips screwdriver to unscrew the 8x3 /4 screws behind the door handle panel that was just removed ."
+                }
+            ],
+            "Text_raw": "Use the Phillips screwdriver to unscrew the 8x3/4\" screws behind the door handle panel that was just removed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2PN4fJNeDukQ4QuK.standard"
+            ],
+            "StepId": 97450,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "use the flathead screwdriver to pry off the door panel , starting from the outside edge of the door ."
+                }
+            ],
+            "Text_raw": "Use the flathead screwdriver to pry off the door panel, starting from the outside edge of the door.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/W36USXKWhltuLYiH.standard"
+            ],
+            "StepId": 97451,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "use your hands to pull off and remove the door panel from the frame ."
+                }
+            ],
+            "Text_raw": "Use your hands to pull off and remove the door panel from the frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CRtGHLJMi1Vm5XqW.standard"
+            ],
+            "StepId": 97452,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "using your hands , remove the two remaining wires connecting the door panel to the frame ."
+                },
+                {
+                    "Text": "the door panel is now completely removed from the frame ."
+                }
+            ],
+            "Text_raw": "Using your hands, remove the two remaining wires connecting the door panel to the frame. The door panel is now completely removed from the frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Efu6MW3oyVIO5XEl.standard"
+            ],
+            "StepId": 97453,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Rear Door Panel"
+}

@@ -1,0 +1,140 @@
+{
+    "Title": "2001-2005 Volkswagen Passat Camshaft position sensor Replacement",
+    "Ancestors": [
+        "Volkswagen Passat",
+        "Volkswagen",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 27760,
+    "Category": "1996-2005 Volkswagen Passat",
+    "Toolbox": [
+        {
+            "Name": "3 8 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_1?ie=UTF8&qid=1487787284&sr=8-1&keywords=3+8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "6.5 flathead screwdriver",
+            "Url": "/Item/6.5mm_flathead_screwdriver",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2001+2002+2003+2004+2005+Volkswagen+Passat+Camshaft+position+sensor+Replacement/27760",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the camshaft position sensor tells the engine control unit the angle of the camshaft rotation . this is necessary to determine the exact timing of fuel injection and ignition . the failed sensor may cause a number of problems , from poor fuel economy to the engine failing to start ."
+                },
+                {
+                    "Text": "in my case the symptom was that the engine would only start after 3-4 attempts of hard , determined cranking . of course , the malfunction indicator light was on . to confirm that the camshaft position sensor is indeed at fault you will need an obd2 fault code reader or a similar diagnostic tool ."
+                },
+                {
+                    "Text": "the fault codes indicating the camshaft position sensor malfunction are in the range of p0340-p0349 -- for me it was p0343."
+                },
+                {
+                    "Text": "i used my vgate scan bluetooth-connected scan tool and the car gauge pro android app . the obd2 tool plugs into the diagnostic socket , which is located under the driver side of the dashboard , roughly above the driver's left knee ."
+                }
+            ],
+            "Text_raw": "The camshaft position sensor tells the engine control unit the angle of the camshaft rotation. This is necessary to determine the exact timing of fuel injection and ignition. The failed sensor may cause a number of problems, from poor fuel economy to the engine failing to start. In my case the symptom was that the engine would only start after 3-4 attempts of hard, determined cranking. Of course, the malfunction indicator light was on. To confirm that the camshaft position sensor is indeed at fault you will need an OBD2 fault code reader or a similar diagnostic tool. The fault codes indicating the camshaft position sensor malfunction are in the range of P0340-P0349 -- for me it was P0343. I used my Vgate Scan Bluetooth-connected scan tool and the Car Gauge Pro Android app. The OBD2 tool plugs into the diagnostic socket, which is located under the driver side of the dashboard, roughly above the driver's left knee.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ExdByT5VgImnIeZn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3anyYyMudeONDTMP.standard"
+            ],
+            "StepId": 67648,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "once you have confirmed that the camshaft position sensor is at fault and received the replacement part , it's time to get your hands dirty ."
+                },
+                {
+                    "Text": "the second photo shows the location of various components ."
+                },
+                {
+                    "Text": "first , remove the plastic engine cover . using a flat-head screwdriver ( or a coin ) , turn each of the three plastic screws 90 ( 1 /4 turn ) counterclockwise until they pop up . lift the cover ."
+                },
+                {
+                    "Text": "when reinstalling the engine cover , do not turn the screws clockwise , but simply push them down until they click in place ."
+                }
+            ],
+            "Text_raw": "Once you have confirmed that the camshaft position sensor is at fault and received the replacement part, it's time to get your hands dirty. The second photo shows the location of various components. First, remove the plastic engine cover. Using a flat-head screwdriver (or a coin), turn each of the three plastic screws 90\u00b0 (1/4 turn) counterclockwise until they pop up. Lift the cover. When reinstalling the engine cover, do not turn the screws clockwise, but simply push them down until they click in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nPs5oKtDbCeIlJ3d.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vODHpwijpVbFIscH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PsPBIdFVN5jELxPB.standard"
+            ],
+            "StepId": 67655,
+            "Tools_extracted": [
+                "6.5 flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "you need to release the timing belt cover in order to access the sensor . first , free the two rubber hoses that are held in place by the clips on the cover ."
+                },
+                {
+                    "Text": "undo two metal clips on the sides of the cover , using a flathead screwdriver ."
+                },
+                {
+                    "Text": "detach the sensor electrical connector : press the metal bracket with your thumb and gently pull the connector to the right ."
+                }
+            ],
+            "Text_raw": "You need to release the timing belt cover in order to access the sensor. First, free the two rubber hoses that are held in place by the clips on the cover. Undo two metal clips on the sides of the cover, using a flathead screwdriver. Detach the sensor electrical connector: press the metal bracket with your thumb and gently pull the connector to the right.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UdloXGwXEqwK6HNt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nTfrTVJ5F5Ch142o.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aX1BynaJg6DDBVSX.standard"
+            ],
+            "StepId": 67656,
+            "Tools_extracted": [
+                "6.5 flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "now you should be able to pull the timing belt cover far enough towards the front of the car to access the sensor ."
+                },
+                {
+                    "Text": "using the 10 mm nut driver remove the two screws holding the sensor in place . be careful not to drop the screws -- you'll probably need to dismantle half of the engine to reach them , and leaving them loose near the timing belt is not a good idea ."
+                },
+                {
+                    "Text": "screw the replacement sensor in place , reattach the electrical connector , and replace the covers . don't forget to put the rubber hoses back under the clips on the belt cover ."
+                },
+                {
+                    "Text": "when attaching the engine cover , do not turn the screws -- just push them down until they click into place ."
+                }
+            ],
+            "Text_raw": "Now you should be able to pull the timing belt cover far enough towards the front of the car to access the sensor. Using the 10 mm nut driver remove the two screws holding the sensor in place. Be careful not to drop the screws -- you'll probably need to dismantle half of the engine to reach them, and leaving them loose near the timing belt is not a good idea. Screw the replacement sensor in place, reattach the electrical connector, and replace the covers. Don't forget to put the rubber hoses back under the clips on the belt cover. When attaching the engine cover, do not turn the screws -- just push them down until they click into place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xXiwemTwKMLivRCw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WMMXtZbNwh6S3IW4.standard"
+            ],
+            "StepId": 67698,
+            "Tools_extracted": [
+                "10 mm"
+            ]
+        }
+    ],
+    "Subject": "Camshaft position sensor"
+}

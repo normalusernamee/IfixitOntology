@@ -1,0 +1,262 @@
+{
+    "Title": "2004 - 2008 Acura TSX (CL9) Spark Plug Replacement",
+    "Ancestors": [
+        "Acura TSX",
+        "Acura",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 100952,
+    "Category": "2004 - 2008 Acura TSX (CL9)",
+    "Toolbox": [
+        {
+            "Name": "10 mm deep socket",
+            "Url": "https://www.amazon.com/TEKTON-14191-8-Inch-Socket-6-Point/dp/B000NY6RBY/ref=sr_1_3?ie=UTF8&qid=1497981236&sr=8-3&keywords=10mm+deep+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 ratchet extension",
+            "Url": "http://www.amazon.com/TEKTON-14267-2-Inch-10-Inch-Extension/dp/B000NPZ5TI/ref=sr_1_1?ie=UTF8&qid=1407776986&sr=8-1&keywords=10%22+Ratchet+Extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 8 spark plug socket",
+            "Url": "http://www.amazon.com/dp/B004QO9F0W/ref=cm_sw_su_dp",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "magnetic pen",
+            "Url": "/Item/Magnetic_Pen",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 16 mm",
+            "Url": "http://www.amazon.com/TEKTON-14291-Shallow-Socket-6-Point/dp/B000NY4U4K/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2004+2005+2006+2007+2008+Acura+TSX+%28CL9%29+Spark+Plug+Replacement/100952",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the hood latch beside the driver's side door , right next to the left foot rest ."
+                },
+                {
+                    "Text": "pull the latch , should here a pop noise to know the hood has unlatched ."
+                },
+                {
+                    "Text": "walk in front of the car , reach your hand under the front of the hood to locate the latch ."
+                },
+                {
+                    "Text": "prop the latch and locate the spark plug cover ."
+                }
+            ],
+            "Text_raw": "Locate the hood latch beside the driver's side door, right next to the left foot rest. Pull the latch, should here a pop noise to know the hood has unlatched. Walk in front of the car, reach your hand under the front of the hood to locate the latch. Prop the latch and locate the spark plug cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VNaKhSRPOKEFOTLM.standard"
+            ],
+            "StepId": 190520,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the cover where the spark plugs are located"
+                },
+                {
+                    "Text": "use a 10 mm hex driver or socket to remove the four screws that hold the spark plug cover in place"
+                },
+                {
+                    "Text": "follow the green circles"
+                }
+            ],
+            "Text_raw": "Remove the cover where the Spark Plugs are located Use a 10 mm hex driver or socket to remove the four screws that hold the spark plug cover in place Follow the Green circles",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ruLTKMZKguR6ylIs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pOGACqX1siaXFMs2.standard"
+            ],
+            "StepId": 190521,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a 10 mm hex driver or socket to remove the four screws that are holding the spark plug wires in place ."
+                },
+                {
+                    "Text": "remove the spark plug wire by pinching the locking tabs on either side of it and pulling it out ."
+                }
+            ],
+            "Text_raw": "Use a 10 mm hex driver or socket to remove the four screws that are holding the Spark Plug wires in place. Remove the spark plug wire by pinching the locking tabs on either side of it and pulling it out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1KPfPHAYYEleOHVG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WEdrwVFchDVyTjM3.standard"
+            ],
+            "StepId": 190522,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "once clips are removed ,"
+                },
+                {
+                    "Text": "pull the remove the ignition coil out and place them in order the way you have pulled them out ."
+                },
+                {
+                    "Text": "you should see 4 holes where the spark plugs are located ."
+                }
+            ],
+            "Text_raw": "Once clips are removed, Pull the remove the Ignition Coil out and place them in order the way you have pulled them out. You should see 4 holes where the spark plugs are located.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gQubZTD5JvK523lO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PPIDehFMnxjsWOCj.standard"
+            ],
+            "StepId": 190523,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "locate the spark plug at the bottom of the bore ."
+                },
+                {
+                    "Text": "use a ratchet , extension , and 5 /8 socket to remove the plug by turning counterclockwise until it's free ."
+                },
+                {
+                    "Text": "you can use a spark plug socket for an easier removal ."
+                }
+            ],
+            "Text_raw": "Locate the spark plug at the bottom of the bore. Use a ratchet, extension, and 5/8 socket to remove the plug by turning counterclockwise until it's free. You can use a spark plug socket for an easier removal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/B3FNdY62ST1GwWaM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/R2KAaxn6NAcYNbyK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dmIuTIOXRVg11BUt.standard"
+            ],
+            "StepId": 190524,
+            "Tools_extracted": [
+                "5 8 spark plug socket",
+                "10 ratchet extension"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "pull the plug out of the bore ."
+                },
+                {
+                    "Text": "use a ratchet , extension , and 5 /8 socket to remove the plug by turning counterclockwise until it's free ."
+                }
+            ],
+            "Text_raw": "Pull the plug out of the bore. Use a ratchet, extension, and 5/8 socket to remove the plug by turning counterclockwise until it's free.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NBTN1jmrir66AJUk.standard"
+            ],
+            "StepId": 190525,
+            "Tools_extracted": [
+                "5 8 spark plug socket",
+                "10 ratchet extension"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "determine if the spark plug needs to be replaced by examining the gap for the problems listed below :"
+                },
+                {
+                    "Text": "the gap is bridged by corrosion ."
+                },
+                {
+                    "Text": "the gap is too large ."
+                },
+                {
+                    "Text": "the area around the gap is black and dark ."
+                },
+                {
+                    "Text": "if the spark plug doesn't need to be replaced , return it to the spark plug bore . if it does need to be replaced , use a new one ."
+                },
+                {
+                    "Text": "use a ratchet , extension , and 5 /8 socket to tighten the spark plug by turning clockwise . use your hand to tighten as well ."
+                }
+            ],
+            "Text_raw": "Determine if the spark plug needs to be replaced by examining the gap for the problems listed below: The gap is bridged by corrosion. The gap is too large. The area around the gap is black and dark. If the spark plug doesn't need to be replaced, return it to the spark plug bore. If it does need to be replaced, use a new one. Use a ratchet, extension, and 5/8 socket to tighten the spark plug by turning clockwise. Use your hand to tighten as well.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5TFMZHrlZC1aHecE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gKpRR6yvAO2Wpwlk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EME2KSMTJCB1FFor.standard"
+            ],
+            "StepId": 190526,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "if you don't want to purchase a spark plug socket ."
+                },
+                {
+                    "Text": "you can use a regular 16 hex mm socket ."
+                },
+                {
+                    "Text": "have a magnetic extension pen to gently connect the spark plugs and remove it out the bore ."
+                }
+            ],
+            "Text_raw": "If you don't want to purchase a spark plug socket. you can use a regular 16 hex mm socket. Have a magnetic extension pen to gently connect the spark plugs and remove it out the bore.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dXMOtXtxUPYBKMxr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GhcqunDQbfPaQGTW.standard"
+            ],
+            "StepId": 190527,
+            "Tools_extracted": [
+                "5 8 spark plug socket",
+                "socket 16 mm"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "repeat steps from 6-8 removing each plugs and checking if they are bad ."
+                },
+                {
+                    "Text": "once you double check each spark plugs . reverse steps and make sure bolts are tight and spark plug wires are snapped in perfectly ."
+                },
+                {
+                    "Text": "you have completed spark plugs removal for acura tsx ."
+                }
+            ],
+            "Text_raw": "Repeat steps from 6-8 removing each plugs and checking if they are bad. Once you double check each spark plugs. Reverse steps and make sure bolts are tight and spark plug wires are snapped in perfectly. You have completed  Spark plugs removal for Acura TSX.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OeLybklsxipGj6fI.standard"
+            ],
+            "StepId": 190528,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        }
+    ],
+    "Subject": "Spark Plug"
+}

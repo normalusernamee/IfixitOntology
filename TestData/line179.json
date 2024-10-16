@@ -1,0 +1,111 @@
+{
+    "Title": "2003-2004 Infiniti G35 Sedan Crankshaft Position Sensor Replacement",
+    "Ancestors": [
+        "Infiniti",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 31663,
+    "Category": "2003-2004 Infiniti G35 Sedan",
+    "Toolbox": [
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flashlight",
+            "Url": "http://www.amazon.com/dp/B006VPPERC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "penetrating lubricant",
+            "Url": "http://www.amazon.com/Blaster-16-PB-Penetrating-Catalyst-oz/dp/B000I2079E/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889196&sr=1-1&keywords=PB+blaster",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2003+2004+Infiniti+G35+Sedan+Crankshaft+Position+Sensor+Replacement/31663",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "when jacking up your vehicle make sure it is on a flat horizontal surface . use support on the opposite end of the car by lodging concrete blocks under the wheels so the car doesn't start rolling ."
+                },
+                {
+                    "Text": "place the jack under the frame directly behind the left front wheel ."
+                },
+                {
+                    "Text": "make sure the jack is in full contact with the metal frame ."
+                },
+                {
+                    "Text": "once you have safely prepared the jack , rotate the jack's handle clockwise until it reaches a height of at least 20 inches . leave enough space to safely move underneath the car . if more space is needed increase the height of the jack ."
+                }
+            ],
+            "Text_raw": "When jacking up your vehicle make sure it is on a flat horizontal surface. Use support on the opposite end of the car by lodging concrete blocks under the wheels so the car doesn't start rolling. Place the jack under the frame directly behind the left front wheel. Make sure the jack is in full contact with the metal frame. Once you have safely prepared the jack, rotate the jack's handle clockwise until it reaches a height of at least 20 inches. Leave enough space to safely move underneath the car. If more space is needed increase the height of the jack.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vUChmjWVaCNLkPS6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GtngR4t1HPkqhXl3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bxG3t22ZY1juBR6r.standard"
+            ],
+            "StepId": 73803,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "make sure the car has not been used in a couple hours . if it has been used recently its parts will still be hot ."
+                },
+                {
+                    "Text": "lay under the car and locate the crank shaft position sensor . the sensor is located between the engine and the transmission near the front driver's side wheel . it is directly behind the rack and pinion ."
+                },
+                {
+                    "Text": "use the 10 mm wrench or socket wrench to loosen the 10 mm hex head bolt attaching the crankshaft position sensor to the car . if the bolt is rusted use a penetrating lubricant to remove the rust ."
+                }
+            ],
+            "Text_raw": "Make sure the car has not been used in a couple hours. If it has been used recently its parts will still be hot. Lay under the car and locate the crank shaft position sensor. The sensor is located between the engine and the transmission near the front driver's side wheel. It is directly behind the rack and pinion. Use the 10mm wrench or socket wrench to loosen the 10mm Hex Head bolt attaching the crankshaft position sensor to the car. If the bolt is rusted use a penetrating lubricant to remove the rust.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/csauwVuxbpZrKUDI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EajR4AMsNALRcqQc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yvA3bx3oaRShNmqN.standard"
+            ],
+            "StepId": 73823,
+            "Tools_extracted": [
+                "penetrating lubricant"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "note the correct position of the sensor so you will be able to insert the new sensor later on ."
+                },
+                {
+                    "Text": "after you have removed the 10 mm hex head bolt on the sensor , pull the sensor out of place with some force . ( the sensor should pop right out )"
+                },
+                {
+                    "Text": "unplug the sensor from the wiring harness by squeezing the release clip and pulling firmly on the sensor ."
+                }
+            ],
+            "Text_raw": "Note the correct position of the sensor so you will be able to insert the new sensor later on. After you have removed the 10mm Hex Head bolt on the sensor, pull the sensor out of place with some force. (The sensor should pop right out) Unplug the sensor from the wiring harness by squeezing the release clip and pulling firmly on the sensor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aTghvf5K1TNbSqRB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/26ykFXD64JYyf1dj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/s5doGdUBr5woxOrQ.standard"
+            ],
+            "StepId": 73924,
+            "Tools_extracted": [
+                "10 mm wrench"
+            ]
+        }
+    ],
+    "Subject": "Crankshaft Position Sensor"
+}

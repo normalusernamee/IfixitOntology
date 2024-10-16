@@ -1,0 +1,232 @@
+{
+    "Title": "Mercedes W123 Turbo Elbow Seals Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22887,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431007689&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "http://www.ifixit.com/Tools/Large-Needle-Nose-Pliers/IF145-024",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xsuUhWaHMfDB6FnN.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Turbo+Elbow+Seals+Replacement/22887",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "open your hood ."
+                },
+                {
+                    "Text": "find the turbo elbow , just in front of the air filter housing , attached to its lower outlet ."
+                }
+            ],
+            "Text_raw": "Open your hood. Find the turbo elbow, just in front of the air filter housing, attached to its lower outlet.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MHxDlPjCoCMnRqOF.standard"
+            ],
+            "StepId": 60039,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a 10 mm socket and ratcheting wrench to loosen the clamp on the top portion of the turbo elbow ."
+                },
+                {
+                    "Text": "then repeat this on the lower clamp ."
+                }
+            ],
+            "Text_raw": "Use a 10mm socket and ratcheting wrench to loosen the clamp on the top portion of the turbo elbow. Then repeat this on the lower clamp.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/obGkaqxbATRrvNHI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cSuNHNsYgnKpxhkW.standard"
+            ],
+            "StepId": 60040,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "the turbo elbow can now be pulled off ."
+                },
+                {
+                    "Text": "start by inspecting the upper seal . as you can see , this one was installed improperly . it was pushed back in to the elbow during installation . this is typical , and due to a mercedes design issue ."
+                }
+            ],
+            "Text_raw": "The turbo elbow can now be pulled off. Start by inspecting the upper seal. As you can see, this one was installed improperly. It was pushed back in to the elbow during installation. This is typical, and due to a Mercedes design issue.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ij21gQefGpHoSAHG.standard"
+            ],
+            "StepId": 60041,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "allow a brief discussion of the design issue . . ."
+                },
+                {
+                    "Text": "the seal for the upper elbow has a groove built in to it ."
+                },
+                {
+                    "Text": "the neck on the air filter housing where this seal goes has a matching ridge ."
+                },
+                {
+                    "Text": "this prevents the new seal from easily slipping on to the neck and it often gets pushed back in to the elbow , preventing a proper seal ."
+                },
+                {
+                    "Text": "a potential fix for this will be addressed later in the guide ."
+                }
+            ],
+            "Text_raw": "Allow a brief discussion of the design issue... The seal for the upper elbow has a groove built in to it. The neck on the air filter housing where this seal goes has a matching ridge. This prevents the new seal from easily slipping on to the neck and it often gets pushed back in to the elbow, preventing a proper seal. A potential fix for this will be addressed later in the guide.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HdcylKqZNVPpAOBo.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/It1hwraBAZHWQXSA.standard"
+            ],
+            "StepId": 60042,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the upper seal now . needle nose pliers work well for this ."
+                },
+                {
+                    "Text": "as you can see , the old seal was deformed due to its improper installation ."
+                }
+            ],
+            "Text_raw": "Remove the upper seal now. Needle nose pliers work well for this. As you can see, the old seal was deformed due to its improper installation.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QFMZNhfpfOELXMHS.standard"
+            ],
+            "StepId": 60043,
+            "Tools_extracted": [
+                "needlenose pliers"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "now remove the lower elbow seal ."
+                },
+                {
+                    "Text": "the old one on this car was so old and brittle it would not bend for removal . it had to be broken in half using a needle nose pliers ."
+                },
+                {
+                    "Text": "notice that the unbroken side of the old seal shows visible cracks when squeezed ."
+                },
+                {
+                    "Text": "compare this with the new seal ."
+                }
+            ],
+            "Text_raw": "Now remove the lower elbow seal. The old one on this car was so old and brittle it would not bend for removal. It had to be broken in half using a needle nose pliers. Notice that the unbroken side of the old seal shows visible cracks when squeezed. Compare this with the new seal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BDg42MxKm6iiGYxd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MuYvRKYKQRo6w4yK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OHKYBWwfoWDr6Ty4.standard"
+            ],
+            "StepId": 60044,
+            "Tools_extracted": [
+                "needlenose pliers"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "now it's time to install the new seals ."
+                },
+                {
+                    "Text": "one trick that seems to work to make the upper seal easier to install is to cut off the raised lip on the upper elbow . this lip seems to be of dubious value , and causes a lot of trouble ."
+                },
+                {
+                    "Text": "it can be cut off with a sharp razor blade , though be careful when doing this ."
+                },
+                {
+                    "Text": "as you can see , after modification the new upper seal sits in the upper end of the elbow easily . it will still seal well when clamped down as the lip is not part of the sealing surface ."
+                }
+            ],
+            "Text_raw": "Now it's time to install the new seals. One trick that seems to work to make the upper seal easier to install is to cut off the raised lip on the upper elbow. This lip seems to be of dubious value, and causes a lot of trouble. It can be cut off with a sharp razor blade, though be careful when doing this. As you can see, after modification the new upper seal sits in the upper end of the elbow easily. It will still seal well when clamped down as the lip is not part of the sealing surface.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YUpOUCVYhEMnlBka.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/teWBqO4LJicJDiAE.standard"
+            ],
+            "StepId": 60045,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "now install the new lower elbow seal ."
+                },
+                {
+                    "Text": "it needs to be squeezed to fit it in to the opening on the elbow to get it past the lip ."
+                },
+                {
+                    "Text": "this end is much easier to install on the turbo since the seal and turbo inlet are both smooth ."
+                }
+            ],
+            "Text_raw": "Now install the new lower elbow seal. It needs to be squeezed to fit it in to the opening on the elbow to get it past the lip. This end is much easier to install on the turbo since the seal and turbo inlet are both smooth.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vPdvMrcYtTmt6sEU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MUP1W4lrUMxMyINl.standard"
+            ],
+            "StepId": 60046,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "it's now time to re-install the elbow . it should simply push on . it can help to leave a bit of the upper seal showing out of the end of the upper elbow end as you slip it on ."
+                },
+                {
+                    "Text": "now just tighten down the clamps and you're ready to roll !"
+                }
+            ],
+            "Text_raw": "It's now time to re-install the elbow. It should simply push on. It can help to leave a bit of the upper seal showing out of the end of the upper elbow end as you slip it on. Now just tighten down the clamps and you're ready to roll!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pLHbCMTagL5ttsSI.standard"
+            ],
+            "StepId": 60047,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Turbo Elbow Seals"
+}

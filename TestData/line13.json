@@ -1,0 +1,176 @@
+{
+    "Title": "Removing 1994-2001 Acura Integra Center Console",
+    "Ancestors": [
+        "Acura Integra",
+        "Acura",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3598,
+    "Category": "1994-2001 Acura Integra",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Removing+1994+1995+1996+1997+1998+1999+2000+2001+Acura+Integra+Center+Console/3598",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "remove the two phillips screws at the very rear of the center console near the floor ."
+                }
+            ],
+            "Text_raw": "Remove the two Phillips screws at the very rear of the center console near the floor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kFVNe4G6uBcrEmqQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/f2NwEPFkvItHyXJu.standard"
+            ],
+            "StepId": 17226,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "insert a small flathead screwdriver into the notch at the driver's side rear corner of the screw cover directly below the parking brake lever and pry it off ."
+                },
+                {
+                    "Text": "remove the two phillips screws that were underneath the screw cover ."
+                }
+            ],
+            "Text_raw": "Insert a small flathead screwdriver into the notch at the driver's side rear corner of the screw cover directly below the parking brake lever and pry it off. Remove the two Phillips screws that were underneath the screw cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FvriAHHMuqMm2Fxr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/r3ceoDYaGs2kxZJK.standard"
+            ],
+            "StepId": 17227,
+            "Tools_extracted": [
+                "flathead screwdriver",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "grab the bottom of the rear portion of the console and lift up and away from the front of the car ."
+                },
+                {
+                    "Text": "remove the rear portion of the center console ."
+                }
+            ],
+            "Text_raw": "Grab the bottom of the rear portion of the console and lift up and away from the front of the car. Remove the rear portion of the center console.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PvUGNRZKtDBgfJEf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/U6uVQrM5pTClV5QL.standard"
+            ],
+            "StepId": 17228,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "pull the ash tray out from the center console until it stops ."
+                },
+                {
+                    "Text": "push down on the metal plate at the top of the ash tray and continue to pull the tray out until it is completely removed ."
+                }
+            ],
+            "Text_raw": "Pull the ash tray out from the center console until it stops. Push down on the metal plate at the top of the ash tray and continue to pull the tray out until it is completely removed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2vYHfwEl3LhpvLlq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CGmpOLWfcO2S5TJ4.standard"
+            ],
+            "StepId": 17229,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove two phillips screws from behind the ash tray ."
+                },
+                {
+                    "Text": "remove the lower portion of the console that contains the cigarette lighter from the rest of the center console ."
+                },
+                {
+                    "Text": "disconnect the electrical connector for the cigarette lighter by first depressing the tab on top , and then pulling directly out of the socket ."
+                }
+            ],
+            "Text_raw": "Remove two Phillips screws from behind the ash tray. Remove the lower portion of the console that contains the cigarette lighter from the rest of the center console. Disconnect the electrical connector for the cigarette lighter by first depressing the tab on top, and then pulling directly out of the socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BSsuF3KTQFHhTeEK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/X3QCtTsrckLm6nsO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TNeVlPguRWqYdUnk.standard"
+            ],
+            "StepId": 17230,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove four phillips screws that hold the side pieces of the front portion of the console in place ."
+                },
+                {
+                    "Text": "two below the radio pocket ."
+                },
+                {
+                    "Text": "two on the faces of the side pieces , one on either side ."
+                }
+            ],
+            "Text_raw": "Remove four Phillips screws that hold the side pieces of the front portion of the console in place. Two below the radio pocket. Two on the faces of the side pieces, one on either side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gODXD6OriPXegTxC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/V4ZwDZWXUIFunFDX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/We4sHI2riGsvpWjp.standard"
+            ],
+            "StepId": 17231,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the shift knob by unscrewing it counter-clockwise ."
+                },
+                {
+                    "Text": "lift the front portion of the center console up and away from the front of the car ."
+                },
+                {
+                    "Text": "it may be necessary to pull the emergency brake handle up further to create enough room to remove the front portion of the center console ."
+                }
+            ],
+            "Text_raw": "Remove the shift knob by unscrewing it counter-clockwise. Lift the front portion of the center console up and away from the front of the car. It may be necessary to pull the emergency brake handle up further to create enough room to remove the front portion of the center console.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AapOvhHOrP1JfxGu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CXftwmcZ5JPllVXR.standard"
+            ],
+            "StepId": 17232,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Center Console"
+}

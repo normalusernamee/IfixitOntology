@@ -1,0 +1,610 @@
+{
+    "Title": "1999-2004 Volkswagen Jetta Oil Change",
+    "Ancestors": [
+        "Volkswagen Jetta",
+        "Volkswagen",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 6332,
+    "Category": "1999-2006 Volkswagen Jetta",
+    "Toolbox": [
+        {
+            "Name": "19 mm box end wrench",
+            "Url": "http://www.amazon.com/TEKTON-21361-19mm-Combination-Wrench/dp/B000NPUL24/ref=sr_1_2?ie=UTF8&qid=1407525712&sr=8-2&keywords=19mm+box+end+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431007052&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "funnel",
+            "Url": "http://www.amazon.com/TEKTON-6093-Funnel-Set-4-Piece/dp/B003DN0RTA/ref=sr_1_1?s=hi&ie=UTF8&qid=1407340826&sr=1-1&keywords=funnel",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil filter wrench",
+            "Url": "http://amzn.com/B0009WG5SU",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1999+2000+2001+2002+2003+2004+Volkswagen+Jetta+Oil+Change/6332",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "begin jacking up the front driver's side corner of the car by placing a jack about 5 back from the front wheel cutout on the long vertical part of the frame . this is the jacking location as stated in the owner's manual ."
+                },
+                {
+                    "Text": "it is helpful , but not necessary , to jack both sides of the car . since the oil drain plug is located to the passenger side of the vehicle centerline , jacking up just the driver side is sufficient to drain the oil ."
+                }
+            ],
+            "Text_raw": "Begin jacking up the front driver's side corner of the car by placing a jack about 5\" back from the front wheel cutout on the long vertical part of the frame. This is the jacking location as stated in the owner's manual. It is helpful, but not necessary, to jack both sides of the car. Since the oil drain plug is located to the passenger side of the vehicle centerline, jacking up just the driver side is sufficient to drain the oil.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mi1YCUgct34BNxLF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ETfmkc6wZbWCrvGh.standard"
+            ],
+            "StepId": 27279,
+            "Tools_extracted": [
+                "oil drain pan",
+                "jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "raise the corner of the car enough so that you can comfortably work underneath it ."
+                },
+                {
+                    "Text": "place a jack stand underneath the frame next to the jack ."
+                },
+                {
+                    "Text": "raise the jack to the highest notch you can before it reaches the car ."
+                },
+                {
+                    "Text": "lower the jack so that the car is resting on the jack stand ."
+                },
+                {
+                    "Text": "many hydraulic jacks are lowered by placing the open end of the handle over a knob and turning it counterclockwise . consult the owner's manual for your jack if you don't know how to lower it ."
+                },
+                {
+                    "Text": "'''never''' work underneath a car that is only supported by a jack . the jack may slip or fail , resulting in serious injury or death ."
+                }
+            ],
+            "Text_raw": "Raise the corner of the car enough so that you can comfortably work underneath it. Place a jack stand underneath the frame next to the jack. Raise the jack to the highest notch you can before it reaches the car. Lower the jack so that the car is resting on the jack stand. Many hydraulic jacks are lowered by placing the open end of the handle over a knob and turning it counterclockwise. Consult the owner's manual for your jack if you don't know how to lower it. '''Never''' work underneath a car that is only supported by a jack. The jack may slip or fail, resulting in serious injury or death.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eoPM2xqOUkCpnxLB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DD2AAYvOWCy6WKMk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/apRsXpoPYbOkIOYN.standard"
+            ],
+            "StepId": 27280,
+            "Tools_extracted": [
+                "hydraulic floor jack",
+                "jack stand",
+                "jack"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "locate the 19 mm hex oil drain plug on the backside of the oil pan ."
+                },
+                {
+                    "Text": "the oil pan is in front of the front wheels and just to the right of the vehicle centerline ."
+                },
+                {
+                    "Text": "place an oil drain pan underneath the oil drain plug ."
+                },
+                {
+                    "Text": "be sure that the drain pan is positioned so that it will catch the oil when it is streaming out of the oil pan ."
+                }
+            ],
+            "Text_raw": "Locate the 19 mm hex oil drain plug on the backside of the oil pan. The oil pan is in front of the front wheels and just to the right of the vehicle centerline. Place an oil drain pan underneath the oil drain plug. Be sure that the drain pan is positioned so that it will catch the oil when it is streaming out of the oil pan.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KDlhKIfRhJyxcIYc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pNU3d1J6snNgLiBj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nwkNHs1TgqQcvXgO.standard"
+            ],
+            "StepId": 27281,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "always wear protective gloves and eyewear when working with motor oil . be careful if your car has been running recently , since the engine and transmission will be very hot . keep rags or towels nearby to wipe up any spills ."
+                },
+                {
+                    "Text": "use a 19 mm box end wrench or socket wrench to loosen the oil drain plug ."
+                },
+                {
+                    "Text": "after a few full turns with the wrench , use your fingers to loosen the oil drain plug ."
+                }
+            ],
+            "Text_raw": "Always wear protective gloves and eyewear when working with motor oil. Be careful if your car has been running recently, since the engine and transmission will be very hot. Keep rags or towels nearby to wipe up any spills. Use a 19 mm box end wrench or socket wrench to loosen the oil drain plug. After a few full turns with the wrench, use your fingers to loosen the oil drain plug.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XRlcGMHFgCPJc3oy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UnyrMwYYSoMuiAtN.standard"
+            ],
+            "StepId": 27282,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "when the drain plug is completely loose , let it fall into the oil drain pan with the draining oil ."
+                },
+                {
+                    "Text": "avoid letting the plug fall if you have an homemade pan . however , there is no problem with an oil drain pan off the shelf ."
+                },
+                {
+                    "Text": "watch the draining oil for shiny specks . metal flakes in the oil could mean that there is a serious problem with your engine internals ."
+                },
+                {
+                    "Text": "allow oil to drain out of the oil pan until it slows to small drops ."
+                },
+                {
+                    "Text": "once the draining has slowed significantly , wipe off the area around the oil drain with a rag or towel ."
+                },
+                {
+                    "Text": "replace the drain plug and hand-tighten it ."
+                },
+                {
+                    "Text": "it is better to put a seal under the drain plug ( outside diameter 20 mm , inside diameter 15 mm ) ."
+                }
+            ],
+            "Text_raw": "When the drain plug is completely loose, let it fall into the oil drain pan with the draining oil. Avoid letting the plug fall if you have an \"homemade\" pan. However, there is no problem with an oil drain pan off the shelf. Watch the draining oil for shiny specks. Metal flakes in the oil could mean that there is a serious problem with your engine internals. Allow oil to drain out of the oil pan until it slows to small drops. Once the draining has slowed significantly, wipe off the area around the oil drain with a rag or towel. Replace the drain plug and hand-tighten it. It is better to put a seal under the drain plug (outside diameter 20 mm, inside diameter 15\u00a0mm).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hNTTo32A32mwKZk2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FS1XLQhfwLJQYc3T.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SpIwvK1iocUDVdcW.standard"
+            ],
+            "StepId": 27283,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "locate the oil filter on the front side of the engine . it should be pointing downward and slightly forward ."
+                },
+                {
+                    "Text": "move the oil drain pan directly under the oil filter ."
+                },
+                {
+                    "Text": "use an oil filter wrench to loosen the oil filter by turning it counterclockwise about a quarter turn ."
+                }
+            ],
+            "Text_raw": "Locate the oil filter on the front side of the engine. It should be pointing downward and slightly forward. Move the oil drain pan directly under the oil filter. Use an oil filter wrench to loosen the oil filter by turning it counterclockwise about a quarter turn.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3FuUADUnnupd1vDw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sErOQTuA2hbhwJWc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KcbXrMCCnL5csuyY.standard"
+            ],
+            "StepId": 27284,
+            "Tools_extracted": [
+                "oil drain pan",
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "loosen the oil filter by hand until oil begins to run down the side of the filter ."
+                }
+            ],
+            "Text_raw": "Loosen the oil filter by hand until oil begins to run down the side of the filter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aUPtmDEpEJ1Yvb6k.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TQiPsvM1DIH6EHPj.standard"
+            ],
+            "StepId": 27285,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "once the oil running down the filter has slowed significantly , continue removing it by hand . there will be some oil left inside the filter , so allow it to drain completely while you continue with changing the oil ."
+                },
+                {
+                    "Text": "use a rag or towel to wipe off any excess oil around the filter threads ."
+                }
+            ],
+            "Text_raw": "Once the oil running down the filter has slowed significantly, continue removing it by hand. There will be some oil left inside the filter, so allow it to drain completely while you continue with changing the oil. Use a rag or towel to wipe off any excess oil around the filter threads.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2jNYxlWoTOLtA2MA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OGkddEOywLDZeH6o.standard"
+            ],
+            "StepId": 27286,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "fill the new filter about halfway full with clean , new oil ."
+                },
+                {
+                    "Text": "make sure when you add the rest of the oil ( step 20 ) that you take into account the oil added to the filter . there should be 4.5 liters '''total''' ."
+                },
+                {
+                    "Text": "don't worry if a little oil misses the hole ; you'll use it to lubricate the filter ."
+                },
+                {
+                    "Text": "use your finger to apply some of the excess oil evenly around the rubber o-ring . if you didn't spill any oil , dip your finger into the new container of oil instead ."
+                }
+            ],
+            "Text_raw": "Fill the new filter about halfway full with clean, new oil. Make sure when you add the rest of the oil (Step 20) that you take into account the oil added to the filter. There should be 4.5 liters '''total'''. Don't worry if a little oil misses the hole; you'll use it to lubricate the filter. Use your finger to apply some of the excess oil evenly around the rubber O-ring. If you didn't spill any oil, dip your finger into the new container of oil instead.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qPksHn3XJgHqqJpe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ycT2CX6xuCaShJvq.standard"
+            ],
+            "StepId": 27287,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "place the new filter over the threads where the old filter was ."
+                },
+                {
+                    "Text": "twist the filter clockwise to screw it into place . tighten it only until the filter is snug ; do not over-tighten ."
+                },
+                {
+                    "Text": "be sure to use clean gloves to screw in the new filter . using ones covered in oil will make it extremely hard to grip the filter and could lead to a messy accident ."
+                }
+            ],
+            "Text_raw": "Place the new filter over the threads where the old filter was. Twist the filter clockwise to screw it into place. Tighten it only until the filter is snug; do not over-tighten. Be sure to use clean gloves to screw in the new filter. Using ones covered in oil will make it extremely hard to grip the filter and could lead to a messy accident.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MKSRDdrPHkkffqHv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/W3CCYsvPubS23WcI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sL2GXhYxCuGjf4QC.standard"
+            ],
+            "StepId": 27288,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "place the oil drain pan back underneath the oil drain plug ."
+                },
+                {
+                    "Text": "remove the oil drain plug to allow the last of the old oil to drain ."
+                }
+            ],
+            "Text_raw": "Place the oil drain pan back underneath the oil drain plug. Remove the oil drain plug to allow the last of the old oil to drain.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UfmRxZnkntWKWCjF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CwfNL26ZnmiTmYcv.standard"
+            ],
+            "StepId": 27289,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "use a rag or towel to wipe off the area around the oil drain plug ."
+                },
+                {
+                    "Text": "replace the oil drain plug by first hand-tightening it ."
+                },
+                {
+                    "Text": "finish tightening the oil drain plug using a socket wrench ."
+                },
+                {
+                    "Text": "only tighten the oil drain plug until it is snug . over-tightening the oil drain plug can strip the threads or even crack the oil pana very costly error . you can always tighten it more later ."
+                },
+                {
+                    "Text": "wipe off the area around the oil drain plug one more time with a rag or towel ."
+                }
+            ],
+            "Text_raw": "Use a rag or towel to wipe off the area around the oil drain plug. Replace the oil drain plug by first hand-tightening it. Finish tightening the oil drain plug using a socket wrench. Only tighten the oil drain plug until it is snug. Over-tightening the oil drain plug can strip the threads or even crack the oil pan\u2014a very costly error. You can always tighten it more later. Wipe off the area around the oil drain plug one more time with a rag or towel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uhoIxjml6vTaEYyb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5FBTorqbe623BnVD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RssKTITWmpLRREMe.standard"
+            ],
+            "StepId": 27290,
+            "Tools_extracted": [
+                "oil drain pan",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "make sure no one is under the car before you jack it up ."
+                },
+                {
+                    "Text": "place your jack back in the same location on the frame you used to jack up the car . raise the jack until it touches the jacking point on the frame ."
+                }
+            ],
+            "Text_raw": "Make sure no one is under the car before you jack it up. Place your jack back in the same location on the frame you used to jack up the car. Raise the jack until it touches the jacking point on the frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/I6QajaYSfRFEYJQp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lxLofUMlhR1DNebN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3cV6MihbJs6ahjpg.standard"
+            ],
+            "StepId": 27292,
+            "Tools_extracted": [
+                "jack"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "jack the car up so that it is no longer resting on the jack stand ."
+                },
+                {
+                    "Text": "use the handle on the jack stand to lower it and remove the jack stand from underneath the car ."
+                },
+                {
+                    "Text": "be cautious when the car is resting on the jack . it could slip and fall , resulting in serious injury or death if someone is not paying attention ."
+                }
+            ],
+            "Text_raw": "Jack the car up so that it is no longer resting on the jack stand. Use the handle on the jack stand to lower it and remove the jack stand from underneath the car. Be cautious when the car is resting on the jack. It could slip and fall, resulting in serious injury or death if someone is not paying attention.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ou6KQpZE56dQXjyx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jCrURB2DnJIFIZqk.standard"
+            ],
+            "StepId": 27293,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "slowly lower the jack completely so that it is no longer supporting the car ."
+                },
+                {
+                    "Text": "slide the jack out from under the car ."
+                }
+            ],
+            "Text_raw": "Slowly lower the jack completely so that it is no longer supporting the car. Slide the jack out from under the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ABECshGuJDySuSlN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FckFBFHcWDEGrYhk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/B3mnIM4aKABPHrjc.standard"
+            ],
+            "StepId": 27294,
+            "Tools_extracted": [
+                "jack"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "open the driver's side door and locate the hood-release lever ."
+                },
+                {
+                    "Text": "pull the lever until you hear the hood click open ."
+                }
+            ],
+            "Text_raw": "Open the driver's side door and locate the hood-release lever. Pull the lever until you hear the hood click open.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/P6iXKODrHLRJPaAc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/i12kJxLnPKyR4ZFb.standard"
+            ],
+            "StepId": 27295,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "there should now be a black lever with a red arrow protruding from under the hood ."
+                },
+                {
+                    "Text": "use one hand to pull the lever straight forward while using the other to lift the hood ."
+                }
+            ],
+            "Text_raw": "There should now be a black lever with a red arrow protruding from under the hood. Use one hand to pull the lever straight forward while using the other to lift the hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/O2PPhq2HAhMi2iOs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/P65vCPWYvaFPwlsu.standard"
+            ],
+            "StepId": 27296,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "locate the oil filler cap on top of the engine ."
+                },
+                {
+                    "Text": "twist the cap counter-clockwise one quarter turn and remove it ."
+                }
+            ],
+            "Text_raw": "Locate the oil filler cap on top of the engine. Twist the cap counter-clockwise one quarter turn and remove it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TUCRTQN3iiwlqRxi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CQ2vBVdXNhWjcoXl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QCIknL12pHCVa1Gl.standard"
+            ],
+            "StepId": 27297,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "wipe down the area around the filler cap with a rag or towel to remove any oil or debris ."
+                },
+                {
+                    "Text": "be sure to wipe outwards to avoid accidentally getting debris in the engine ."
+                },
+                {
+                    "Text": "place a funnel into the filler hole to reduce the chance of spilling ."
+                }
+            ],
+            "Text_raw": "Wipe down the area around the filler cap with a rag or towel to remove any oil or debris. Be sure to wipe outwards to avoid accidentally getting debris in the engine. Place a funnel into the filler hole to reduce the chance of spilling.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KjivvxbqWXliSxN5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xAZQZjCntCdpOZng.standard"
+            ],
+            "StepId": 27298,
+            "Tools_extracted": [
+                "funnel",
+                "oil"
+            ]
+        },
+        {
+            "Order": 19,
+            "Lines": [
+                {
+                    "Text": "time for the part we've all been waiting for ! let's add some oil ."
+                },
+                {
+                    "Text": "the 2.0 liter naturally aspirated standard jetta engine holds about 4.5 liters or about 4.75 quarts . check your owner's manual for oil capacity if you are changing the oil in a jetta tdi or gli ."
+                },
+                {
+                    "Text": "pour 4.5 liters ( 4.75 quarts ) of 5 w-30 oil into the funnel . this is 4.5 liters '''total''' remember that you already added some into the oil filter ."
+                },
+                {
+                    "Text": "make sure to use 5 w-30 oil . though using slightly different will work , it is best to use the type stated in your owner's manual ."
+                },
+                {
+                    "Text": "remove the funnel and replace the filler cap by turning it a quarter turn clockwise ."
+                }
+            ],
+            "Text_raw": "Time for the part we've all been waiting for! Let's add some oil. The 2.0 liter naturally aspirated standard Jetta engine holds about 4.5 liters or about 4.75 quarts. Check your owner's manual for oil capacity if you are changing the oil in a Jetta TDI or GLI. Pour 4.5 liters (4.75 quarts) of 5W-30 oil into the funnel. This is 4.5 liters '''total''' remember that you already added some into the oil filter. Make sure to use 5W-30 oil. Though using slightly different [http://en.wikipedia.org/wiki/Motor_oil#Grades|grades] will work, it is best to use the type stated in your owner's manual. Remove the funnel and replace the filler cap by turning it a quarter turn clockwise.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UEAUDCQgXPVqCqXN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UK4ddfWXRdZA322T.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QSGFlwiT4CSef1b6.standard"
+            ],
+            "StepId": 27299,
+            "Tools_extracted": [
+                "funnel",
+                "oil",
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 20,
+            "Lines": [
+                {
+                    "Text": "you're almost finished ! but before you drive away , you should check to make sure you have the right amount of oil . locate your yellow dipstick at the front of the engine and remove it ."
+                },
+                {
+                    "Text": "wipe the dipstick down with a rag or towel to completely remove all oil so you can get a good read ."
+                },
+                {
+                    "Text": "reinsert the dipstick all the way ."
+                }
+            ],
+            "Text_raw": "You're almost finished! But before you drive away, you should check to make sure you have the right amount of oil. Locate your yellow dipstick at the front of the engine and remove it. Wipe the dipstick down with a rag or towel to completely remove all oil so you can get a good read. Reinsert the dipstick all the way.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UuMnmEKcGppSGNFL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dEhOTFvy5OYeURxn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gdKwelKsgnaQjFp6.standard"
+            ],
+            "StepId": 27300,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 21,
+            "Lines": [
+                {
+                    "Text": "remove the dipstick again ."
+                },
+                {
+                    "Text": "the bent length at the end of the dipstick marks the minimum and maximum oil levels . check to make sure that you have the right amount of oil . it takes about one quart to go from minimum to maximum ."
+                },
+                {
+                    "Text": "before driving anywhere , start the car and let it run for a couple minutes . while the engine is running , check underneath the car for any oil leaks . if oil is dripping from the drain plug you should first check for any cracks in the drain pan . if there are no cracks , you can turn off the car , and tighten the drain plug . also , check again that the oil level has not gone outside the limits while the car was on ."
+                }
+            ],
+            "Text_raw": "Remove the dipstick again. The bent length at the end of the dipstick marks the minimum and maximum oil levels. Check to make sure that you have the right amount of oil. It takes about one quart to go from minimum to maximum. Before driving anywhere, start the car and let it run for a couple minutes. While the engine is running, check underneath the car for any oil leaks. If oil is dripping from the drain plug you should first check for any cracks in the drain pan. If there are no cracks, you can turn off the car, and tighten the drain plug. Also, check again that the oil level has not gone outside the limits while the car was on.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CBBXdgrYY13RCPBX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MxkW2gwBM3kufkJg.standard"
+            ],
+            "StepId": 27301,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 22,
+            "Lines": [
+                {
+                    "Text": "allow 12-24 hours for all of the oil to drain out of the old oil filter ."
+                },
+                {
+                    "Text": "take your old oil and filter to a recycling facility . most auto parts stores and repair shops accept these at no charge to you . in addition , some cities and/or counties have a service where they will collect used oil and filters from your home . for more information , see the american petroleum institute's web page on motor oil collection and recycling ."
+                }
+            ],
+            "Text_raw": "Allow 12-24 hours for all of the oil to drain out of the old oil filter. Take your old oil and filter to a recycling facility. Most auto parts stores and repair shops accept these at no charge to you. In addition, some cities and/or counties have a service where they will collect used oil and filters from your home. For more information, see the American Petroleum Institute's web page on [http://www.recycleoil.org/|used motor oil collection and recycling].",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KUDeTNTOCB5SABB1.standard"
+            ],
+            "StepId": 27302,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        }
+    ],
+    "Subject": ""
+}

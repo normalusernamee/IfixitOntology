@@ -1,0 +1,175 @@
+{
+    "Title": "Mazda 323 BG Dashboard Replacement",
+    "Ancestors": [
+        "Mazda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 101639,
+    "Category": "1989-1994 Mazda Protege",
+    "Toolbox": [
+        {
+            "Name": "phillips 3 screwdriver",
+            "Url": "https://www.amazon.com/TEKTON-26683-Phillips-4-Inch-Screwdriver/dp/B014US22SA/ref=sr_1_1?ie=UTF8&qid=1493940423&sr=8-1&keywords=phillips+%233",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mazda+323+BG+Dashboard+Replacement/101639",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "upgrading your dashboard or what ever , you might want to open your dashboard , this is the easy way . . ."
+                }
+            ],
+            "Text_raw": "Upgrading your Dashboard or what ever, you might want to open your Dashboard, this is the Easy Way...",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cBUPxJJlgjs6KOI2.standard"
+            ],
+            "StepId": 191034,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "open your door , you will see a plastic cover , remove it with a screwdriver or by hand ."
+                }
+            ],
+            "Text_raw": "Open your door, you will see a Plastic Cover, remove it with a screwdriver or by hand.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nUw2bKB2ZDGl1DyQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fuJKfZyJmYJEFokY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/r1SPALsMhTbTiltd.standard"
+            ],
+            "StepId": 191035,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the 3 screws holding the cover in place ."
+                }
+            ],
+            "Text_raw": "Remove the 3 screws holding the cover in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xZtSPcaHFAea5gCI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vPTPlnyDOokCrG2h.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GfZUI2bJoprhTkhU.standard"
+            ],
+            "StepId": 191036,
+            "Tools_extracted": [
+                "phillips 3 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the 2 screws above of the dashboard ."
+                }
+            ],
+            "Text_raw": "Remove the 2 screws above of the Dashboard.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yqJBmLyvWGOgOXpo.standard"
+            ],
+            "StepId": 191037,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "now to the magic : usualy , one must remove the steering wheel in order to continue . there are 2 easy alternatives :"
+                }
+            ],
+            "Text_raw": "Now to the magic: usualy, one must remove the steering wheel in order to continue. There are 2 easy alternatives:",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WiyJBSFWNUdauTZC.standard"
+            ],
+            "StepId": 191038,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "option 1 : with height adjustable steering wheel : remove the screw holding the top steering column trim and lower the column to its lowest by releasing the lever . remove the top steering column trim ."
+                }
+            ],
+            "Text_raw": "Option 1: With height adjustable steering wheel: remove the screw holding the top steering column trim and lower the column to its lowest by releasing the lever. Remove the top steering column trim.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WIUUDh2P44vSmaUo.standard"
+            ],
+            "StepId": 191039,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "option 2 : without height adjustable steering column : remove all 4 screws of the steering column trim . afterwards : remove the large golden screws . be carefull whilst removing the last one : hold the column tight with one hand or it will fall , since it is screwed to nothing else ."
+                }
+            ],
+            "Text_raw": "Option 2: Without height adjustable steering column: Remove all 4 screws of the steering column trim. Afterwards: remove the large golden screws. Be carefull whilst removing the last one: hold the column tight with one hand or it will fall, since it is screwed to nothing else.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/x21BFSOL5vdNvQQI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Y1aIkb5DGUFJndjD.standard"
+            ],
+            "StepId": 191040,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "after option 1 or 2 : pull the trim out of its holding clips . disconnect all wires , except for clock and hazard switch . slowly remove the trim , in case of option 1 : you might have to slightly bend the trim , be carefull . afterwards : rotate the trim 180 around the clock wire ."
+                }
+            ],
+            "Text_raw": "After Option 1 or 2: Pull the trim out of its holding clips. Disconnect all wires, except for clock and hazard switch. Slowly remove the trim, in case of Option 1: you might have to slightly bend the trim, be carefull. Afterwards: Rotate the trim 180\u00b0 around the clock wire.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/U3AOpTNOXXq16P1o.standard"
+            ],
+            "StepId": 191041,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "finally : remove the 4 screws holding the dashboard . disconnect the 3 connectors and speed wire and you are done !"
+                }
+            ],
+            "Text_raw": "Finally: Remove the 4 screws holding the dashboard. Disconnect the 3 connectors and speed wire and you are done!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CwOyaiUarlUH3GbC.standard"
+            ],
+            "StepId": 191042,
+            "Tools_extracted": [
+                "phillips 3 screwdriver"
+            ]
+        }
+    ],
+    "Subject": ""
+}

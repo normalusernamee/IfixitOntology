@@ -1,0 +1,247 @@
+{
+    "Title": "Repairing Tire Hole/Puncture",
+    "Ancestors": [
+        "Auto Part",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 53564,
+    "Category": "Tire",
+    "Toolbox": [
+        {
+            "Name": "air compressor",
+            "Url": "/Item/Air_compressor",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "tire plug kit",
+            "Url": "/Item/Tire_Plug_Kit",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "basic pliers",
+            "Url": "http://www.amazon.com/Stanley-84-097-6-Inch-Joint-Plier/dp/B0001IW892/ref=sr_1_3?s=hi&ie=UTF8&qid=1420940347&sr=1-3",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "spray bottle",
+            "Url": "http://www.amazon.com/24-Oz-Sprayer-Bottles-Pack/dp/B00008VXNE/ref=sr_1_1?ie=UTF8&qid=1393280009&sr=8-1&keywords=spray+bottle",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "soapy water",
+            "Url": "/Item/Soapy_Water",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "old rag",
+            "Url": "/Item/Old_Rag",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "air pressure gague",
+            "Url": "/Item/Air_Pressure_Gague",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Repairing+Tire+Hole-Puncture/53564",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "wipe the surface of the tire with a rag to remove any loose dirt , rocks , or debris ."
+                }
+            ],
+            "Text_raw": "Wipe the surface of the tire with a rag to remove any loose dirt, rocks, or debris.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/s5CemFTNZi1eMTKl.standard"
+            ],
+            "StepId": 118536,
+            "Tools_extracted": [
+                "tire plug kit"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "using the air compressor , air the tire up to the original recommended weight for the vehicle ."
+                },
+                {
+                    "Text": "air is expected to continue to leak out so do not worry if you cannot get it perfect ."
+                }
+            ],
+            "Text_raw": "Using the air compressor, air the tire up to the original recommended weight for the vehicle. Air is expected to continue to leak out so do not worry if you cannot get it perfect.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CZCxcBM1pumooEyk.standard"
+            ],
+            "StepId": 118537,
+            "Tools_extracted": [
+                "air compressor"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use the air pressure gauge to make sure the tire is now aired up to its original pressure ."
+                }
+            ],
+            "Text_raw": "Use the air pressure gauge to make sure the tire is now aired up to its original pressure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ctGM1G4sQgHNUrf1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XHQBGJgdCoMOcYV2.standard"
+            ],
+            "StepId": 118538,
+            "Tools_extracted": [
+                "air pressure gague"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "spray the surface of the tire completely with the soapy water ."
+                }
+            ],
+            "Text_raw": "Spray the surface of the tire completely with the soapy water.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AkUTxmEUJuNiNBK3.standard"
+            ],
+            "StepId": 118539,
+            "Tools_extracted": [
+                "soapy water"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "look for tiny air bubbles forming from the leaking air and soap combination , this is where the hole is located ."
+                }
+            ],
+            "Text_raw": "Look for tiny air bubbles forming from the leaking air and soap combination, this is where the hole is located.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MuLOP4udjUVPZWxV.standard"
+            ],
+            "StepId": 118540,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "once the hole is located , remove any foreign objects with the pliers if present ."
+                },
+                {
+                    "Text": "any object that is stuck in the tire , or puncturing the tire is considered a foreign object . these may include sharp objects , commonly seen as nails , screws , or pieces of metal ."
+                }
+            ],
+            "Text_raw": "Once the hole is located, remove any foreign objects with the pliers if present. Any object that is stuck in the tire, or puncturing the tire is considered a foreign object. These may include sharp objects, commonly seen as nails, screws, or pieces of metal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sDERNAvdXWleGuqL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BprRAULMeQBQW42R.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KFpcg2PRG6uuDvNJ.standard"
+            ],
+            "StepId": 118541,
+            "Tools_extracted": [
+                "tire plug kit",
+                "basic pliers"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "insert the reamer into the puncture ."
+                },
+                {
+                    "Text": "work the reamer in and out while twisting to clean and prep the puncture ."
+                }
+            ],
+            "Text_raw": "Insert the reamer into the puncture. Work the reamer in and out while twisting to clean and prep the puncture.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MKrBMqytRTYaWCKY.standard"
+            ],
+            "StepId": 118542,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "put the plug into the insertion tool ."
+                }
+            ],
+            "Text_raw": "Put the plug into the insertion tool.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MukIqYeEPEfYCtUk.standard"
+            ],
+            "StepId": 118543,
+            "Tools_extracted": [
+                "tire plug kit"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "insert the plug into the punctured area , leaving about \u00bc inch of the plug above the surface of the tire ."
+                },
+                {
+                    "Text": "yank the insertion tool so the plug remains in the tire , but the tool releases ."
+                },
+                {
+                    "Text": "cut the remaining plug so it is flush with the tire ."
+                }
+            ],
+            "Text_raw": "Insert the plug into the punctured area, leaving about \u00bc inch of the plug above the surface of the tire. Yank the insertion tool so the plug remains in the tire, but the tool releases. Cut the remaining plug so it is flush with the tire.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EWPM2LFdmBMYqNgt.standard"
+            ],
+            "StepId": 118544,
+            "Tools_extracted": [
+                "tire plug kit"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "refill the tire to the proper pressure ."
+                }
+            ],
+            "Text_raw": "Refill the tire to the proper pressure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dDyJBpy33Kis3Gjv.standard"
+            ],
+            "StepId": 118545,
+            "Tools_extracted": [
+                "tire plug kit"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "use the air pressure gauge to make sure that the tire is back to its original air pressure ."
+                }
+            ],
+            "Text_raw": "Use the air pressure gauge to make sure that the tire is back to its original air pressure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/W6prm11TnPypJtEP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CsXvcDAw2uN2b5Oq.standard"
+            ],
+            "StepId": 118546,
+            "Tools_extracted": [
+                "air pressure gague"
+            ]
+        }
+    ],
+    "Subject": ""
+}

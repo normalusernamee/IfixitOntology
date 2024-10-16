@@ -1,0 +1,238 @@
+{
+    "Title": "How to Replace the Dashboard Tweeter in a 2005-2016 Nissan Xterra",
+    "Ancestors": [
+        "Nissan",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50438,
+    "Category": "Nissan Xterra",
+    "Toolbox": [
+        {
+            "Name": "offset screwdriver",
+            "Url": "http://www.amazon.com/3pc-Offset-Screwdriver-Close-Quarters/dp/B007MCNSO4/ref=sr_1_1?ie=UTF8&qid=1370536544&sr=8-1&keywords=90+degree+phillips+screwdriver",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "zip ties",
+            "Url": "https://www.ifixit.com/Store/Parts/Zip-Ties/IF145-182",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/1grs1kZYK4AxAgU1.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+Replace+the+Dashboard+Tweeter+in+a+2005+2006+2007+2008+2009+2010+2011+2012+2013+2014+2015+2016+Nissan+Xterra/50438",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "take your flat head screwdriver and gently pry off the plastic grille covering your tweeter ."
+                },
+                {
+                    "Text": "there are 4 clips holding the grille down , 1 in each corner . be careful not to break them ."
+                }
+            ],
+            "Text_raw": "Take your flat head screwdriver and gently pry off the plastic grille covering your tweeter. There are 4 clips holding the grille down, 1 in each corner. Be careful not to break them.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tq3MM5BqUB6LiRQ4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gXZRWb6sXVshXqUA.standard"
+            ],
+            "StepId": 109147,
+            "Tools_extracted": [
+                "offset screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "take your offset screwdriver and unscrew the screws holding down the tweeter bracket ."
+                },
+                {
+                    "Text": "some models and years have 2 screws , others have 4. remove them all ."
+                }
+            ],
+            "Text_raw": "Take your offset screwdriver and unscrew the  screws holding down the tweeter bracket. Some models and years have 2 screws, others have 4. Remove them all.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YXDhmFBlj4MZRtfw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WmK4SWhWGX2yTpFt.standard"
+            ],
+            "StepId": 109150,
+            "Tools_extracted": [
+                "offset screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "gently lift the tweeter bracket with the tweeter inside and locate the connector ."
+                }
+            ],
+            "Text_raw": "Gently lift the tweeter bracket with the tweeter inside and locate the connector.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wqK56kwwaTvFStHd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XBGK2LCQGIfwmWCY.standard"
+            ],
+            "StepId": 109151,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "unbox your new tweeter and place it inside of the bracket that it comes with ."
+                },
+                {
+                    "Text": "refer to the manual included with the tweeter for this step . bracket installation varies between models ."
+                }
+            ],
+            "Text_raw": "Unbox your new tweeter and place it inside of the bracket that it comes with. Refer to the manual included with the tweeter for this step. Bracket installation varies between models.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AituoXuMMQKWcZMe.standard"
+            ],
+            "StepId": 109160,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "disconnect the old tweeter from the car ."
+                },
+                {
+                    "Text": "make sure to note that the positive wire has a red line on it . this is important ."
+                }
+            ],
+            "Text_raw": "Disconnect the old tweeter from the car. Make sure to note that the positive wire has a red line on it. This is important.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QdgRYK4GTmLPUMCd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vWlBQSgROwcCXXLs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MCtVTA2cGdWPJPgs.standard"
+            ],
+            "StepId": 109162,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "take your new tweeter and plug it in to the same connections as the old one ."
+                },
+                {
+                    "Text": "make sure that you connect the positive lead to the lead you noted earlier ( red line ) . connecting them incorrectly could result in damage to your tweeter or stereo ."
+                }
+            ],
+            "Text_raw": "Take your new tweeter and plug it in to the same connections as the old one. Make sure that you connect the positive lead to the lead you noted earlier (red line). Connecting them incorrectly could result in damage to your tweeter or stereo.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/o1PyAgnBgvOkSabB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iZmuiCThJNRXMOWM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2Q5lbYGMadgpf62A.standard"
+            ],
+            "StepId": 109883,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "if your tweeter only has 2 screws , attach a zip tie through the other holes and over the tweeter to help secure it in place ."
+                },
+                {
+                    "Text": "cut off the excess tie ."
+                }
+            ],
+            "Text_raw": "If your tweeter only has 2 screws, attach a zip tie through the other holes and over the tweeter to help secure it in place. Cut off the excess tie.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pKwCsGlPPJhDKOTQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TIBpkvEwaTwNCrfn.standard"
+            ],
+            "StepId": 109885,
+            "Tools_extracted": [
+                "zip ties"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "take any excess cable and fold it neatly so that it will fit down the hole below the tweeter ."
+                }
+            ],
+            "Text_raw": "Take any excess cable and fold it neatly so that it will fit down the hole below the tweeter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/g5TrbVuMGquRSwIk.standard"
+            ],
+            "StepId": 109886,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "place the new tweeter and bracket assembly back into the dashboard ."
+                },
+                {
+                    "Text": "make sure the orientation is how you would like it , and that the holes of the bracket line up with the holes in the dashboard ."
+                }
+            ],
+            "Text_raw": "Place the new tweeter and bracket assembly back into the dashboard. Make sure the orientation is how you would like it, and that the holes of the bracket line up with the holes in the dashboard.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1UmJqjLaXvLuhoTb.standard"
+            ],
+            "StepId": 109888,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "place the screws from the original tweeter back in their holes and tighten them with the offset screwdriver ."
+                },
+                {
+                    "Text": "make sure you do not over tighten them ! over tightening can strip the plastic that holds them in place . snug is good ."
+                }
+            ],
+            "Text_raw": "Place the screws from the original tweeter back in their holes and tighten them with the offset screw driver. Make sure you do not over tighten them! Over tightening can strip the plastic that holds them in place. Snug is good.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mNdSWYpffoBBioum.standard"
+            ],
+            "StepId": 109890,
+            "Tools_extracted": [
+                "offset screwdriver"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "replace the grille that covers the tweeter ."
+                },
+                {
+                    "Text": "make sure you install it in the correct orientation . it should snap in easily . installing incorrectly could damage the clips ."
+                }
+            ],
+            "Text_raw": "Replace the grille that covers the tweeter. Make sure you install it in the correct orientation. It should snap in easily. Installing incorrectly could damage the clips.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VZURufNZfNJX14eA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uPGAUJYtiu3iH2jr.standard"
+            ],
+            "StepId": 109895,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Dashboard Tweeter"
+}

@@ -1,0 +1,298 @@
+{
+    "Title": "2003-2011 Honda Element Spark Plug Replacement",
+    "Ancestors": [
+        "Honda Element",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 7645,
+    "Category": "2003-2011 Honda Element",
+    "Toolbox": [
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 8 spark plug socket",
+            "Url": "http://www.amazon.com/dp/B004QO9F0W/ref=cm_sw_su_dp",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2003+2004+2005+2006+2007+2008+2009+2010+2011+Honda+Element+Spark+Plug+Replacement/7645",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "pull hood latch release , located on the base of the a-pillar ."
+                },
+                {
+                    "Text": "pull up on the release lever between the hood and grille , it is located on the left ."
+                },
+                {
+                    "Text": "lift hood and engage the hood prop rod inside the provided notch hole on the edge of the hood ."
+                }
+            ],
+            "Text_raw": "Pull hood latch release, located on the base of the A-Pillar. Pull up on the release lever between the hood and grille, it is located on the left. Lift hood and engage the hood prop rod inside the provided notch hole on the edge of the hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3TO16sfUEIjARSgm.standard"
+            ],
+            "StepId": 31754,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "disconnect negative ( - ) battery terminal from the battery ."
+                },
+                {
+                    "Text": "place the now free negative ( - ) battery cable behind the battery itself so it cannot easily re-connect itself ."
+                }
+            ],
+            "Text_raw": "Disconnect negative (-) battery terminal from the battery. Place the now free negative (-) battery cable behind the battery itself so it cannot easily re-connect itself.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Bg2gpx5F6gYA5vVc.standard"
+            ],
+            "StepId": 31756,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the 4 10 mm acorn nuts from the plastic engine cover plate . set nuts aside for reassembly ."
+                },
+                {
+                    "Text": "remove the plastic coverplate and set aside ."
+                }
+            ],
+            "Text_raw": "Remove the 4 10mm acorn nuts from the plastic engine cover plate. Set nuts aside for reassembly. Remove the plastic coverplate and set aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PAbVZ1GaWNvQVaWS.standard"
+            ],
+            "StepId": 31757,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "using the 10 mm socket and ratchet , remove the 4 bolts holding down the coilpacks . you may need the 10 mm wrench if your socket is not deep enough to contact the hex section of the stud ."
+                }
+            ],
+            "Text_raw": "Using the 10mm socket and ratchet, remove the 4 bolts holding down the coilpacks. You may need the 10mm wrench if your socket is not deep enough to contact the hex section of the stud.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GLCnwRXV4Q2uk3ch.standard"
+            ],
+            "StepId": 31755,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "pull up on coilpack lightly , it should release easily from the spark plug below ."
+                },
+                {
+                    "Text": "using your thumb and forefinger , grasp the connector , pushing down the latch with your thumb ."
+                },
+                {
+                    "Text": "wiggle and pull the connector off of the coilpack , it will have some resistance ."
+                },
+                {
+                    "Text": "if the connector does not release , try pushing connector in , then pushing the latch and pulling on the connector ."
+                },
+                {
+                    "Text": "'''note : ''' do not pull by the wires ."
+                }
+            ],
+            "Text_raw": "Pull up on coilpack lightly, it should release easily from the spark plug below. Using your thumb and forefinger, grasp the connector, pushing down the latch with your thumb. Wiggle and pull the connector off of the coilpack, it will have some resistance. If the connector does not release, try pushing connector in, then pushing the latch and pulling on the connector. '''Note:''' Do not pull by the wires.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kqyILVV2oNaIoqxG.standard"
+            ],
+            "StepId": 31782,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove all the coilpacks and set aside ."
+                },
+                {
+                    "Text": "using the 3 /8 ratchet with socket wrench extension , 3 /8 drive and 5 /8 spark plug socket , remove the 4 spark plugs from the spark plug wells . they should require some force but unscrew easily after the initial turns ."
+                }
+            ],
+            "Text_raw": "Remove all the coilpacks and set aside. Using the 3/8\" Ratchet with [product|IF145-150|Socket Wrench Extension, 3/8\" Drive] and 5/8\" Spark Plug socket, remove the 4 spark plugs from the spark plug wells. They should require some force but unscrew easily after the initial turns.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MBdoGKpdON5DdVcO.standard"
+            ],
+            "StepId": 31783,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove new spark plugs from box . apply anti-seize to the spark plug threads only , carefully wipe off any excess that touches the ceramic insulator or the tip contact ."
+                },
+                {
+                    "Text": "now apply dielectric grease to the contact tip and the first 1 /2 of the ceramic insulator ."
+                }
+            ],
+            "Text_raw": "Remove new spark plugs from box. Apply anti-seize to the spark plug threads ONLY, carefully wipe off any excess that touches the ceramic insulator or the tip contact. Now apply dielectric grease to the contact tip and the first 1/2\" of the ceramic insulator.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/k36bbRtMkhMATKsK.standard"
+            ],
+            "StepId": 31784,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "using the spark plug socket , put each spark plug into their hole and thread in hand tight ."
+                },
+                {
+                    "Text": "tighten all 4 plugs 1 /2 turn past hand tight ."
+                }
+            ],
+            "Text_raw": "Using the spark plug socket, put each spark plug into their hole and thread in hand tight. Tighten all 4 plugs 1/2 turn past hand tight.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DtBqWl6KknJksZhG.standard"
+            ],
+            "StepId": 31785,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "reinstall the coilpack 3 /4 of the way into the hole , then push on the electrical connector until it clicks ."
+                },
+                {
+                    "Text": "push the coilpack down the rest of the way into the spark plug well , you should feel a slight click as the coilpack connects to the contact of the spark plug"
+                },
+                {
+                    "Text": "repeat these same steps for the remaining 3 coilpacks ."
+                }
+            ],
+            "Text_raw": "Reinstall the coilpack 3/4 of the way into the hole, then push on the electrical connector until it  clicks. Push the coilpack down the rest of the way into the spark plug well, you should feel a slight click as the coilpack connects to the contact of the spark plug Repeat these same steps for the remaining 3 coilpacks.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wRsUrFdswqOZPUmA.standard"
+            ],
+            "StepId": 31786,
+            "Tools_extracted": [
+                "5 8 spark plug socket",
+                "3 8 inch drive socket ratchet extension"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "using the 10 mm socket and 3 /8 ratchet , install bolts on the 1 ( from left ) and 3 coilpack . they should be 1 /4 turn past finger tight ."
+                },
+                {
+                    "Text": "install the studs on 2 and 4 coilpacks ."
+                },
+                {
+                    "Text": "reinstall coilpack cover , using the 4 acorn nuts removed previously ."
+                }
+            ],
+            "Text_raw": "Using the 10mm socket and 3/8\" ratchet, install bolts on the #1 (from left) and #3 coilpack. They should be 1/4 turn past finger tight. Install the studs on #2 and #4 coilpacks. Reinstall coilpack cover, using the 4 acorn nuts removed previously.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VowLNyvcIkRqoZbE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Jg2sEhQHxLEZdsWO.standard"
+            ],
+            "StepId": 31787,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "reinstall the negative ( - ) battery terminal , tightening with the 10 mm wrench or 10 mm ratchet ."
+                }
+            ],
+            "Text_raw": "Reinstall the negative (-) battery terminal, tightening with the 10mm wrench or 10mm ratchet.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VfHARwdJgIULCZhU.standard"
+            ],
+            "StepId": 31788,
+            "Tools_extracted": [
+                "socket"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "remove hood prop rod from the hood , flip down and connect it into its stay ."
+                },
+                {
+                    "Text": "shut hood lightly , then push down to engage the main latch ."
+                }
+            ],
+            "Text_raw": "Remove hood prop rod from the hood, flip down and connect it into its stay. Shut hood lightly, then push down to engage the main latch.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uNgTYvlZlTsQo6Xh.standard"
+            ],
+            "StepId": 31789,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "using the code written in your service history booklet ( the pre-delivery inspection page should have it ) , key in the radio code using the preset buttons ."
+                },
+                {
+                    "Text": "don't forget to mark down that you serviced the spark plugs in the service history booklet !"
+                }
+            ],
+            "Text_raw": "Using the code written in your Service History booklet (the Pre-Delivery Inspection page should have it), key in the radio code using the preset buttons. Don't forget to mark down that you serviced the spark plugs in the Service History booklet!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WGCYFKx2D2ITnSrV.standard"
+            ],
+            "StepId": 31790,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        }
+    ],
+    "Subject": "spark plugs"
+}

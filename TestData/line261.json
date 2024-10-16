@@ -1,0 +1,257 @@
+{
+    "Title": "Honda Prelude Headlight Replacement",
+    "Ancestors": [
+        "Honda Prelude",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 78933,
+    "Category": "1997-2001 Honda Prelude",
+    "Toolbox": [
+        {
+            "Name": "socket set",
+            "Url": "https://www.amazon.com/Stanley-92-824-Chrome-Etched-69-Piece/dp/B000KE6E1U/ref=sr_1_1?rps=1&ie=UTF8&qid=1472235452&sr=8-1&keywords=socket+set&refinements=p_85%3A2470955011%2Cp_72%3A2661618011",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_2?ie=UTF8&qid=1431005020&sr=8-2&keywords=3%2F8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "super glue",
+            "Url": "http://www.amazon.com/Gorilla-Glue-7805001-15g-Super/dp/B001IY82FM/ref=sr_1_2?ie=UTF8&qid=1407367727&sr=8-2&keywords=super+glue",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Honda+Prelude+Headlight+Replacement/78933",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "make sure that your car is parked on a level surface with the emergency brake on . a common workplace for anyone without a garage is a driveway or carport ."
+                },
+                {
+                    "Text": "it is helpful to place a tarp underneath your car as it provides a contrasting background to locate fallen screws and parts . the tarp also provides a smooth , non-abrasive surface to place parts and tools ."
+                }
+            ],
+            "Text_raw": "Make sure that your car is parked on a level surface with the emergency brake on. A common workplace for anyone without a garage is a driveway or carport. It is helpful to place a tarp underneath your car as it provides a contrasting background to locate fallen screws and parts. The tarp also provides a smooth, non-abrasive surface to place parts and tools.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SFSr4jJDU4IeTvP1.standard"
+            ],
+            "StepId": 158017,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate the positive and negative leads on the battery and remove them with a 10 mm socket ."
+                },
+                {
+                    "Text": "if you have an aftermarket air intake , it is also helpful to remove the filter to allow for more space to reach the wires and screws for the headlights ."
+                }
+            ],
+            "Text_raw": "Locate the positive and negative leads on the battery and remove them with a 10mm socket. If you have an aftermarket air intake, it is also helpful to remove the filter to allow for more space to reach the wires and screws for the headlights.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oZWxlFXcGWTIZYJS.standard"
+            ],
+            "StepId": 166632,
+            "Tools_extracted": [
+                "socket set"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "there are 7 body screws to be removed that attach the front bumper to the frame of the car . the first 5 screws are all on the same eye level as the underskirt of the car whereas screws 6 7 are above the passenger and driver side tires ."
+                },
+                {
+                    "Text": "it is very common for body screws to have been replaced , especially on older cars . when replaced , bolts will always have the same size diameter , but the size of the bolt head may very ."
+                }
+            ],
+            "Text_raw": "There are 7 body screws to be removed that attach the front bumper to the frame of the car. The first 5 screws are all on the same eye level as the underskirt of the car whereas screws 6 & 7 are above the passenger and driver side tires. It is very common for body screws to have been replaced, especially on older cars. When replaced, bolts will always have the same size diameter, but the size of the bolt head may very.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uKsoyJFaWx3iLbqR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dnX5YVMkIOSiNJYk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/D2mcONBHPxn3sJyj.standard"
+            ],
+            "StepId": 166634,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "there are 2 screws which attach the grille and the front bumper to the frame which are located directly next to either headlight . once the grille is removed , there are five plastic tabs which must also be removed before taking off the bumper ."
+                },
+                {
+                    "Text": "the plastic tabs are commonly missing or break when removing them . replacements are found at most auto parts store ."
+                }
+            ],
+            "Text_raw": "There are 2 screws which attach the grille and the front bumper to the frame which are located directly next to either headlight. Once the grille is removed, there are five plastic tabs which must also be removed before taking off the bumper. The plastic tabs are commonly missing or break when removing them. Replacements are found at most auto parts store.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DJLCTPQmKnECLBEZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RJbnVw2xsG2KNN6e.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GAGGZowQLuAUKBid.standard"
+            ],
+            "StepId": 166635,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "now as you remove the front bumper , be sure to only pull it off far enough to reach down and unplug the wires to the passenger and driver side blinkers and running lights . alternatively to freeing the wire , the bulb and wire harness may both be freed by twisting counterclockwise . once everything is unplugged , pull gently until the bumper is free ."
+                },
+                {
+                    "Text": "if there is any significant resistance when trying to free the bumper , then check to see if any bolts or wire connections have been missed to prevent damages ."
+                },
+                {
+                    "Text": "it is optional to place the removed bumper on a blanket to prevent damage ."
+                }
+            ],
+            "Text_raw": "Now as you remove the front bumper, be sure to only pull it off far enough to reach down and unplug the wires to the passenger and driver side blinkers and running lights. Alternatively to freeing the wire, the bulb and wire harness may both be freed by twisting counterclockwise. Once everything is unplugged, pull gently until the bumper is free. If there is any significant resistance when trying to free the bumper, then check to see if any bolts or wire connections have been missed to prevent damages. It is optional to place the removed bumper on a blanket to prevent damage.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/InFR6pBbMLD1hFfF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qOsunNPbn2MFeecB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ihKFTDK2GmskwQQq.standard"
+            ],
+            "StepId": 166636,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "there is a wire harness for the high beam and low beam which may be freed by twisting counterclockwise . this should be done for passenger and driver side before attempting to remove the screws that secure the headlights ."
+                },
+                {
+                    "Text": "if you have leds installed , then there is a ballast connected to the wire harness which has three wires that must be disconnected . wires on the ballast are held in by clips that simply pull apart ."
+                }
+            ],
+            "Text_raw": "There is a wire harness for the high beam and low beam which may be freed by twisting counterclockwise. This should be done for passenger and driver side before attempting to remove the screws that secure the headlights. If you have LEDs installed, then there is a ballast connected to the wire harness which has three wires that must be disconnected.  Wires on the ballast are held in by clips that simply pull apart.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FCkQMOoyyKPOx2wf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xHWSFxrsBoeuPEuF.standard"
+            ],
+            "StepId": 166654,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "there are 3 screws securing each headlight . the top screw is the easiest to get to and can be removed in plain sight before even taking the front bumper off . the screws on the sides , however , are seen only after the bumper is removed and are still difficult to get to ."
+                },
+                {
+                    "Text": "do not over tighten these screws when reassembling or you will strip the hole in the headlight housing as the threading is plastic ."
+                },
+                {
+                    "Text": "if you are having trouble locating these screws , then refer to the replacement part to get a better idea ."
+                }
+            ],
+            "Text_raw": "There are 3 screws securing each headlight. The top screw is the easiest to get to and can be removed in plain sight before even taking the front bumper off. The screws on the sides, however, are seen only after the bumper is removed and are still difficult to get to. Do not over tighten these screws when reassembling or you will strip the hole in the headlight housing as the threading is plastic. If you are having trouble locating these screws, then refer to the replacement part to get a better idea.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4eyHMJBVKMPcLHQg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/maQGCrUxc5JKGpHR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WlAPLBP6fGkkwgRi.standard"
+            ],
+            "StepId": 166657,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "when removing the headlight , take care to avoid touching any bulbs with your hands or wear a latex glove . furthermore , do not force the assembly to come out . if the assembly does not come free with a gentle pull then something is likely still attached ."
+                }
+            ],
+            "Text_raw": "When removing the headlight, take care to avoid touching any bulbs with your hands or wear a latex glove. Furthermore, do not force the assembly to come out. If the assembly does not come free with a gentle pull then something is likely still attached.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5WHAepsMRtqs63Fl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2OWerRebAGLX1RVH.standard"
+            ],
+            "StepId": 166663,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "the hids are not designed to fit into the factory housing which holds the stock bulbs in with a simple locking mechanism highlighted in green . to account for this , use a strong adhesive to glue the hid into the rubber moisture barrier which will also be glued to the assembly ."
+                },
+                {
+                    "Text": "it is recommended to follow the instructions for your choice of adhesive for drying , but this process may be sped up with a blow dryer if running short on time . it should also be noticed that since adhesive is being used , the moisture barrier will also have to be replaced if the hid needs to be replaced ."
+                }
+            ],
+            "Text_raw": "The HIDs are not designed to fit into the factory housing which holds the stock bulbs in with a simple locking mechanism highlighted in green. To account for this, use a strong adhesive to glue the HID into the rubber moisture barrier which will also be glued to the assembly. It is recommended to follow the instructions for your choice of adhesive for drying, but this process may be sped up with a blow dryer if running short on time. It should also be noticed that since adhesive is being used, the moisture barrier will also have to be replaced if the HID needs to be replaced.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Kt1q4ZBDX63LQsFS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qmHaqIYjtww5biZT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kEJSl4C5QFXiDZS2.standard"
+            ],
+            "StepId": 166664,
+            "Tools_extracted": [
+                "super glue"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "if hids are installed , then the factory wire harness no longer clips in . now , you will need to place the positive and negative leads from the hid into the wire harness . following , secure the connection with electrical tape . furthermore , you may secure the ballasts for the hids to the frame of your car with zip ties ."
+                },
+                {
+                    "Text": "if your turn your lights on and they do not work , reverse the order in which you placed these leads . finally , be sure to place any warranties or receipts in your glove box in case the replacement parts malfunction ."
+                }
+            ],
+            "Text_raw": "If HIDs are installed, then the factory wire harness no longer clips in. Now, you will need to place the positive and negative leads from the HID into the wire harness. Following, secure the connection with electrical tape. Furthermore, you may secure the ballasts for the HIDs to the frame of your car with zip ties. If your turn your lights on and they do not work, reverse the order in which you placed these leads. Finally, be sure to place any warranties or receipts in your glove box in case the replacement parts malfunction.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uNMGKQ6AP1PaKkYc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3gQ22ktiHdnJYuSG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TcEQsnfCxUBbt1LP.standard"
+            ],
+            "StepId": 166666,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "follow the disassembly steps in reverse to secure the new headlight assembly . take care to use the same bolts that were removed and replace any missing bolts with stock body screws from an auto parts store ."
+                }
+            ],
+            "Text_raw": "Follow the disassembly steps in reverse to secure the new headlight assembly. Take care to use the same bolts that were removed and replace any missing bolts with stock body screws from an auto parts store.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QYa1oHdb3gRuKlgS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/s5pASpBSGIVVFF43.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1iJsLhp6CiE5H6Cp.standard"
+            ],
+            "StepId": 166667,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Headlight"
+}

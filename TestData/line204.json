@@ -1,0 +1,469 @@
+{
+    "Title": "2004-2008 Mazda RX-8 Oil/Oil Filter Replacement",
+    "Ancestors": [
+        "Mazda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 41810,
+    "Category": "2004-2008 Mazda RX-8",
+    "Toolbox": [
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "adjustable wrench",
+            "Url": "http://www.amazon.com/Crescent-AC26VS-Carded-Sensormatic-Adjustable/dp/B00002N5KZ/ref=sr_1_13?ie=UTF8&qid=1390937225&sr=8-13&keywords=crescent+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil filter",
+            "Url": "http://www.oscaroparts.com/search/go?w=oil%20filter%20",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil filter wrench",
+            "Url": "http://amzn.com/B0009WG5SU",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 ratchet extension",
+            "Url": "http://www.amazon.com/TEKTON-14267-2-Inch-10-Inch-Extension/dp/B000NPZ5TI/ref=sr_1_1?ie=UTF8&qid=1407776986&sr=8-1&keywords=10%22+Ratchet+Extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 quarts 5 w-20 motor oil",
+            "Url": "/Item/5_Quarts_5W-20_Motor_Oil",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "auto jack",
+            "Url": "/Item/Auto_Jack",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "funnel",
+            "Url": "http://www.amazon.com/TEKTON-6093-Funnel-Set-4-Piece/dp/B003DN0RTA/ref=sr_1_1?s=hi&ie=UTF8&qid=1407340826&sr=1-1&keywords=funnel",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2004+2005+2006+2007+2008+Mazda+RX-8+Oil-Oil+Filter+Replacement/41810",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "gather all the required items"
+                }
+            ],
+            "Text_raw": "Gather all the required items",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZyFCBPRlYVgndN2e.standard"
+            ],
+            "StepId": 97463,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "open the hood by pulling the hood latch ."
+                },
+                {
+                    "Text": "the hood latch is located down and to the left of the steering wheel by the trunk button ."
+                }
+            ],
+            "Text_raw": "Open the hood by pulling the hood latch. The hood latch is located down and to the left of the steering wheel by the trunk button.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bYHLsYAHVkMHIZOX.standard"
+            ],
+            "StepId": 97465,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "lift the hood and hold it open with the hood prop bar ."
+                }
+            ],
+            "Text_raw": "Lift the hood and hold it open with the hood prop bar.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cgGeZX6F5mKO1lZd.standard"
+            ],
+            "StepId": 97466,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the plastic engine cover by lifting up ."
+                }
+            ],
+            "Text_raw": "Remove the plastic engine cover by lifting up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rXPH4cAr3OPvVaBb.standard"
+            ],
+            "StepId": 97467,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "jack up the car using the car jack ."
+                },
+                {
+                    "Text": "caution : if at all possible , use a dedicated car jack instead of the emergency jack ."
+                },
+                {
+                    "Text": "the emergency jack is not designed for frequent uses and could sustain damage if overused . if the emergency jack must be used , do not put any body part under the car until jack stands are secured ."
+                },
+                {
+                    "Text": "be sure to place the car jack under the proper reinforced areas ."
+                },
+                {
+                    "Text": "the reinforced area is located just behind the front wheels , between two bumps in the undercarrage frame ."
+                },
+                {
+                    "Text": "reference the car's manual if you require more information on how to safely jack up your car without damaging the frame ."
+                }
+            ],
+            "Text_raw": "Jack up the car using the car jack. Caution: If at all possible, use a dedicated car jack instead of the emergency jack. The emergency jack is not designed for frequent uses and could sustain damage if overused. If the emergency jack must be used, do not put any body part under the car until jack stands are secured. Be sure to place the car jack under the proper reinforced areas. The reinforced area is located just behind the front wheels, between two bumps in the undercarrage frame. Reference the car's manual if you require more information on how to safely jack up your car without damaging the frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TtTmywgTtHWL2VH5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZTYnKBpQJpyQUank.standard"
+            ],
+            "StepId": 97468,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "place a jack stand under the car near the jack ."
+                },
+                {
+                    "Text": "lower the jack until the weight of the car is on the jack stand ."
+                },
+                {
+                    "Text": "standing beside the car , lightly shake the car to ensure that it is securely on the jack stand before getting under the car ."
+                }
+            ],
+            "Text_raw": "Place a jack stand under the car near the jack. Lower the jack until the weight of the car is on the jack stand. Standing beside the car, lightly shake the car to ensure that it is securely on the jack stand before getting under the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZLCm535qgf4MwYOO.standard"
+            ],
+            "StepId": 97469,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "place the oil pan under the drain plug of the oil pan ."
+                },
+                {
+                    "Text": "the oil pan is located under the car between the front wheels ."
+                },
+                {
+                    "Text": "the drain plug will be on the left side of the oil pan when facing the front of the car ."
+                }
+            ],
+            "Text_raw": "Place the oil pan under the drain plug of the oil pan. The oil pan is located under the car between the front wheels. The drain plug will be on the left side of the oil pan when facing the front of the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6W1KeQNkW41ySO34.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ssiEHgXclaAYqSsD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/t1pChbSOZHibMgSf.standard"
+            ],
+            "StepId": 97470,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "loosen the drain plug with the crescent wrench ."
+                },
+                {
+                    "Text": "if you are using a socket , you will need a 19 mm socket to remove the oil pan nut"
+                },
+                {
+                    "Text": "once the plug is loose , unscrew it by hand letting the oil flow out ."
+                },
+                {
+                    "Text": "caution : if the engine has not cooled down before the oil is drained , the oil will be hot . use proper precautions to avoid burns ."
+                }
+            ],
+            "Text_raw": "Loosen the drain plug with the crescent wrench. If you are using a socket, you will need a 19mm socket to remove the oil pan nut Once the plug is loose, unscrew it by hand letting the oil flow out. Caution: If the engine has not cooled down before the oil is drained, the oil will be hot. Use proper precautions to avoid burns.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HWCSqGpoByyErveF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iuLwxCIcyK4nKMJL.standard"
+            ],
+            "StepId": 97471,
+            "Tools_extracted": [
+                "oil",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "leave the car for about 20 minuites to allow all the oil to drain ."
+                },
+                {
+                    "Text": "once the oil stops dripping , screw the drain plug back in by hand ."
+                },
+                {
+                    "Text": "tighten the drain plug with the crescent wrench until it is secure . do not over tighten as the plug will have to be removed for the next oil change ."
+                },
+                {
+                    "Text": "the torque spec on the drain plug is 29.4-39.2 n-m ( 21.7-28.9 ft-lbf ) . over or under tightening the plug could damage the oil pan and lead to future leaks ."
+                }
+            ],
+            "Text_raw": "Leave the car for about 20 minuites to allow all the oil to drain. Once the oil stops dripping, screw the drain plug back in by hand. Tighten the drain plug with the crescent wrench until it is secure. Do not over tighten as the plug will have to be removed for the next oil change. The torque spec on the drain plug is 29.4-39.2 N-m (21.7-28.9 ft-lbf). Over or under tightening the plug could damage the oil pan and lead to future leaks.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kgReIqh1i6CxER5Y.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/F1lxYrWOH1DpUrA4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/s3AegHiTZHbhFJK1.standard"
+            ],
+            "StepId": 97473,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "jack the car up unitil the weight of the car is on the jack , and then remove the jack stand ."
+                },
+                {
+                    "Text": "after the jack stand is removed , lower the car using the jack , and then remove the jack from under the car ."
+                }
+            ],
+            "Text_raw": "Jack the car up unitil the weight of the car is on the jack, and then remove the jack stand. After the jack stand is removed, lower the car using the jack, and then remove the jack from under the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sqZraKSh1FkONAyS.standard"
+            ],
+            "StepId": 97475,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "locate the old oil filter ."
+                },
+                {
+                    "Text": "it should be located in the back of the engine bay , behind the engine ."
+                }
+            ],
+            "Text_raw": "Locate the old oil filter. It should be located in the back of the engine bay, behind the engine.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/S43HJ1PdQbxauNAl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kraMMCwVVCPPlaB5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KklKpdZAfmByDSIE.standard"
+            ],
+            "StepId": 97478,
+            "Tools_extracted": [
+                "oil filter"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "using the socket wrench , extender , and oil filter wrench , loosen and remove the old oil filter ."
+                },
+                {
+                    "Text": "the oil filter may be stuck on very tight . some may find it easier to use a gloved hand to begin to loosen the filter initially ."
+                }
+            ],
+            "Text_raw": "Using the socket wrench, extender, and oil filter wrench, loosen and remove the old oil filter. The oil filter may be stuck on very tight. Some may find it easier to use a gloved hand to begin to loosen the filter initially.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZsjiGQI4aFrq5gEg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XLAFaIBJqyFyQbBI.standard"
+            ],
+            "StepId": 97479,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "take the new filter out of the box ."
+                },
+                {
+                    "Text": "place a small amount of oil on the o-ring and threads of the new filter make it easier to remove in the future ."
+                }
+            ],
+            "Text_raw": "Take the new filter out of the box. Place a small amount of oil on the o-ring and threads of the new filter make it easier to remove in the future.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pTvINEfeF6EAhb3G.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Hfpo1xUEaJlwfXSL.standard"
+            ],
+            "StepId": 97481,
+            "Tools_extracted": [
+                "oil filter"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "screw new oil filter into the spot where the old one was using your hand ."
+                },
+                {
+                    "Text": "tighten the filter using the filter wrench ."
+                },
+                {
+                    "Text": "be sure not to over tighten the filter ."
+                }
+            ],
+            "Text_raw": "Screw new oil filter into the spot where the old one was using your hand. Tighten the filter using the filter wrench. Be sure not to over tighten the filter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IRvRfSfnGkHyyepg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YEFZxi2s6E6f3gKq.standard"
+            ],
+            "StepId": 97482,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "unscrew the yellow oil fill cap using your hands ."
+                }
+            ],
+            "Text_raw": "Unscrew the yellow oil fill cap using your hands.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6jf42D5ehCIsfumd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wYnyo5uFj5a4vdDb.standard"
+            ],
+            "StepId": 97484,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "using the funnel , add approximately 3.7 quarts of oil into the fill hole ."
+                }
+            ],
+            "Text_raw": "Using the funnel, add approximately 3.7 quarts of oil into the fill hole.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6oQ2jWgWCO1BwgyR.standard"
+            ],
+            "StepId": 97485,
+            "Tools_extracted": [
+                "5 quarts 5 w-20 motor oil"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "screw the oil fill cap back on and tighten ."
+                }
+            ],
+            "Text_raw": "Screw the oil fill cap back on and tighten.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/l4Dve3dlr2DoYlSa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aenWjjZ3FMPPtnJP.standard"
+            ],
+            "StepId": 97486,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "wait a couple minutes for the oil to settle at the bottom of the oil pan ."
+                },
+                {
+                    "Text": "using the dip stick , ensure the oil level is within the recommended range ."
+                }
+            ],
+            "Text_raw": "Wait a couple minutes for the oil to settle at the bottom of the oil pan. Using the dip stick, ensure the oil level is within the recommended range.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LTbCJh4vK5LNQMpY.standard"
+            ],
+            "StepId": 97487,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "wipe off the dipstick before to remove any excess oil on it ."
+                },
+                {
+                    "Text": "put the dipstick back in the dipstick hole in the engine bay and push it all the way down"
+                },
+                {
+                    "Text": "pull the dipstick back up and look at where the oil line is with respect to the markings on the dipstick"
+                },
+                {
+                    "Text": "the low oil line is the lower raised line on the dipstick , and the high oil line is the higher raised line . you want the oil level to be in between the two"
+                },
+                {
+                    "Text": "because the rx-8 engine is designed to burn oil during operation , i suggest you try to keep the oil in the upper third of the fill range to avoid driving with low oil in the future"
+                },
+                {
+                    "Text": "if the oil level is too low , add more clean oil into the oil fill spout . if the oil level is too high it may be necessary to drain the oil and repeat the guide over again to avoid engine damage from excess engine oil"
+                }
+            ],
+            "Text_raw": "Wipe off the dipstick before to remove any excess oil on it. Put the dipstick back in the dipstick hole in the engine bay and push it all the way down Pull the dipstick back up and look at where the oil line is with respect to the markings on the dipstick The low oil line is the lower raised line on the dipstick, and the high oil line is the higher raised line. You want the oil level to be in between the two Because the RX-8 engine is designed to burn oil during operation, I suggest you try to keep the oil in the upper third of the fill range to avoid driving with low oil in the future If the oil level is too low, add more clean oil into the oil fill spout. If the oil level is too high it may be necessary to drain the oil and repeat the guide over again to avoid engine damage from excess engine oil",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bY2MEWSYjZBIcVEl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OIrHZthPRBBwIUAm.standard"
+            ],
+            "StepId": 98227,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        }
+    ],
+    "Subject": "Oil/Oil Filter"
+}

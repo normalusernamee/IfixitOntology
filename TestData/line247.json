@@ -1,0 +1,117 @@
+{
+    "Title": "2005 Dodge Grand Caravan Passenger Side Headlight Replacement",
+    "Ancestors": [
+        "Dodge Caravan",
+        "Dodge",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 66748,
+    "Category": "2001-2007 Dodge Caravan",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver recommended",
+            "Url": "/Item/Flathead_Screwdriver_%28Recommended%29",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 16 wrench",
+            "Url": "/Item/5_16_Wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2005+Dodge+Grand+Caravan+Passenger+Side+Headlight+Replacement/66748",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "open hood and locate the section that holds the passenger headlight ."
+                },
+                {
+                    "Text": "remove the three bolts holding the headlight in place . note if they are rusted like mine were , be prepared to use some elbow grease ."
+                },
+                {
+                    "Text": "put bolts off to the side for reassembly ."
+                }
+            ],
+            "Text_raw": "Open hood and locate the section that holds the passenger headlight. Remove the three bolts holding the headlight in place. *Note* If they are rusted like mine were, be prepared to use some elbow grease. Put bolts off to the side for reassembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CfWaTCqEORA2hVjB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YqKkIjEARIE1wKqq.standard"
+            ],
+            "StepId": 135950,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "there is a red latch to release the hold on the connection . push that down then remove the cable attaching to the right turn signal's bulb . note you can remove just the cable or the bulb depending on your replacement ."
+                },
+                {
+                    "Text": "the next cable is attached to main bulb in your headlight . twist the black circle around the cord counter clockwise and you can remove the bulb or just unclip the latch holding the cable in place . note my replacement came with bulbs so i just took the cable off ."
+                }
+            ],
+            "Text_raw": "There is a red latch to release the hold on the connection. Push that down then remove the cable attaching to the right turn signal's bulb. *Note* You can remove just the cable or the bulb depending on your replacement. The next cable is attached to main bulb in your headlight. Twist the black circle around the cord counter clockwise and you can remove the bulb OR just unclip the latch holding the cable in place. *Note* My replacement came with bulbs so I just took the cable off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MIkmEgKc4NY1gErX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HkujhCnrJZMIAAOJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BhFyI4KvOrAofcpN.standard"
+            ],
+            "StepId": 135951,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "push down on the gray insert that is holding the cables close to the headlight ."
+                },
+                {
+                    "Text": "be careful with the cable to not bend or damage it ."
+                },
+                {
+                    "Text": "now put the damaged headlight aside to properly dispose of ."
+                }
+            ],
+            "Text_raw": "Push down on the gray insert that is holding the cables close to the headlight. Be careful with the cable to not bend or damage it. Now put the damaged headlight aside to properly dispose of.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GAIEdUdMHZMUWRWh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GyuB6YRskNemG6KP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ksjR5XPNnWyShBv2.standard"
+            ],
+            "StepId": 135952,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "now reattach all the cables careful by doing these instructions in reverse ."
+                },
+                {
+                    "Text": "use the black handle , on top of the headlight , to help you align the holes to bolt the headlight in correctly . note i screwed them in a little in a time clockwise to align it properly and not to cross thread the bolts ."
+                },
+                {
+                    "Text": "test the lights to assure they are coming on and enjoy your new headlight ."
+                }
+            ],
+            "Text_raw": "Now reattach all the cables careful by doing these instructions in reverse. Use the black handle, on top of the headlight, to help you align the holes to bolt the headlight in correctly. *Note* I screwed them in a little in a time clockwise to align it properly and not to cross thread the bolts. Test the lights to assure they are coming on and enjoy your new headlight.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IQGMQGQFCGe4bMTt.standard"
+            ],
+            "StepId": 135955,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Passenger Side Headlight"
+}

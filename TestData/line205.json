@@ -1,0 +1,163 @@
+{
+    "Title": "2004-2008 Mazda RX-8 Tire Rotation",
+    "Ancestors": [
+        "Mazda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 42160,
+    "Category": "2004-2008 Mazda RX-8",
+    "Toolbox": [
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "/Item/Socket_Wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2004+2005+2006+2007+2008+Mazda+RX-8+Tire+Rotation/42160",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "loosen lug nuts with the socket/wrench just until they begin to turn ."
+                },
+                {
+                    "Text": "removing lug nuts requires a 21 mm socket"
+                }
+            ],
+            "Text_raw": "Loosen lug nuts with the socket/wrench just until they begin to turn. Removing lug nuts requires a 21mm socket",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WIXCOYKOfsVhSia4.standard"
+            ],
+            "StepId": 97359,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "place jack under the car ( as shown ) ."
+                },
+                {
+                    "Text": "it's best to avoid using the jack included with the car . if at all possible , use at least a 2 ton floor jack ."
+                },
+                {
+                    "Text": "use the jack handle to crank up just enough so that the tire noticeably lifts off the ground ."
+                }
+            ],
+            "Text_raw": "Place Jack under the car (as shown). It's best to avoid using the jack included with the car. If at all possible, use at least a 2 ton floor jack. Use the Jack Handle to crank up just enough so that the tire noticeably lifts off the ground.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZCOlVGEvmIQIeCtx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vCuEONad4mGiVOLw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eqFxeEXLAUTZ1kEH.standard"
+            ],
+            "StepId": 97360,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "put the jack stand under the car to ensure the car will not fall back down while you are working on it ."
+                }
+            ],
+            "Text_raw": "Put the jack stand under the car to ensure the car will not fall back down while you are working on it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KUkPYQyvYoJm5u3J.standard"
+            ],
+            "StepId": 97361,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove all lug nuts holding the wheel on the car ."
+                }
+            ],
+            "Text_raw": "Remove all lug nuts holding the wheel on the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JfFIKmPOrgdRRRqv.standard"
+            ],
+            "StepId": 97362,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the front wheel from the vehicle ."
+                }
+            ],
+            "Text_raw": "Remove the front wheel from the vehicle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/A1JGVThaHrLXDDol.standard"
+            ],
+            "StepId": 97363,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "with the front wheel off repeat step 4 and step 5 to remove the rear wheel as well ."
+                }
+            ],
+            "Text_raw": "With the front wheel off repeat step 4 and step 5 to remove the rear wheel as well.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/H6ExRZEkmnXCbTAA.standard"
+            ],
+            "StepId": 97364,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "place the rear wheel on the front of the car and place the front wheel in the rear . tighten up the lug nuts and your tire rotation is complete ."
+                },
+                {
+                    "Text": "begin to tighten the lug nuts as much as you can with the wheel in the air , and then lower the car to the ground to finish tightening ."
+                },
+                {
+                    "Text": "tighten the nuts in a star pattern to avoid over tightening one side leaving the wheel installed crooked"
+                },
+                {
+                    "Text": "mazda recommends that the lug nuts be torqued to 108 ftlbs to ensure that the wheel is secure"
+                }
+            ],
+            "Text_raw": "Place the rear wheel on the front of the car and place the front wheel in the rear. Tighten up the lug nuts and your tire rotation is complete. Begin to tighten the lug nuts as much as you can with the wheel in the air, and then lower the car to the ground to finish tightening. Tighten the nuts in a star pattern to avoid over tightening one side leaving the wheel installed crooked Mazda recommends that the lug nuts be torqued to 108 ft*lbs to ensure that the wheel is secure",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oxYYA3NPFJ433Pvq.standard"
+            ],
+            "StepId": 97365,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

@@ -1,0 +1,434 @@
+{
+    "Title": "1976 Mercedes-Benz 230.6 Window Regulator Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 105437,
+    "Category": "1976 Mercedes-Benz 230.6",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "/Item/Philips_Head_Screwdriver_PH2",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "tri- removal tool",
+            "Url": "/Item/Trim_removal_tool",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "m6 x 1.0 tap required for my original part",
+            "Url": "/Item/M6_x_1.0_Tap_%28required_for_my_original_part%29",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm deep socket",
+            "Url": "https://www.amazon.com/TEKTON-14191-8-Inch-Socket-6-Point/dp/B000NY6RBY/ref=sr_1_3?ie=UTF8&qid=1497981236&sr=8-3&keywords=10mm+deep+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "0.25 inch ratchet",
+            "Url": "/Item/0.25_inch_ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "pick",
+            "Url": "/Item/Small_pick",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver for prying",
+            "Url": "/Item/small_flathead_screwdriver_%28for_prying%29",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "needle-nose pliers",
+            "Url": "/Item/Needlenose_Pliers",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1976+Mercedes-Benz+230.6+Window+Regulator+Replacement/105437",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "today's patient , the 1976 230.6 , this guide will apply to any w114 or w115 from 1973 onwards ( facelift )"
+                }
+            ],
+            "Text_raw": "Today's patient, the 1976 230.6, this guide will apply to any W114 or W115 from 1973 onwards (facelift)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sEmlZemi4NyNCxQp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Vy2fyRWjLPcmU6kW.standard"
+            ],
+            "StepId": 198967,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the two phillips 2 screws"
+                }
+            ],
+            "Text_raw": "Remove the two phillips #2 screws",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xJMKkuFoYf2PpJwi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eBUq4pAHgfHRBCDc.standard"
+            ],
+            "StepId": 198968,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "pry out the black plastic cup behind the door lever , using your pick or flat-head screwdriver"
+                },
+                {
+                    "Text": "then remove the single phillips 2 bolt , taking care to retain the lockwasher"
+                }
+            ],
+            "Text_raw": "Pry out the black plastic cup behind the door lever, using your pick or flat-head screwdriver Then remove the single phillips #2 bolt, taking care to retain the lockwasher",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BACEkXqM2eV4HlPl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pbFkl6LOXApPIJDQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xwPeKvMc2nEBRfpS.standard"
+            ],
+            "StepId": 198969,
+            "Tools_extracted": [
+                "pick",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "there are a total of three phillips 3 bolts holding the handle to the door , two at the bottom , and a single one at the top"
+                },
+                {
+                    "Text": "your phillips 2 screwdriver will work fine here , but you could use a 3 if you want"
+                },
+                {
+                    "Text": "for the top bolt there is a chrome trim covering it . you'll need to pry back gently - using a pick or small screwdriver so as to leave it undamaged"
+                }
+            ],
+            "Text_raw": "There are a total of three phillips #3 bolts holding the handle to the door, two at the bottom, and a single one at the top Your phillips #2 screwdriver will work fine here, but you could use a #3 if you want For the top bolt there is a chrome trim covering it. You'll need to pry back gently - using a pick or small screwdriver so as to leave it undamaged",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mJltrv5xVHkHFuxP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vyqSHmALkdjcUFup.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/t1JCins5WHsCrlOR.standard"
+            ],
+            "StepId": 198970,
+            "Tools_extracted": [
+                "pick",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "you've removed the two surrounds , and the door handle"
+                },
+                {
+                    "Text": "there are two metal garnishes above each lower-leg of the door handle , i like to arrange them so i know where they went - for later reassembly"
+                }
+            ],
+            "Text_raw": "You've removed the two surrounds, and the door handle There are two metal garnishes above each lower-leg of the door handle, I like to arrange them so I know where they went - for later reassembly",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/if3W2QUl3ZCQaWyS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NO6iysVGQqVGmvJH.standard"
+            ],
+            "StepId": 198971,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "looking down almost behind the window winder handle , you can see the trim panel has a bent-metal clip , the trim also acts as the locking-clip to hold the handle on"
+                },
+                {
+                    "Text": "first push the trim panel outwards toward yourself"
+                },
+                {
+                    "Text": "then it slides away from the hub , towards the knob which you hold to rotate the handle"
+                }
+            ],
+            "Text_raw": "Looking down almost behind the window winder handle, you can see the trim panel has a bent-metal clip, the trim also acts as the locking-clip to hold the handle on First push the trim panel outwards toward yourself Then it slides away from the hub, towards the knob which you hold to rotate the handle",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RHUvBesx1DF5MYiL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HYbdxArCnmyvGFKK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PLvZa4GpyE1Gr1yt.standard"
+            ],
+            "StepId": 198972,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "the interior door trim panel is held in place by a series of push-pins around the edge of the panel , you can pry them out using a plastic trim tool , or like i did here with a small prybar and rag"
+                },
+                {
+                    "Text": "to avoid damaging the trim or the door , try to get the pry tool as close as possible to each clip then gently pry until it pops out"
+                },
+                {
+                    "Text": "the trim panel separates below the top portion , so the lock-knob and window seal can remain in-place and undisturbed"
+                },
+                {
+                    "Text": "remember the trim panel is very-fragile and made of particle-wood , so handle it gently and place it out of harms way while you're working on the door"
+                }
+            ],
+            "Text_raw": "The interior door trim panel is held in place by a series of push-pins around the edge of the panel, you can pry them out using a plastic trim tool, or like I did here with a small prybar and rag To avoid damaging the trim or the door, try to get the pry tool as close as possible to each clip then gently pry until it pops out The trim panel separates below the top portion, so the lock-knob and window seal can remain in-place and undisturbed Remember the trim panel is very-fragile and made of particle-wood, so handle it gently and place it out of harms way while you're working on the door",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mHoexLFLIvbc4SX6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/s61fcvNJSlZYSqXl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/liakeGgNGIo2HOPJ.standard"
+            ],
+            "StepId": 198973,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "peel back the vapour/moisture barrier plastic , mine was removed before , so the original glue was gone , i had some spots of double-sided tape holding it in"
+                },
+                {
+                    "Text": "i just fed it through the partially-open window to hold it back , but if it's windy it might be annoying"
+                },
+                {
+                    "Text": "we're trying to gain access to the door interior"
+                }
+            ],
+            "Text_raw": "Peel back the vapour/moisture barrier plastic, mine was removed before, so the original glue was gone, I had some spots of double-sided tape holding it in I just fed it through the partially-open window to hold it back, but if it's windy it might be annoying We're trying to gain access to the door interior",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wMQt5eyHaVHkDZjJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VYPIVc6aPNNg4RkB.standard"
+            ],
+            "StepId": 198974,
+            "Tools_extracted": [
+                "m6 x 1.0 tap required for my original part"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "my new part ( 1157251102 ) looked so full of promise with it's blue genuine parts label , and it's shiny metal it's manufacture date stamped 10 /1987"
+                },
+                {
+                    "Text": "however the installation was about to take a turn for the worse , i didn't realise at first , naively thinking a genuine part would just bolt-on"
+                },
+                {
+                    "Text": "it turns out my new part didn't have threads tapped in the four bolt holes !"
+                },
+                {
+                    "Text": "can you believe it ! ?"
+                },
+                {
+                    "Text": "so with a bit of cursing , i dragged out my tap and die set"
+                },
+                {
+                    "Text": "if you get lucky you won't need to tap the holes on your replacement regulator"
+                }
+            ],
+            "Text_raw": "My new part (1157251102) looked so full of promise with it's blue genuine parts label, and it's shiny metal it's  manufacture date stamped 10/1987 However the installation was about to take a turn for the worse, I didn't realise at first, naively thinking a genuine part would just bolt-on It turns out my new part didn't have threads tapped in the four bolt holes! Can you believe it!? So with a bit of cursing, I dragged out my tap and die set If you get lucky you won't need to tap the holes on your replacement regulator",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/biWG5JFWYLEYEaSm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VECuSMj4P4HUmChv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sZnG4uACeaEwBkHE.standard"
+            ],
+            "StepId": 198975,
+            "Tools_extracted": [
+                "m6 x 1.0 tap required for my original part"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "the arm that attaches to the bottom of the window uses a pin with clip and special washer"
+                },
+                {
+                    "Text": "it's a bit fiddly since you can't see it easily , mostly you'll be working by feel , the clip slides into a groove machined into the tip of the pin"
+                },
+                {
+                    "Text": "there is a rectangular plastic bushing that slides in the window-bottom track , it fits over the pin first"
+                },
+                {
+                    "Text": "then the pin and bushing go through the track"
+                },
+                {
+                    "Text": "then there is a plastic slightly-conical flat washer with a metal star-shaped washer that fits over that"
+                },
+                {
+                    "Text": "then at the very tip of the pin - facing into the door , there is a spring-steel clip"
+                },
+                {
+                    "Text": "i used a pick and a flathead screwdriver and a pair of needlenose pliers and a bit of cursing to get it out and back in"
+                },
+                {
+                    "Text": "note : the window drops after you pull out the pin , since nothing is holding it up - i put a small prybar in place to hold it up , but you could also use a piece of wood or whatever"
+                }
+            ],
+            "Text_raw": "The arm that attaches to the bottom of the window uses a pin with clip and special washer It's a bit fiddly since you can't see it easily, mostly you'll be working by feel, the clip slides into a groove machined into the tip of the pin There is a rectangular plastic bushing that slides in the window-bottom track, it fits over the pin first Then the pin and bushing go through the track Then there is a plastic slightly-conical flat washer with a metal star-shaped washer that fits over that Then at the very tip of the pin - facing into the door, there is a spring-steel clip I used a pick and a flathead screwdriver and a pair of needlenose pliers and a bit of cursing to get it out and back in NOTE: the window drops after you pull out the pin, since nothing is holding it up - I put a small prybar in place to hold it up, but you could also use a piece of wood or whatever",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/avLVgDjv1XUu23CO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Oyb1mSRb2VuGSVkP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wYh2dJOYhImNYUeQ.standard"
+            ],
+            "StepId": 198976,
+            "Tools_extracted": [
+                "flathead screwdriver for prying"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "there are four bolts ( circled in blue ) holding the regulator to the door , they are all 10 mm head bolts , but the top two are longer"
+                },
+                {
+                    "Text": "i used a 10 mm deep socket on a 1 /4 inch ratchet , but any 10 mm wrench , spanner , or socket should work"
+                },
+                {
+                    "Text": "in the second picture you can see the gear-quadrant of my old regulator hanging down , it's supposed to be up engaged in the winder gear teeth"
+                },
+                {
+                    "Text": "it was at this point that i realised i could not get the old regulator past the window vertical track . . ."
+                },
+                {
+                    "Text": "notice i'm using a short prybar to prop up the window now ( since otherwise it drops down ) you could use a piece of wood or some other tool as well"
+                }
+            ],
+            "Text_raw": "There are four bolts (circled in blue) holding the regulator to the door, they are all 10mm head bolts, but the top two are longer I used a 10mm deep socket on a 1/4 inch ratchet, but any 10mm wrench, spanner, or socket should work in the second picture you can see the gear-quadrant of my old regulator hanging down, it's supposed to be up engaged in the winder gear teeth It was at this point that I realised I could not get the old regulator past the window vertical track... Notice I'm using a short prybar to prop up the window now (since otherwise it drops down) you could use a piece of wood or some other tool as well",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cNpGQbIKvdLVW2Rq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iRQJvZmYwI1TSopJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xqRglfMFotod4p5b.standard"
+            ],
+            "StepId": 198977,
+            "Tools_extracted": [
+                "10 mm deep socket"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "since you can't get the regulator out past the window track , it has to be detached temporarily"
+                },
+                {
+                    "Text": "it's held on by two 10 mm bolts , which have fancy dimpled flat washers , and lock washers , i've circled them in green in the picture"
+                },
+                {
+                    "Text": "remove those two bolts , which should give you enough movement to push that window track forward off the window a bit , then into the door a bit deeper"
+                },
+                {
+                    "Text": "at this point it should be possible to pull out the window regulator , angling it as you go to avoid jamming on things"
+                }
+            ],
+            "Text_raw": "Since you can't get the regulator out past the window track, it has to be detached temporarily It's held on by two 10mm bolts, which have fancy dimpled flat washers, and lock washers, I've circled them in green in the picture Remove those two bolts, which should give you enough movement to push that window track forward off the window a bit, then into the door a bit deeper At this point it should be possible to pull out the window regulator, angling it as you go to avoid jamming on things",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ThqeyrjrZUTxujQL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UZhBDByaaxDa4Pvr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/USSlVaFGOgecto6X.standard"
+            ],
+            "StepId": 198978,
+            "Tools_extracted": [
+                "10 mm deep socket"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "as i mentioned in step 9 , i was punished by the lack of threads in my new window regulator"
+                },
+                {
+                    "Text": "so i broke out my tap and die set , and checked the bolt thread pitch , which was metric m6 x 1.0"
+                },
+                {
+                    "Text": "i didn't notice until i'd already slipped my new part into the door . . . i actually pulled it back out of the door to tap the four holes"
+                },
+                {
+                    "Text": "if your part also has a lack of threads in the holes , be sure to check it before you've put the clip through the pin , and reinstalled the track bolts etc"
+                }
+            ],
+            "Text_raw": "As I mentioned in step 9, I was punished by the lack of threads in my new window regulator So I broke out my tap and die set, and checked the bolt thread pitch, which was metric M6 x 1.0 I didn't notice until I'd already slipped my new part into the door... I actually pulled it back out of the door to tap the four holes If your part also has a lack of threads in the holes, be sure to check it before you've put the clip through the pin, and reinstalled the track bolts etc",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5efbLWHiNXl6k1t6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OMfSh1EFsfPGJbo3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CQACDcqL3Ym6N2UU.standard"
+            ],
+            "StepId": 198979,
+            "Tools_extracted": [
+                "m6 x 1.0 tap required for my original part"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "install several of the regulator bolts ( remember the top two are the long ones )"
+                },
+                {
+                    "Text": "don't tighten them yet"
+                },
+                {
+                    "Text": "grease up the window bottom track and bushings before assembling"
+                },
+                {
+                    "Text": "the bushing clip is pretty hard to get on - enjoy that"
+                },
+                {
+                    "Text": "after you're happy with the placement tighten the bolts"
+                },
+                {
+                    "Text": "then remember to put the vertical window track bolts back in too - they have the funny dimpled flat washers ( be sure the window glass is in the track )"
+                }
+            ],
+            "Text_raw": "Install several of the regulator bolts (remember the top two are the long ones) Don't tighten them yet Grease up the window bottom track and bushings before assembling The bushing clip is pretty hard to get on - enjoy that After you're happy with the placement tighten the bolts Then remember to put the vertical window track bolts back in too - they have the funny dimpled flat washers (be sure the window glass is in the track)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Xhb4dynHshT4AcJH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Wwsj5vqlyudiUkXY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Q3rBXXiKFI3nGkfj.standard"
+            ],
+            "StepId": 198980,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "follow the steps backwards to reassemble the door"
+                }
+            ],
+            "Text_raw": "Follow the steps backwards to reassemble the door",
+            "Images": [],
+            "StepId": 198981,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Window Regulator"
+}

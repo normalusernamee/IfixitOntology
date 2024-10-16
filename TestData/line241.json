@@ -1,0 +1,134 @@
+{
+    "Title": "Honda CSC29 Brushes Replacement",
+    "Ancestors": [
+        "Auto Part",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 62715,
+    "Category": "Honda CSC29",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "8 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14113-4-Inch-Shallow-6-Point/dp/B000NPPCGE/ref=sr_1_1?ie=UTF8&qid=1431011181&sr=8-1&keywords=8+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Honda+CSC29+Brushes+Replacement/62715",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "remove 4 , 7.9 mm nuts using a 7.9 mm socket driver head"
+                },
+                {
+                    "Text": "one of the nuts is placed underneath the l-bracket . remove the l-bracket and the 3 circled nuts before attempting to remove the remaining nut"
+                },
+                {
+                    "Text": "there are two covers that need to be removed from the alternator . this step describes how to remove the back cover ."
+                }
+            ],
+            "Text_raw": "Remove 4, 7.9mm  nuts using a 7.9mm socket driver head One of the nuts is placed underneath the L-Bracket. Remove the L-Bracket and the 3 circled nuts before attempting to remove the remaining nut There are two covers that need to be removed from the alternator. This step describes how to remove the back cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BAhkNBdqeLrZCcng.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Wv6N6Jepf4BwFYBS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bmSSDyKTXymEt1bI.standard"
+            ],
+            "StepId": 132385,
+            "Tools_extracted": [
+                "socket"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "pull cover off the body of the alternator"
+                },
+                {
+                    "Text": "once you have done this , you should be able to see the internal components of the alternator , particularly the bridge assembly that houses the rectifier , voltage regulator and brushes ."
+                }
+            ],
+            "Text_raw": "Pull cover off the body of the alternator Once you have done this, you should be able to see the internal components of the alternator, particularly the bridge assembly that houses the rectifier, voltage regulator and brushes.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/h35iNqkANoAkkSlc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NsoGtlflcFaGrifN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oOOhy2WBOqDvCwZw.standard"
+            ],
+            "StepId": 132386,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "you should now be able to see the recifier assembly , the brushes are located in the middle of the recifier assembly ."
+                },
+                {
+                    "Text": "remove the brush assembly by unscrewing 2 , 6 mm center screws using a 2 phillips head screwdriver"
+                }
+            ],
+            "Text_raw": "You should now be able to see the recifier assembly, the brushes are located in the middle of the recifier assembly. Remove the brush assembly by unscrewing 2, 6mm center screws using a #2 Phillips head screw driver",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Fq1JGEeOX2woGiTo.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2AE12NCubyeIvktn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JPhQJLFwlPABT1DI.standard"
+            ],
+            "StepId": 131924,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the brush assembly by pulling it out ."
+                }
+            ],
+            "Text_raw": "Remove the brush assembly by pulling it out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/m2md3ANMUnnqZMYv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BHbLAT5YMCU6Flxk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uZgDwYNSCXfbaVE5.standard"
+            ],
+            "StepId": 132135,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "inspect the brushes . if they are scored and not smooth you will need to replace the entire assembly ."
+                },
+                {
+                    "Text": "when reinserting the brushes , make sure the springs keep the brushes in contact with the stator ."
+                }
+            ],
+            "Text_raw": "Inspect the brushes. If they are scored and not smooth you will need to replace the entire assembly. When reinserting the brushes, make sure the springs keep the brushes in contact with the stator.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UbvJpSASf5VEjLry.standard"
+            ],
+            "StepId": 132142,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Brushes"
+}

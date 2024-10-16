@@ -1,0 +1,289 @@
+{
+    "Title": "Toyota Tacoma Oil Change",
+    "Ancestors": [
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 37670,
+    "Category": "Toyota Tacoma",
+    "Toolbox": [
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "standard wrench set",
+            "Url": "http://www.amazon.com/TEKTON-1916-Combination-Wrench-24-Piece/dp/B000NQ159G/ref=sr_1_1?s=power-hand-tools&ie=UTF8&qid=1407876618&sr=1-1&keywords=wrench+set",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil filter wrench",
+            "Url": "http://amzn.com/B0009WG5SU",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "funnel",
+            "Url": "http://www.amazon.com/TEKTON-6093-Funnel-Set-4-Piece/dp/B003DN0RTA/ref=sr_1_1?s=hi&ie=UTF8&qid=1407340826&sr=1-1&keywords=funnel",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Toyota+Tacoma+Oil+Change/37670",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the oil drain plug . the plug is located underneath the front of the truck on the bottom of the engine crank case ."
+                },
+                {
+                    "Text": "warm up the engine by letting it run or driving it for 10-20 minutes to ensure the oil will flow easily ."
+                },
+                {
+                    "Text": "be careful not to touch the engine as it will be hot ."
+                }
+            ],
+            "Text_raw": "Locate the oil drain plug. The plug is located underneath the front of the truck on the bottom of the engine crank case. Warm up the engine by letting it run or driving it for 10-20 minutes to ensure the oil will flow easily. Be careful not to touch the engine as it will be hot.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6rqYccEqkeZYMcRM.standard"
+            ],
+            "StepId": 84916,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "place the drain pan under the drain plug so it will catch the oil as it falls vertically from the engine ."
+                }
+            ],
+            "Text_raw": "Place the drain pan under the drain plug so it will catch the oil as it falls vertically from the engine.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qnlHECx2cwWRUurs.standard"
+            ],
+            "StepId": 84922,
+            "Tools_extracted": [
+                "drain pan"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "loosen the drain plug by turning the 14 mm socket counterclockwise ."
+                },
+                {
+                    "Text": "avoid getting oil on the ground by moving the oil pan accordingly ."
+                },
+                {
+                    "Text": "move your hand away from under the drain plug quickly after loosening it to avoid getting hot oil on your hand ."
+                }
+            ],
+            "Text_raw": "Loosen the drain plug by turning the 14mm socket counterclockwise. Avoid getting oil on the ground by moving the oil pan accordingly. Move your hand away from under the drain plug quickly after loosening it to avoid getting hot oil on your hand.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KOlIKWTpPaJuZGkq.standard"
+            ],
+            "StepId": 84923,
+            "Tools_extracted": [
+                "drain pan",
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "pull the hood release latch . the latch is located inside of the car under the steering wheel ."
+                },
+                {
+                    "Text": "pull the hood release . the release is located under the front center of the hood ."
+                },
+                {
+                    "Text": "use the hood support rod to keep the hood propped up . the rod is located along the front edge of the engine compartment ."
+                }
+            ],
+            "Text_raw": "Pull the hood release latch. The latch is  located  inside of the car under the steering wheel. Pull the hood release. The release is located under the front center of the hood. Use the hood support rod to keep the hood propped up. The rod is located along the front edge of the engine compartment.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NkujFaB6jLGmlDds.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4bhYkxsNHWliDZCT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pdRSxlA54gwHKGam.standard"
+            ],
+            "StepId": 86697,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "locate the oil filter in the engine compartment . the oil filter is on the lower right side of the engine ."
+                },
+                {
+                    "Text": "remove the filter by turning it counterclockwise with a wrench ."
+                },
+                {
+                    "Text": "the wrench wraps around the filter and tightens itself as you turn it counterclockwise ."
+                },
+                {
+                    "Text": "use force if the filter is difficult to remove ."
+                },
+                {
+                    "Text": "the oil filter may be hot ."
+                }
+            ],
+            "Text_raw": "Locate the oil filter in the engine compartment. The oil filter is on the lower right side of the engine. Remove the filter by turning it counterclockwise with a wrench . The wrench wraps around the filter and tightens itself as you turn it counterclockwise. Use force if the filter is difficult to remove. The oil filter may be hot.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jATvntJiEFFXUfO6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vCmHYsrZvymOjl3M.standard"
+            ],
+            "StepId": 84936,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "apply a small amount of fresh oil to the edge of the new filter ."
+                },
+                {
+                    "Text": "use your hand to tighten the new filter until it fits snugly ."
+                },
+                {
+                    "Text": "as the engine runs , it will cause the filter to tighten itself , so it is unnecessary to use additional force to tighten the filter ."
+                }
+            ],
+            "Text_raw": "Apply a small amount of fresh oil to the edge of the new filter. Use your hand to tighten the new filter until it fits snugly. As the engine runs, it will cause the filter to tighten itself, so it is unnecessary to use additional force to tighten the filter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WSIZvtyFjSMLEvJR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xvnlC22PHCIVHRRA.standard"
+            ],
+            "StepId": 84975,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "set the torque wrench to 32 ft-lbs ."
+                },
+                {
+                    "Text": "check if all of the oil has drained from the engine by seeing if the oil is still flowing into the drain pan ."
+                },
+                {
+                    "Text": "wipe any spills on the ground ."
+                },
+                {
+                    "Text": "replace the drain plug ."
+                },
+                {
+                    "Text": "use the 14 mm socket torque wrench to tighten the drain plug until the wrench makes a clicking noise ."
+                },
+                {
+                    "Text": "do not over tighten the drain plug with the torque wrench . too much force could cause the head of the bolt to snap off and become stuck in the engine ."
+                }
+            ],
+            "Text_raw": "Set the  torque wrench to 32 ft-lbs. Check if all of the oil has drained from the engine by seeing if the oil is still flowing into the drain pan. Wipe any spills on the ground. Replace the drain plug. Use the 14mm socket torque wrench to tighten the drain plug until the wrench makes a \"clicking\" noise. Do  not over tighten the drain plug with the torque wrench. Too much force could cause the head of the bolt to snap off and become stuck in the engine.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MYGXIIsTOLvVmRhs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qODrk4xrXkTQb6TU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3DDsxULTj26xrO6T.standard"
+            ],
+            "StepId": 84990,
+            "Tools_extracted": [
+                "drain pan",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "locate the oil fill cap in the engine compartment . the cap is located on the lower right side of the engine next to the oil filter ."
+                },
+                {
+                    "Text": "remove the cap by unscrewing it counterclockwise ."
+                }
+            ],
+            "Text_raw": "Locate the oil fill cap in the engine compartment. The cap is located  on the lower right side of the engine next to the oil filter. Remove the cap by unscrewing  it counterclockwise.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FdJKtwMwbeqkCR3T.standard"
+            ],
+            "StepId": 84997,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "place the funnel into the oil fill tube ."
+                },
+                {
+                    "Text": "pour 5 quarts of new oil into the funnel ."
+                },
+                {
+                    "Text": "replace the oil fill cap ."
+                }
+            ],
+            "Text_raw": "Place the funnel into the oil fill tube. Pour 5 quarts of new oil into the funnel. Replace the oil fill cap.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jNeJrEGRJShp6C5B.standard"
+            ],
+            "StepId": 85005,
+            "Tools_extracted": [
+                "funnel",
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "start the truck and let it run for 5 minutes before turning off the engine ."
+                },
+                {
+                    "Text": "locate the engine dipstick . the dipstick is located on the left side of the engine compartment and is designated by a yellow ring ."
+                },
+                {
+                    "Text": "remove the dipstick and wipe it clean ."
+                },
+                {
+                    "Text": "reinsert and remove the dipstick to see if the oil is between the two dots on the dipstick ."
+                },
+                {
+                    "Text": "the job is finished if the oil is between or slightly above the two dots ."
+                },
+                {
+                    "Text": "if the oil is below the two dots , add new oil in small increments into the oil fill tube until the dipstick shows it is between the two dots ."
+                },
+                {
+                    "Text": "do not pour oil into the dipstick tube ."
+                }
+            ],
+            "Text_raw": "Start the truck and let it run for 5 minutes before turning off the engine. Locate the engine dipstick. The dipstick is located on the left side of the engine compartment and is designated by a yellow ring. Remove the dipstick and wipe it clean. Reinsert and remove the dipstick to  see if the oil is between the two dots on the dipstick. The job is finished if the oil is between or slightly above the two dots. If the oil is below the two dots,  add new oil in small increments into the oil fill tube until the dipstick shows it is between the two dots. Do not pour oil into the dipstick tube.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nSYQFIBkRaxvMxdA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kBEAj6siAcMHygkT.standard"
+            ],
+            "StepId": 85009,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        }
+    ],
+    "Subject": ""
+}

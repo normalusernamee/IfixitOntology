@@ -1,0 +1,263 @@
+{
+    "Title": "Removing 1985-1988 Volvo 740 Throttle Body",
+    "Ancestors": [
+        "Volvo",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3860,
+    "Category": "1985-1988 Volvo 740",
+    "Toolbox": [
+        {
+            "Name": "13 mm cresent wrench",
+            "Url": "/Item/13_mm_cresent_wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Removing+1985+1986+1987+1988+Volvo+740+Throttle+Body/3860",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "firstly disconnect battery"
+                },
+                {
+                    "Text": "'''always''' take the '''negative''' terminal off first ."
+                },
+                {
+                    "Text": "''''''general tip''' after disconnecting the battery leave the car for about 10 mins , this lets any residual energy left in the electrical system to dissapate . it is good practise whatever the job"
+                }
+            ],
+            "Text_raw": "Firstly Disconnect  battery '''Always''' take the '''negative''' terminal off first. ''''''General Tip'''                                  After disconnecting the battery leave the car for about 10 mins , This lets any residual energy left in the electrical system to dissapate. It is good practise whatever the job",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IxkUIwJN4Tx4orTp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UwI4PFYlOr1DSVjE.standard"
+            ],
+            "StepId": 18274,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate throttle body on right side of engine , it is between the intake tube and intake manifold ."
+                }
+            ],
+            "Text_raw": "Locate throttle body on right side of engine, it is between the intake tube and intake manifold.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IeHHXQ1aMhJa4bhG.standard"
+            ],
+            "StepId": 18337,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "locate throttle linkage cable assembly ."
+                }
+            ],
+            "Text_raw": "Locate throttle linkage cable assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/42IgWA6WqMXwf6pV.standard"
+            ],
+            "StepId": 18338,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "twist the assembly clockwise ."
+                }
+            ],
+            "Text_raw": "Twist the assembly clockwise.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TuLASdh1tdGRfLNo.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CmGxoDTdRDvPDDAA.standard"
+            ],
+            "StepId": 18339,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "slide both slackened cables off assemblys guides ."
+                }
+            ],
+            "Text_raw": "Slide both slackened cables off assembly\u2019s guides.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4LdXKWScAEWUfcJx.standard"
+            ],
+            "StepId": 18340,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "locate the two hoses on the top of the throttle body ."
+                },
+                {
+                    "Text": "gently lift the hoses off ."
+                }
+            ],
+            "Text_raw": "Locate the two hoses on the top of the throttle body. Gently lift the hoses off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ujV2BMadHxWTM5vU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PUDpdPFktvMcNjcX.standard"
+            ],
+            "StepId": 18341,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "use a flat head screwdriver to loosen the hose clamp attaching the intake tube to the throttle body ."
+                }
+            ],
+            "Text_raw": "Use a flat head screwdriver to loosen the hose clamp attaching the intake tube to the throttle body.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WVsukYSMLSHQYoUD.standard"
+            ],
+            "StepId": 18343,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "remove the intake tube from the throttle body ."
+                }
+            ],
+            "Text_raw": "Remove the intake tube from the throttle body.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DGsX3patSLYCMJfb.standard"
+            ],
+            "StepId": 18344,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "locate wiring clip on the underside of the throttle body ."
+                }
+            ],
+            "Text_raw": "Locate wiring clip on the underside of the throttle body.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/51uoGsTeKEObexUX.standard"
+            ],
+            "StepId": 18345,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "press down on the locking mechanism before gently removing the wiring clip ."
+                }
+            ],
+            "Text_raw": "Press down on the locking mechanism before gently removing the wiring clip.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/w1uXYuiLO2A5NYUr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3GQxrru2LEUFTqq1.standard"
+            ],
+            "StepId": 18346,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "locate throttle linkage arm ."
+                },
+                {
+                    "Text": "open the locking clip with a flat head screwdriver ."
+                },
+                {
+                    "Text": "pry off the linkage arm with a flat head screwdriver ."
+                }
+            ],
+            "Text_raw": "Locate throttle linkage arm. Open the locking clip with a flat head screwdriver. Pry off the linkage arm with a flat head screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ktrXbrCxx5oAi2pK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nnGNRVxUJ43lSMGx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rKSlyumRY4ItWIvr.standard"
+            ],
+            "StepId": 18347,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "locate the three 13 mm nuts attaching the throttle body to the intake manifold ."
+                },
+                {
+                    "Text": "remove nuts with a 13 mm crescent wrench ."
+                }
+            ],
+            "Text_raw": "Locate the three 13mm nuts attaching the throttle body to the intake manifold. Remove nuts with a 13mm crescent wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2grmd2iepbgGMSiB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ALCH34gUZuj4OQUb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cTLflUnSYI4baRi2.standard"
+            ],
+            "StepId": 18348,
+            "Tools_extracted": [
+                "13 mm cresent wrench"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "lift the throttle body off of the intake manifold ."
+                },
+                {
+                    "Text": "the manifold is now out of the engine bay and ready for cleaning or adjustment ."
+                }
+            ],
+            "Text_raw": "Lift the throttle body off of the intake manifold. The manifold is now out of the engine bay and ready for cleaning or adjustment.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cyynboD6fqderniP.standard"
+            ],
+            "StepId": 18349,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Removing Throttle Body"
+}

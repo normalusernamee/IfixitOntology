@@ -1,0 +1,242 @@
+{
+    "Title": "1995-2001 BMW 7 Series BMW Bluetooth Hands-Free Telephone system Replacement",
+    "Ancestors": [
+        "BMW",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 7746,
+    "Category": "1995-2001 BMW 7 Series",
+    "Toolbox": [
+        {
+            "Name": "t20 torx screwdriver",
+            "Url": "https://www.ifixit.com/Store/Tools/54-Bit-Driver-Kit/IF145-299",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "wire coat hanger",
+            "Url": "http://amzn.com/B0047GP328",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1995+1996+1997+1998+1999+2000+2001+BMW+7+Series+BMW+Bluetooth+Hands-Free+Telephone+system+Replacement/7746",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the first step in any bmw upgrade is to determine some baseline details . while any bmw e38 can be retrofitted to include the bmw bluetooth hands-free and voice control system . these details will enable you to avoid any troublesome mistakes"
+                },
+                {
+                    "Text": "1 ) build date of bmw . you can locate the vin number of your car and look it up with an online vin decoder , or locate the build date stamp code found on some vin number placards . ( top right of photo )"
+                }
+            ],
+            "Text_raw": "The first step in any BMW upgrade is to determine some baseline details. While any BMW E38 can be retrofitted to include the BMW Bluetooth Hands-Free and voice control system. These details will enable you to avoid any troublesome mistakes 1) Build Date of BMW. You can locate the VIN number of your car and look it up with an online VIN decoder, or locate the build date stamp code found on some VIN number placards. (Top right of photo)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CDheYARRnSojUUHG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ly2aOADxNcLob2UL.standard"
+            ],
+            "StepId": 31880,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "2 ) is bmw prewired for telephone . all north american bmw e38 s are prewired for telephone , but some euro and other region bmw e38 s may not be prewired for telephone . a quick check option is to look at the panel where the overhead lights and located and determine if you have the microphone trim piece ."
+                },
+                {
+                    "Text": "photo 1 no microphone trim piece . - car most likely not prewired for telephone"
+                },
+                {
+                    "Text": "photo 2 microphone trim piece - car most likely is prewired for telephone"
+                },
+                {
+                    "Text": "photo 3 prewired for telephone . photo shows panel removed with arrow pointing towards back side of microphone trim piece"
+                }
+            ],
+            "Text_raw": "2) Is BMW prewired for telephone. All North American BMW E38s are prewired for telephone, but some Euro and other Region BMW E38s may not be prewired for telephone. A quick check option is to look at the panel where the overhead lights and located and determine if you have the microphone trim piece. Photo 1 No Microphone trim piece. - Car most likely NOT prewired for telephone Photo 2 Microphone Trim piece - Car most likely is prewired for telephone Photo 3 Prewired for telephone. Photo shows Panel removed with arrow pointing towards back side of microphone trim piece",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OeAaPtkWbdRZ1mTV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LQAnbSDQTHCknXLb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nKI2iDCD4dpxEEXb.standard"
+            ],
+            "StepId": 31881,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "the specific parts required for your installation will depend on the build date and prewiring options determined ."
+                },
+                {
+                    "Text": "it is recommended to get specialized advise on what parts will be required . bmw dealers are not the best source of information and we suggest doing a google search for e38 bluetooth kit or visiting websites such as www . bimmernav . com for the best advice"
+                },
+                {
+                    "Text": "bluetooth kit contents can vary , but all use the bmw ulf module . the ulf module is the bmw bluetooth hands-free and voice control module . - get the latest version module available in order to support the newest types of bluetooth phones ."
+                }
+            ],
+            "Text_raw": "The specific parts required for your installation will depend on the build date and prewiring options determined. It is recommended to get specialized advise on what parts will be required. BMW dealers are not the best source of information and we suggest doing a Google search for \"E38 Bluetooth Kit\" or visiting websites such as www.bimmernav.com for the best advice Bluetooth Kit contents can vary, but all use the BMW ULF module. The ULF module is the BMW Bluetooth Hands-Free and Voice Control module. - Get the latest version module available in order to support the newest types of bluetooth phones.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/olHxg1sDw5WIvkxE.standard"
+            ],
+            "StepId": 31882,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "if bmw is equipped with navigation , remove the navigation computer to access the trunk mounted electronics area ."
+                },
+                {
+                    "Text": "in the back of the car locate the navigation computer drive and insert 4 pieces of a cutup coat hanger or a radio removal tool into the holes of the drive"
+                },
+                {
+                    "Text": "once the tools are in the holes you can grasp the navigation drive faceplate and slide it out"
+                },
+                {
+                    "Text": "photo shows closeup of where the tools release the locking mechanism"
+                }
+            ],
+            "Text_raw": "If BMW is equipped with navigation, remove the navigation computer to access the trunk mounted electronics area. In the back of the car locate the navigation computer drive and insert 4 pieces of a cutup coat hanger or a \"Radio Removal Tool\" into the holes of the drive Once the tools are in the holes you can grasp the navigation drive faceplate and slide it out Photo shows closeup of where the tools release the locking mechanism",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wW4IJGyM1dEubBn1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rRlrINUvHkVLxQT3.standard"
+            ],
+            "StepId": 31883,
+            "Tools_extracted": [
+                "wire coat hanger"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the plastic trunk liner screws to gain access to the wiring behind the navigation computer"
+                },
+                {
+                    "Text": "slide out navigation drive and disconnect the blue and magenta plugs"
+                },
+                {
+                    "Text": "once the computer is removed you will need to remove the connectors on the back of the navigation computer ( please , make sure the power light is off before disconnecting battery or wiring to the navigation computer ) remove the plastic frame around the navigation computer and the two plastic screws to the right of the cd changer . once all of these pieces are removed , you can easily lift the trunk electronics cover out of the way ."
+                },
+                {
+                    "Text": "to access the old phone equipment ( motorola tcu ) , you will need to remove the three 10 mm bolts holding the video module bracket in place . the only bracket typically to be removed is this bracket located to the left of the cd changer ."
+                }
+            ],
+            "Text_raw": "Remove the plastic trunk liner screws to gain access to the wiring behind the navigation computer Slide out navigation drive and disconnect the blue and magenta plugs Once the computer is removed you will need to remove the connectors on the back of the navigation computer (please, make sure the power light is OFF before disconnecting battery or wiring to the navigation computer)  Remove the plastic frame around the navigation computer and the two plastic screws to the right of the CD changer.  Once all of these pieces are removed, you can easily lift the trunk electronics cover out of the way. To access the old phone equipment (Motorola TCU), you will need to remove the three 10mm bolts holding the Video module bracket in place. The only bracket typically to be removed is this bracket located to the left of the CD changer.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Y4Rc4LygdIFkbIxv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cjRpobNpOWDEITIy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WFJkXZb5n2PXHBv4.standard"
+            ],
+            "StepId": 31884,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "once the bracket is removed , you will need to remove the phone tcu ( telephone control unit ) . the tcu is the black , rectangular control module in the rear of the compartment . this can easily be done by removing the 10 mm mounting screws for your specific bmw phone tcu ."
+                },
+                {
+                    "Text": "step 2 ) once the phone tcu is removed disconnect the db25 and any rf connectors attached ( only early e38 s ) . next , connect the bmw ulf module to the provided bluetooth wiring adapter harness and attach the two db25 connectors together . ensure that you connect the bluetooth db25 adapter directly to the bmw phone harness without any other db25 adapters that may be in your car ."
+                }
+            ],
+            "Text_raw": "Once the bracket is removed, you will need to remove the phone TCU (Telephone Control Unit).  The TCU is the black, rectangular control module in the rear of the compartment.  This can easily be done by removing the 10 mm mounting screws for your specific BMW phone TCU. Step 2) Once the Phone TCU is removed disconnect the DB25 and any RF connectors attached (only early E38s).  Next, connect the BMW ULF module to the provided Bluetooth wiring adapter harness and attach the two DB25 connectors together.  Ensure that you connect the Bluetooth DB25 adapter DIRECTLY to the BMW phone harness without any other DB25 adapters that may be in your car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3iNZdqn5eSRIdVit.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BUXZXs1BLPqRPOPr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TlctukDMQpD2qkWi.standard"
+            ],
+            "StepId": 31885,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "after installing the bluetooth ulf module you will need to mount the bluetooth antenna . most people install in the e38 c-pillar or behind the rear seat . this process is quite simple and detailed in the installation guide that ships with your bluetooth retrofit kit . you can just run the other end of the rf cable connected to the ulf module thru the c-pillar access grommet to the right of the cd changer . this grommet is where all the bmw wiring passes from the rear electronics compartment to the cabin of the e38 ( running to the c pillar and behind the rear seat ) . just remove the rear c-pillar , push the wire thru grommet and retrieve the wire on the other end ."
+                },
+                {
+                    "Text": "after you fish the bluetooth antenna wire thru the c-pillar , mount the bluetooth antenna with double sided tape next to the other electronics . find a location that is not raised higher than any of the other components , as you will need to put the c-pillar cover back in place ."
+                }
+            ],
+            "Text_raw": "After installing the Bluetooth ULF module you will need to mount the Bluetooth antenna.  Most people install in the E38 C-pillar or behind the rear seat.  This process is quite simple and detailed in the installation guide that ships with your Bluetooth retrofit kit.  You can just run the other end of the RF cable connected to the ULF module thru the c-pillar access grommet to the right of the CD changer.  This grommet is where all the BMW wiring passes from the rear electronics compartment to the cabin of the E38 (running to the c pillar and behind the rear seat).  Just remove the rear c-pillar, push the wire thru grommet and retrieve the wire on the other end. After you fish the Bluetooth antenna wire thru the C-pillar, mount the Bluetooth antenna with double sided tape next to the other electronics.  Find a location that is not raised higher than any of the other components, as you will need to put the C-pillar cover back in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iXmCMVf4TOCqOfLD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VgdIJOWuSbXX1CVx.standard"
+            ],
+            "StepId": 31886,
+            "Tools_extracted": [
+                "wire coat hanger"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "the last step on the installation is to slide the center console arm rest all the way forward and gently remove the access cover for the rear of the arm rest by lifting straight up from the area closes to the rear seats ."
+                },
+                {
+                    "Text": "remove the two phillips head screws and slide the arm rest towards the front of the car . be careful as once you side it forward it will come completely free of the arm rest and only be held on by the wires ."
+                },
+                {
+                    "Text": "once the center console is out , remove the two parcel trays inside the arm rest containers by gently lifting up from the front side first ."
+                }
+            ],
+            "Text_raw": "The last step on the installation is to slide the center console arm rest all the way forward and gently remove the access cover for the rear of the arm rest by lifting straight up from the area closes to the rear seats. Remove the two Phillips head screws and slide the arm rest towards the front of the car.  Be careful as once you side it forward it will come completely free of the arm rest and only be held on by the wires. Once the center console is out, remove the two parcel trays inside the arm rest containers by gently lifting up from the front side first.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HByZFCGOKxrb5YrF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NPFCGuNF5VhUTt6a.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/e63BXABZbm6OVooR.standard"
+            ],
+            "StepId": 31887,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "once these parcel trays are out remove the 4 torx 20 screws to release the phone from the center console and replace with bluetooth eject kit ."
+                },
+                {
+                    "Text": "plug in the bluetooth eject kit using the provided fakra male to mini uhf female connector , and the elo18 snap in adapter plug , to the car's elo18 and mini uhf connector ( cpt3000 /4000 install see supplementary section on rj45 to elo18 adapter harness that is part of your kit )"
+                },
+                {
+                    "Text": "put the arm rest back together by reversing the procedure ."
+                }
+            ],
+            "Text_raw": "Once these parcel trays are out remove the 4 Torx #20 screws to release the phone from the center console and replace with Bluetooth Eject kit. Plug in the Bluetooth Eject kit using the provided FAKRA Male to Mini UHF female connector, and the ELO18 snap in adapter plug, to the car's ELO18 and mini UHF connector (CPT3000/4000 install see supplementary section on RJ45 to ELO18 adapter harness that is part of your kit) Put the arm rest back together by reversing the procedure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Oihkv5mbHZFM5sMO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/enkP6VQRFhDm43vW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/K5PMXRQIRMCDFBou.standard"
+            ],
+            "StepId": 31888,
+            "Tools_extracted": [
+                "t20 torx screwdriver"
+            ]
+        }
+    ],
+    "Subject": "BMW Bluetooth Hands-Free Telephone system"
+}

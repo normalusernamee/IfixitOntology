@@ -1,0 +1,128 @@
+{
+    "Title": "1999-2004 Volkswagen Golf Air Filter Replacement",
+    "Ancestors": [
+        "Volkswagen Golf",
+        "Volkswagen",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3027,
+    "Category": "1997-2003 Volkswagen Golf",
+    "Toolbox": [
+        {
+            "Name": "locking pliers",
+            "Url": "http://amzn.com/B00004SBAT",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1999+2000+2001+2002+2003+2004+Volkswagen+Golf+Air+Filter+Replacement/3027",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "using a vise grip , grip the metal ring securing the intake tube to the air filter cover ."
+                },
+                {
+                    "Text": "slide the ring up the tube ."
+                }
+            ],
+            "Text_raw": "Using a vise grip, grip the metal ring securing the intake tube to the air filter cover. Slide the ring up the tube.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3vVg1wynktbwDktG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fOSZhBStACUrHMkO.standard"
+            ],
+            "StepId": 14750,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "unplug the cable from the air filter ."
+                }
+            ],
+            "Text_raw": "Unplug the cable from the air filter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oOWSSyrhalDsnTSr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lEoCR23LQ1KM3QcF.standard"
+            ],
+            "StepId": 14751,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "pull the intake tube off of the air filter cover ."
+                }
+            ],
+            "Text_raw": "Pull the intake tube off of the air filter cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jwel3l5A4AJm3aQE.standard"
+            ],
+            "StepId": 14752,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "unscrew two phillips screws located behind the air filter ."
+                }
+            ],
+            "Text_raw": "Unscrew two Phillips screws located behind the air filter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6dxW6TvmOQyUnXRj.standard"
+            ],
+            "StepId": 14753,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "lift the air filter cover up , starting from the back end , making sure to release them from the hinges on the front end ."
+                }
+            ],
+            "Text_raw": "Lift the air filter cover up, starting from the back end, making sure to release them from the hinges on the front end.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wbGJhGQFvwQa13eh.standard"
+            ],
+            "StepId": 14754,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the air filter ."
+                }
+            ],
+            "Text_raw": "Remove the air filter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VVMTKdopexg4aRGX.standard"
+            ],
+            "StepId": 14755,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Air Filter"
+}

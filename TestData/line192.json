@@ -1,0 +1,80 @@
+{
+    "Title": "Refilling wiper blade on beam style car windshield wipers",
+    "Ancestors": [
+        "Auto Part",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 37472,
+    "Category": "Wiper",
+    "Toolbox": [
+        {
+            "Name": "basic pliers",
+            "Url": "http://www.amazon.com/Stanley-84-097-6-Inch-Joint-Plier/dp/B0001IW892/ref=sr_1_3?s=hi&ie=UTF8&qid=1420940347&sr=1-3",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        },
+        {
+            "Name": "2.5mm flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Flathead-3-32-Inch-Screwdriver/IF145-011",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/IRnGQ4e2ZPBSxpuB.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Refilling+wiper+blade+on+beam+style+car+windshield+wipers/37472",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "you'll need pliers and a flat blade screwdriver for this operation . the typical beam style wiper is held by two metal ribs held stiff with plastic end caps . pictured here is a vaelo r-13 b rear wiper ."
+                },
+                {
+                    "Text": "squeeze the metal ribs just before the end caps , then pull off the end caps . if they won't go , then tear out the old rubber first to loosen things up , and try again ."
+                },
+                {
+                    "Text": "stop removing parts as soon as you can slide the rubber out : it may take just one end cap ."
+                }
+            ],
+            "Text_raw": "You'll need pliers and a flat blade screwdriver for this operation.  The typical beam style wiper is held by two metal ribs held stiff with plastic end caps.  Pictured here is a Vaelo R-13B rear wiper. Squeeze the metal ribs just before the end caps, then pull off the end caps.  If they won't go, then tear out the old rubber first to loosen things up, and try again. Stop removing parts as soon as you can slide the rubber out: it may take just one end cap.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1Yesp65CpVaecUyx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uxp3dHb5jOFivJvH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qPMIRf5Ri1RAbrdp.standard"
+            ],
+            "StepId": 84195,
+            "Tools_extracted": [
+                "basic pliers"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "examine the end of the rubber wiper : this is what you'll have to match . unfortunately no guide will help you directly , but many beam wipers seem to use a completely standard rubber pattern . in the example pictured a refill from piaa worked just fine ."
+                },
+                {
+                    "Text": "cut the new refill to length , if needed ."
+                },
+                {
+                    "Text": "use the topmost set of slots in the refill ( farthest from the wiping edge ) . slide this into the two rails ."
+                },
+                {
+                    "Text": "clip the end cap back on to finish the job . congratulate yourself on a cost efficient and environmentally correct replacement job ."
+                }
+            ],
+            "Text_raw": "Examine the end of the rubber wiper: this is what you'll have to match.  Unfortunately no guide will help you directly, but many beam wipers seem to use a completely standard rubber pattern.  In the example pictured a refill from PIAA worked just fine. Cut the new refill to length, if needed. Use the topmost set of slots in the refill (farthest from the wiping edge).  Slide this into the two rails. Clip the end cap back on to finish the job.  Congratulate yourself on a cost efficient and environmentally correct replacement job.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IyiWr3eZbQnuaZLG.standard"
+            ],
+            "StepId": 84297,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Beam Style Wiper Blade"
+}

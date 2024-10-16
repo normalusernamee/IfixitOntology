@@ -1,0 +1,259 @@
+{
+    "Title": "Mercedes W123 Brake Fluid Flush/Bleeding",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22766,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "smart wrench",
+            "Url": "https://www.ifixit.com/Store/Parts/Smart-Wrench/IF145-231",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/bIqPGgt6wXCOMSeU.mini"
+        },
+        {
+            "Name": "clear plastic tube",
+            "Url": "/Item/Clear_plastic_tube",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "motive power bleeder",
+            "Url": "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=motive+power+bleeder",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "turkey baster",
+            "Url": "https://www.amazon.com/Resistant-Baster-Rubber-measurement-Model/dp/B002U9JSIE/ref=sr_1_3?ie=UTF8&qid=1488061666&sr=8-3&keywords=turkey+baster+heat+resistant",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Brake+Fluid+Flush-Bleeding/22766",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "begin by filling your power bleeder with a bottle , or two , of brake fluid ."
+                }
+            ],
+            "Text_raw": "Begin by filling your power bleeder with a bottle, or two, of brake fluid.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DESwc5o3DiHDd1BP.standard"
+            ],
+            "StepId": 59620,
+            "Tools_extracted": [
+                "motive power bleeder"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "secure the top on the power bleeder ."
+                },
+                {
+                    "Text": "then put the cap on the end of the hose securely on to your brake fluid reservoir opening ."
+                }
+            ],
+            "Text_raw": "Secure the top on the power bleeder. Then put the cap on the end of the hose securely on to your brake fluid reservoir opening.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dSxxsjKZCTepeqJY.standard"
+            ],
+            "StepId": 59622,
+            "Tools_extracted": [
+                "motive power bleeder"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "pump up the power bleeder . it may take a little while , especially if you've drained the system to replace hoses or something similar . keep an eye on the gauge . it doesn't take a lot of pressure , just 5 to 10 psi ."
+                },
+                {
+                    "Text": "keep an eye around your brake fluid reservoir for leaks as you pump up the brake bleeder . the reservoir is not usually under pressure during use so leaks may show up where they hadn't before , especially in these two locations :"
+                },
+                {
+                    "Text": "the sensor float caps on top of the reservoir"
+                },
+                {
+                    "Text": "the rubber seals between the reservoir on the master cylinder"
+                },
+                {
+                    "Text": "if you discover a leak you may need to stop the bleeding process to replace these bad seals . or , alternately , try a method of brake bleeding that does no use a pressure bleeder . you will need to research these methods elsewhere ."
+                }
+            ],
+            "Text_raw": "Pump up the power bleeder. It may take a little while, especially if you've drained the system to replace hoses or something similar. Keep an eye on the gauge. It doesn't take a lot of pressure, just 5 to 10 psi. Keep an eye around your brake fluid reservoir for leaks as you pump up the brake bleeder. The reservoir is not usually under pressure during use so leaks may show up where they hadn't before, especially in these two locations: The sensor float caps on top of the reservoir The rubber seals between the reservoir on the master cylinder If you discover a leak you may need to stop the bleeding process to replace these bad seals. Or, alternately, try a method of brake bleeding that does no use a pressure bleeder. You will need to research these methods elsewhere.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CmqAvC3HLPmR66aG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kiVAqxXAbTRBFC3w.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LWi66cQxogymtTrn.standard"
+            ],
+            "StepId": 59623,
+            "Tools_extracted": [
+                "motive power bleeder"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "find the bleed screw and nipple on the first wheel you'll want to bleed ."
+                },
+                {
+                    "Text": "shown here are the bleed screws from the front , in red , and the rear , in green ."
+                },
+                {
+                    "Text": "when flushing or bleeding your system , always start as far from the front of the car as possible . you should bleed your car in this sequence :"
+                },
+                {
+                    "Text": "rear passenger side"
+                },
+                {
+                    "Text": "rear driver's side"
+                },
+                {
+                    "Text": "front passenger side"
+                },
+                {
+                    "Text": "front driver's side"
+                }
+            ],
+            "Text_raw": "Find the bleed screw and nipple on the first wheel you'll want to bleed. Shown here are the bleed screws from the front, in red, and the rear, in green. When flushing or bleeding your system, always start as far from the front of the car as possible. You should bleed your car in this sequence: Rear passenger side Rear driver's side Front passenger side Front driver's side",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/C212vvgCepXpR6P1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/A26WKidKttCBlNLJ.standard"
+            ],
+            "StepId": 59624,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "while it's possible to bleed your brakes with the wheels on the car , it's easier with the wheels off and it's definitely easier to show the process . . ."
+                },
+                {
+                    "Text": "the next step is to slip your 9 mm wrench over the bleed screw ."
+                },
+                {
+                    "Text": "then put the open end of your plastic hose on the nipple . the other should be secured inside your catch container . any type of bottle will work well . . ."
+                }
+            ],
+            "Text_raw": "While it's possible to bleed your brakes with the wheels on the car, it's easier with the wheels off and it's definitely easier to show the process... The next step is to slip your 9mm wrench over the bleed screw. Then put the open end of your plastic hose on the nipple. The other should be secured inside your catch container. Any type of bottle will work well...",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VKFq2Ydh5YkacWtq.standard"
+            ],
+            "StepId": 59625,
+            "Tools_extracted": [
+                "smart wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "now open the bleed screw and watch as fluid begins to flow ."
+                },
+                {
+                    "Text": "if you're flushing the system leave the line open until you see fresh fluid coming out . tip - buy fluid a different color than that currently in your car . doing so makes it very easy to tell when the fresh fluid reaches the end of the line ."
+                },
+                {
+                    "Text": "if you're bleeding your system you'll want to leave the nipple open until you no longer see any air bubbles at all coming out of the bleed nipple ."
+                },
+                {
+                    "Text": "repeat steps 5 and 6 on all four wheels using the sequence noted in step 4. it's recommended to go through the entire sequence twice ."
+                },
+                {
+                    "Text": "be sure to keep an eye on the power bleeder during this process . do not let it de-pressurize or run dry ; either can allow air to enter the system and you'll need to start bleeding all over ."
+                }
+            ],
+            "Text_raw": "Now open the bleed screw and watch as fluid begins to flow. If you're flushing the system leave the line open until you see fresh fluid coming out. Tip - buy fluid a different color than that currently in your car. Doing so makes it very easy to tell when the fresh fluid reaches the end of the line. If you're bleeding your system you'll want to leave the nipple open until you no longer see any air bubbles at all coming out of the bleed nipple. Repeat steps 5 and 6 on all four wheels using the sequence noted in step 4. It's recommended to go through the entire sequence twice. Be sure to keep an eye on the power bleeder during this process. Do not let it de-pressurize or run dry; either can allow air to enter the system and you'll need to start bleeding all over.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/e2XmjLFJopJSKosK.standard"
+            ],
+            "StepId": 59626,
+            "Tools_extracted": [
+                "motive power bleeder"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "once you've finished bleeding , remove the power bleeder , being careful not to let the hose drip on your car's paint ."
+                },
+                {
+                    "Text": "at this time your brake reservoir will be over-filled with brake fluid . it may actually spill over slightly when you remove the power bleeder . wipe this up right away with a shop towel or rag ."
+                },
+                {
+                    "Text": "you'll now want to remove the excess fluid with a suction device . a turkey baster can be used , as long as you make sure to never use it in the kitchen again !"
+                },
+                {
+                    "Text": "before you can insert the suction device , you'll need to lift out the screen in the fill neck of the brake fluid reservoir ."
+                },
+                {
+                    "Text": "remove just enough fluid to get it down just below the max line ."
+                }
+            ],
+            "Text_raw": "Once you've finished bleeding, remove the power bleeder, being careful not to let the hose drip on your car's paint. At this time your brake reservoir will be over-filled with brake fluid. It may actually spill over slightly when you remove the power bleeder. Wipe this up right away with a shop towel or rag. You'll now want to remove the excess fluid with a suction device. A turkey baster can be used, as long as you make sure to never use it in the kitchen again! Before you can insert the suction device, you'll need to lift out the screen in the fill neck of the brake fluid reservoir. Remove just enough fluid to get it down just below the \"MAX\" line.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eZd5UvlKGDKotUPV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/i2nVSgeV5rtQQOiu.standard"
+            ],
+            "StepId": 59627,
+            "Tools_extracted": [
+                "turkey baster",
+                "motive power bleeder"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "close up the reservoir . wipe up any brake fluid that dripped . check all four bleed screws for any leaks and tighten if needed ."
+                },
+                {
+                    "Text": "take the car for a test drive . go slowly at first . if the pedal feels soft or the brakes do not respond , stop the test drive , return to your work area and re-bleed ."
+                },
+                {
+                    "Text": "if the test drive goes well , do another check for leaks when you return ."
+                }
+            ],
+            "Text_raw": "Close up the reservoir. Wipe up any brake fluid that dripped. Check all four bleed screws for any leaks and tighten if needed. Take the car for a test drive. Go slowly at first. If the pedal feels soft or the brakes do not respond, stop the test drive, return to your work area and re-bleed. If the test drive goes well, do another check for leaks when you return.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pdIUF6qWpOcboSKp.standard"
+            ],
+            "StepId": 59628,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "don't let that bottle of brake fluid sit around long - in this bottle , it looks pretty refreshing ! and there's a convenient straw . . . ."
+                }
+            ],
+            "Text_raw": "Don't let that bottle of brake fluid sit around long - in this bottle, it looks pretty refreshing! And there's a convenient straw....",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BjI41tZUBEKXsFDS.standard"
+            ],
+            "StepId": 59629,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

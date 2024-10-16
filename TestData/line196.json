@@ -1,0 +1,177 @@
+{
+    "Title": "1999-2004 Jeep Grand Cherokee AC/Heater Fan Wire Connector Repair",
+    "Ancestors": [
+        "Jeep Grand Cherokee",
+        "Jeep",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 37703,
+    "Category": "1999-2004 Jeep Grand Cherokee",
+    "Toolbox": [
+        {
+            "Name": "flashlight",
+            "Url": "http://www.amazon.com/dp/B006VPPERC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "electrical tape in 6 assorted colors",
+            "Url": "http://www.ifixit.com/Store/Tools/Electrical-Tape-in-6-Assorted-Colors/IF145-088",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/3kDtLplL2LoTT4Wp.mini"
+        },
+        {
+            "Name": "utility scissors",
+            "Url": "http://www.ifixit.com/Tools/Utility-Scissors/IF145-134",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pPwIvVTDlM4UKJHD.mini"
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1999+2000+2001+2002+2003+2004+Jeep+Grand+Cherokee+AC-Heater+Fan+Wire+Connector+Repair/37703",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "place the car in park , activate the parking break , and leave the car running ."
+                },
+                {
+                    "Text": "the blower motor is located under the dash on the passenger side of the vehicle . push the seat back , and place your tools on the floor of the car ."
+                }
+            ],
+            "Text_raw": "Place the car in park, activate the parking break, and leave the car running. The blower motor is located under the dash on the passenger side of the vehicle. Push the seat back, and place your tools on the floor of the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PHLnxP2SXuuj3JvI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/joFB6UlPJR5sJ3R1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/L2dcCWUJScbRFRs1.standard"
+            ],
+            "StepId": 85130,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "there are a few wires hanging below the passenger side dash ."
+                },
+                {
+                    "Text": "the blower motor adapter is a bundle of three wires located on the left side ."
+                },
+                {
+                    "Text": "while the car is on push and pull gently on the wire connection ."
+                },
+                {
+                    "Text": "if the fan turns on you have identified the problem and we will fix it ."
+                },
+                {
+                    "Text": "if the fan does not turn on the damage may not be fixable without purchasing new parts ."
+                },
+                {
+                    "Text": "do not grasp any wires you can not see . do not grasp any wires that are not covered in insulation and or electrical tape ."
+                }
+            ],
+            "Text_raw": "There are a few wires hanging below the passenger side dash. The blower motor adapter is a bundle of three wires located on the left side. While the car is on push and pull gently on the wire connection. If the fan turns on you have identified the problem and we will fix it. If the fan does not turn on the damage may not be fixable without purchasing new parts. Do not grasp any wires you can not see. Do not grasp any wires that are not covered in insulation and or electrical tape.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/n6i5u2OWZBQ1HXdm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AEukDBP5Ld3rTL3m.standard"
+            ],
+            "StepId": 85132,
+            "Tools_extracted": [
+                "electrical tape in 6 assorted colors"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "turn off the car ."
+                },
+                {
+                    "Text": "there are two screws holding the adapter in place . using a phillips screwdriver , remove both screws and the adapter will come down ."
+                },
+                {
+                    "Text": "the two screws are identical . be careful not to lose them ."
+                },
+                {
+                    "Text": "be sure the car is completely off before unscrewing anything ."
+                }
+            ],
+            "Text_raw": "Turn off the car. There are two screws holding the adapter in place. Using a philips screw driver, remove both screws and the adapter will come down. The two screws are identical. Be careful not to lose them. Be sure the car is completely off before unscrewing anything.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CXfjigTF1HJcKbJ1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5HUOuHSEbxM4tyfk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AP4b1EKA3jKNs31h.standard"
+            ],
+            "StepId": 85136,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "the connection between the three wires and the adapter box is the location of the common melting default ."
+                },
+                {
+                    "Text": "observe the damage and decide if electrical tape will be enough to hold the wires in place ."
+                },
+                {
+                    "Text": "replacement parts are available for purchase if the damage is beyond repair ."
+                }
+            ],
+            "Text_raw": "The connection between the three wires and the adapter box is the location of the common melting default. Observe the damage and decide if electrical tape will be enough to hold the wires in place. Replacement parts are available for purchase if the damage is beyond repair.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IsKtWJS2sfNZPD3s.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2nGknWBLfGYveqER.standard"
+            ],
+            "StepId": 85155,
+            "Tools_extracted": [
+                "electrical tape in 6 assorted colors"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "using electrical tape wrap the wires tightly until there are securely in place ."
+                }
+            ],
+            "Text_raw": "Using electrical tape wrap the wires tightly until there are securely in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RUY6BLukAAIqYoN4.standard"
+            ],
+            "StepId": 86703,
+            "Tools_extracted": [
+                "electrical tape in 6 assorted colors"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "screw the adapter back into place ."
+                },
+                {
+                    "Text": "turn on the car and test the ac/heater"
+                }
+            ],
+            "Text_raw": "Screw the adapter back into place. Turn on the car and test the AC/Heater",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1kJBW1dMDa1HVeZE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lIRCW3u3HHHc6IgK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PmYkRb2RfLguOKcQ.standard"
+            ],
+            "StepId": 85162,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

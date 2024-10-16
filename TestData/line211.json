@@ -1,0 +1,293 @@
+{
+    "Title": "2011-2013 Scion tC Oil/Oil Filter Replacement",
+    "Ancestors": [
+        "Scion",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 42182,
+    "Category": "2011-2013 Scion tC",
+    "Toolbox": [
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "14 mm socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-14146-8-Inch-Shallow-6-Point/dp/B000NY8PVO/ref=sr_1_1?ie=UTF8&qid=1431007752&sr=8-1&keywords=14+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2011+2012+2013+Scion+tC+Oil-Oil+Filter+Replacement/42182",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "open the spare tire compartment in the trunk of the vehicle by pulling up on the black tab ."
+                }
+            ],
+            "Text_raw": "Open the spare tire compartment in the trunk of the vehicle by pulling up on the black tab.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZVPKTPm3RJCiQhCl.standard"
+            ],
+            "StepId": 97454,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate the manufacturer supplied jack and jack handle in the spare tire compartment , these will be needed for the replacement ."
+                },
+                {
+                    "Text": "this is an emergency jack , and is not safe to use for routine maintenance . use a floor jack with a weight rating appropriate for your vehicle ."
+                }
+            ],
+            "Text_raw": "Locate the manufacturer supplied jack and jack handle in the spare tire compartment, these will be needed for the replacement. This is an emergency jack, and is not safe to use for routine maintenance. Use a floor jack with a weight rating appropriate for your vehicle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Zok5bMFFMr3QHQDs.standard"
+            ],
+            "StepId": 97455,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "place the jack approximately 2 feet behind the passenger wheel tire at the shown location . finger tighten the jack until snug against the frame ."
+                },
+                {
+                    "Text": "it's best to avoid using the jack included with the car . if at all possible , use at least a 2 ton floor jack ."
+                }
+            ],
+            "Text_raw": "Place the jack approximately 2 feet behind the passenger wheel tire at the shown location. Finger tighten the jack until snug against the frame. It's best to avoid using the jack included with the car. If at all possible, use at least a 2 ton floor jack.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tsnIP1ruIOgOifVR.standard"
+            ],
+            "StepId": 97456,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "place the jack handle in the jack to begin lifting the car ."
+                }
+            ],
+            "Text_raw": "Place the jack handle in the jack to begin lifting the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/23alSJC3vSaZAM2g.standard"
+            ],
+            "StepId": 97457,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "using two hands , turn the jack handle clockwise and raise the car ."
+                }
+            ],
+            "Text_raw": "Using two hands, turn the jack handle clockwise and raise the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kiGyLgWsFReu3Hdf.standard"
+            ],
+            "StepId": 97458,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "raise the car until the jack stand can fit underneath the frame . place the jack stand under the frame as close to the jack as possible ."
+                }
+            ],
+            "Text_raw": "Raise the car until the jack stand can fit underneath the frame. Place the jack stand under the frame as close to the jack as possible.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XotVlbGQ1HiPods1.standard"
+            ],
+            "StepId": 97460,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "lower the car onto the jack stand by turning the handle counterclockwise . remove the jack once the load is taken off ."
+                }
+            ],
+            "Text_raw": "Lower the car onto the jack stand by turning the handle counterclockwise. Remove the jack once the load is taken off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lHNAJHxbWsVqhOaA.standard"
+            ],
+            "StepId": 97462,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "once the jack stand is securely in place locate the engine oil drain plug . this is most accessible by crawling on your back from the front of the car ."
+                }
+            ],
+            "Text_raw": "Once the jack stand is securely in place locate the engine oil drain plug. This is most accessible by crawling on your back from the front of the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CVJG5WWTpvrxtDf1.standard"
+            ],
+            "StepId": 97542,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "using the 14 mm socket wrench loosen the drain plug by turning counterclockwise until you can turn the plug by hand . be careful not to loosen all the way to avoid spilling oil ."
+                }
+            ],
+            "Text_raw": "Using the 14mm socket wrench loosen the drain plug by turning counterclockwise until you can turn the plug by hand. Be careful not to loosen all the way to avoid spilling oil.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CwTYCrXIyjXw5RQG.standard"
+            ],
+            "StepId": 97545,
+            "Tools_extracted": [
+                "14 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "once the plug is slightly loose , place the oil drain pan underneath the plug , remember to account for the arc of the stream when placing the oil pan . once the pan is placed continue to loosen the plug until oil begins to flow . allow oil to drain freely until only slow drops come from the drain ."
+                }
+            ],
+            "Text_raw": "Once the plug is slightly loose, place the oil drain pan underneath the plug, remember to account for the arc of the stream when placing the oil pan. Once the pan is placed  continue to loosen the plug until oil begins to flow. Allow oil to drain freely until only slow drops come from the drain.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4C6Lxfx1GGplHJjr.standard"
+            ],
+            "StepId": 97554,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "allow oil to drain freely until drops of oil are slowly coming from the drain . then re-tighten the oil drain plug using the 14 mm socket wrench ."
+                },
+                {
+                    "Text": "do not over-tighten the drain plug , only apply approximately 20 lbs to the end of the wrench ."
+                }
+            ],
+            "Text_raw": "Allow oil to drain freely until drops of oil are slowly coming from the drain. Then re-tighten the oil drain plug using the 14mm socket wrench. Do not over-tighten the drain plug, only apply approximately 20 lbs to the end of the wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/K1bmPGybtJFIy4QO.standard"
+            ],
+            "StepId": 97559,
+            "Tools_extracted": [
+                "oil drain pan",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "now locate the oil filter , this most accessible on your back from the front of the car . the filter should be about a foot closer to the front of the car from the oil drain plug ."
+                }
+            ],
+            "Text_raw": "Now locate the oil filter, this most accessible on your back from the front of the car. The filter should be about a foot closer to the front of the car from the oil drain plug.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FjL4GJKaWeRLRJtk.standard"
+            ],
+            "StepId": 97566,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "using the 3 /8 inch socket wrench with extension loosen the oil filter by putting the extension in the square hole in the filter and turning counterclockwise ."
+                }
+            ],
+            "Text_raw": "Using the 3/8 inch socket wrench with extension loosen the oil filter by putting the extension in the square hole in the filter and turning counterclockwise.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ihnFaJolVJKONqAS.standard"
+            ],
+            "StepId": 97569,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "place the oil drain pan directly under the filter . fully loosen the filter by hand until you are able to remove it from the vehicle ."
+                }
+            ],
+            "Text_raw": "Place the oil drain pan directly under the filter. Fully loosen the filter by hand until you are able to remove it from the vehicle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/joJeatxBsDLLQOtt.standard"
+            ],
+            "StepId": 97580,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "remove paper filter from filter cartridge , this is disposable . use the flathead screwdriver to pry the o-ring off the cartridge ."
+                }
+            ],
+            "Text_raw": "Remove paper filter from filter cartridge, this is disposable. Use the flathead screw driver to pry the o-ring off the cartridge.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KjGcLTVA5DcIOgjw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pwiY35FFVwudbSRd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ydGpW233y13uuwwk.standard"
+            ],
+            "StepId": 97593,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Oil/Oil Filter"
+}

@@ -1,0 +1,217 @@
+{
+    "Title": "Repairing Toyota Sienna Air Filter Vacuum Connector",
+    "Ancestors": [
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 25776,
+    "Category": "Toyota Sienna",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 2 ratchet extension",
+            "Url": "http://www.amazon.com/TEKTON-1605-2-Inch-Extension-3-Piece/dp/B000NPXHMA/ref=sr_1_1?ie=UTF8&qid=1388419953&sr=8-1&keywords=1%2F2+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431007689&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drill",
+            "Url": "https://www.amazon.com/DEWALT-DC970K-2-18-Volt-Compact-Driver/dp/B002RLR0EY/ref=sr_1_6?s=power-hand-tools&rps=1&ie=UTF8&qid=1487961385&sr=1-6&keywords=cordless+drill&refinements=p_85%3A2470955011",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drill",
+            "Url": "/Item/1_2%22_drill_bit",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "saw file or dremel rotary tool",
+            "Url": "/Item/Small_saw_file_or_Dremel_rotary_tool",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "9 16 wrench",
+            "Url": "http://www.amazon.com/TEKTON-21511-16-Inch-Combination-Wrench/dp/B000NPUL4W/ref=sr_1_2?ie=UTF8&qid=1407874131&sr=8-2&keywords=9%2F16%22+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wire coat hanger",
+            "Url": "http://amzn.com/B0047GP328",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "vacuum cleaner",
+            "Url": "http://amzn.com/B00315CWXE",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Repairing+Toyota+Sienna+Air+Filter+Vacuum+Connector/25776",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "here's what the broken connector looks like . if the broken end is still inside the hose , remove it . insert the end of a a wire clothes hanger through the hole . torque it to get a grip on the tip , and pull and turn until it comes out ."
+                }
+            ],
+            "Text_raw": "Here's what the broken connector looks like.  If the broken end is still inside the hose, remove it.  Insert the end of a a wire clothes hanger through the hole.  Torque it to get a grip on the tip, and pull and turn until it comes out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZrPeTqKcFRLBdFyU.standard"
+            ],
+            "StepId": 65323,
+            "Tools_extracted": [
+                "wire coat hanger"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "to open the housing , you'll need to loosen two bolts on the right side of the housing -- one on the front , and one hiding in the back ."
+                },
+                {
+                    "Text": "(my wife doesn't think it was necessary to remove the housing , and she may be right . i think it probably made it easier to get the right angles for following steps . )"
+                }
+            ],
+            "Text_raw": "To open the housing, you'll need to loosen two bolts on the right side of the housing -- one on the front, and one hiding in the back. (My wife doesn't think it was necessary to remove the housing, and she may be right.  I think it probably made it easier to get the right angles for following steps.)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XyADu3e6LSMIKMfu.standard"
+            ],
+            "StepId": 65324,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a socket wrench with an extension and 10 mm socket . loosen it with the wrench , then use your fingers to loosen the rest of the way . the bolts are captive , meaning they won't come out all the way ."
+                },
+                {
+                    "Text": "it takes some finagling to get to the back bolt , and it's cozy , but it's doable ."
+                },
+                {
+                    "Text": "once both bolts are loosened , grab the right side of the housing , and rotate it firmly but gently up toward the left side , and it should open ."
+                }
+            ],
+            "Text_raw": "Use a socket wrench with an extension and 10mm socket.  Loosen it with the wrench, then use your fingers to loosen the rest of the way.  The bolts are captive, meaning they won't come out all the way. It takes some finagling to get to the back bolt, and it's cozy, but it's doable. Once both bolts are loosened, grab the right side of the housing, and rotate it firmly but gently up toward the left side, and it should open.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/brPNgVXYxGUixQrF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1s2wX444lIUgOTGA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RE14nnqTFpKQ6X2H.standard"
+            ],
+            "StepId": 65325,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "cut the remnants of the connector off to make it flush with the housing . this will make it easier to drill in the next step ."
+                },
+                {
+                    "Text": "you can use a small , flat saw for this . i used my wife's dremel . be careful not to damage other parts of the housing , hoses , etc ."
+                },
+                {
+                    "Text": "i didn't get a very good photo after the connector was off . you should be able to see the hole ."
+                }
+            ],
+            "Text_raw": "Cut the remnants of the connector off to make it flush with the housing.  This will make it easier to drill in the next step. You can use a small, flat saw for this.  I used my wife's Dremel.  Be careful not to damage other parts of the housing, hoses, etc. I didn't get a very good photo after the connector was off.  You should be able to see the hole.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/U5aEQ5K1H4iFtkhT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GU22wIBoU2aTBYW6.standard"
+            ],
+            "StepId": 65326,
+            "Tools_extracted": [
+                "drill",
+                "saw file or dremel rotary tool"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "using the hole to center the drill bit , drill out the old connector with a 1 /2 bit . ( if you're an amateur like me , you might try using a smaller bit , say 1 /4 , first for practice , and to make the final hole easier . )"
+                },
+                {
+                    "Text": "go slowly so you dont damage the housing , and be careful not to cut or damage any other parts . be careful not to go too deep just deep enough that the fitting will be able to go all the way in ."
+                },
+                {
+                    "Text": "after your hole is done , use a vacuum cleaner to suck out any plastic bits that got into the hole ."
+                }
+            ],
+            "Text_raw": "Using the hole to center the drill bit, drill out the old connector with a 1/2\" bit.  (If you're an amateur like me, you might try using a smaller bit, say 1/4\", first for practice, and to make the final hole easier.) Go slowly so you don\u2019t damage the housing, and be careful not to cut or damage any other parts.  Be careful not to go too deep \u2013 just deep enough that the fitting will be able to go all the way in. After your hole is done, use a vacuum cleaner to suck out any plastic bits that got into the hole.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TJdHYugTX4gOTq4d.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QQsXIpjGwIYIWxnw.standard"
+            ],
+            "StepId": 65327,
+            "Tools_extracted": [
+                "drill",
+                "vacuum cleaner"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "wrap the fitting with two layers of teflon tape in a clockwise direction ( if youre looking at the threaded end if you go the wrong way , the tape will unravel when youre screwing the fitting in ) ."
+                },
+                {
+                    "Text": "put the fitting into the hole , and use a 9 /16 wrench to screw it in until its flush with the housing ."
+                }
+            ],
+            "Text_raw": "Wrap the fitting with two layers of Teflon tape in a clockwise direction (if you\u2019re looking at the threaded end \u2013 if you go the wrong way, the tape will unravel when you\u2019re screwing the fitting in). Put the fitting into the hole, and use a 9/16\u201d wrench to screw it in until it\u2019s flush with the housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NU5UXYphhPjIXUDg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FnN3cSVt5YPEt4Ln.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HCTGN1UAJQVOXMHc.standard"
+            ],
+            "StepId": 65328,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "if you need to change your air filter , do so now ."
+                },
+                {
+                    "Text": "close the housing get the tabs on the left slide into their slots first , and then you should be able to rotate the right side down to get it into place . hand-tighten the bolts , then tighten them down with the socket wrench ."
+                },
+                {
+                    "Text": "slide the hose onto the barb as far as it will go , and voila , your sienna is fixed ! for under 10 !"
+                },
+                {
+                    "Text": "if ''i'' can fix it , ''anybody'' can ."
+                }
+            ],
+            "Text_raw": "If you need to change your air filter, do so now. Close the housing \u2013 get the tabs on the left slide into their slots first, and then you should be able to rotate the right side down to get it into place.  Hand-tighten the bolts, then tighten them down with the socket wrench. Slide the hose onto the barb as far as it will go, and voila, your Sienna is fixed!  For under $10! If ''I'' can fix it, ''anybody'' can.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3NXLY1PPDPEkiuBU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GEiguyQlhgFhrQ6P.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GKmOVDhlM61RAQB2.standard"
+            ],
+            "StepId": 65329,
+            "Tools_extracted": [
+                "10 mm socket",
+                "socket wrench"
+            ]
+        }
+    ],
+    "Subject": ""
+}

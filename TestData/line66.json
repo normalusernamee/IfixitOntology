@@ -1,0 +1,142 @@
+{
+    "Title": "1986-1993 Volvo 240 Front Brake Caliper Replacement",
+    "Ancestors": [
+        "Volvo",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 8193,
+    "Category": "1986-1993 Volvo 240",
+    "Toolbox": [
+        {
+            "Name": "11 mm open-end wrench",
+            "Url": "/Item/11_mm_Open-End_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "15 mm box end wrench",
+            "Url": "http://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=15mm%20box%20end",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431007052&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "impact wrench",
+            "Url": "http://www.amazon.com/Kawasaki-841337-2-Inch-Impact-12-Volt/dp/B00544EZQ2/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356974328&sr=1-1&keywords=electric+impact+gun",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1986+1987+1988+1989+1990+1991+1992+1993+Volvo+240+Front+Brake+Caliper+Replacement/8193",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "jack up the front of the car and place it on jack stands ."
+                },
+                {
+                    "Text": "never work on or underneath a car that is only supported by a jack . the jack may slip or fail , resulting in serious injury or even death ."
+                },
+                {
+                    "Text": "use an impact wrench or lug wrench to remove the five 19 mm lug nuts from the front wheel ."
+                },
+                {
+                    "Text": "the wheel lug nuts should be torqued to 85 ft-lbs when the wheels are put back on the car ."
+                },
+                {
+                    "Text": "pull the front wheel off the wheel lugs and set it aside ."
+                }
+            ],
+            "Text_raw": "Jack up the front of the car and place it on jack stands. Never work on or underneath a car that is only supported by a jack. The jack may slip or fail, resulting in serious injury or even death. Use an impact wrench or lug wrench to remove the five 19 mm lug nuts from the front wheel. The wheel lug nuts should be torqued to 85 ft-lbs when the wheels are put back on the car. Pull the front wheel off the wheel lugs and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WUDIKbAMUrokAxst.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wjJnFMQpCMAKXxv2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vIWmA51vceY1Zdlr.standard"
+            ],
+            "StepId": 33105,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a 15 mm box end wrench to remove the two bolts on the back of the brake caliper ."
+                }
+            ],
+            "Text_raw": "Use a 15 mm box end wrench to remove the two bolts on the back of the brake caliper.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PqeiLlSIIAlmmhDf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KonLsOuPGbAYXX6V.standard"
+            ],
+            "StepId": 33106,
+            "Tools_extracted": [
+                "15 mm box end wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "lift the brake caliper off the rotor and set it aside ."
+                },
+                {
+                    "Text": "place the caliper on some type of support so that you do not put too much strain on the brake hose ."
+                }
+            ],
+            "Text_raw": "Lift the brake caliper off the rotor and set it aside. Place the caliper on some type of support so that you do not put too much strain on the brake hose.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MXlZnZYH1YITMYnL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ecR4iwqHChNdSIdq.standard"
+            ],
+            "StepId": 33107,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use an open-end wrench to loosen the 11 mm fitting where the brake hose attaches to the caliper ."
+                },
+                {
+                    "Text": "brake fluid will come out of the loosened brake hose . you should keep a bucket or pan nearby to collect it ."
+                },
+                {
+                    "Text": "be careful when handling brake fluid , as it may strip paint and dissolve some plastics ."
+                },
+                {
+                    "Text": "detach the brake hose and remove the brake caliper ."
+                },
+                {
+                    "Text": "when you install the new calipers you will need to bleed the brakes to remove any air from the brake fluid lines ."
+                }
+            ],
+            "Text_raw": "Use an open-end wrench to loosen the 11 mm fitting where the brake hose attaches to the caliper. Brake fluid will come out of the loosened brake hose. You should keep a bucket or pan nearby to collect it. Be careful when handling brake fluid, as it may strip paint and dissolve some plastics. Detach the brake hose and remove the brake caliper. When you install the new calipers you will need to bleed the brakes to remove any air from the brake fluid lines.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SjpMZ2YpIlBD2eBQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4RQhhnUMIIqRFHU4.standard"
+            ],
+            "StepId": 33104,
+            "Tools_extracted": [
+                "11 mm open-end wrench"
+            ]
+        }
+    ],
+    "Subject": "Front Brake Caliper"
+}

@@ -1,0 +1,181 @@
+{
+    "Title": "2008 Subaru Impreza Windshield Wiper Arm Adjustment",
+    "Ancestors": [
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 61593,
+    "Category": "Subaru",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "14 mm socket wrench",
+            "Url": "/Item/14_mm_socket",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2008+Subaru+Impreza+Windshield+Wiper+Arm+Adjustment/61593",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "to begin , pop open your hood for best access ."
+                }
+            ],
+            "Text_raw": "To begin, pop open your hood for best access.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GhF2ZS2562CWyddJ.standard"
+            ],
+            "StepId": 128856,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "there will be a rectangular bolt cover on the end of the wiper arm ."
+                },
+                {
+                    "Text": "to remove this cover , grab each side with your fingers and pull upward ."
+                },
+                {
+                    "Text": "it may help to wedge your fingernails underneath the cover piece ."
+                }
+            ],
+            "Text_raw": "There will be a rectangular bolt cover on the end of the wiper arm. To remove this cover, grab each side with your fingers and pull upward. It may help to wedge your fingernails underneath the cover piece.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6ttEtQ35vRry4cmi.standard"
+            ],
+            "StepId": 128860,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "after removing the bolt cover , you will find the bolt that holds the wiper arm onto the vehicle ."
+                }
+            ],
+            "Text_raw": "After removing the bolt cover, you will find the bolt that holds the wiper arm onto the vehicle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YuttQZuI14nJreFK.standard"
+            ],
+            "StepId": 128861,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "loosen the bolt with the socket wrench just enough to be able to move the arm up and down the windshield ."
+                },
+                {
+                    "Text": "to loosen with the wrench , place the socket directly on top of the bolt and turn counter clockwise ."
+                }
+            ],
+            "Text_raw": "Loosen the bolt with the socket wrench just enough to be able to move the arm up and down the windshield. To loosen with the wrench, place the socket directly on top of the bolt and turn counter clockwise.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eaa3gCIDeAEUslJW.standard"
+            ],
+            "StepId": 130130,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "adjust the windshield wiper arm such that it is in the proper resting position ."
+                }
+            ],
+            "Text_raw": "Adjust the windshield wiper arm such that it is in the proper resting position.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OBUqJrIV6SEdvqS6.standard"
+            ],
+            "StepId": 130131,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "there should be approximately 2 inches of space between the bottom of the windshield and the wiper in proper resting position ."
+                }
+            ],
+            "Text_raw": "There should be approximately 2 inches of space between the bottom of the windshield and the wiper in proper resting position.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6FbwVJxDIeDvv1uK.standard"
+            ],
+            "StepId": 130132,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "once the arm is in correct position , tighten the same bolt at the bottom of the arm to keep the wiper in place ."
+                },
+                {
+                    "Text": "to tighten the bolt , place the socket directly on top of the bolt and turn in clockwise position until you are no longer able to turn ."
+                }
+            ],
+            "Text_raw": "Once the arm is in correct position, tighten the same bolt at the bottom of the arm to keep the wiper in place. To tighten the bolt, place the socket directly on top of the bolt and turn in clockwise position until you are no longer able to turn.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RsV1N3lJ1Dpw2gcU.standard"
+            ],
+            "StepId": 130133,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "place the bolt cover back over the bolt and push it down into clipped position ."
+                }
+            ],
+            "Text_raw": "Place the bolt cover back over the bolt and push it down into clipped position.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DddFhQPeyURyhPEC.standard"
+            ],
+            "StepId": 130134,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "close the hood of the vehicle . your windshield wiper should now be in the correct position ."
+                }
+            ],
+            "Text_raw": "Close the hood of the vehicle. Your windshield wiper should now be in the correct position.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/S1VkxIHcQZBVkOHX.standard"
+            ],
+            "StepId": 130135,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

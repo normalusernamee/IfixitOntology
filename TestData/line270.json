@@ -1,0 +1,217 @@
+{
+    "Title": "2000-2007 Chevrolet Monte Carlo Glove Compartment Door Removal",
+    "Ancestors": [
+        "Chevrolet",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 90485,
+    "Category": "Chevrolet Monte Carlo",
+    "Toolbox": [
+        {
+            "Name": "7 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-21241-7mm-Combination-Wrench/dp/B000NY8Q8G/ref=sr_1_2?ie=UTF8&qid=1388418409&sr=8-2&keywords=7mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "plastic fastener remover",
+            "Url": "https://www.amazon.com/Lisle-35260-Plastic-Fastener-Remover/dp/B0002SRCMO/ref=sr_1_1?ie=UTF8&qid=1494956835&sr=8-1&keywords=panel+clip+tool",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2000+2001+2002+2003+2004+2005+2006+2007+Chevrolet+Monte+Carlo+Glove+Compartment+Door+Removal/90485",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "to access the hinges for the glove compartment door , the passenger side kick panel must first be removed ."
+                },
+                {
+                    "Text": "there are two clips ( red ) ,and a plastic fastener ( orange , located further back ) holding this panel to the dash . you'll put less bending stress on the panel if you remove the plastic fastener first ."
+                }
+            ],
+            "Text_raw": "To access the hinges for the glove compartment door, the passenger side kick panel must first be removed. There are two clips (red),and a plastic fastener (orange, located further back) holding this panel to the dash. You'll put less bending stress on the panel if you remove the plastic fastener first.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xjuTGf5jaTORE6S3.standard"
+            ],
+            "StepId": 170681,
+            "Tools_extracted": [
+                "plastic fastener remover"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a plastic fastener removal tool to pop out the plastic fastener . this fastener was not designed to be easily removable , but the tool helps a lot ."
+                },
+                {
+                    "Text": "if you're careful , you can remove the fastener without damaging it . try to fold all of the ridges back before re-inserting it . if you plan on removing the kick panel again , you may want to invest in a fastener that's to remove ."
+                }
+            ],
+            "Text_raw": "Use a plastic fastener removal tool to pop out the plastic fastener. This fastener was not designed to be easily removable, but the tool helps a lot. If you're careful, you can remove the fastener without damaging it. Try to fold all of the \"ridges\" back before re-inserting it. If you plan on removing the kick panel again, you may want to invest in a fastener that's [https://www.amazon.com/OFFROADINGLIGHT-Retainer-Push-Style-Assortment-Chevrolet/dp/B06XG5JP3L/ref=sr_1_2?ie=UTF8&qid=1496018314&sr=8-2&keywords=plastic+fastener+assortment|easier to remove.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Vo6dau1qed2bGSCw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MpXCp1xnwErCHZZH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TwRlDYfXcnBaNbHo.standard"
+            ],
+            "StepId": 170682,
+            "Tools_extracted": [
+                "plastic fastener remover"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "now remove the clips on each side . this can be done by pushing the exposed tab forward ."
+                },
+                {
+                    "Text": "the kick panel should now fall down ."
+                },
+                {
+                    "Text": "don't pull the panel out just yet , there's still a courtesy light that is mounted on the panel and connected with a wire ."
+                }
+            ],
+            "Text_raw": "Now remove the clips on each side. This can be done by pushing the exposed tab forward. The kick panel should now fall down. Don't pull the panel out just yet, there's still a courtesy light that is mounted on the panel and connected with a wire.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RCHSeIVMN6Ao5byO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2rBKFriyvtHIMjrb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UFaeTh4hPQ3btdMJ.standard"
+            ],
+            "StepId": 170683,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the courtesy light from the panel by twisting it 45 degrees . it should release from the panel . keep in mind that this light will get hot , and can melt plastic trim . be careful where you let it hang if its lit ."
+                }
+            ],
+            "Text_raw": "Remove the courtesy light from the panel by twisting it 45 degrees. It should release from the panel. Keep in mind that this light will get hot, and can melt plastic trim. Be careful where you let it hang if its lit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DFA6BkPFrP3bUtKf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3Z45nKFJZKPYnFlu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GIxYGGvgFAw6LG2R.standard"
+            ],
+            "StepId": 170684,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "removing the kick panel should have exposed the hinge for the glove compartment door ."
+                },
+                {
+                    "Text": "there are five 7 mm hex head screws holding this hinge to the dashboard , remove them ."
+                }
+            ],
+            "Text_raw": "Removing the kick panel should have exposed the hinge for the glove compartment door. There are five 7mm hex head screws holding this hinge to the dashboard, remove them.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MeDXvEghGiQcLuVP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/32ioqNnBTgnXLhxu.standard"
+            ],
+            "StepId": 170685,
+            "Tools_extracted": [
+                "7 mm socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "now open the glove compartment and empty it out if you haven't already ."
+                },
+                {
+                    "Text": "there are supporting wires on each side of the door , you'll need to remove each one ."
+                }
+            ],
+            "Text_raw": "Now open the glove compartment and empty it out if you haven't already. There are supporting wires on each side of the door, you'll need to remove each one.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3MGBHVT4ZjFhV3y2.standard"
+            ],
+            "StepId": 170686,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "the left side supporting wire is pretty easy to remove ."
+                },
+                {
+                    "Text": "pushing the clip down will allow you to slide it out of the door , releasing the cable ."
+                },
+                {
+                    "Text": "this cable is spring loaded , and will retract upwards into the dash ."
+                }
+            ],
+            "Text_raw": "The left side supporting wire is pretty easy to remove. Pushing the clip down will allow you to slide it out of the door, releasing the cable. This cable is spring loaded, and will retract upwards into the dash.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FYPIFPBXevHaZk5C.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cbESklG3X2NkQSLW.standard"
+            ],
+            "StepId": 170687,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "to remove the right-side cable , you must push the center pin out of the clip first ."
+                },
+                {
+                    "Text": "now , the clip can be removed from the door . just push it through the hole ."
+                },
+                {
+                    "Text": "the door should now be fully disconnected from the car ."
+                }
+            ],
+            "Text_raw": "To remove the right-side cable, you must push the center pin out of the clip first. Now, the clip can be removed from the door. Just push it through the hole. The door should now be fully disconnected from the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RYveJTXkFrWIvNM2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vIgh2oACxbR3pJba.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ckmsg2lpFWBQjUHi.standard"
+            ],
+            "StepId": 170688,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "to remove the door , there's one last thing to do ."
+                },
+                {
+                    "Text": "even with everything disconnected , the door is still captive in the dash . there's a small plastic tab on the left side of the door that must be bent to release the door ."
+                },
+                {
+                    "Text": "a swift yank on the door should be enough to release it , but you'll want to look for yourself at how the tab is released ."
+                },
+                {
+                    "Text": "todo : take a picture with the door actually removed . . ."
+                }
+            ],
+            "Text_raw": "To remove the door, there's one last thing to do. Even with everything disconnected, the door is still captive in the dash. There's a small plastic tab on the left side of the door that must be bent to release the door. A swift yank on the door should be enough to release it, but you'll want to look for yourself at how the tab is released. TODO: Take a picture with the door actually removed...",
+            "Images": [],
+            "StepId": 170689,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

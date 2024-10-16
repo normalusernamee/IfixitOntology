@@ -1,0 +1,138 @@
+{
+    "Title": "Removing 2005-2007 Ford Focus Front Wheel",
+    "Ancestors": [
+        "Ford Focus",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3038,
+    "Category": "2005-2007 Ford Focus",
+    "Toolbox": [
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "lug wrench",
+            "Url": "http://www.amazon.com/Wilmar-W2-Metric-Lug-Wrench/dp/B000FW2NU8/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889157&sr=1-1&keywords=lug+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wheel chocks",
+            "Url": "https://www.amazon.com/gp/product/B008CE0R5E/ref=oh_aui_search_detailpage?ie=UTF8&psc=1",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Removing+2005+2006+2007+Ford+Focus+Front+Wheel/3038",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "put the car in park ( automatic ) or neutral ( manual ) ."
+                },
+                {
+                    "Text": "apply the parking brake ."
+                },
+                {
+                    "Text": "place chocks behind the rear wheels ."
+                }
+            ],
+            "Text_raw": "Put the car in park (automatic) or neutral (manual). Apply the parking brake. Place chocks behind the rear wheels.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PYyJFkwtoHRYGJFD.standard"
+            ],
+            "StepId": 14835,
+            "Tools_extracted": [
+                "wheel chocks"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a 19 mm lug wrench to loosen each lug nut a half turn ."
+                }
+            ],
+            "Text_raw": "Use a 19 mm lug wrench to loosen each lug nut a half turn.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/u2psVB3f3S3aYYpm.standard"
+            ],
+            "StepId": 14836,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a hydraulic jack on the car's frame to jack the car ."
+                },
+                {
+                    "Text": "a small notch shows where to place the jack ."
+                },
+                {
+                    "Text": "it is only necessary to jack the car until the wheel no longer touches the ground ."
+                }
+            ],
+            "Text_raw": "Use a hydraulic jack on the car's frame to jack the car. A small notch shows where to place the jack. It is only necessary to jack the car until the wheel no longer touches the ground.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BX23MmeWjHMtyQvV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rG2v636PkLUWoEVk.standard"
+            ],
+            "StepId": 14837,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "place a jack stand on the frame and remove the jack ."
+                },
+                {
+                    "Text": "never work on or underneath a car that is only supported by a jack . the car may fall , causing serious injury , or even death ."
+                }
+            ],
+            "Text_raw": "Place a jack stand on the frame and remove the jack. Never work on or underneath a car that is only supported by a jack. The car may fall, causing serious injury, or even death.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hRYhEsLc32UnZTHG.standard"
+            ],
+            "StepId": 14839,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use a lug wrench to completely remove the four lug nuts ."
+                },
+                {
+                    "Text": "remove the wheel ."
+                }
+            ],
+            "Text_raw": "Use a lug wrench to completely remove the four lug nuts. Remove the wheel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Un6kLrBSTTYKP3EW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NvWhHJoOGQwrLfFZ.standard"
+            ],
+            "StepId": 14840,
+            "Tools_extracted": [
+                "wheel chocks",
+                "lug wrench"
+            ]
+        }
+    ],
+    "Subject": "Front Wheel"
+}

@@ -1,0 +1,150 @@
+{
+    "Title": "1998-2012 Renault Clio II Battery Replacement",
+    "Ancestors": [
+        "Renault",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 13644,
+    "Category": "1998-2012 Renault Clio II",
+    "Toolbox": [
+        {
+            "Name": "8 mm box end wrench",
+            "Url": "/Item/8_mm_Box_End_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "13 wrench",
+            "Url": "https://www.amazon.com/GearWrench-9113-Combination-Ratcheting-Wrench/dp/B0002NYD7Q/ref=sr_1_3?ie=UTF8&qid=1487798994&sr=8-3&keywords=13mm+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1998+1999+2000+2001+2002+2003+2004+2005+2006+2007+2008+2009+2010+2011+2012+Renault+Clio+II+Battery+Replacement/13644",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "stop the car engine ."
+                },
+                {
+                    "Text": "indentify the car battery ."
+                }
+            ],
+            "Text_raw": "Stop the car engine. Indentify the car battery.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oWCwx6P3wID5SGBG.standard"
+            ],
+            "StepId": 45938,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "identify the screw on the right side of the battery which maintains the battery ."
+                }
+            ],
+            "Text_raw": "Identify the screw on the right side of the battery which maintains the battery.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OEYvbFAWZ4iaWsit.standard"
+            ],
+            "StepId": 45940,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "with the 8 mm box end wrench , remove the black ( ground ) cable ."
+                }
+            ],
+            "Text_raw": "WIth the 8mm box end wrench, remove the black (ground) cable.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hfJbjEW51HCOODJH.standard"
+            ],
+            "StepId": 46118,
+            "Tools_extracted": [
+                "8 mm box end wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "with the 13 mm wrench , remove the red cable ."
+                }
+            ],
+            "Text_raw": "WIth the 13mm wrench, remove the red cable.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/faXHSTGsrWoLSFWW.standard"
+            ],
+            "StepId": 46119,
+            "Tools_extracted": [
+                "13 wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "unscrew the bottom screw identify in step 2 with the 13 mm socket wrench ."
+                },
+                {
+                    "Text": "remove the old battery ."
+                }
+            ],
+            "Text_raw": "Unscrew the bottom screw  identify in step 2 with the 13mm socket wrench. Remove the old battery.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KmQCpD3YY1WpKMOV.standard"
+            ],
+            "StepId": 46120,
+            "Tools_extracted": [
+                "13 wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "insert your new battery and lock the it with the screw ."
+                },
+                {
+                    "Text": "grease the battery contacts ."
+                }
+            ],
+            "Text_raw": "Insert your new battery and lock the it with the screw. Grease the battery contacts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/h22CwKsoRbUUxSu2.standard"
+            ],
+            "StepId": 46121,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "put back the red cable and then the black one ."
+                },
+                {
+                    "Text": "start your car ."
+                }
+            ],
+            "Text_raw": "Put back the red cable and then the black one. Start your car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dfGTEbZCJEsDhdnj.standard"
+            ],
+            "StepId": 46122,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Battery"
+}

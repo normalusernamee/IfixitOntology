@@ -1,0 +1,610 @@
+{
+    "Title": "1998-2002 Honda Accord Tweeters Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 2245,
+    "Category": "1998-2002 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "http://www.ifixit.com/Tools/Large-Needle-Nose-Pliers/IF145-024",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xsuUhWaHMfDB6FnN.mini"
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "wire stripper",
+            "Url": "http://www.ifixit.com/Tools/6-Inch-Wire-Stripper/IF145-046",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/KVMjZiV5sFidEgEX.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1998+1999+2000+2001+2002+Honda+Accord+Tweeters+Replacement/2245",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before going any further : disconnect the battery . i keep a 10 mm wrench in my center console specifically for this purpose ."
+                },
+                {
+                    "Text": "use a 10 mm wrench to disconnect the negative battery terminal , followed by the positive terminal ."
+                }
+            ],
+            "Text_raw": "Before going any further: disconnect the battery. I keep a 10 mm wrench in my center console specifically for this purpose. Use a 10 mm wrench to disconnect the negative battery terminal, followed by the positive terminal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gFmsvkSdZK35H6ZL.standard"
+            ],
+            "StepId": 11407,
+            "Tools_extracted": [
+                "10 mm wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "note that the dash has been taken apart before , namely to install all those fancy gizmos you see in this picture ."
+                },
+                {
+                    "Text": "the disassembly procedure is exactly the same for stock factory systems , but may differ when taking out the radio itself ."
+                }
+            ],
+            "Text_raw": "Note that the dash has been taken apart before, namely to install all those fancy gizmos you see in this picture. The disassembly procedure is exactly the same for stock factory systems, but may differ when taking out the radio itself.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KtDCOBQlHK5QA2Bb.standard"
+            ],
+            "StepId": 11408,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a 2 phillips screwdriver to remove the two screws holding the center of the dashboard in place ."
+                }
+            ],
+            "Text_raw": "Use a #2 Philips screwdriver to remove the two screws holding the center of the dashboard in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/y1d6Eal4fh6rsnjx.standard"
+            ],
+            "StepId": 11409,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Tools_annotated": [
+                "2.5mm flathead screwdriver"
+            ],
+            "Lines": [
+                {
+                    "Text": "use a spudger for the following step or , if you don't have one handy , cover a flathead screwdriver with a rag ."
+                },
+                {
+                    "Text": "gently insert a spudger or flathead screwdriver directly underneath the clock , just enough so you can pry out the clock . perhaps a half inch or so will do it ."
+                }
+            ],
+            "Text_raw": "Use a [product|IF145-002|spudger] for the following step or, if you don't have one handy, cover a flathead screwdriver with a rag. Gently insert a spudger or flathead screwdriver directly underneath the clock, just enough so you can pry out the clock. Perhaps a half inch or so will do it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EKIENZDaGURXoMYH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hEuH3RCxXXGBq1sf.standard"
+            ],
+            "StepId": 11410,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Tools_annotated": [
+                "phillips 2 screwdriver"
+            ],
+            "Lines": [
+                {
+                    "Text": "slide the clock out to expose a sole phillips screw ."
+                },
+                {
+                    "Text": "alternatively , you can first disconnect the clock ( see next step ) and then proceed to remove the screw . it might be slightly easier to do that instead of the method you see here , but either way will work fine ."
+                },
+                {
+                    "Text": "remove the screw using your phillips 2 screwdriver ."
+                }
+            ],
+            "Text_raw": "Slide the clock out to expose a sole Phillips screw. Alternatively, you can first disconnect the clock (see next step) and then proceed to remove the screw. It might be slightly easier to do that instead of the method you see here, but either way will work fine. Remove the screw using your Phillips #2 screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ekIRAw3VqO1NxfOv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XZ2ACvgF3NIwFxTY.standard"
+            ],
+            "StepId": 11411,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Tools_annotated": [
+                "wire stri-per"
+            ],
+            "Lines": [
+                {
+                    "Text": "unplug the smaller connector first . there's a tab on top of the connector that you have to push downwards , then pull the connector . make sure to grasp the connector itself , and not the wires ."
+                },
+                {
+                    "Text": "do the same with the larger connector . again , there's a tab on top that needs to be pushed downward ."
+                }
+            ],
+            "Text_raw": "Unplug the smaller connector first. There's a tab on top of the connector that you have to push downwards, then pull the connector. Make sure to grasp the connector itself, and not the wires. Do the same with the larger connector. Again, there's a tab on top that needs to be pushed downward.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BpXB5XpFsrQp1TIg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IcCbFnNaHbsYwEcU.standard"
+            ],
+            "StepId": 11983,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "now , gently pull the bottom of the center console towards you . don't yank it out , there's two more connectors holding it in place ."
+                }
+            ],
+            "Text_raw": "Now, gently pull the bottom of the center console towards you. Don't yank it out, there's two more connectors holding it in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WifQDZdLcAhlAKdw.standard"
+            ],
+            "StepId": 11984,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "first take off the red connector . just like before , there's a tab on top of the connector that you have to push downwards first ."
+                },
+                {
+                    "Text": "follow suit with the green connector ."
+                },
+                {
+                    "Text": "center dash can now be fully removed ."
+                }
+            ],
+            "Text_raw": "First take off the red connector. Just like before, there's a tab on top of the connector that you have to push downwards first. Follow suit with the green connector. Center dash can now be fully removed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iqFhyyNfuQQHWw5T.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZIGWfd5UGYLmOVKq.standard"
+            ],
+            "StepId": 11988,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Tools_annotated": [
+                "phillips 2 screwdriver"
+            ],
+            "Lines": [
+                {
+                    "Text": "remove the four screws ( two on each side ) holding the stereo frame in place using a 2 jis screwdriver or 8 mm socket wrench ."
+                }
+            ],
+            "Text_raw": "Remove the four screws (two on each side) holding the [link|http://en.wikipedia.org/wiki/ISO_7736|double-DIN] stereo frame in place using a #2 JIS screwdriver or 8mm socket wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fUHON6CBE6DNkfrv.standard"
+            ],
+            "StepId": 11995,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 9,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "slide out the stereo head unit ."
+                }
+            ],
+            "Text_raw": "Slide out the stereo head unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ALaB1LAWjEJKoQYf.standard"
+            ],
+            "StepId": 11996,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "unfortunately i forgot to show how to remove the plastic covers where the tweeters should reside ."
+                },
+                {
+                    "Text": "there is a small notch on the cover , approximately located by the red box , under which you should insert a flathead screwdriver ."
+                },
+                {
+                    "Text": "twist the flathead screwdriver until the cover pops upwards , then work at it from each side if necessary ."
+                }
+            ],
+            "Text_raw": "Unfortunately I forgot to show how to remove the plastic covers where the tweeters should reside. There is a small notch on the cover, approximately located by the red box, under which you should insert a flathead screwdriver. Twist the flathead screwdriver until the cover pops upwards, then work at it from each side if necessary.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HNqsXXa2AfhcBQBH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SxBnEpjohoQyZbbt.standard"
+            ],
+            "StepId": 11412,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "with your car door fully open , remove the side panel on the dashboard ."
+                },
+                {
+                    "Text": "in the following steps , you'll be routing wire from the top of the dash to this side panel , and then from the side panel to the center dash ."
+                }
+            ],
+            "Text_raw": "With your car door fully open, remove the side panel on the dashboard. In the following steps, you'll be routing wire from the top of the dash to this side panel, and then from the side panel to the center dash.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oP5RX6LiUUOhrRNI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HKrVM1HN2XqcIo24.standard"
+            ],
+            "StepId": 11993,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "start routing your tweeter speaker cable from through the hole on top of the dash ."
+                }
+            ],
+            "Text_raw": "Start routing your tweeter speaker cable from through the hole on top of the dash.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/u6JNbBI4loqXAbay.standard"
+            ],
+            "StepId": 11994,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "keep inserting and moving the wire until you are able to see it in the small crack between the door frame and the dash ."
+                },
+                {
+                    "Text": "click on the second picture to see a zoomed in version of the wire hiding in the shadows ."
+                }
+            ],
+            "Text_raw": "Keep inserting and moving the wire until you are able to see it in the small crack between the door frame and the dash. Click on the second picture to see a zoomed in version of the wire hiding in the shadows.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jb6ZQp5f3UkqalQV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/amglJFSnV4lRQUS4.standard"
+            ],
+            "StepId": 12013,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "use a very thin pair of needle-nose pliers to pull the wire out of the crevice ."
+                },
+                {
+                    "Text": "pull out approximately a foot of wire ."
+                },
+                {
+                    "Text": "then , route the wire along the edge of the dashboard / door frame , so that it ends up in the side panel below ."
+                }
+            ],
+            "Text_raw": "Use a very thin pair of needle-nose pliers to pull the wire out of the crevice. Pull out approximately a foot of wire. Then, route the wire along the edge of the dashboard / door frame, so that it ends up in the side panel below.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bfQZGGZiqttRGFVE.standard"
+            ],
+            "StepId": 12012,
+            "Tools_extracted": [
+                "needlenose pliers",
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "pull the speaker wire towards the side panel ."
+                }
+            ],
+            "Text_raw": "Pull the speaker wire towards the side panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KwDf2DvQurbhYA1q.standard"
+            ],
+            "StepId": 11997,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "now , start routing the wire from the side panel to the bottom of the dash ."
+                },
+                {
+                    "Text": "pull out enough wire near your pedals so that you have enough length to reach your stereo head unit ."
+                }
+            ],
+            "Text_raw": "Now, start routing the wire from the side panel to the bottom of the dash. Pull out enough wire near your pedals so that you have enough length to reach your stereo head unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mlUMNo2M2CMDCjGx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IuQabGGPxrJkIVKG.standard"
+            ],
+            "StepId": 11998,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "dig deep through your center dash ( while being careful not to snag your hand on any of the wiring ) and pull out the speaker wire you were routing ."
+                }
+            ],
+            "Text_raw": "Dig deep through your center dash (while being careful not to snag your hand on any of the wiring) and pull out the speaker wire you were routing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JLVtrCbiRCC4kFFh.standard"
+            ],
+            "StepId": 11999,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "perform the same speaker wire routing on the passenger side . the procedure should be very similar ."
+                }
+            ],
+            "Text_raw": "Perform the same speaker wire routing on the passenger side. The procedure should be very similar.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4SqthhlOnReSeQYt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GF56fWtnxAW2lxqY.standard"
+            ],
+            "StepId": 12000,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 19,
+            "Lines": [
+                {
+                    "Text": "pull the passenger-side speaker cable all the way to the center dash ."
+                }
+            ],
+            "Text_raw": "Pull the passenger-side speaker cable all the way to the center dash.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/41le112j2eGdwopF.standard"
+            ],
+            "StepId": 12001,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 20,
+            "Lines": [
+                {
+                    "Text": "now for the fun part : cutting some wires . . ."
+                },
+                {
+                    "Text": "make sure to cut the proper speaker cables ! check twice , cut once ."
+                },
+                {
+                    "Text": "locate the left/front and the right/front speaker cables coming out of the radio . there should be two wires for each speaker cable , a positive and a negative ."
+                },
+                {
+                    "Text": "use a pair of wire cutters to snip-snip those two cables . don't cut too close to the radio -- make sure that you leave enough length to strip the wire and reconnect it in the following steps ."
+                }
+            ],
+            "Text_raw": "Now for the fun part: cutting some wires... Make sure to cut the proper speaker cables! Check twice, cut once. Locate the Left/Front and the Right/Front speaker cables coming out of the radio. There should be two wires for each speaker cable, a Positive and a Negative. Use a pair of wire cutters to snip-snip those two cables. Don't cut too close to the radio -- make sure that you leave enough length to strip the wire and reconnect it in the following steps.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5SHcZQXEwHu4EsVK.standard"
+            ],
+            "StepId": 12002,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 21,
+            "Lines": [
+                {
+                    "Text": "use a pair of wire cutters/strippers to strip a portion of the both the tweeter speaker wires , as well as the speaker wires you just cut on the stereo side ."
+                }
+            ],
+            "Text_raw": "Use a pair of wire cutters/strippers to strip a portion of the both the tweeter speaker wires, as well as the speaker wires you just cut on the stereo side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aQRWBldqfrCYG2ok.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5fNkjBqtAc4xuhUA.standard"
+            ],
+            "StepId": 12004,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 22,
+            "Lines": [
+                {
+                    "Text": "take the left/front/positive wire coming out of the radio and twist it together with the same wire going to the tweeter , as well as the one going to the front speaker ."
+                },
+                {
+                    "Text": "then , use a wire cap to secure the wires together . wrap the wire cap and wires with electrical tape ."
+                },
+                {
+                    "Text": "do the same for the left/front/negative , as well as the right/front/positive and right/front/negative wires ."
+                },
+                {
+                    "Text": "you can alternatively solder the connections together , or use connectors ."
+                },
+                {
+                    "Text": "i used wire caps to to connect everything and to make sure it worked , with the intent to solder the connections later . but after verifying that the speakers worked . . . well . . . they ''worked'' , so i didn't bother ."
+                }
+            ],
+            "Text_raw": "Take the Left/Front/Positive wire coming out of the radio and twist it together with the same wire going to the tweeter, as well as the one going to the front speaker. Then, use a wire cap to secure the wires together. Wrap the wire cap and wires with electrical tape. Do the same for the Left/Front/Negative, as well as the Right/Front/Positive and Right/Front/Negative wires. You can alternatively solder the connections together, or use [link|http://en.wikipedia.org/wiki/Crimp_connection|crimp connectors]. I used wire caps to to connect everything and to make sure it worked, with the intent to solder the connections later. But after verifying that the speakers worked... Well... They ''worked'', so I didn't bother.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/N3elwyLMCUJcpHTx.standard"
+            ],
+            "StepId": 12005,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 23,
+            "Lines": [
+                {
+                    "Text": "now , to install the speaker crossovers . . ."
+                },
+                {
+                    "Text": "cut the tweeter wires and strip them , just like before ."
+                },
+                {
+                    "Text": "this step assumes that the crossovers will be located in the center dash , and not elsewhere ."
+                }
+            ],
+            "Text_raw": "Now, to install the speaker crossovers... Cut the tweeter wires and strip them, just like before. This step assumes that the crossovers will be located in the center dash, and not elsewhere.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LIENCJmpga1TRYwm.standard"
+            ],
+            "StepId": 12007,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 24,
+            "Lines": [
+                {
+                    "Text": "insert the cut/stripped speaker wires on each side and use a phillips 2 screwdriver to secure them in place ."
+                },
+                {
+                    "Text": "make sure you connect the positive wire to the positive terminal , and the negative wire to the negative terminal ."
+                }
+            ],
+            "Text_raw": "Insert the cut/stripped speaker wires on each side and use a Philips #2 screwdriver to secure them in place. Make sure you connect the Positive wire to the Positive terminal, and the Negative wire to the Negative terminal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cwVgaLXZMUYwCnuC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2taJxMOjgqef1MMO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Gfj1SZaIIK5WLVAa.standard"
+            ],
+            "StepId": 12008,
+            "Tools_extracted": [
+                "wire stripper",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 25,
+            "Lines": [
+                {
+                    "Text": "carefully place the crossovers and wiring back into the dash , but don't close anything yet ."
+                }
+            ],
+            "Text_raw": "Carefully place the crossovers and wiring back into the dash, but don't close anything yet.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YQnx4m6Y1wOUsucE.standard"
+            ],
+            "StepId": 12009,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 26,
+            "Lines": [
+                {
+                    "Text": "insert the routed speaker wire into the tweeter ."
+                },
+                {
+                    "Text": "use the infinity-supplied hex wrench to secure the wire in place ."
+                }
+            ],
+            "Text_raw": "Insert the routed speaker wire into the tweeter. Use the Infinity-supplied hex wrench to secure   the wire in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NcCc5GhaQsDXjAe3.standard"
+            ],
+            "StepId": 12010,
+            "Tools_extracted": [
+                "wire stripper",
+                "10 mm wrench"
+            ]
+        },
+        {
+            "Order": 27,
+            "Lines": [
+                {
+                    "Text": "use a piece of cloth to secure the tweeters inside the hole . it will prevent them from rattling around ."
+                },
+                {
+                    "Text": "reconnect the car battery and turn on your favorite tunes . use the fader to switch left-to-right as well as front-to-back and ensure all speakers are functioning correctly ."
+                },
+                {
+                    "Text": "adjust your fader . there's much more sound coming from the front of the car after installation ."
+                },
+                {
+                    "Text": "the infinity 10.9t tweeters were a bit too big for the recess , so i left them as you see in the picture . i did not put the factory covers nor anything else over them ."
+                }
+            ],
+            "Text_raw": "Use a piece of cloth to secure the tweeters inside the hole. It will prevent them from rattling around. Reconnect the car battery and turn on your favorite tunes. Use the fader to switch left-to-right as well as front-to-back and ensure all speakers are functioning correctly. Adjust your fader. There's much more sound coming from the front of the car after installation. The Infinity 10.9t tweeters were a bit too big for the recess, so I left them as you see in the picture. I did not put the factory covers nor anything else over them.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hdYIRnekSuBrJZK5.standard"
+            ],
+            "StepId": 12011,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Tweeters"
+}

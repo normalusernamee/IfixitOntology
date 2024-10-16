@@ -1,0 +1,200 @@
+{
+    "Title": "1993 Nissan 300zx Air Filter Replacement",
+    "Ancestors": [
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 37727,
+    "Category": "Nissan",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "compressed air",
+            "Url": "http://www.amazon.com/CRC-Compressed-Air-Duster-05185/dp/B0002JMCEQ/ref=sr_1_6?s=automotive&ie=UTF8&qid=1407345044&sr=1-6&keywords=compressed+air",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "nail or other pointy object",
+            "Url": "/Item/Nail_%28or_other_pointy_object%29",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1993+Nissan+300zx+Air+Filter+Replacement/37727",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "start by removing the center nose panel which is located between the head lights ."
+                },
+                {
+                    "Text": "using the 10 mm socket , remove the 4 bolts . don't lose them !"
+                },
+                {
+                    "Text": "while lifting up slightly on the panel , pull/push it towards the engine ."
+                },
+                {
+                    "Text": "the panel should pop out of place . once removed , place it out of the way ."
+                }
+            ],
+            "Text_raw": "Start by removing the center nose panel which is located between the head lights. Using the 10mm socket, remove the 4 bolts. Don't lose them! While lifting up slightly on the panel, pull/push it towards the engine. The panel should \"pop\" out of place. Once removed, place it out of the way.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/41ZeQcWWuwsQO5NA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DZggxOEZO2jYlqhH.standard"
+            ],
+            "StepId": 85178,
+            "Tools_extracted": [
+                "10 mm wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "next , locate the connector for the mass airflow sensor ."
+                },
+                {
+                    "Text": "before disconnecting the sensor , you must first pop the metal clip holding the connector in place ."
+                },
+                {
+                    "Text": "using a pointy object ( a nail or screw will work fine ) , push the edge of the metal wire clip away from the center of the connector ."
+                },
+                {
+                    "Text": "now you may remove the connector ."
+                }
+            ],
+            "Text_raw": "Next, locate the connector for the mass airflow sensor. Before disconnecting the sensor, you must first pop the metal clip holding the connector in place. Using a pointy object (a nail or screw will work fine), push the edge of the metal wire clip away from the center of the connector. Now you may remove the connector.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FxEZNAH5lvEKQrZk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Mi3cTvHFZx21kCcu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lkV1yOWjRwUHR3jg.standard"
+            ],
+            "StepId": 85226,
+            "Tools_extracted": [
+                "nail or other pointy object"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "locate and remove the three screws holding the air box cover on ."
+                },
+                {
+                    "Text": "use a phillips head screwdriver to remove these screws ."
+                },
+                {
+                    "Text": "loosen the bolt that clamps the air hose to the air box . loosen the bolt until the clamp slides freely along the hose ."
+                },
+                {
+                    "Text": "use a phillips head screwdriver for this bolt as well ."
+                }
+            ],
+            "Text_raw": "Locate and remove the three screws holding the air box cover on. Use a phillips head screwdriver to remove these screws. Loosen the bolt that clamps the air hose to the air box. Loosen the bolt until the clamp slides freely along the hose. Use a phillips head screwdriver for this bolt as well.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/s2MecRSdVFwxfrRP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vTvOUVK2IqGRwVwk.standard"
+            ],
+            "StepId": 85231,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "locate the 4 clips holding down the air box cover . there are 2 on each side ."
+                },
+                {
+                    "Text": "using a flat head screwdriver , pop the clips up ."
+                },
+                {
+                    "Text": "once the clips have been popped up , flip the clips up so that they lie on top of the air box cover ."
+                }
+            ],
+            "Text_raw": "Locate the 4 clips holding down the air box cover. There are 2 on each side. Using a flat head screwdriver, pop the clips up. Once the clips have been popped up, flip the clips up so that they lie on top of the air box cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OOtAI3kfhOwBqr41.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RBfxSb1GKq4rwkcC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fbaoHrOUhYPaZDfA.standard"
+            ],
+            "StepId": 85232,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "it is time to remove the air box cover . slide a flat head screwdriver in between the air hose and where it attaches to the the air box cover ."
+                },
+                {
+                    "Text": "use the flat head screwdriver to push off the air hose while you move the air box cover out and down ."
+                },
+                {
+                    "Text": "the air box cover is now ready to be removed ."
+                },
+                {
+                    "Text": "wiggle the air box cover around while lifting up on it until it is completely removed ."
+                }
+            ],
+            "Text_raw": "It is time to remove the air box cover. Slide a flat head screwdriver in between the air hose and where it attaches to the the air box cover. Use the flat head screwdriver to push off the air hose while you move the air box cover out and down. The air box cover is now ready to be removed. Wiggle the air box cover around while lifting up on it until it is completely removed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mu1pCZRAvy1RTsFU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ky5sgfMxwYVnALIA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iLCjcKlwCXZkVnmQ.standard"
+            ],
+            "StepId": 85240,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "the air filters are now able to be removed . simply pull them out from where they sit ."
+                },
+                {
+                    "Text": "if the rubber seals around the filters are old , they might stick a little to the air box , but they will still pull out ."
+                },
+                {
+                    "Text": "once the air filters are removed , blow them out with compressed air ."
+                },
+                {
+                    "Text": "if you do not have access to compressed air , you can tap a lot of the dust out of the air filter just by tapping the air filter on your palm ."
+                },
+                {
+                    "Text": "the dust will be collected on the side of the air filter that faces away from you when the air filters are in the car ."
+                }
+            ],
+            "Text_raw": "The air filters are now able to be removed. Simply pull them out from where they sit. If the rubber seals around the filters are old, they might stick a little to the air box, but they will still pull out. Once the air filters are removed, blow them out with compressed air. If you do not have access to compressed air, you can tap a lot of the dust out of the air filter just by tapping the air filter on your palm. The dust will be collected on the side of the air filter that faces away from you when the air filters are in the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rvNr6TVKS3wOYURJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kcD4JaWJ4t1lXTDr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QQaLKPA3VnbhPRVa.standard"
+            ],
+            "StepId": 86332,
+            "Tools_extracted": [
+                "compressed air"
+            ]
+        }
+    ],
+    "Subject": "Air Filter"
+}

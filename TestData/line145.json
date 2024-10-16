@@ -1,0 +1,242 @@
+{
+    "Title": "How to Change Mercedes W123 Power Steering Fluid and Filter",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22549,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "turkey baster",
+            "Url": "https://www.amazon.com/Resistant-Baster-Rubber-measurement-Model/dp/B002U9JSIE/ref=sr_1_3?ie=UTF8&qid=1488061666&sr=8-3&keywords=turkey+baster+heat+resistant",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "http://www.ifixit.com/Tools/Large-Needle-Nose-Pliers/IF145-024",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xsuUhWaHMfDB6FnN.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+Change+Mercedes+W123+Power+Steering+Fluid+and+Filter/22549",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "jack up the front of the car so you can turn the steering wheel while the car is stationary ."
+                },
+                {
+                    "Text": "guide , if you need guidance on this ."
+                }
+            ],
+            "Text_raw": "Jack up the front of the car so you can turn the steering wheel while the car is stationary. [guide|22770|See the guide on jacking up your car], if you need guidance on this.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mAqhmYp1VYgsPaaI.standard"
+            ],
+            "StepId": 58935,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "to start the process of changing your power steering fluid , you'll need to remove the lid on the pump reservoir ."
+                },
+                {
+                    "Text": "if you want guidance on this , and on checking the fluid level , guide"
+                }
+            ],
+            "Text_raw": "To start the process of changing your power steering fluid, you'll need to remove the lid on the pump reservoir. If you want guidance on this, and on checking the fluid level, [guide|20570|see the guide on checking power steering fluid level.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6gJAXPElCJwhvpdR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YYFSdgNVxO6YHLbl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/22AVV116KeIYxueA.standard"
+            ],
+            "StepId": 58883,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "with the lid removed you can see that this fluid is a bit low , and is also very dark/dirty ."
+                }
+            ],
+            "Text_raw": "With the lid removed you can see that this fluid is a bit low, and is also very dark/dirty.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XXbiXBxDrV22uyNn.standard"
+            ],
+            "StepId": 58884,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the nut holding down the spring and plastic retainer , if present . on some cars , there is just a spring as shown in the second picture which should be removed ."
+                },
+                {
+                    "Text": "the nut on this car is a 10 mm ."
+                }
+            ],
+            "Text_raw": "Remove the nut holding down the spring and plastic retainer, if present. On some cars, there is just a spring as shown in the second picture which should be removed. The nut on this car is a 10mm.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iYgUBlZfbX1vW6ip.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ANYDjcRcNtFBIIFc.standard"
+            ],
+            "StepId": 58887,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "now use your fluid extractor , or turkey baster ( never use it in the kitchen again ! ) to remove enough fluid to get easy access to the filter ."
+                },
+                {
+                    "Text": "dispose of the fluid in your drain pan ."
+                }
+            ],
+            "Text_raw": "Now use your fluid extractor, or turkey baster (never use it in the kitchen again!) to remove enough fluid to get easy access to the filter. Dispose of the fluid in your drain pan.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Wc1Yx5igWLFMdJc5.standard"
+            ],
+            "StepId": 58889,
+            "Tools_extracted": [
+                "turkey baster",
+                "drain pan"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the filter using a pair of needle nose pliers ."
+                }
+            ],
+            "Text_raw": "Remove the filter using a pair of needle nose pliers.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lV4tMphDYPJEIwUs.standard"
+            ],
+            "StepId": 60021,
+            "Tools_extracted": [
+                "needlenose pliers"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "see how nasty this is ? this may be the original filter , almost 30 years old . . ."
+                },
+                {
+                    "Text": "nice fresh filter picture , ready for install ."
+                }
+            ],
+            "Text_raw": "See how nasty this is? This may be the original filter, almost 30 years old... Nice fresh filter picture, ready for install.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jCsTQdoDofBn4SHE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/g3txCbJLYLnlXSv3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kZHSq3B1CiQbllxW.standard"
+            ],
+            "StepId": 58890,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "with the filter out , you can remove the remainder of the fluid in the reservoir ."
+                }
+            ],
+            "Text_raw": "With the filter out, you can remove the remainder of the fluid in the reservoir.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/R3AxFGtPhxpok4sa.standard"
+            ],
+            "StepId": 58891,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "install your new filter . install it with the holes facing upwards , as shown ."
+                }
+            ],
+            "Text_raw": "Install your new filter. Install it with the holes facing upwards, as shown.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ObhoA1hUFWMEyIS1.standard"
+            ],
+            "StepId": 58892,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "replace the spring , retainer and nut over the filter and tighten down . the spring should still have some room to expand and contract but should be snug ."
+                },
+                {
+                    "Text": "fill the reservoir to the bottom of the metal rim around the top of the pump housing ."
+                },
+                {
+                    "Text": "this car is getting power steering fluid , instead of automatic transmission fluid . both are ok . the power steering fluid is clear ."
+                },
+                {
+                    "Text": "now , turn on the engine . be sure the car is in park or neutral first . turn the steering wheel left and right , as far as it will go , a few times to get out any air ."
+                },
+                {
+                    "Text": "top off the fluid as needed . never let the pump run dry ."
+                },
+                {
+                    "Text": "if your fluid is very dirty , simply repeat the process of sucking out fluid , putting the filter back in , filling the reservoir , and then running the engine and turning the wheel until it looks clean ."
+                }
+            ],
+            "Text_raw": "Replace the spring, retainer and nut over the filter and tighten down. The spring should still have some room to expand and contract but should be snug. Fill the reservoir to the bottom of the metal rim around the top of the pump housing. This car is getting power steering fluid, instead of automatic transmission fluid. Both are OK. The power steering fluid is clear. Now, turn on the engine. Be sure the car is in park or neutral first. Turn the steering wheel left and right, as far as it will go, a few times to get out any air. Top off the fluid as needed. Never let the pump run dry. If your fluid is very dirty, simply repeat the process of sucking out fluid, putting the filter back in, filling the reservoir, and then running the engine and turning the wheel until it looks clean.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ketjvNrGNkZDmQpX.standard"
+            ],
+            "StepId": 58893,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

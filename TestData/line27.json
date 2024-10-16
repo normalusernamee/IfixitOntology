@@ -1,0 +1,255 @@
+{
+    "Title": "2005-2007 Ford Focus Oil Change",
+    "Ancestors": [
+        "Ford Focus",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 6141,
+    "Category": "2005-2007 Ford Focus",
+    "Toolbox": [
+        {
+            "Name": "13 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-14145-8-Inch-Shallow-6-Point/dp/B000NY5CQK/ref=sr_1_1?ie=UTF8&qid=1488830200&sr=8-1&keywords=13mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "funnel",
+            "Url": "http://www.amazon.com/TEKTON-6093-Funnel-Set-4-Piece/dp/B003DN0RTA/ref=sr_1_1?s=hi&ie=UTF8&qid=1407340826&sr=1-1&keywords=funnel",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wheel chocks",
+            "Url": "https://www.amazon.com/gp/product/B008CE0R5E/ref=oh_aui_search_detailpage?ie=UTF8&psc=1",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2005+2006+2007+Ford+Focus+Oil+Change/6141",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "use ramps or jack stands to raise the front of the car and chock the rear wheels ."
+                },
+                {
+                    "Text": "remove the oil filler cap by rotating it 1 /4 turn counterclockwise and lifting it off the valve cover ."
+                }
+            ],
+            "Text_raw": "Use ramps or jack stands to raise the front of the car and chock the rear wheels. Remove the oil filler cap by rotating it 1/4 turn counterclockwise and lifting it off the valve cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WIDYJoVTNG1LLfsi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/L6WirQbpsJjpVMA3.standard"
+            ],
+            "StepId": 26707,
+            "Tools_extracted": [
+                "jack stand",
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate the oil pan drain plug underneath the car . it is a 13 mm hex bolt that faces towards the rear of the car ."
+                },
+                {
+                    "Text": "place an oil drain pan underneath the oil pan to catch the draining oil . remember to place it towards the rear of the car , since the oil will come out of the oil pan in a stream ."
+                },
+                {
+                    "Text": "be very cautious when working under a car that has been running recently , because the oil pan and transmission will be very hot ."
+                },
+                {
+                    "Text": "loosen the oil pan drain plug with a 13 mm socket wrench until it comes off and oil is draining out of the oil pan ."
+                },
+                {
+                    "Text": "watch for shiny specks in the draining oil . small metal flakes could mean a serious problem inside your engine ."
+                }
+            ],
+            "Text_raw": "Locate the oil pan drain plug underneath the car. It is a 13 mm hex bolt that faces towards the rear of the car. Place an oil drain pan underneath the oil pan to catch the draining oil. Remember to place it towards the rear of the car, since the oil will come out of the oil pan in a stream. Be very cautious when working under a car that has been running recently, because the oil pan and transmission will be very hot. Loosen the oil pan drain plug with a 13 mm socket wrench until it comes off and oil is draining out of the oil pan. Watch for shiny specks in the draining oil. Small metal flakes could mean a serious problem inside your engine.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aZGCgePD6SYynZIN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qtBjy2CYRQsVyveI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4AqvEG1cod2QgINa.standard"
+            ],
+            "StepId": 26708,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "this step is only necessary if you wish to flush all of the old oil from your engine . you may consider doing this if it has been an especially long time since your last oil change or if some foreign liquid has been poured into the filler hole ."
+                },
+                {
+                    "Text": "place a funnel in the oil fill hole in the valve cover ."
+                },
+                {
+                    "Text": "pour a quart of oil into the funnel and let all of it drain and collect in the oil drain pan ."
+                },
+                {
+                    "Text": "since very little of this oil will remain in your engine , you may want to use the least expensive oil you can find for this ."
+                }
+            ],
+            "Text_raw": "This step is only necessary if you wish to flush all of the old oil from your engine. You may consider doing this if it has been an especially long time since your last oil change or if some foreign liquid has been poured into the filler hole. Place a funnel in the oil fill hole in the valve cover. Pour a quart of oil into the funnel and let all of it drain and collect in the oil drain pan. Since very little of this oil will remain in your engine, you may want to use the least expensive oil you can find for this.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PXICPfdYMHC5HLTP.standard"
+            ],
+            "StepId": 26709,
+            "Tools_extracted": [
+                "funnel",
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "wipe off and replace the oil pan drain plug . use a moderate amount of force , but do not over-tighten the bolt ."
+                },
+                {
+                    "Text": "you can always tighten the bolt more if you notice oil leaking from the plug . a cracked oil pan , however , is a much more expensive repair ."
+                },
+                {
+                    "Text": "position the oil drain pan underneath the oil filter ."
+                }
+            ],
+            "Text_raw": "Wipe off and replace the oil pan drain plug. Use a moderate amount of force, but do not over-tighten the bolt. You can always tighten the bolt more if you notice oil leaking from the plug. A cracked oil pan, however, is a much more expensive repair. Position the oil drain pan underneath the oil filter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/C121EJAKNwADIc2D.standard"
+            ],
+            "StepId": 26710,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "turn the oil filter counterclockwise ( when looking up at it ) to remove it ."
+                },
+                {
+                    "Text": "if your filter is on too tight to loosen by hand , you may need to use an oil filter wrench or belt wrench to remove it ."
+                },
+                {
+                    "Text": "oil will begin to run down the sides of the oil filter . it is up to your discretion to either let it drain slowly this way or take the filter off quickly . keep in mind that no matter what , the filter itself will still have oil in it that must be drained ."
+                },
+                {
+                    "Text": "set the old filter in your oil drain pan with the gasket facing down to allow the oil to drain out of it ."
+                },
+                {
+                    "Text": "let the rest of the oil from the engine drain and collect in the oil drain pan ."
+                }
+            ],
+            "Text_raw": "Turn the oil filter counterclockwise (when looking up at it) to remove it. If your filter is on too tight to loosen by hand, you may need to use an oil filter wrench or belt wrench to remove it. Oil will begin to run down the sides of the oil filter. It is up to your discretion to either let it drain slowly this way or take the filter off quickly. Keep in mind that no matter what, the filter itself will still have oil in it that must be drained. Set the old filter in your oil drain pan with the gasket facing down to allow the oil to drain out of it. Let the rest of the oil from the engine drain and collect in the oil drain pan.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UXpqIdvRUKESeleD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/H4elfZW5IyjwGOAb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xDbuFI34eUZrGujN.standard"
+            ],
+            "StepId": 26711,
+            "Tools_extracted": [
+                "oil drain pan",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "apply a small amount of clean oil to the rubber gasket on the new oil filter ."
+                },
+                {
+                    "Text": "the use of gloves is highly recommended . if any oil gets on your skin , immediately wash your hands thoroughly ."
+                },
+                {
+                    "Text": "wipe off the oil filter mounting spot and install the new filter by rotating it clockwise until you cannot tighten it anymore ."
+                }
+            ],
+            "Text_raw": "Apply a small amount of clean oil to the rubber gasket on the new oil filter. The use of gloves is highly recommended. If any oil gets on your skin, immediately wash your hands thoroughly. Wipe off the oil filter mounting spot and install the new filter by rotating it clockwise until you cannot tighten it anymore.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/R1WWRPfRGYVLG3KN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FdZuFrSOKINU1CMH.standard"
+            ],
+            "StepId": 26712,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "pour five quarts of 5 w-20 oil into a funnel in the oil fill hole ."
+                },
+                {
+                    "Text": "reinstall the oil filler cap by turning it 1 /4 turn clockwise ."
+                },
+                {
+                    "Text": "start your car and let it run . check for leaking oil underneath the car . if you notice any leaks , tighten the drain plug , being careful not to over-tighten it and crack the oil pan ."
+                },
+                {
+                    "Text": "close the hood and lower the car back to the ground : you're done !"
+                }
+            ],
+            "Text_raw": "Pour five quarts of 5W-20 oil into a funnel in the oil fill hole. Reinstall the oil filler cap by turning it 1/4 turn clockwise. Start your car and let it run. Check for leaking oil underneath the car. If you notice any leaks, tighten the drain plug, being careful not to over-tighten it and crack the oil pan. Close the hood and lower the car back to the ground: you're done!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SKx5RaKUGQQfnqTm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xxVnfZVOKNTLawOt.standard"
+            ],
+            "StepId": 26713,
+            "Tools_extracted": [
+                "funnel",
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 7,
+            "Tools_annotated": [
+                "oil drain pan"
+            ],
+            "Lines": [
+                {
+                    "Text": "allow 12-24 hours for all of the oil to drain out of the old oil filter ."
+                },
+                {
+                    "Text": "take your old oil and filter to a recycling facility . most auto parts stores and repair shops accept these at no charge to you . in addition , some cities and/or counties have a service where they will collect used oil and filters from your home . for more information , see the american petroleum institute's web page on motor oil collection and recycling ."
+                }
+            ],
+            "Text_raw": "Allow 12-24 hours for all of the oil to drain out of the old oil filter. Take your old oil and filter to a recycling facility. Most auto parts stores and repair shops accept these at no charge to you. In addition, some cities and/or counties have a service where they will collect used oil and filters from your home. For more information, see the American Petroleum Institute's web page on [http://www.recycleoil.org/|used motor oil collection and recycling].",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FWOEYCM5dneZMqfc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CZbJpxGOvChK2Chl.standard"
+            ],
+            "StepId": 26714,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        }
+    ],
+    "Subject": ""
+}

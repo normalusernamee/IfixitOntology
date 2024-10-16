@@ -1,0 +1,140 @@
+{
+    "Title": "Sony CDX-GT540UI Front Panel Replacement",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 30420,
+    "Category": "Sony CDX-GT540UI",
+    "Toolbox": [
+        {
+            "Name": "ph00 phillips screwdriver",
+            "Url": "https://www.ifixit.com/Store/Parts/Phillips-00-Screwdriver/IF145-006",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/rLfPqcRxAVqNxfwc.mini"
+        },
+        {
+            "Name": "opening tool",
+            "Url": "https://www.ifixit.com/Store/Parts/iFixit-Opening-Tool/IF145-335",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Sony+CDX-GT540UI+Front+Panel+Replacement/30420",
+    "Steps": [
+        {
+            "Order": 0,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "locate face-plate eject button ."
+                }
+            ],
+            "Text_raw": "Locate face-plate eject button.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KNVo5iatKXwZGD6D.standard"
+            ],
+            "StepId": 71247,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "press the eject button ."
+                },
+                {
+                    "Text": "remove the face-plate ."
+                }
+            ],
+            "Text_raw": "Press the eject button. Remove the face-plate.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LOo4eLTeiOIXk1Lv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xJrVoasoi6ZaiVOB.standard"
+            ],
+            "StepId": 71249,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Tools_annotated": [
+                "ph00 phillips screwdriver"
+            ],
+            "Lines": [
+                {
+                    "Text": "remove two 4.9 mm phillips 00 screws on the front of the device ."
+                },
+                {
+                    "Text": "remove two 7.5 mm phillips 00 screws on the front of the device ."
+                },
+                {
+                    "Text": "when the screws are removed , the eject lever may fall into the device . make sure the device is held horizontal and level ."
+                }
+            ],
+            "Text_raw": "Remove two 4.9mm Phillips #00screws on the front of the device. Remove two 7.5mm Phillips #00screws on the front of the device. When the screws are removed, the eject lever may fall into the device. Make sure the device is held horizontal and level.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZXDhKBfdrweVCpIe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nKLFtqtNKtIqrDgC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FnhCTrAQhTBcRyDP.standard"
+            ],
+            "StepId": 71252,
+            "Tools_extracted": [
+                "ph00 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Tools_annotated": [
+                "opening tool"
+            ],
+            "Lines": [
+                {
+                    "Text": "rotate device 90 degrees to either side ."
+                },
+                {
+                    "Text": "use the plastic opening tool to pry open the top and bottom tab respectively ."
+                },
+                {
+                    "Text": "repeat on opposite side ."
+                }
+            ],
+            "Text_raw": "Rotate device 90 degrees to either side. Use the plastic opening tool to pry open the top and bottom tab respectively. Repeat on opposite side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3VOHYRZTaZkojNSF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fpRlV2jx6tqHRovQ.standard"
+            ],
+            "StepId": 71255,
+            "Tools_extracted": [
+                "opening tool"
+            ]
+        },
+        {
+            "Order": 4,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "remove front panel ."
+                }
+            ],
+            "Text_raw": "Remove front panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/duckXUraPxKLY4QE.standard"
+            ],
+            "StepId": 71257,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Front Panel"
+}

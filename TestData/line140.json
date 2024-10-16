@@ -1,0 +1,263 @@
+{
+    "Title": "Mercedes W123 Brake Caliper, Front Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 21533,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "3 8 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_1?ie=UTF8&qid=1487787284&sr=8-1&keywords=3+8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-Shallow-Socket-6-Point/dp/B000NPULD8/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "smart wrench",
+            "Url": "/Item/Smart_Wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Brake+Caliper+Front+Replacement/21533",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "you will need to remove your wheels before you start ."
+                },
+                {
+                    "Text": "before beginning on removal of the calipers you should drain the brake fluid from them ."
+                },
+                {
+                    "Text": "this is done through the bleed screw on each caliper ."
+                },
+                {
+                    "Text": "loosen this and let it drain in to a proper drain pan ."
+                }
+            ],
+            "Text_raw": "You will need to remove your wheels before you start. Before beginning on removal of the calipers you should drain the brake fluid from them. This is done through the bleed screw on each caliper. Loosen this and let it drain in to a proper drain pan.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/l14Qa6EA45ysupTM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6DyALqMsH66yEUJU.standard"
+            ],
+            "StepId": 57516,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "several items need to be disconnected from the front caliper before it can be removed ."
+                },
+                {
+                    "Text": "the first is the wiring harness for the brake pad sensors ."
+                },
+                {
+                    "Text": "use a 10 mm wrench to remove the bolt and washer holding it to the caliper ."
+                },
+                {
+                    "Text": "then unplug the ends of the sensors from the harness ."
+                },
+                {
+                    "Text": "let the harness hang up and out of the way ."
+                }
+            ],
+            "Text_raw": "Several items need to be disconnected from the front caliper before it can be removed. The first is the wiring harness for the brake pad sensors. Use a 10mm wrench to remove the bolt and washer holding it to the caliper. Then unplug the ends of the sensors from the harness. Let the harness hang up and out of the way.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RnmLgYhZLkDRJ1XS.standard"
+            ],
+            "StepId": 57517,
+            "Tools_extracted": [
+                "wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "next you will need to remove the soft rubber brake hoses ."
+                },
+                {
+                    "Text": "you will have to start by disconnecting the rubber hose from the hard line connection up inside the fender well . then you can loosen it from the caliper and remove the line . this takes a 14 mm wrench for the soft hose and an 11 mm wrench for the brake line ."
+                },
+                {
+                    "Text": "for more information and tips on removing these lines , guide"
+                },
+                {
+                    "Text": "speaking of the rubber hoses , this is a great time to replace them with new parts if they show signs of age since they are already off of the car ."
+                }
+            ],
+            "Text_raw": "Next you will need to remove the soft rubber brake hoses. You will have to start by disconnecting the rubber hose from the hard line connection up inside the fender well. Then you can loosen it from the caliper and remove the line. This takes a 14mm wrench for the soft hose and an 11 mm wrench for the brake line. For more information and tips on removing these lines, [guide|21345|see the brake hose replacement guide.] Speaking of the rubber hoses, this is a great time to replace them with new parts if they show signs of age since they are already off of the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Zdn1hNbOIvNlcBi5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bffeVgPaDUZYCYYp.standard"
+            ],
+            "StepId": 57518,
+            "Tools_extracted": [
+                "wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "next use a large ratchet wrench with a 19 mm socket to remove the two bolts that hold the caliper to the steering knuckle ."
+                },
+                {
+                    "Text": "these bolts are in very tight , and had thread locker on them from the factory , so you may need a very long wrench or a breaker bar in order to get enough leverage to remove these two bolts ."
+                },
+                {
+                    "Text": "hold on to the caliper as you remove the second of the two bolts so it doesn't fall when you remove the bolt ."
+                }
+            ],
+            "Text_raw": "Next use a large ratchet wrench with a 19mm socket to remove the two bolts that hold the caliper to the steering knuckle. These bolts are in very tight, and had thread locker on them from the factory, so you may need a very long wrench or a breaker bar in order to get enough leverage to remove these two bolts. Hold on to the caliper as you remove the second of the two bolts so it doesn't fall when you remove the bolt.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ccr2IIdpVqZXOKWM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QeGPlbN3iJQpK4Vc.standard"
+            ],
+            "StepId": 57519,
+            "Tools_extracted": [
+                "socket 19 mm",
+                "wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "after you have completed your work on the caliper , such as removing the old pads , and cleaning them up , they can be re-installed . or , if you have new calipers , this is the time to install them ."
+                },
+                {
+                    "Text": "before installing the caliper bolts be sure to apply some thread locker to them . use the blue thread locker than can be removed with hand tools , not the red thread locker as that needs heat to remove ."
+                },
+                {
+                    "Text": "hold the caliper up on the rotor and line the holes in the caliper up with the bolt holes in the steering knuckle . get the first bolt started by hand ."
+                },
+                {
+                    "Text": "then , start the second bolt by hand as well . doing so helps ensure they do not become cross-threaded ."
+                }
+            ],
+            "Text_raw": "After you have completed your work on the caliper, such as removing the old pads, and cleaning them up, they can be re-installed. Or, if you have new calipers, this is the time to install them. Before installing the caliper bolts be sure to apply some thread locker to them. Use the blue thread locker than can be removed with hand tools, not the red thread locker as that needs heat to remove. Hold the caliper up on the rotor and line the holes in the caliper up with the bolt holes in the steering knuckle. Get the first bolt started by hand. Then, start the second bolt by hand as well. Doing so helps ensure they do not become cross-threaded.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/edbJhK3YIqPrv3bD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PkTjuZhakjWmr5Hr.standard"
+            ],
+            "StepId": 57520,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "then tighten the bolts down until they seat against the caliper . do not tighten them all the way down with the normal ratchet wrench ."
+                }
+            ],
+            "Text_raw": "Then tighten the bolts down until they seat against the caliper. Do not tighten them all the way down with the normal ratchet wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YnDJWUY3cBLTEyTq.standard"
+            ],
+            "StepId": 57521,
+            "Tools_extracted": [
+                "3 8 drive ratchet"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "switch your 19 mm socket to a large 1 /2 inch drive torque wrench . torque both of the caliper bolts down to 115 nm/85 lb-ft ."
+                }
+            ],
+            "Text_raw": "Switch your 19mm socket to a large 1/2 inch drive torque wrench. Torque both of the caliper bolts down to 115 nm/85 lb-ft.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KSvbOH6CdAqNj16T.standard"
+            ],
+            "StepId": 57522,
+            "Tools_extracted": [
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "re-attach the sensor harness and insert the sensors back in to the connectors on the harness ."
+                }
+            ],
+            "Text_raw": "Re-attach the sensor harness and insert the sensors back in to the connectors on the harness.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FdIj2KYK5Scrgyrg.standard"
+            ],
+            "StepId": 57523,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "re-attach the brake hoses , starting at the calipers and then attaching them to the hard lines ."
+                },
+                {
+                    "Text": "before you drive the car you must bleed your brakes of air since you opened up the system . never drive the car without bleeding after you've worked on the lines , or calipers . guide"
+                }
+            ],
+            "Text_raw": "Re-attach the brake hoses, starting at the calipers and then attaching them to the hard lines. Before you drive the car you must bleed your brakes of air since you opened up the system. Never drive the car without bleeding after you've worked on the lines, or calipers. [guide|21442|See the brake flush/bleeding guide.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nGK6bpZi6gwZWDmU.standard"
+            ],
+            "StepId": 57524,
+            "Tools_extracted": [
+                "3 8 drive ratchet"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "an important note - if you are removing and replacing the front and rear calipers at the same time be sure to keep the front and rear bolts separate ."
+                },
+                {
+                    "Text": "this is because they are different designs . while you can use the rear bolts on the front calipers , the front bolts will not fit on the rear calipers ."
+                },
+                {
+                    "Text": "front bolt , with a shoulder"
+                },
+                {
+                    "Text": "rear bolt , no shoulder , all thread"
+                }
+            ],
+            "Text_raw": "An important note - if you are removing and replacing the front and rear calipers at the same time be sure to keep the front and rear bolts separate. This is because they are different designs. While you can use the rear bolts on the front calipers, the front bolts will not fit on the rear calipers. Front bolt, with a shoulder Rear bolt, no shoulder, all thread",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BcAmcSqHPcRjOPEM.standard"
+            ],
+            "StepId": 57525,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Brake Caliper, Front"
+}

@@ -1,0 +1,202 @@
+{
+    "Title": "How to fix Mercedes W123 \"screw open\" style window regulator",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20483,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "electrical device cleaner",
+            "Url": "/Item/Electrical_Device_Cleaner",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "silicone grease",
+            "Url": "http://www.amazon.com/Super-Lube-Multi-Purpose-Grease-Syncolon/dp/B0037QG4BS/ref=sr_1_4?ie=UTF8&qid=1387820366&sr=8-4&keywords=superlube",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+fix+Mercedes+W123+%22screw+open%22+style+window+regulator/20483",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "to access and perform maintenance and repair on your power window regulator motors you will of course first need to remove the regulator . for the rear window regulators , guide ."
+                },
+                {
+                    "Text": "you will then need to remove the motor from the regulator by first removing the three 10 mm bolts that attach it in place ."
+                }
+            ],
+            "Text_raw": "To access and perform maintenance and repair on your power window regulator motors you will of course first need to remove the regulator. For the rear window regulators, [guide|20428|click here to review the removal guide]. You will then need to remove the motor from the regulator by first removing the three 10mm bolts that attach it in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mcVIMHcEZiZB4Gc2.standard"
+            ],
+            "StepId": 56434,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "before starting this guide , confirm that you are reviewing the guide for the correct motor type for your situation . this guide covers the screw open style of motor , as seen on the right . if you have a drill open style of motor as seen on the left guide ."
+                }
+            ],
+            "Text_raw": "Before starting this guide, confirm that you are reviewing the guide for the correct motor type for your situation. This guide covers the \"Screw Open\" style of motor, as seen on the right. If you have a \"Drill Open\" style of motor as seen on the left [guide|20484|click here to review this guide instead].",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tvJpQrOob31bhBrW.standard"
+            ],
+            "StepId": 56433,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the three flat-head screws on the rear cover of the gear housing ."
+                }
+            ],
+            "Text_raw": "Remove the three flat-head screws on the rear cover of the gear housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SRwFFa6ftwMfj1QG.standard"
+            ],
+            "StepId": 56425,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "using a flat-blade screwdriver or other appropriate tool , pry the cover off the back of the gear housing and set it aside ."
+                },
+                {
+                    "Text": "there is a plastic gasket between the housing and the cover , so you'll want to watch for that and set it aside with the cover ."
+                },
+                {
+                    "Text": "with the cover removed you'll see :"
+                },
+                {
+                    "Text": "the worm gear that the electric motor turns and ,"
+                },
+                {
+                    "Text": "the main gear the turns the outer gear which then moves the regulator"
+                }
+            ],
+            "Text_raw": "Using a flat-blade screwdriver or other appropriate tool, pry the cover off the back of the gear housing and set it aside. There is a plastic gasket between the housing and the cover, so you'll want to watch for that and set it aside with the cover. With the cover removed you'll see: The worm gear that the electric motor turns and, The main gear the turns the outer gear which then moves the regulator",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HjMh6YTJjyE6s4Nr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DQHfOVlWgapGHCRn.standard"
+            ],
+            "StepId": 56426,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "pull the black plastic electric motor cover away from the gear housing . it does not attach , it's held in place by friction , so a steady pull should move it ."
+                }
+            ],
+            "Text_raw": "Pull the black plastic electric motor cover away from the gear housing. It does not attach, it's held in place by friction, so a steady pull should move it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TH1yl1pVSWp5iTxT.standard"
+            ],
+            "StepId": 56427,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "place the electric motor portion of the device over a container that can catch drips as you clean it ."
+                },
+                {
+                    "Text": "thoroughly spray the motor with electrical cleaner ."
+                }
+            ],
+            "Text_raw": "Place the electric motor portion of the device over a container that can catch drips as you clean it. Thoroughly spray the motor with electrical cleaner.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wNGDTbxHFWRLVqkA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3fFlRZd4fbEFHs3f.standard"
+            ],
+            "StepId": 56428,
+            "Tools_extracted": [
+                "electrical device cleaner"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "inspect the gears , especially the large plastic gear , for severe wear such as broken teeth . this would lead to needing a new or good used motor . if they look like the one on this motor , they can simply be re-greased ."
+                },
+                {
+                    "Text": "this particular motor would definitely benefit from a good greasing ; you can see that there is not much grease left and what is there is clumped in one area ."
+                }
+            ],
+            "Text_raw": "Inspect the gears, especially the large plastic gear, for severe wear such as broken teeth. This would lead to needing a new or good used motor. If they look like the one on this motor, they can simply be re-greased. This particular motor would definitely benefit from a good greasing; you can see that there is not much grease left and what is there is clumped in one area.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UHrBKxAWaZiPYC6E.standard"
+            ],
+            "StepId": 56429,
+            "Tools_extracted": [
+                "silicone grease"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "use a good synthetic grease , like silicone based superlube . do not use petroleum based greases like vaseline or moly grease as oil based products can damage plastic and rubber parts ."
+                },
+                {
+                    "Text": "use your finger or , better yet , a grease syringe to thoroughly lubricate the plastic gear teeth and the worm gear ."
+                }
+            ],
+            "Text_raw": "Use a good synthetic grease, like silicone based SuperLube. Do not use petroleum based greases like vaseline or moly grease as oil based products can damage plastic and rubber parts. Use your finger or, better yet, a grease syringe to thoroughly lubricate the plastic gear teeth and the worm gear.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gKPZWWZpuvSlnSFd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6iivHDpLG3RHKYjL.standard"
+            ],
+            "StepId": 56430,
+            "Tools_extracted": [
+                "silicone grease"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "before re-installing the cover , apply a small amount of silicone grease to the plastic gasket to help it re-seal well ."
+                }
+            ],
+            "Text_raw": "Before re-installing the cover, apply a small amount of silicone grease to the plastic gasket to help it re-seal well.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qWuAHpZAWSttHIBs.standard"
+            ],
+            "StepId": 56431,
+            "Tools_extracted": [
+                "silicone grease"
+            ]
+        }
+    ],
+    "Subject": ""
+}

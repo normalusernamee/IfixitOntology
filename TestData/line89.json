@@ -1,0 +1,174 @@
+{
+    "Title": "How to optimize the timing of your 1965-1969 Chevrolet Corvair ignition",
+    "Ancestors": [
+        "Chevrolet Corvair",
+        "Chevrolet",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11279,
+    "Category": "1965-1969 Chevrolet Corvair",
+    "Toolbox": [
+        {
+            "Name": "9 16 wrench",
+            "Url": "http://www.amazon.com/TEKTON-21511-16-Inch-Combination-Wrench/dp/B000NPUL4W/ref=sr_1_2?ie=UTF8&qid=1407874131&sr=8-2&keywords=9%2F16%22+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "stroboscopic timing light",
+            "Url": "http://www.newegg.com/Product/Product.aspx?Item=9ATBCCX0050269&nm_mc=KNC-GoogleAdwords&cm_mmc=KNC-GoogleAdwords-_-pla-_-NA-_-NA",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+optimize+the+timing+of+your+1965+1966+1967+1968+1969+Chevrolet+Corvair+ignition/11279",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "attach stroboscopic timing light to the battery"
+                },
+                {
+                    "Text": "negative ( black ) lead attaches first"
+                },
+                {
+                    "Text": "then attach the positive ( red ) lead"
+                }
+            ],
+            "Text_raw": "Attach stroboscopic timing light to the battery Negative (black) lead attaches first Then attach the positive (red) lead",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qH5DNnwIvC2Pka24.standard"
+            ],
+            "StepId": 40404,
+            "Tools_extracted": [
+                "stroboscopic timing light"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "attach stroboscopic timing light's current sensor to the wire leading to cylinder 1"
+                },
+                {
+                    "Text": "you can identify the cylinder by the printed number ."
+                },
+                {
+                    "Text": "the current sensor attaches around the wire leading out of the cylinder ."
+                }
+            ],
+            "Text_raw": "Attach stroboscopic timing light's current sensor to the wire leading to Cylinder #1 You can identify the cylinder by the printed number. The current sensor attaches around the wire leading out of the cylinder.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/b5vu2XSvFvZEj5EU.standard"
+            ],
+            "StepId": 42322,
+            "Tools_extracted": [
+                "stroboscopic timing light"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "using a 9 /16 inch wrench , loosen the distributor adjustment bolt and leave the wrench in place"
+                }
+            ],
+            "Text_raw": "Using a 9/16 inch wrench, loosen the distributor adjustment bolt and leave the wrench in place",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pSpRAHqnonN6eL4C.standard"
+            ],
+            "StepId": 40416,
+            "Tools_extracted": [
+                "9 16 wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "start the engine"
+                },
+                {
+                    "Text": "remove the vacuum advance hose from the carburetor and plug it"
+                },
+                {
+                    "Text": "you are now ready to begin reading the timing"
+                }
+            ],
+            "Text_raw": "Start the engine Remove the vacuum advance hose from the carburetor and plug it You are now ready to begin reading the timing",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gwhqFrBOinK4trsd.standard"
+            ],
+            "StepId": 40407,
+            "Tools_extracted": [
+                "stroboscopic timing light"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "point the timing light at the timing scale"
+                },
+                {
+                    "Text": "the light will strobe when the cylinder fires and a mark on the crank shaft pulley will become visible ."
+                },
+                {
+                    "Text": "the mark will appear next to the timing scale . the mark next to the timing scale indicates where the timing is currently set ."
+                },
+                {
+                    "Text": "there are numbers on the scale , although they may be faded , and your timing value will likely be in between the marked values"
+                },
+                {
+                    "Text": "the scale contains major marks at 0 , 8 , and 16 with minor marks at 4 and 12 before top dead center ( btdc )"
+                },
+                {
+                    "Text": "all models will have differing timing values depending on the year and transmission ."
+                },
+                {
+                    "Text": "our model-year was 1965 which has an ideal timing value of 14 degrees btdc ( in between 12 and 16 marks )"
+                },
+                {
+                    "Text": "for other model-years , consult the list of timing values provided"
+                }
+            ],
+            "Text_raw": "Point the timing light at the timing scale The light will strobe when the cylinder fires and a mark on the crank shaft pulley will become visible. The mark will appear next to the timing scale. The mark next to the timing scale indicates where the timing is currently set. There are numbers on the scale, although they may be faded, and your timing value will likely be in between the marked values The scale contains major marks at 0, 8, and 16 with minor marks at 4 and 12 Before Top Dead Center (BTDC) All models will have differing timing values depending on the year and transmission. Our model-year was 1965 which has an ideal timing value of 14 degrees BTDC (in between 12 and 16 marks) For other model-years, consult the list of timing values provided [http://autoxer.skiblack.com/nallm/disdata.jpg|here]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sEmMZfJaSjsHXkN2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xdvqZQr1OD6R5SbT.standard"
+            ],
+            "StepId": 40411,
+            "Tools_extracted": [
+                "9 16 wrench",
+                "stroboscopic timing light"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "now that you know what your timing is currently set to , and you have looked up what it should be set at , you are ready to adjust the distributor to correct any differences ."
+                },
+                {
+                    "Text": "grab the distributor and , while watching the timing mark as explained previously , rotate it '''''slowly''''' to one side or the other . continue rotating until the timing mark is in the correct position . refer to step 4 for how to read the timing mark ."
+                },
+                {
+                    "Text": "you must turn very slowly , otherwise you can go outside of the acceptable timing range and severely damage your engine ."
+                },
+                {
+                    "Text": "carefully tighten the 9 /16 locking bolt , and remove the wrench , making sure not to accidently rotate the distributor or contact the spinning pulley and belt ."
+                }
+            ],
+            "Text_raw": "Now that you know what your timing is currently set to, and you have looked up what it should be set at, you are ready to adjust the distributor to correct any differences. Grab the distributor and, while watching the timing mark as explained previously, rotate it '''''slowly''''' to one side or the other. Continue rotating until the timing mark is in the correct position. Refer to step 4 for how to read the timing mark. You must turn very slowly, otherwise you can go outside of the acceptable timing range and severely damage your engine. Carefully tighten the 9/16 locking bolt, and remove the wrench, making sure not to accidently rotate the distributor or contact the spinning pulley and belt.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SlRt2etmN2iRcFrm.standard"
+            ],
+            "StepId": 40415,
+            "Tools_extracted": [
+                "9 16 wrench",
+                "stroboscopic timing light"
+            ]
+        }
+    ],
+    "Subject": ""
+}

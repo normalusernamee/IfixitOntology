@@ -1,0 +1,215 @@
+{
+    "Title": "1984-1989 Toyota 4Runner Idler Arm Replacement",
+    "Ancestors": [
+        "Toyota 4Runner",
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 53763,
+    "Category": "1984-1989 Toyota 4Runner",
+    "Toolbox": [
+        {
+            "Name": "wheel chocks",
+            "Url": "https://www.amazon.com/gp/product/B008CE0R5E/ref=oh_aui_search_detailpage?ie=UTF8&psc=1",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hammer",
+            "Url": "http://www.amazon.com/dp/B0000224VG/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "https://www.ifixit.com/Store/Tools/Large-Needle-Nose-Pliers/IF145-024",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xsuUhWaHMfDB6FnN.mini"
+        },
+        {
+            "Name": "penetrating lubricant",
+            "Url": "http://www.amazon.com/Blaster-16-PB-Penetrating-Catalyst-oz/dp/B000I2079E/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889196&sr=1-1&keywords=PB+blaster",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "safety glasses",
+            "Url": "http://www.ifixit.com/Tools/Safety-Glasses/IF145-125",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/VCJJ1SfK1pneiLkY.mini"
+        },
+        {
+            "Name": "latex or nitrile gloves",
+            "Url": "http://www.amazon.com/dp/B00J084MHA/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "17 mm box end wrench",
+            "Url": "/Item/17_mm_Box_End_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431007052&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "17 mm socket",
+            "Url": "/Item/17_mm_Socket_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 2 drive breaker bar",
+            "Url": "https://www.amazon.com/Neiko-00206A-Drive-Premium-Breaker/dp/B001222378/ref=sr_1_2?ie=UTF8&qid=1487799347&sr=8-2&keywords=1+2+breaker+bar",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1984+1985+1986+1987+1988+1989+Toyota+4Runner+Idler+Arm+Replacement/53763",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "first the truck should be prepared to be worked on ."
+                },
+                {
+                    "Text": "disconnect the negative battery terminal from the battery in order to be sure that no electrical current is running through the truck ."
+                },
+                {
+                    "Text": "set the parking break and put the truck in 1 st gear ."
+                },
+                {
+                    "Text": "be sure to chock the wheels , so that it will not roll while you are underneath ."
+                }
+            ],
+            "Text_raw": "First the truck should be prepared to be worked on. Disconnect the negative battery terminal from the battery in order to be sure that no electrical current is running through the truck. Set the parking break and put the truck in 1st gear. Be sure to chock the wheels, so that it will not roll while you are underneath.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Pul5mdTcsIko1SRd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PlqovqHMWCJMb3KS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1pR3DHGXykFbF1bj.standard"
+            ],
+            "StepId": 118667,
+            "Tools_extracted": [
+                "wheel chocks",
+                "1 2 drive breaker bar"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate the idler arm ."
+                },
+                {
+                    "Text": "it can be found underneath the vehicle , next to the front passenger tire bolted onto the frame ."
+                }
+            ],
+            "Text_raw": "Locate the idler arm. It can be found underneath the vehicle, next to the front passenger tire bolted onto the frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QmIA1bqWSAqFIpKZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/orhCDo1wcEdoSZVm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oS6nYcT1okQwVGLk.standard"
+            ],
+            "StepId": 118674,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "the first step is to remove the set nut holding the arm to the relay rod ."
+                },
+                {
+                    "Text": "begin with cleaning any oil and dirt from the set nut and then spray with the penetrating lubricant ."
+                },
+                {
+                    "Text": "once the spray has sat for 5 minutes , use needle nose pliers to straighten the cotter pin and pull it out ."
+                },
+                {
+                    "Text": "during reassembly , never reuse a cotter pin . a new one should be included in a new arm . if a new arm is not purchased then one can be purchased from an auto parts store ."
+                },
+                {
+                    "Text": "remove the set nut using a 19 mm socket ."
+                },
+                {
+                    "Text": "when installing the arm this nut should be torqued to 43 ft . -lb ."
+                }
+            ],
+            "Text_raw": "The first step is to remove the set nut holding the arm to the relay rod. Begin with cleaning any oil and dirt from the set nut and then spray with the penetrating lubricant. Once the spray has sat for 5 minutes, use needle nose pliers to straighten the cotter pin and pull it out. During reassembly, never reuse a cotter pin. A new one should be included in a new arm. If a new arm is not purchased then one can be purchased from an auto parts store. Remove the set nut using a 19 mm socket. When  installing the arm this nut should be torqued to 43 ft.-lb.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AwQQahPOcARkZVS5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XSnaY3smuDVU6wQL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/m4pqvCFFOJLwXS6X.standard"
+            ],
+            "StepId": 118668,
+            "Tools_extracted": [
+                "socket 19 mm",
+                "needlenose pliers",
+                "penetrating lubricant"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "now that the relay rods are disconnected , the arm can be unbolted from the frame ."
+                },
+                {
+                    "Text": "spray both the bolts and the nuts with the penetrating lubricant ."
+                },
+                {
+                    "Text": "on the bolt head use the breaker bar and 17 mm socket ; put the 17 mm box wrench on the nut on the back side of the arm ."
+                },
+                {
+                    "Text": "the wrench will get stuck on the frame and the breaker bar can then be used to break the rust off the bolt holding it onto the frame ."
+                },
+                {
+                    "Text": "once the bolt is loose a socket wrench can replace the breaker bar to make the job easier ."
+                },
+                {
+                    "Text": "the ( 2 ) 4 1 /4 bolts go on either side of the arm . the ( 1 ) 3 1 /2 bolt goes at the top ."
+                },
+                {
+                    "Text": "all three bolts should be torqued to 70 ft-lb when putting the arm back on ."
+                }
+            ],
+            "Text_raw": "Now that the relay rods are disconnected, the arm can be unbolted from the frame. Spray both the bolts and the nuts with the penetrating lubricant. On the bolt head use the breaker bar and 17 mm socket; put the 17 mm box wrench on the nut on the back side of the arm. The wrench will get stuck on the frame and the breaker bar can then be used to break the rust off the bolt holding it onto the frame. Once the bolt is loose a socket wrench can replace the breaker bar to make the job easier. The (2) 4 1/4\"  bolts go on either side of the arm. The (1) 3 1/2\" bolt goes at the top. All three bolts should be torqued to 70 ft-lb when putting the arm back on.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AS6VNeI6mXDkJGrc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ANJIh2U2e5iIEmLJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YgsmJHWDLfnBQ5Eq.standard"
+            ],
+            "StepId": 118672,
+            "Tools_extracted": [
+                "1 2 drive breaker bar",
+                "penetrating lubricant",
+                "17 mm socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "to separate the arm from the relay rods , a hammer may be used to gently tap up on the idler arm ."
+                },
+                {
+                    "Text": "do not hit down on the relay rods ; doing so may cause damage and require them to be replaced ."
+                },
+                {
+                    "Text": "a pitman arm puller can be used if the hammer is not able to knock it loose ."
+                },
+                {
+                    "Text": "the idler arm can now be removed from the frame ."
+                }
+            ],
+            "Text_raw": "To separate the arm from the relay rods, a hammer may be used to gently tap up on the idler arm. Do not hit down on the relay rods; doing so may cause damage and require them to be replaced. A pitman arm puller can be used if the hammer is not able to knock it loose. The idler arm can now be removed from the frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XUx4NXgOZJE5TlIG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/P2s1sFMBCGNBxsBu.standard"
+            ],
+            "StepId": 118673,
+            "Tools_extracted": [
+                "hammer"
+            ]
+        }
+    ],
+    "Subject": "Idler Arm"
+}

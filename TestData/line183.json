@@ -1,0 +1,261 @@
+{
+    "Title": "Mercedes W123 Wood Trim Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 32117,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "utility knife",
+            "Url": "https://www.ifixit.com/Store/Parts/Utility-Knife/IF145-185",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Wood+Trim+Replacement/32117",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "looking at these two pictures , you can see that the wood on this w123 has seen better days ."
+                },
+                {
+                    "Text": "first , at some point someone painted the wood trim around the climate control unit and the center stack switches above it black ."
+                },
+                {
+                    "Text": "second , you can see that the wood trim above the headlight switch has a crack in the finish at the corner ."
+                },
+                {
+                    "Text": "the goal of this guide will be to give you the fundamentals of replacing most of the wood trim in your car . there may be a few details that are different when replacing other pieces but the concept is applicable throughout ."
+                }
+            ],
+            "Text_raw": "Looking at these two pictures, you can see that the wood on this W123 has seen better days. First, at some point someone painted the wood trim around the climate control unit and the center stack switches above it black. Second, you can see that the wood trim above the headlight switch has a crack in the finish at the corner. The goal of this guide will be to give you the fundamentals of replacing most of the wood trim in your car. There may be a few details that are different when replacing other pieces but the concept is applicable throughout.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EpMfsF6ITEY1tWtf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kEisJl3duAO3s1R6.standard"
+            ],
+            "StepId": 74928,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "let's begin with the strips of wood trim that run across the dash . these pieces are glued in place to a metal backing plate . after all these years the glue is often quite weak and so the wood trim can be gently pried off with a screw diver , or sometimes simply by hand ."
+                }
+            ],
+            "Text_raw": "Let's begin with the strips of wood trim that run across the dash. These pieces are glued in place to a metal backing plate. After all these years the glue is often quite weak and so the wood trim can be gently pried off with a screw diver, or sometimes simply by hand.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cTgXJQFKQYxDiVOk.standard"
+            ],
+            "StepId": 74929,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "the metal backing plate behind the wood trim strip is held to the dash by a few pegs and can only be safely removed from behind . to make this easier , you can simply leave the metal strip on the dash ."
+                },
+                {
+                    "Text": "proceed to clean up the old glue from the metal strip with a sharp utility blade . be careful , and take your time , so as to not cut the dash material or yourself !"
+                }
+            ],
+            "Text_raw": "The metal backing plate behind the wood trim strip is held to the dash by a few \"pegs\" and can only be safely removed from behind. To make this easier, you can simply leave the metal strip on the dash. Proceed to clean up the old glue from the metal strip with a sharp utility blade. Be careful, and take your time, so as to not cut the dash material or yourself!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GTVHHI3VjV6Yhh3J.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wDOvRMMNjXIHFnyh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ha3c5weOO6QSBh2W.standard"
+            ],
+            "StepId": 74930,
+            "Tools_extracted": [
+                "utility knife"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "you should similarly make sure that the back of your good used wood trim is clean . you may need to remove old adhesive , especially if you pull this part yourself from a donor car . someone who restores these should have cleaned and refinished this piece already ."
+                }
+            ],
+            "Text_raw": "You should similarly make sure that the back of your good used wood trim is clean. You may need to remove old adhesive, especially if you pull this part yourself from a donor car. Someone who restores these should have cleaned and refinished this piece already.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xFHwMIT2pYvhPbJ4.standard"
+            ],
+            "StepId": 74931,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "then use an adhesive of your choice ( the one pictured here is not an endorsement to use it , it was simply a convenient and effective choice in this particular situation ) and put a bit on the wood trim , and the metal strip , and then attach the wood trim ."
+                },
+                {
+                    "Text": "follow the guidelines on whatever adhesive you use for how long to hold the piece in place , and what the overall cure time is ."
+                }
+            ],
+            "Text_raw": "Then use an adhesive of your choice (the one pictured here is not an endorsement to use it, it was simply a convenient and effective choice in this particular situation) and put a bit on the wood trim, and the metal strip, and then attach the wood trim. Follow the guidelines on whatever adhesive you use for how long to hold the piece in place, and what the overall cure time is.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/spR2VKqamYE6teFK.standard"
+            ],
+            "StepId": 74932,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "and here is the good used wood trim , crack free , installed in the car ."
+                }
+            ],
+            "Text_raw": "And here is the good used wood trim, crack free, installed in the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lwPbIoUsDmTHoTVc.standard"
+            ],
+            "StepId": 74933,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "the climate control wood trim is very easy to replace . use a pry tool to get behind it at the top edge and gently pry it forward ."
+                },
+                {
+                    "Text": "the trim piece is simply held in by four pegs that pop in to the climate control unit behind the trim , there are no screws ."
+                },
+                {
+                    "Text": "the only precaution is to be sure that you are prying from behind the entire trim piece , and not prying between the wood and the metal backing . otherwise you might pull the wood away from the backing , damaging both ."
+                }
+            ],
+            "Text_raw": "The climate control wood trim is very easy to replace. Use a pry tool to get behind it at the top edge and gently pry it forward. The trim piece is simply held in by four pegs that pop in to the climate control unit behind the trim, there are no screws. The only precaution is to be sure that you are prying from behind the entire trim piece, and not prying between the wood and the metal backing. Otherwise you might pull the wood away from the backing, damaging both.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eTNrTfRagTTcUEIP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/btMvwLeEGtDawIgH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MUP1kQbWWZXnwxcS.standard"
+            ],
+            "StepId": 74934,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "while we have the climate control wood trim off , however , let's proceed to replace the trim around the center stack switches as well ."
+                },
+                {
+                    "Text": "with the wood trim around the climate control off you can use a screwdriver to remove the two screws in the upper corners of the plastic panel around the climate controls . do not remove the three screws further inside , closer to the controls ."
+                }
+            ],
+            "Text_raw": "While we have the climate control wood trim off, however, let's proceed to replace the trim around the center stack switches as well. With the wood trim around the climate control off you can use a screw driver to remove the two screws in the upper corners of the plastic panel around the climate controls. Do not remove the three screws further inside, closer to the controls.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ynBRefrFr4gthrAR.standard"
+            ],
+            "StepId": 74935,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "then use a pry tool , followed by your fingers , to carefully pull the climate control unit forward from the top . the bottom is held in place by two tabs - use care not to crack them by pulling the panel too far forward ."
+                },
+                {
+                    "Text": "you must pull up and out once the panel is leaning forward like pictured in order to full remove the control unit ."
+                }
+            ],
+            "Text_raw": "Then use a pry tool, followed by your fingers, to carefully pull the climate control unit forward from the top. The bottom is held in place by two tabs - use care not to crack them by pulling the panel too far forward. You must pull up and out once the panel is leaning forward like pictured in order to full remove the control unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SERNsKTJupD5jREQ.standard"
+            ],
+            "StepId": 74936,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "you can now reach up behind the wood trim in the center stack . before removing the wood you must remove all of the switches . push each switch out of the hole in the trim ."
+                },
+                {
+                    "Text": "then , unplug each switch from the plug at the end of the wiring harness , and remove the fiber optic line from each switch . make notes of where each switch goes and which hole the fiber optic plugged in to ."
+                }
+            ],
+            "Text_raw": "You can now reach up behind the wood trim in the center stack. Before removing the wood you must remove all of the switches. Push each switch out of the hole in the trim. Then, unplug each switch from the plug at the end of the wiring harness, and remove the fiber optic line from each switch. Make notes of where each switch goes and which hole the fiber optic plugged in to.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BZDU1Xj2GQ1yPxeY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WRVrYNvW4VYow2Qe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pW25mPhGZpvD3Tss.standard"
+            ],
+            "StepId": 74937,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "you can now push the wood trim out from behind and remove it ."
+                }
+            ],
+            "Text_raw": "You can now push the wood trim out from behind and remove it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SPbdAbROLxdry2uC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/N1tWLSgPGtHhonUU.standard"
+            ],
+            "StepId": 74938,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "you may now proceed to install your wood trim replacement parts , assembling your switches and climate control in the reverse of disassembly . doesn't it look great !"
+                }
+            ],
+            "Text_raw": "You may now proceed to install your wood trim replacement parts, assembling your switches and climate control in the reverse of disassembly. Doesn't it look great!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1aVVqa5BfNhipCs6.standard"
+            ],
+            "StepId": 74939,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Wood Trim"
+}

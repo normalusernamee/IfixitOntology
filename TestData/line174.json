@@ -1,0 +1,167 @@
+{
+    "Title": "Mercedes W123 Fuel Primer Pump Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 30382,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "vice grips",
+            "Url": "https://www.amazon.com/VISE-GRIP-Release-Curved-Locking-11T/dp/B001MXV9PO/ref=sr_1_6?ie=UTF8&qid=1499292751&sr=8-6&keywords=vise+grips",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "17 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-WRN53117-Ratcheting-Combination-Wrench/dp/B01F511QLK/ref=sr_1_2?ie=UTF8&qid=1490811532&sr=8-2&keywords=17mm+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Fuel+Primer+Pump+Replacement/30382",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "seen here is the original primer pump on this 1979 300 cd . it is an older style that has become prone to leaking after all these years . we are going to replace it with an updated style by bosch ."
+                }
+            ],
+            "Text_raw": "Seen here is the original primer pump on this 1979 300CD. It is an older style that has become prone to leaking after all these years. We are going to replace it with an updated style by Bosch.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GGSQDH12KySVxRLT.standard"
+            ],
+            "StepId": 71190,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "note the fuel in the cavity on top of the pump . this pump was definitely leaking . most of them do these days ."
+                }
+            ],
+            "Text_raw": "Note the fuel in the cavity on top of the pump. This pump was definitely leaking. Most of them do these days.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QEjqGG3ctgahbfU2.standard"
+            ],
+            "StepId": 71192,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "removing the old primer pump is simply a matter of finding the proper wrench to either grab the flat sides at the base of the pump , or using a vice grip to grab the body of the pump . an offset wrench like pictured can be very helpful . since the pump is being replaced it doesn't matter too much if the vice grips damage the pump ."
+                },
+                {
+                    "Text": "note that clearance can be a bit tight down by the primer due to fuel and power steering fluid lines in the area . however , if you're patient , you'll find a way to get the tools on and turn off the pump ."
+                },
+                {
+                    "Text": "note that there seems to be variation in the size of wrench these primer pumps take . the offset wrench i have is a 19 mm which worked on a pump on another car , but was too small for this car . so i used vice grips ."
+                }
+            ],
+            "Text_raw": "Removing the old primer pump is simply a matter of finding the proper wrench to either grab the flat sides at the base of the pump, or using a vice grip to grab the body of the pump. An offset wrench like pictured can be very helpful. Since the pump is being replaced it doesn't matter too much if the vice grips damage the pump. Note that clearance can be a bit tight down by the primer due to fuel and power steering fluid lines in the area. However, if you're patient, you'll find a way to get the tools on and turn off the pump. Note that there seems to be variation in the size of wrench these primer pumps take. The offset wrench I have is a 19mm which worked on a pump on another car, but was too small for this car. So I used vice grips.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GmOIbKvZyYxiUoik.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/beYDBdZJOMcXdrnK.standard"
+            ],
+            "StepId": 71191,
+            "Tools_extracted": [
+                "vice grips"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "under the old primer pump will be a copper crush washer . this must be removed before installing the new pump as you'll be installing a new crush washer . use a small flat blade screwdriver to gently push and pry on this washer to remove it ."
+                }
+            ],
+            "Text_raw": "Under the old primer pump will be a copper crush washer. This must be removed before installing the new pump as you'll be installing a new crush washer. Use a small flat blade screw driver to gently push and pry on this washer to remove it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BHKyZKsQtbUpBZaC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wReLHe2h3mIErbQA.standard"
+            ],
+            "StepId": 71193,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "here is the old primer pump removed from the car . you can see the minimal damage that the vice grips did to the body of it . also , in the second picture , you can see how wet , discolored , and dirty the pump knob is . this is from leaking fuel ."
+                }
+            ],
+            "Text_raw": "Here is the old primer pump removed from the car. You can see the minimal damage that the vice grips did to the body of it. Also, in the second picture, you can see how wet, discolored, and dirty the pump knob is. This is from leaking fuel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qYR5fbMPeUGRdTep.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CYUBHOtCjXwphpbQ.standard"
+            ],
+            "StepId": 71194,
+            "Tools_extracted": [
+                "vice grips"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "here is the updated style pump . it uses a simple plunger and should prove simple and reliable to use ."
+                },
+                {
+                    "Text": "the threaded end of the primer pump is protected in the box by a yellow plastic cap . underneath the cap is the new copper crush washer . be sure not to drop it and let it roll away !"
+                }
+            ],
+            "Text_raw": "Here is the updated style pump. It uses a simple plunger and should prove simple and reliable to use. The threaded end of the primer pump is protected in the box by a yellow plastic cap. Underneath the cap is the new copper crush washer. Be sure not to drop it and let it roll away!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mGpDjJuAmfeG6Ya2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6B1AAIyWSZZU4Nh4.standard"
+            ],
+            "StepId": 71195,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "carefully use a shop towel to wipe any dirt out and away from the opening in the lift pump , then install the new crush washer ."
+                }
+            ],
+            "Text_raw": "Carefully use a shop towel to wipe any dirt out and away from the opening in the lift pump, then install the new crush washer.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mtbhQRuJAYUgLR4s.standard"
+            ],
+            "StepId": 71196,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "now screw the new primer pump in by hand as far as you can , then use a wrench ( the new ones take a 17 mm ) to snug it down . there is no need to wrench on it really heavily , just turn it until you feel resistance as the crush washer deforms to create a seal under the pump ."
+                }
+            ],
+            "Text_raw": "Now screw the new primer pump in by hand as far as you can, then use a wrench (the new ones take a 17mm) to snug it down. There is no need to wrench on it really heavily, just turn it until you feel resistance as the crush washer deforms to create a seal under the pump.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Bi2qFkZXTxYvALHn.standard"
+            ],
+            "StepId": 71197,
+            "Tools_extracted": [
+                "17 mm socket"
+            ]
+        }
+    ],
+    "Subject": "Fuel Primer Pump"
+}

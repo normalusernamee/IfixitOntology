@@ -1,0 +1,231 @@
+{
+    "Title": "1997-2003 Ford F-150 Alternator Replacement",
+    "Ancestors": [
+        "Ford F-Series",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 110851,
+    "Category": "1997-2003 Ford F-150",
+    "Toolbox": [
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "13 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-14145-8-Inch-Shallow-6-Point/dp/B000NY5CQK/ref=sr_1_1?ie=UTF8&qid=1488830200&sr=8-1&keywords=13mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "15 mm socket wrench",
+            "Url": "https://www.amazon.com/TEKTON-14147-8-Inch-Shallow-6-Point/dp/B000NPR4BA/ref=sr_1_1?ie=UTF8&qid=1488405884&sr=8-1&keywords=15mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_1?ie=UTF8&qid=1487787284&sr=8-1&keywords=3+8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8-inch drive extension bar",
+            "Url": "https://www.amazon.com/TEKTON-1601-8-Inch-Extension-3-Piece/dp/B00943KFTA/ref=sr_1_1?ie=UTF8&qid=1487786894&sr=8-1&keywords=3+8+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "slotted screwdriver",
+            "Url": "/Item/Slotted_Screwdriver",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1997+1998+1999+2000+2001+2002+2003+Ford+F-150+Alternator+Replacement/110851",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "testing of the alternator output with the positive probe on b+ of the alternator . even with rpm's up to 2000 there is no change in output . it even appears as if the voltage decrease to around 8 v"
+                },
+                {
+                    "Text": "this alternator needs to be replaced ."
+                }
+            ],
+            "Text_raw": "Testing of the alternator output with the positive probe on B+ of the alternator. Even with RPM's up to 2000 there is no change in output. It even appears as if the voltage decrease to around 8 V This alternator needs to be replaced.",
+            "Images": [],
+            "StepId": 212018,
+            "Tools_extracted": [
+                "3 8 drive ratchet"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "here is the alternator that is apparently not charging . first thing is to test it to make sure it is the problem ."
+                },
+                {
+                    "Text": "b+ is the post where one can test the output voltage of the alternator with a simple multimeter ."
+                },
+                {
+                    "Text": "the next step requires the engine to run . keep your fingers , hair and loose clothing away from the engine bay . do not stand directly besides the area of the belt . if it should snap it will act like a very damaging whip . always stay to the side of it !"
+                },
+                {
+                    "Text": "set the multimeter to 50 dc volt scale . black probe to ground and red probe to b+ on the alternator . with the engine running the voltmeter should show around 14 volts . on this alternator the voltage does not increase and sits somewhere around 10 volts . good indication that it needs to be changed ."
+                }
+            ],
+            "Text_raw": "Here is the alternator that is apparently not charging. First thing is to test it to make sure it is the problem. B+ is the post where one can test the output voltage of the alternator with a simple multimeter. The next step requires the engine to run. Keep your fingers, hair and loose clothing away from the engine bay. Do not stand directly besides the area of the belt. If it should snap it will act like a very damaging whip. Always stay to the side of it! Set the multimeter to 50 DC Volt scale. Black probe to ground and red probe to B+ on the alternator. With the engine running the voltmeter should show around 14 Volts. On this alternator the voltage does not increase and sits somewhere around 10 Volts. Good indication that it needs to be changed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/W6odqe5uLZ2Ek3Z6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yyf44h5RuKWnSeqh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/axQeYRiwBBeAQE14.standard"
+            ],
+            "StepId": 212019,
+            "Tools_extracted": [
+                "10 mm wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "first thing is to disconnect the battery . i habitually only disconnect the negative cable ."
+                },
+                {
+                    "Text": "this is the only part that may be difficult . the removal of the serpentine belt requires that the spring loaded belt tensioner gets pulled to the point that it no longer applies tightening pressure onto the belt . it requires a torx t-50 which i did not have ."
+                },
+                {
+                    "Text": "the proper way would be to insert the t-50 into the tensioner and then move that into counterclockwise direction to loosen"
+                },
+                {
+                    "Text": "where there is a will there is a way . use a 15 mm socket on the bolt that holds the idler wheel . use the ratchet and move that into a counterclockwise direction . this will loosen the tensioner and the belt can now be removed ."
+                }
+            ],
+            "Text_raw": "First thing is to disconnect the battery. I habitually only disconnect the negative cable. This is the only part that may be difficult. The removal of the serpentine belt requires that the spring loaded belt tensioner gets pulled to the point that it no longer applies tightening pressure onto the belt. It requires a Torx T-50 which I did not have. The proper way would be to insert the  T-50 into the tensioner and then move that into counterclockwise direction to loosen Where there is a will there is a way. Use a 15mm socket on the bolt that holds the idler wheel. Use the ratchet and move that into a counterclockwise direction. This will loosen the tensioner and the belt can now be removed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2KkI3iYXRYngPi2x.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6mglPvJMUCkUburK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jBx3NMOdQM4sGHEm.standard"
+            ],
+            "StepId": 212020,
+            "Tools_extracted": [
+                "15 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the regulator connector . use a screwdriver or similar tool to move the clip so that the connector can be simply pulled up ."
+                },
+                {
+                    "Text": "remove the single wire connector the same way ."
+                },
+                {
+                    "Text": "remove the 10 mm nut that holds the cable to the solenoid onto the alternator"
+                }
+            ],
+            "Text_raw": "Remove the regulator connector. Use a screwdriver or similar tool to move the clip so that the connector can be simply pulled up. Remove the single wire connector the same way. Remove the 10mm nut that holds the cable to the solenoid onto the alternator",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ia6akiDYTXBuiCah.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DMxjZbNIWIfh2Jv6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DFWmB1JyCWqjQVWv.standard"
+            ],
+            "StepId": 212021,
+            "Tools_extracted": [
+                "slotted screwdriver",
+                "10 mm wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "the alternator is held in place by three mounting bolts ."
+                },
+                {
+                    "Text": "the first mounting boltis actullay a stud that also holds an air condition line . one the 15 mm nut is removed , lift the line out of the way to reveal the second 15 mm hex head to remove the stud ."
+                },
+                {
+                    "Text": "remove the 15 mm stud"
+                }
+            ],
+            "Text_raw": "The alternator is held in place by three mounting bolts. The first mounting boltis actullay a stud that also holds an air condition line. One the 15mm nut is removed, lift the line out of the way to reveal the second 15mm hex head to remove the stud. Remove the 15mm stud",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HNpodKXjXSW4efuT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sPdwCcVOuaNGdJFD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NDCtJaoCOYqaAZ63.standard"
+            ],
+            "StepId": 212022,
+            "Tools_extracted": [
+                "15 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "15 mm deep socket on the 2nd mounting bolt"
+                },
+                {
+                    "Text": "removal of third mounting bolt with 15 mm deep socket"
+                },
+                {
+                    "Text": "here are the three bolts that hold the alternator in place . the center bolt is different since it also provides a mounting spot for the ac part ."
+                }
+            ],
+            "Text_raw": "15mm deep socket on the 2nd mounting bolt Removal of third mounting bolt with 15mm deep socket Here are the three bolts that hold the alternator in place. The center bolt is different since it also provides a mounting spot for the AC part.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1u3ZZhbicEZhiXjd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/C4QOa1U556SZ6xKS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/peBywGlPFYVwSHFN.standard"
+            ],
+            "StepId": 212023,
+            "Tools_extracted": [
+                "15 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "with the removal of the bolts the alternator can now be simply pulled out from the engine compartment"
+                },
+                {
+                    "Text": "here is the comparison with the replacement from a national parts store"
+                },
+                {
+                    "Text": "new alternator in place ."
+                }
+            ],
+            "Text_raw": "With the removal of the bolts the alternator can now be simply pulled out from the engine compartment Here is the comparison with the replacement from a national parts store New alternator in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AJ6TE1hOaZGwCo2q.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2GLNlHJQFas6GKlP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oNRuIAMCLulF5CPn.standard"
+            ],
+            "StepId": 212024,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "checked the voltage on the battery terminal with engine running . shows properly between 14 v - 15 v"
+                }
+            ],
+            "Text_raw": "Checked the voltage on the battery terminal with engine running. Shows properly between 14V - 15V",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/f6gGnjmMoTAPxDJm.standard"
+            ],
+            "StepId": 212025,
+            "Tools_extracted": [
+                "15 mm socket wrench"
+            ]
+        }
+    ],
+    "Subject": "Alternator"
+}

@@ -1,0 +1,251 @@
+{
+    "Title": "Repairing Mercedes W123 Window Regulator \"Drill Open\" Style Window Motor",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20484,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "electrical cleaner",
+            "Url": "/Item/Electrical_Cleaner",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "silicone grease",
+            "Url": "http://www.amazon.com/Super-Lube-Multi-Purpose-Grease-Syncolon/dp/B0037QG4BS/ref=sr_1_4?ie=UTF8&qid=1387820366&sr=8-4&keywords=superlube",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drill",
+            "Url": "http://www.amazon.com/DEWALT-DWD112-Pistol-Grip-Keyless-All-Metal/dp/B0011XSEW6/ref=sr_1_9?ie=UTF8&qid=1376354304&sr=8-9&keywords=power+drill",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "degreaser",
+            "Url": "/Item/Degreaser",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Repairing+Mercedes+W123+Window+Regulator+%22Drill+Open%22+Style+Window+Motor/20484",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "to access and perform maintenance and repair on your power window regulator motors you will of course first need to remove the regulator . for the rear window regulators , guide ."
+                },
+                {
+                    "Text": "you will then need to remove the motor from the regulator by first removing the three 10 mm bolts that attach it in place ."
+                }
+            ],
+            "Text_raw": "To access and perform maintenance and repair on your power window regulator motors you will of course first need to remove the regulator. For the rear window regulators, [guide|20428|click here to review the removal guide]. You will then need to remove the motor from the regulator by first removing the three 10mm bolts that attach it in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xUSAZ3rTXwBOdlmo.standard"
+            ],
+            "StepId": 56435,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "before starting this guide , confirm that you are reviewing the guide for the correct motor type for your situation . this guide covers the drill open style of motor , as seen on the left . if you have a screw open style of motor as seen on the right guide"
+                }
+            ],
+            "Text_raw": "Before starting this guide, confirm that you are reviewing the guide for the correct motor type for your situation. This guide covers the \"Drill Open\" style of motor, as seen on the left. If you have a \"Screw Open\" style of motor as seen on the right [guide|20483|click here to review this guide instead.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YUwt2puah3O26sY6.standard"
+            ],
+            "StepId": 56432,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "the rear cover on this style of motor is held in place by four rivets that are compressed in to holes in the gear housing ."
+                },
+                {
+                    "Text": "the rivets need to be drilled out just a little bit to weaken them enough to pry off the cover . begin this process by drilling the rivets about 1 /4 deep with a small drill bit , smaller than 1 /8."
+                },
+                {
+                    "Text": "repeat with all four rivets ."
+                }
+            ],
+            "Text_raw": "The rear cover on this style of motor is held in place by four rivets that are compressed in to holes in the gear housing. The rivets need to be drilled out just a little bit to weaken them enough to pry off the cover. Begin this process by drilling the rivets about 1/4\" deep with a small drill bit, smaller than 1/8\". Repeat with all four rivets.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xYPloanVRC6DZkZq.standard"
+            ],
+            "StepId": 56436,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "pry the cover off with a flat blade screwdriver ; with the rivets weakened by drilling they will snap and the cover will come free ."
+                },
+                {
+                    "Text": "step up to a slightly bigger drill bit and drill out more of the rivets from the gear housing as shown , and from the rivet holes in the cover . the goal is to remove most of the rivet material from the four holes in the housing , and all of the material from the holes in the cover ."
+                },
+                {
+                    "Text": "repeat this drilling until you reach a 1 /8 drill bit . this is the largest bit you'll want to use ."
+                }
+            ],
+            "Text_raw": "Pry the cover off with a flat blade screwdriver; with the rivets weakened by drilling they will snap and the cover will come free. Step up to a slightly bigger drill bit and drill out more of the rivets from the gear housing as shown, and from the rivet holes in the cover. The goal is to remove most of the rivet material from the four holes in the housing, and all of the material from the holes in the cover. Repeat this drilling until you reach a 1/8\" drill bit. This is the largest bit you'll want to use.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gA33mWC6kGwoqDHP.standard"
+            ],
+            "StepId": 56437,
+            "Tools_extracted": [
+                "drill",
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "with drilling completed you will need to very thoroughly clean the gear housing to remove any metal shavings along with the old grease ."
+                },
+                {
+                    "Text": "to avoid getting water in the lower electric motor housing first unscrew the two screws that hold the electric motor housing to the gear housing ."
+                },
+                {
+                    "Text": "the two parts of the device can then be separated by pulling them away from one another . the worm gear will come out of the housing ."
+                }
+            ],
+            "Text_raw": "With drilling completed you will need to very thoroughly clean the gear housing to remove any metal shavings along with the old grease. To avoid getting water in the lower electric motor housing first unscrew the two screws that hold the electric motor housing to the gear housing. The two parts of the device can then be separated by pulling them away from one another. The worm gear will come out of the housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/saYRTHDPw2gIeuaM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xG6P6UPYhLVST1vC.standard"
+            ],
+            "StepId": 56438,
+            "Tools_extracted": [
+                "silicone grease"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "when separating the housings there are several parts that may come loose , including the gasket shown , as well as the metal bearing and plastic retainer that go over the smooth tip of the worm gear ."
+                },
+                {
+                    "Text": "set these parts aside , making note of their original orientation for the reassembly ."
+                }
+            ],
+            "Text_raw": "When separating the housings there are several parts that may come loose, including the gasket shown, as well as the metal bearing and plastic retainer that go over the smooth tip of the worm gear. Set these parts aside, making note of their original orientation for the reassembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fDIGNuyKXpUgpJVy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/v4GwnCVRbo2JqYhj.standard"
+            ],
+            "StepId": 56439,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "use a de-greaser to carefully clean the entire gear housing to remove any metal shavings and old grease . rinse thoroughly and then air dry ."
+                }
+            ],
+            "Text_raw": "Use a de-greaser to carefully clean the entire gear housing to remove any metal shavings and old grease. Rinse thoroughly and then air dry.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5ur5jtTWBthyxCYl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AekLIr5r6G6tYEbp.standard"
+            ],
+            "StepId": 56440,
+            "Tools_extracted": [
+                "silicone grease"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "once dry , grease the large plastic gear and the worm gear on the motor with a synthetic grease such as silicone based superlube . avoid petroleum greases such as vaseline or moly grease as they can damage plastic and rubber parts ."
+                }
+            ],
+            "Text_raw": "Once dry, grease the large plastic gear and the worm gear on the motor with a synthetic grease such as silicone based SuperLube. Avoid petroleum greases such as vaseline or moly grease as they can damage plastic and rubber parts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BMw6kZLJcXwscai6.standard"
+            ],
+            "StepId": 56441,
+            "Tools_extracted": [
+                "silicone grease"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "on this style of motor , the electric motor is enclosed in the metal housing . it can be cleaned by first removing the plastic plugs in the two holes at the bottom of the motor ."
+                },
+                {
+                    "Text": "once open you can liberally spray the inside of this housing with electrical cleaner and the allow it to drip/air dry ."
+                }
+            ],
+            "Text_raw": "On this style of motor, the electric motor is enclosed in the metal housing. It can be cleaned by first removing the plastic plugs in the two holes at the bottom of the motor. Once open you can liberally spray the inside of this housing with electrical cleaner and the allow it to drip/air dry.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tj5Uu5bXTREkwdxu.standard"
+            ],
+            "StepId": 56442,
+            "Tools_extracted": [
+                "electrical cleaner"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "find a suitable replacement screw for the rivets that were drilled out . in this case , a small screw that would normally be used for an internal computer hard drive seemed to fit the bill well ."
+                }
+            ],
+            "Text_raw": "Find a suitable replacement screw for the rivets that were drilled out. In this case, a small screw that would normally be used for an internal computer hard drive seemed to fit the bill well.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DQKohqYJJQOSH4iV.standard"
+            ],
+            "StepId": 56443,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "finish by reattaching the two housings together , and then attaching the cover with your new screws ."
+                },
+                {
+                    "Text": "in this situation , the metal remaining after the rivets were drilled out was just soft enough that the screws bit in to the metal and tapped their own thread . if necessary the holes can be tapped with a thread tapping tool to allow for new screws to be installed ."
+                }
+            ],
+            "Text_raw": "Finish by reattaching the two housings together, and then attaching the cover with your new screws. In this situation, the metal remaining after the rivets were drilled out was just soft enough that the screws bit in to the metal and tapped their own thread. If necessary the holes can be tapped with a thread tapping tool to allow for new screws to be installed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HJP2YPh2QDU5WMpV.standard"
+            ],
+            "StepId": 56444,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

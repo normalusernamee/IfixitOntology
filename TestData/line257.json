@@ -1,0 +1,515 @@
+{
+    "Title": "Mercedes-Benz 114 or 115 Auto shifter bushings",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 76698,
+    "Category": "1976 Mercedes-Benz 230.6",
+    "Toolbox": [
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "2.5mm flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Flathead-3-32-Inch-Screwdriver/IF145-011",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/IRnGQ4e2ZPBSxpuB.mini"
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "https://www.ifixit.com/Store/Tools/Small-Needle-Nose-Pliers/IF145-058",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/wFGPUX2uMQPIiQCr.mini"
+        },
+        {
+            "Name": "snap ring pliers",
+            "Url": "/Item/Small_snap_ring_pliers",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 4 in drive ratchet",
+            "Url": "/Item/1_4in_drive_ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "15 mm socket wrench",
+            "Url": "/Item/15mm_Spanner_or_Monkey_wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes-Benz+114+or+115+Auto+shifter+bushings/76698",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "this guide only applies to floor-shift automatics , such as my 1976 230.6 ( 114.015 )"
+                },
+                {
+                    "Text": "this car was never sold in usa , as i'm in new zealand , but the centre-console is the same for all the other 114 and 115 automatics ( and probably other model ranges )"
+                },
+                {
+                    "Text": "first step is to open and remove your ashtray to gain access to the first set of screws"
+                },
+                {
+                    "Text": "push down on the metal tab - while pulling the ashtray out"
+                }
+            ],
+            "Text_raw": "This guide only applies to floor-shift automatics, such as my 1976 230.6 (114.015) This car was never sold in USA, as I'm in New Zealand, but the centre-console is the same for all the other 114 and 115 automatics (and probably other model ranges) First step is to open and remove your Ashtray to gain access to the first set of screws Push down on the metal tab - while pulling the ashtray out",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IYDh6JEn13d3TWyR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VXCQGhOLgOBHCooY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iNR42BedPvYFd4eD.standard"
+            ],
+            "StepId": 153675,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "after you've removed the ashtray you'll see the ashtray frame/bracket"
+                },
+                {
+                    "Text": "remove the two pan-head screws at the rear of the opening - ignore the two counter-sunk screws at the bottom for now"
+                },
+                {
+                    "Text": "careful when you pull it out as the connector for the cigar lighter contacts on left sticks out so you can't just pull it straight-out"
+                }
+            ],
+            "Text_raw": "After you've removed the ashtray you'll see the ashtray frame/bracket Remove the two pan-head screws at the rear of the opening - ignore the two counter-sunk screws at the bottom for now Careful when you pull it out as the connector for the cigar lighter contacts on left sticks out so you can't just pull it straight-out",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QSNORTEUHoeyD1qD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SEiVEuyVrbyFED2Y.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ywLhTknJYk3NhTUu.standard"
+            ],
+            "StepId": 153676,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "now you can remove those two counter-sunk screws holding in the front of the shifter/center console panel ."
+                }
+            ],
+            "Text_raw": "Now you can remove those two counter-sunk screws holding in the front of the shifter/center console panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UcSAokKZ3fMHUUiE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Dd2l5qVyFeWTwMQF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vfB1amK2BdQmIIEw.standard"
+            ],
+            "StepId": 153677,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "the hardest , or second-hardest step"
+                },
+                {
+                    "Text": "there is a simple metal trim clip holding the rear of the centre-console trim panel down ( marked by a yellow box in photo 2 )"
+                },
+                {
+                    "Text": "you won't be able to see it easily , you can pry back the rubber trim in the marked area to gain a view of the clip ( blue box area in photo )"
+                },
+                {
+                    "Text": "in my car the plastic foot with the metal clip attached to it is cracked , so i added a small bit of wire to help pull it out next time so as not to break it ( see red box in 3 rd photo )"
+                }
+            ],
+            "Text_raw": "The hardest, or second-hardest step There is a simple metal trim clip holding the rear of the centre-console trim panel down (marked by a yellow box in photo 2) You won't be able to see it easily, you can pry back the rubber trim in the marked area to gain a view of the clip (blue box area in photo) In my car the plastic foot with the metal clip attached to it is cracked, so I added a small bit of wire to help pull it out next time so as not to break it (see red box in 3rd photo)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NE3OPM1CDrW4N6l2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3syCoTbuIDNXAEAt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uiUsutOREBfKyRM5.standard"
+            ],
+            "StepId": 153678,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "ensure your handbrake is set , or you're not on a slope"
+                },
+                {
+                    "Text": "shift to neutral or other gears as required to get the console panel out"
+                },
+                {
+                    "Text": "you'll need to angle the trim panel back and forth a little as the plugs for your hazards and rear defroster/demister get in the way"
+                },
+                {
+                    "Text": "i've shown the units and their plugs in yellow ( demister ) and red ( hazards )"
+                }
+            ],
+            "Text_raw": "Ensure your handbrake is set, or you're not on a slope Shift to neutral or other gears as required to get the console panel out You'll need to angle the trim panel back and forth a little as the plugs for your hazards and rear defroster/demister get in the way I've shown the units and their plugs in Yellow (demister) and Red (hazards)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SLSyILLeVYYSvwPx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Xxpb4swqsxdGAXFk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AYw25na16CKNYuDp.standard"
+            ],
+            "StepId": 153679,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "it's simply clipped-in and you can pry using a small flat-head at the top to get it started"
+                },
+                {
+                    "Text": "when you're re-installing it , you simply line up the v symbol on the shifter housing with the v symbol on the lamp holder"
+                }
+            ],
+            "Text_raw": "It's simply clipped-in and you can pry using a small flat-head at the top to get it started When you're re-installing it, you simply line up the V symbol on the shifter housing with the V symbol on the lamp holder",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1KPT1Iw1RwoWLPqC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MIbpGEYEQyFRvQGM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MEmjLGUJGZWVuJbd.standard"
+            ],
+            "StepId": 153680,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "you'll need a 10 mm socket - i used a 1 /4 in deep"
+                },
+                {
+                    "Text": "there are 3 bolts , one on the right-side and 2 on the left"
+                },
+                {
+                    "Text": "they have a small wavy washer , don't drop it down the centre-console when you pull them out"
+                },
+                {
+                    "Text": "you won't be able to remove the surround fully until the next step"
+                }
+            ],
+            "Text_raw": "You'll need a 10mm socket - I used a 1/4in deep There are 3 bolts, one on the right-side and 2 on the left They have a small wavy washer, don't drop it down the centre-console when you pull them out You won't be able to remove the surround fully until the next step",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nVqLrICVZfCQYdtg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xfNhM2hyEkR3y16x.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NWhVsCHuTVNBpBsF.standard"
+            ],
+            "StepId": 153681,
+            "Tools_extracted": [
+                "phillips 2 screwdriver",
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "first loosen the 15 mm jam nut ( outlined in red )"
+                },
+                {
+                    "Text": "now you can unscrew the shift lever/knob"
+                },
+                {
+                    "Text": "when you're re-installing it ensure it's clocked correctly before tightening the jam nut"
+                }
+            ],
+            "Text_raw": "First loosen the 15mm jam nut (outlined in red) Now you can unscrew the shift lever/knob When you're re-installing it ensure it's clocked correctly before tightening the jam nut",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GGHNjFdcHAAZUivk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gI3WYsSvClVwk5nQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LJOFttycd6MFZwVT.standard"
+            ],
+            "StepId": 153682,
+            "Tools_extracted": [
+                "15 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "there are four 10 mm bolts , the left two bolts are hard to see , you'll need to pry the trim back a bit"
+                },
+                {
+                    "Text": "the top-left bolt has the ground cable for the shifter backlight on it"
+                },
+                {
+                    "Text": "the bolts have large flat washers on them , be careful not to drop them down the side of the console - use a magnet if necessary"
+                }
+            ],
+            "Text_raw": "There are four 10mm bolts, the left two bolts are hard to see, you'll need to pry the trim back a bit The top-left bolt has the ground cable for the shifter backlight on it The bolts have large flat washers on them, be careful not to drop them down the side of the console - use a magnet if necessary",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cjPOcUV2wHfdcBuB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xknpccX1moMriNZb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FOq6gVBJ3TqVtpiV.standard"
+            ],
+            "StepId": 153683,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "after lifting up the shifter housing ( black plastic part ) you'll see it's attached to the shift rod below"
+                },
+                {
+                    "Text": "the green thing in the picture is the driveshaft"
+                },
+                {
+                    "Text": "to get better access , you can pull the shift rod towards the rear of the car ( go through a few gears ) as i did"
+                },
+                {
+                    "Text": "the clip is fairly easy to remove with needle nose pliers and/or a small flat-head screwdriver"
+                },
+                {
+                    "Text": "be careful not to drop the clip down the side of the centre console or through the hole in the tunnel now revealed"
+                },
+                {
+                    "Text": "these photos are actually from re-assembly , as you can see i lubed up all bushings with 3 m silicone paste - you could use any plastic-safe lube"
+                }
+            ],
+            "Text_raw": "After lifting up the shifter housing (black plastic part) you'll see it's attached to the shift rod below The green thing in the picture is the driveshaft To get better access, you can pull the shift rod towards the rear of the car (go through a few gears) as I did The clip is fairly easy to remove with needle nose pliers and/or a small flat-head screwdriver Be careful not to drop the clip down the side of the centre console or through the hole in the tunnel now revealed These photos are actually from re-assembly, as you can see I lubed up all bushings with 3M Silicone paste - you could use any plastic-safe lube",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lTPJBlWjF4CLsr5N.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ghlTCZsleJUaVXls.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XaApDanoMKPJyPCd.standard"
+            ],
+            "StepId": 153684,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "you'll see a plastic half-moon part ( to stop dust and noise from entering the car ) - it just pulls out"
+                }
+            ],
+            "Text_raw": "You'll see a plastic half-moon part (to stop dust and noise from entering the car) - it just pulls out",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Oyci5hy1uaTNWksD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6bUNLyb3PPRCdTsx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NeYMQ4cpwMdFHtfA.standard"
+            ],
+            "StepId": 153685,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "remove a clip from one end of the small rod connecting the shift lever yoke to the main rod"
+                },
+                {
+                    "Text": "again as these photos were taken during re-assembly there is silicone lube present"
+                },
+                {
+                    "Text": "you can see there is a tiny bushing in between the spring and the small rod on each end - these bushing are optional but cheap , mine were completely gone"
+                },
+                {
+                    "Text": "the small bushing part number is : 1152670950"
+                },
+                {
+                    "Text": "i used a small screwdriver and needle-nose pliers to remove the clip ( slide in direction of red arrow )"
+                }
+            ],
+            "Text_raw": "Remove a clip from one end of the small rod connecting the shift lever yoke to the main rod Again as these photos were taken during re-assembly there is silicone lube present You can see there is a tiny bushing in between the spring and the small rod on each end - these bushing are optional but cheap, mine were completely gone The small bushing part number is: 1152670950 I used a small screwdriver and needle-nose pliers to remove the clip (slide in direction of red arrow)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2WUDgBFQFyYNTyOp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vN5qApwM3RvoWAIX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bW2lOtHRn2XCSakH.standard"
+            ],
+            "StepId": 153686,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "some better views of those tiny bushings as you pull the small rod out ( slide rod out in direction of arrow )"
+                },
+                {
+                    "Text": "these photos were during re-assembly so the bushing is fresh and clear , the old ones would probably be yellowed or cracked or missing"
+                },
+                {
+                    "Text": "i put a blue circle on one end of the small rod and a red circle on the other end so you can identify them better"
+                },
+                {
+                    "Text": "i used again the small screwdriver and needle-nose pliers to pry the spring back while re-inserting the bushings"
+                }
+            ],
+            "Text_raw": "Some better views of those tiny bushings as you pull the small rod out (slide rod out in direction of arrow) These photos were during re-assembly so the bushing is fresh and clear, the old ones would probably be yellowed or cracked or missing I put a blue circle on one end of the small rod and a red circle on the other end so you can identify them better I used again the small screwdriver and needle-nose pliers to pry the spring back while re-inserting the bushings",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6Ry2ZQJWyxhVD2qr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LVcnZRAajk2LkpTm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dGq5RRW3ZKodPKFk.standard"
+            ],
+            "StepId": 153687,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "and a final show of parts involved to attach/detach the yoke from the shaft"
+                }
+            ],
+            "Text_raw": "And a final show of parts involved to attach/detach the yoke from the shaft",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SZFjHxRntnFEygIB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IlnMC5UjL5JGlclF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Rrp5EXrukshTH6dZ.standard"
+            ],
+            "StepId": 153688,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "now the hardest or second-hardest step"
+                },
+                {
+                    "Text": "removing the snap-ring"
+                },
+                {
+                    "Text": "if you have small snap-ring pliers this is probably pretty easy"
+                },
+                {
+                    "Text": "if not you might be lucky like i was and the needle-nose tips fit into the holes"
+                },
+                {
+                    "Text": "even so it was a challenge to install and remove the snap-ring"
+                },
+                {
+                    "Text": "also the part will probably go flying , so do the disassembly in a place where you can find it if it goes flying"
+                },
+                {
+                    "Text": "the washer goes under the snap ring"
+                },
+                {
+                    "Text": "as you can see these photos are from re-assembly , my old bushing was yellowed and the left-side in pieces"
+                }
+            ],
+            "Text_raw": "Now the hardest or second-hardest step Removing the snap-ring If you have small snap-ring pliers this is probably pretty easy If not you might be lucky like I was and the needle-nose tips fit into the holes Even so it was a challenge to install and remove the snap-ring Also the part will probably go flying, so do the disassembly in a place where you can find it if it goes flying The washer goes under the snap ring As you can see these photos are from re-assembly, my old bushing was yellowed and the left-side in pieces",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sYxTrs1PE3IqFWsu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FDhpGVomqsZCQRTd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wZuSayA2hZVLafbr.standard"
+            ],
+            "StepId": 153689,
+            "Tools_extracted": [
+                "snap ring pliers"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "finally you can slide out the main rod from the plastic housing"
+                },
+                {
+                    "Text": "here you'll see why you had to remove the plastic half-moon part"
+                },
+                {
+                    "Text": "after you've got it all apart , the bushings ( if any remain ) should just push out"
+                },
+                {
+                    "Text": "i cleaned up and then lubed the parts before reassembling"
+                }
+            ],
+            "Text_raw": "Finally you can slide out the main rod from the plastic housing Here you'll see why you had to remove the plastic half-moon part After you've got it all apart, the bushings (if any remain) should just push out I cleaned up and then lubed the parts before reassembling",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FbbGONaRVpHGWkPG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/v1wmk3GJYENTZTPH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QSZrfVRoSpKICrvV.standard"
+            ],
+            "StepId": 153690,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "my old bushing ( s ) vs the new parts"
+                },
+                {
+                    "Text": "the second image is how the bushings are oriented on the part"
+                },
+                {
+                    "Text": "the third image is the silicone paste lubricant on the bushing , ready to be slid back into the housing"
+                },
+                {
+                    "Text": "follow the steps in reverse order to re-assemble"
+                }
+            ],
+            "Text_raw": "My old bushing(s) vs the new parts The second image is how the bushings are oriented on the part The third image is the silicone paste lubricant on the bushing, ready to be slid back into the housing Follow the steps in reverse order to re-assemble",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6Is1LGFJgGowMQcC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YLC5QNg1Pytf3r2K.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5whxnxIapGaBEXgQ.standard"
+            ],
+            "StepId": 153691,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "the main tools i used were phillips 2 screwdriver ( not pictured ) , small flat-head screwdriver , small needlenose pliers , 10 mm deep socket and drivers"
+                },
+                {
+                    "Text": "consumables were 3 m silicone paste , paper towels and a bit of brake cleaner"
+                },
+                {
+                    "Text": "the car being worked on , an orange mercedes-benz 1976 230.6 ( type 114.015 ) with automatic transmission , in right-hand drive as this is in new zealand"
+                }
+            ],
+            "Text_raw": "The main tools I used were Philips #2 screwdriver (not pictured), small flat-head screwdriver, small needlenose pliers, 10mm deep socket and drivers Consumables were 3M Silicone Paste, paper towels and a bit of Brake cleaner The car being worked on, an Orange Mercedes-Benz 1976 230.6 (type 114.015) with automatic transmission, in Right-hand drive as this is in New Zealand",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VSaDiW1vOJZkKZOs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VkKp5tDudpwbGOih.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mUnb46BrhMOKvKga.standard"
+            ],
+            "StepId": 153692,
+            "Tools_extracted": [
+                "1 4 in drive ratchet",
+                "phillips 2 screwdriver"
+            ]
+        }
+    ],
+    "Subject": "Auto shifter bushings"
+}

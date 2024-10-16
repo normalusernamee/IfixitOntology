@@ -1,0 +1,380 @@
+{
+    "Title": "1985-1988 Volvo 740 Brake Pads Replacement",
+    "Ancestors": [
+        "Volvo",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3850,
+    "Category": "1985-1988 Volvo 740",
+    "Toolbox": [
+        {
+            "Name": "17 mm socket",
+            "Url": "/Item/17mm_socket_wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431005232&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "2.5mm flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Flathead-3-32-Inch-Screwdriver/IF145-011",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/IRnGQ4e2ZPBSxpuB.mini"
+        },
+        {
+            "Name": "smart wrench",
+            "Url": "https://www.ifixit.com/Store/Parts/Smart-Wrench/IF145-231",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/bIqPGgt6wXCOMSeU.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1985+1986+1987+1988+Volvo+740+Brake+Pads+Replacement/3850",
+    "Steps": [
+        {
+            "Order": 0,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "firstly disconnect battery"
+                },
+                {
+                    "Text": "'''always''' take the '''negative''' terminal off first ."
+                },
+                {
+                    "Text": "''''''general tip''' after disconnecting the battery leave the car for about 10 mins , this lets any residual energy left in the electrical system to dissapate . it is good practise whatever the job"
+                }
+            ],
+            "Text_raw": "Firstly Disconnect  battery '''Always''' take the '''negative''' terminal off first. ''''''General Tip'''                                  After disconnecting the battery leave the car for about 10 mins , This lets any residual energy left in the electrical system to dissapate. It is good practise whatever the job",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IxkUIwJN4Tx4orTp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UwI4PFYlOr1DSVjE.standard"
+            ],
+            "StepId": 18274,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "turn car off and remove keys from ignition ."
+                },
+                {
+                    "Text": "place car in park ( automatic ) or neutral ( manual ) ."
+                },
+                {
+                    "Text": "engage parking brake ."
+                }
+            ],
+            "Text_raw": "Turn car off and remove keys from ignition. Place car in park (automatic) or neutral (manual). Engage parking brake.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/I4jnYsYiLNdbZpNb.standard"
+            ],
+            "StepId": 18247,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "use hydraulic jack on frame of car to raise car ."
+                },
+                {
+                    "Text": "place jack head underneath frame couple ( pictured ) ."
+                },
+                {
+                    "Text": "only necessary to jack the car until the wheels are just off the ground ."
+                }
+            ],
+            "Text_raw": "Use hydraulic jack on frame of car to raise car. Place jack head underneath frame couple (pictured). Only necessary to jack the car until the wheels are just off the ground.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MOLCJmdp3REPGt2q.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DjFGFEpuZSrN3HgO.standard"
+            ],
+            "StepId": 18252,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "place jack stand on frame of car and remove jack ."
+                },
+                {
+                    "Text": "do not work under car supported only by hydraulic jack , serious injury or death may result ."
+                }
+            ],
+            "Text_raw": "Place jack stand on frame of car and remove jack. Do not work under car supported only by hydraulic jack, serious injury or death may result.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oPoDv5PpmKJeRQBe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hjIDUrQaeQyUEuyr.standard"
+            ],
+            "StepId": 18253,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "pry off the front hub caps by placing a small flathead screwdriver between hubcap and rim and pulling the screwdriver and hubcap away from tire ."
+                }
+            ],
+            "Text_raw": "Pry off the front hub caps by placing a small flathead screwdriver between hubcap and rim and pulling the screwdriver and hubcap away from tire.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tnNI6vjVQ1HEH3In.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IWAHEL2mVhVnQt1T.standard"
+            ],
+            "StepId": 18237,
+            "Tools_extracted": [
+                "2.5mm flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "loosen each of the five lug nuts on the rear left and rear right tires by turning them counter-clockwise with a 19 mm socket wrench ."
+                }
+            ],
+            "Text_raw": "Loosen each of the five lug nuts on the rear left and rear right tires by turning them counter-clockwise with a 19mm socket wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/H3ocJ24OqJvidHDX.standard"
+            ],
+            "StepId": 18244,
+            "Tools_extracted": [
+                "socket 19 mm"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove tires by pulling directly away from car exposing rear brake disks and calipers ."
+                }
+            ],
+            "Text_raw": "Remove tires by pulling directly away from car exposing rear brake disks and calipers.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZXoUA6eWKB6pQRnH.standard"
+            ],
+            "StepId": 18254,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "locate the two 17 mm caliper guide bolts ."
+                }
+            ],
+            "Text_raw": "Locate the two 17mm caliper guide bolts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MVOgiAxRiVdXf3bD.standard"
+            ],
+            "StepId": 18255,
+            "Tools_extracted": [
+                "17 mm socket"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "remove upper and lower guide bolts on rear left and rear right brake calipers with 17 mm crescent wrench ."
+                }
+            ],
+            "Text_raw": "Remove upper and lower guide bolts on rear left and rear right brake calipers with 17mm crescent wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6GyIlLPIW2vxAKZ5.standard"
+            ],
+            "StepId": 18260,
+            "Tools_extracted": [
+                "smart wrench"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "remove rear brake calipers from rotors ."
+                }
+            ],
+            "Text_raw": "Remove rear brake calipers from rotors.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SaioQBAFLVCbPb25.standard"
+            ],
+            "StepId": 18261,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "locate the two rear brake pad retaining pins on each caliper ."
+                }
+            ],
+            "Text_raw": "Locate the two rear brake pad retaining pins on each caliper.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yBAKEGpbEPewYvAk.standard"
+            ],
+            "StepId": 18264,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "remove brake pad retaining pins by punching them out with a 3 mm allen key ."
+                }
+            ],
+            "Text_raw": "Remove brake pad retaining pins by punching them out with a 3mm allen key.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GDiu3PGIenTX3JyN.standard"
+            ],
+            "StepId": 18266,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "remove both rear brake pads by pulling them out of calipers ."
+                }
+            ],
+            "Text_raw": "Remove both rear brake pads by pulling them out of calipers.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Omyluqgs5icXYq4O.standard"
+            ],
+            "StepId": 18269,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "insert two new brake pads into each caliper ."
+                }
+            ],
+            "Text_raw": "Insert two new brake pads into each caliper.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/y5XYGGD1StPPBCAH.standard"
+            ],
+            "StepId": 18272,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "replace pin guide behind rear brake pads ."
+                }
+            ],
+            "Text_raw": "Replace pin guide behind rear brake pads.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/w3hbFN3XNNWi1XKJ.standard"
+            ],
+            "StepId": 18273,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "verify that pins are inserted through caliper and brake pad holes and seated over the metal pin guides ."
+                }
+            ],
+            "Text_raw": "Verify that pins are inserted through caliper and brake pad holes and seated over the metal pin guides.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4BKTrMBlT3b4AleK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PwK2eS4evyIlwq5W.standard"
+            ],
+            "StepId": 18275,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "tap pins through both rear brake pads and caliper using a wrench ."
+                }
+            ],
+            "Text_raw": "Tap pins through both rear brake pads and caliper using a wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DVRtLYxiAyY2ILqD.standard"
+            ],
+            "StepId": 18277,
+            "Tools_extracted": [
+                "smart wrench"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "replace rear calipers on rotors ."
+                }
+            ],
+            "Text_raw": "Replace rear calipers on rotors.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MDFLr5y3UAOjd4KG.standard"
+            ],
+            "StepId": 18279,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "finish by performing steps 1-5 in reverse order ."
+                }
+            ],
+            "Text_raw": "Finish by performing steps 1-5 in reverse order.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CcnXMklivPMNqdJx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/46Z4RyY1YMyADRAA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uOjWbPfMp3KOHUga.standard"
+            ],
+            "StepId": 18280,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Rear Brake Pads"
+}

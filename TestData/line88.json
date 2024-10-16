@@ -1,0 +1,169 @@
+{
+    "Title": "1965-1969 Chevrolet Corvair Electronic Ignition Replacement",
+    "Ancestors": [
+        "Chevrolet Corvair",
+        "Chevrolet",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11278,
+    "Category": "1965-1969 Chevrolet Corvair",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "standard wrench set",
+            "Url": "http://www.amazon.com/TEKTON-1916-Combination-Wrench-24-Piece/dp/B000NQ159G/ref=sr_1_1?s=power-hand-tools&ie=UTF8&qid=1407876618&sr=1-1&keywords=wrench+set",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1965+1966+1967+1968+1969+Chevrolet+Corvair+Electronic+Ignition+Replacement/11278",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "first , open the box containing the electronic ignition ."
+                },
+                {
+                    "Text": "check that all the parts are included as pictured . ( if you are using a different brand or model of electronic ignition , continue to step 2 , however success cannot be guaranteed )"
+                },
+                {
+                    "Text": "there are many variants of the ignitor and most electronic ignitions , each designed for a different application . make sure that the unit being installed is intend for the corvair , otherwise , it likely will not work ."
+                }
+            ],
+            "Text_raw": "First, open the box containing the electronic ignition. Check that all the parts are included as pictured. (if you are using a different brand or model of electronic ignition, continue to step 2, however success cannot be guaranteed) There are many variants of the Ignitor and most electronic ignitions, each designed for a different application. Make sure that the unit being installed is intend for the Corvair, otherwise, it likely will not work.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aFpMfseoxVeVAQxG.standard"
+            ],
+            "StepId": 40917,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the two screws holding down the distributor cap , by using a flat head screwdriver , and remove the cap , but do not disconnect the spark plug wires ."
+                },
+                {
+                    "Text": "disconnect the wire that goes from the coil to the distributor at the negative terminal of the coil ."
+                },
+                {
+                    "Text": "carefully pull the rotor off the distributor shaft ."
+                },
+                {
+                    "Text": "remove the two screws holding down the breaker plate and pull off the entire breaker plate/points assembly ."
+                }
+            ],
+            "Text_raw": "Remove the two screws holding down the distributor cap, by using a flat head screwdriver, and remove the cap, but do not disconnect the spark plug wires. Disconnect the wire that goes from the coil to the distributor at the negative terminal of the coil. Carefully pull the rotor off the distributor shaft. Remove the two screws holding down the breaker plate and pull off the entire breaker plate/points assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XBMOPQNI3eoNRVP4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hEhCuP6IVou5BFLM.standard"
+            ],
+            "StepId": 40919,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "your distributor should now look the same as the one pictured to the left ."
+                },
+                {
+                    "Text": "take note of the notch on the body of the distributor opposite the vacuum advance can : this is where the new leads exit ."
+                },
+                {
+                    "Text": "place the new breaker plate back on the distributor , so that the threads face up , and the advance pin slides into the vacuum advance shaft ."
+                },
+                {
+                    "Text": "place the ignition module on the threaded studs as shown ."
+                },
+                {
+                    "Text": "set one end of the ground strap on the stud nearest to the notch and loosely put on the two locking nuts ."
+                }
+            ],
+            "Text_raw": "Your distributor should now look the same as the one pictured to the left. Take note of the notch on the body of the distributor opposite the vacuum advance can: this is where the new leads exit. Place the new breaker plate back on the distributor, so that the threads face up, and the advance pin slides into the vacuum advance shaft. Place the ignition module on the threaded studs as shown. Set one end of the ground strap on the stud nearest to the notch and loosely put on the two locking nuts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nIaTuNSXmbNyhalH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jrdW4xXjoR32gKOR.standard"
+            ],
+            "StepId": 40922,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "align the breaker plate with the distributor body and screw it into place ."
+                },
+                {
+                    "Text": "attach the other side of the grounding strap to the breaker plate hold-down screw as shown ."
+                },
+                {
+                    "Text": "slide the magnetic sleeve onto the distributor shaft . make sure that it is pressed firmly in place ."
+                },
+                {
+                    "Text": "using the provided plastic feeler gauge , or a 0.030 feeler gauge , set the gap between the ignition unit and the magnetic sleeve ."
+                },
+                {
+                    "Text": "while holding the ignition unit in place tighten the two locking nuts ."
+                }
+            ],
+            "Text_raw": "Align the breaker plate with the distributor body and screw it into place. Attach the other side of the grounding strap to the breaker plate hold-down screw as shown. Slide the magnetic sleeve onto the distributor shaft. Make sure that it is pressed firmly in place. Using the provided plastic feeler gauge, or a 0.030\" feeler gauge, set the gap between the ignition unit and the magnetic sleeve. While holding the ignition unit in place tighten the two locking nuts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VJkuVQqWhsNFfZft.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/R3PRaSu2XCS6SNUY.standard"
+            ],
+            "StepId": 40925,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "route the new ignition module wires along the inside of the distributor , to the notch on the body ."
+                },
+                {
+                    "Text": "firmly press the new insulating seal in as show ."
+                },
+                {
+                    "Text": "slide the rotor back onto the distributor shaft making sure that the notch lines up an it presses all the way down ."
+                },
+                {
+                    "Text": "place the distributor cap back on top of the distributor in the same orientation it was removed , this is the only way it will properly fit ."
+                },
+                {
+                    "Text": "insert and tighten both distributor hold down screws ."
+                },
+                {
+                    "Text": "attach the black wire from the new ignition unit to the negative terminal on the coil , and the red wire to the positive terminal on the coil , but do not remove other wires attached to the coil ."
+                },
+                {
+                    "Text": "it is important to ensure that the new ignition unit wires are secure and will not come in contact with any of the pulleys or the fan belt while driving ."
+                }
+            ],
+            "Text_raw": "Route the new  ignition module wires along the inside of the distributor, to the notch on the body. Firmly press the new insulating seal in as show. Slide the rotor back onto the distributor shaft making sure that the notch lines up an it presses all the way down. Place the distributor cap back on top of the distributor in the same orientation it was removed, this is the only way it will properly fit. Insert and tighten both distributor hold down screws. Attach the black wire from the new ignition unit to the negative terminal on the coil, and the red wire to the positive terminal on the coil, but do not remove other wires attached to the coil. It is important to ensure that the new ignition unit wires are secure and will not come in contact with any of the pulleys or the fan belt while driving.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XvMsoCljMYMnLWcw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6ZSStUgMtqmKBNqW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mSOuodHBHFMHSBb6.standard"
+            ],
+            "StepId": 40931,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Electronic Ignition"
+}

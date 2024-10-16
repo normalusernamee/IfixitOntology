@@ -1,0 +1,217 @@
+{
+    "Title": "How to Replace the Wiper Arm(s) of a 2005 Toyota Corolla",
+    "Ancestors": [
+        "Toyota Corolla",
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50410,
+    "Category": "2000-2007 Toyota Corolla",
+    "Toolbox": [
+        {
+            "Name": "14 mm socket wrench",
+            "Url": "/Item/14_mm_socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+Replace+the+Wiper+Arm%28s%29+of+a+2005+Toyota+Corolla/50410",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "take the tip of your flathead screwdriver , and wedge it underneath the wiper cap ."
+                },
+                {
+                    "Text": "firmly pry the wiper cap ++upwards++ until it's completely off ."
+                }
+            ],
+            "Text_raw": "Take the tip of your flathead screwdriver, and wedge it underneath the wiper cap. Firmly pry the wiper cap ++upwards++ until it's completely off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XqTCIdlWHN5HmwSH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YiG2dbDShbQShgfD.standard"
+            ],
+            "StepId": 109097,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "place the head of your ratchet on the exposed nut ."
+                },
+                {
+                    "Text": "loosen the nut by turning your ratchet counter clockwise ."
+                }
+            ],
+            "Text_raw": "Place the head of your ratchet on the exposed nut. Loosen the nut by turning your ratchet counter clockwise.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bctnH5vLabDlHlKQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Kfl3peSjgBFyCEZI.standard"
+            ],
+            "StepId": 109103,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "once the nut is loose enough , you may grab it and place it to the side ."
+                }
+            ],
+            "Text_raw": "Once the nut is loose enough, you may grab it and place it to the side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WSOoCKGgBwJEHNWK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aTcBQbJTMQ3Ta5n5.standard"
+            ],
+            "StepId": 109108,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "firmly grip the lower end of the wiper arm ."
+                },
+                {
+                    "Text": "pull it towards you , so that the wiper arm is extended in the upward position ."
+                }
+            ],
+            "Text_raw": "Firmly grip the lower end of the wiper arm. Pull it towards you, so that the wiper arm is extended in the upward position.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/L2IGwqUEepJYXvuT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NAHNDkTWUyOhQeG4.standard"
+            ],
+            "StepId": 109110,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "while holding the lower end of the wiper arm , tug the wiper arm upwards until completely detached ."
+                },
+                {
+                    "Text": "don't be discouraged if the wiper arm isn't detached right away . you may have to tug upwards a few times to detach it ."
+                }
+            ],
+            "Text_raw": "While holding the lower end of the wiper arm, tug the wiper arm upwards until completely detached. Don't be discouraged if the wiper arm isn't detached right away. You may have to tug upwards a few times to detach it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vAxRfUfFCFKVdRlu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZeyGNJ52e5DJFqPr.standard"
+            ],
+            "StepId": 109114,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "have your new wiper arm extended in the upward position ( just how your old wiper arm was extended at the end of step 4 ) ."
+                },
+                {
+                    "Text": "take your wiper arm , and center its hole on the exposed metal threading ."
+                }
+            ],
+            "Text_raw": "Have your new wiper arm extended in the upward position (just how your old wiper arm was extended at the end of Step 4). Take your wiper arm, and center its hole on the exposed metal threading.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kwNN2qh16A1IeVTS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2vSlTKZkBXtU5vw3.standard"
+            ],
+            "StepId": 109118,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "once the wiper arm has been placed onto the metal threading , firmly grip the lower end of the wiper arm ."
+                },
+                {
+                    "Text": "slowly push the wiper arm downwards and away from you , so that it's flat with the windshield ."
+                },
+                {
+                    "Text": "make sure to do this slowly so that your fingers are not compressed by the wiper arm and the windshield ."
+                }
+            ],
+            "Text_raw": "Once the wiper arm has been placed onto the metal threading, firmly grip the lower end of the wiper arm. Slowly push the wiper arm downwards and away from you, so that it's flat with the windshield. Make sure to do this slowly so that your fingers are not compressed by the wiper arm and the windshield.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3UPi4FOiTndjoB4n.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qpPAwE6JFxQguX6i.standard"
+            ],
+            "StepId": 109119,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "place the same nut from earlier onto the exposed threaded metal ."
+                },
+                {
+                    "Text": "place the head of your ratchet onto the nut ."
+                },
+                {
+                    "Text": "tighten the nut by turning your ratchet clockwise , until it can no longer be tightened ."
+                }
+            ],
+            "Text_raw": "Place the same nut from earlier onto the exposed threaded metal. Place the head of your ratchet onto the nut. Tighten the nut by turning your ratchet clockwise, until it can no longer be tightened.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MyqojNoQXBb2uMpx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/B2CVJrUNdmeuAOmG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/o3akUqMI4AIBKRX3.standard"
+            ],
+            "StepId": 109120,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "firmly press the wiper cap upon the exposed nut ."
+                },
+                {
+                    "Text": "once the wiper cap is secure , you may repeat steps 1-9 to the other wiper arm ."
+                }
+            ],
+            "Text_raw": "Firmly press the wiper cap upon the exposed nut. Once the wiper cap is secure, you may repeat steps 1-9 to the other wiper arm.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/T4uMoQ1raKLM5Gp1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QUEVy2tHRfovmJPf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uwUURCSnwilHqfFD.standard"
+            ],
+            "StepId": 109122,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Wiper Arm"
+}

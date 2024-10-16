@@ -1,0 +1,238 @@
+{
+    "Title": "Kenwood KDC-BT565U CD Drive Replacement",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 87899,
+    "Category": "Kenwood KDC-BT565U",
+    "Toolbox": [
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        },
+        {
+            "Name": "opening tool",
+            "Url": "https://www.ifixit.com/Store/Parts/iFixit-Opening-Tool/IF145-335",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Kenwood+KDC-BT565U+CD+Drive+Replacement/87899",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "press the eject button on the bottom left corner of the face plate ."
+                }
+            ],
+            "Text_raw": "Press the eject button on the bottom left corner of the face plate.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1YeglOXTEBVthbGG.standard"
+            ],
+            "StepId": 165156,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "begin by slightly lifting the face plate out from the side located by the release button ."
+                },
+                {
+                    "Text": "slide towards the side of the eject button , ''then'' completely lift out ."
+                }
+            ],
+            "Text_raw": "Begin by slightly lifting the face plate out from the side located by the release button. Slide towards the side of the eject button, ''then'' completely lift out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YY2AZG4xbVUhNHTm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vDWPP3ofgFH2PQyO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2wd4yIIiOE1HHLoP.standard"
+            ],
+            "StepId": 165160,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "grasp the outer metal sleeve with one hand and the front of the unit with the other ."
+                },
+                {
+                    "Text": "slide the sleeve back until it comes off the unit ."
+                }
+            ],
+            "Text_raw": "Grasp the outer metal sleeve with one hand and the front of the unit with the other. Slide the sleeve back until it comes off the unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Y2brD1tpH3MuMwaG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4LagHLxjJCvRayY1.standard"
+            ],
+            "StepId": 166603,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the thin frame from the front of the device . this can be done by first unsnapping the top pegs and then the bottom ones ."
+                }
+            ],
+            "Text_raw": "Remove the thin frame from the front of the device. This can be done by first unsnapping the top pegs and then the bottom ones.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WsNLlilFgqypnZIB.standard"
+            ],
+            "StepId": 166604,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "lift the clasps of the tabs around the edges by using a plastic opening tool or spudger ."
+                }
+            ],
+            "Text_raw": "Lift the clasps of the tabs around the edges by using a plastic opening tool or spudger.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YCi3JxN3lnltCr2X.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GXtQvUjgkGPVyrom.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/opPLHmeUJ4Sl2JTM.standard"
+            ],
+            "StepId": 166605,
+            "Tools_extracted": [
+                "opening tool"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the two 5.5 mm phillips 0 ( ph0 ) screws on the bottom of the unit ."
+                }
+            ],
+            "Text_raw": "Remove the two 5.5mm Phillips #0 (PH0) screws on the bottom of the unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DjTZKyOHYlMhvWNx.standard"
+            ],
+            "StepId": 166607,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the two 6 mm phillips 0 screws from the side of the unit ."
+                }
+            ],
+            "Text_raw": "Remove the two 6mm Phillips #0 screws from the side of the unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eowiWb1rf6nhipGK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1P3aKsyUcURSWDKN.standard"
+            ],
+            "StepId": 166608,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "remove the 7.5 mm phillips 0 screw in between the red and white rca inputs ."
+                },
+                {
+                    "Text": "remove the two 13.5 mm phillips 0 screws towards the top of the aluminum block ."
+                },
+                {
+                    "Text": "remove the 10 mm phillips 0 screw towards the bottom of the aluminum block ."
+                },
+                {
+                    "Text": "remove the two 6 mm phillips 0 screws found above the microphone mount and below the circular port ."
+                },
+                {
+                    "Text": "remove the 7.5 mm phillips 0 screw next to the large rectangular power connector ."
+                },
+                {
+                    "Text": "remove the 10 mm phillips 0 screw that resides above the aluminum block ."
+                }
+            ],
+            "Text_raw": "Remove the 7.5mm Phillips #0 screw in between the red and white RCA inputs. Remove the two 13.5mm Phillips #0 screws towards the top of the aluminum block. Remove the 10mm Phillips #0 screw towards the bottom of the aluminum block. Remove the two 6mm Phillips #0 screws found above the microphone mount and below the circular port. Remove the 7.5mm Phillips #0 screw next to the large rectangular power connector. Remove the 10mm Phillips #0 screw that resides above the aluminum block.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QfkT6rNsJGg2KWNA.standard"
+            ],
+            "StepId": 166611,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "separate the top and bottom metal housings of the unit carefully ."
+                },
+                {
+                    "Text": "there is a connecting ribbon that links the two halves . too much force could rip and irreversibly damage the ribbon ."
+                }
+            ],
+            "Text_raw": "Separate the top and bottom metal housings of the unit carefully. There is a connecting ribbon that links the two halves. Too much force could rip and irreversibly damage the ribbon.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NEh3LUYKSNufojPH.standard"
+            ],
+            "StepId": 166612,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "carefully pull the ribbon out of the connector found on the bottom half of the unit ( the bottom half has the cd drive ) ."
+                },
+                {
+                    "Text": "to remove the ribbon , grip the black base connector with one hand and the base of the ribbon with the other . the ribbon will have a blue , reinforced section close to the base ( seen in second picture ) which makes it easier to pull ."
+                }
+            ],
+            "Text_raw": "Carefully pull the ribbon out of the connector found on the bottom half of the unit (the bottom half has the CD drive). To remove the ribbon, grip the black base connector with one hand and the base of the ribbon with the other. The ribbon will have a blue, reinforced section close to the base (seen in second picture) which makes it easier to pull.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Js2uZIYITV3XifSR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FPHDvqknD3Rhapat.standard"
+            ],
+            "StepId": 166614,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "to fully unmount and replace the cd drive , remove the three 6 mm phllips 0 screws that hold the drive to the housing ."
+                }
+            ],
+            "Text_raw": "To fully unmount and replace the CD drive, remove the three 6mm Phllips #0 screws that hold the drive to the housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KVoMHDPIJyYAT6mq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Enobrv2QiVhqFWj3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EVENIyo1PiwgpsTY.standard"
+            ],
+            "StepId": 166617,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "CD Drive"
+}

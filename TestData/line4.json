@@ -1,0 +1,98 @@
+{
+    "Title": "1999-2004 Volkswagen Golf Windshield Wipers Replacement",
+    "Ancestors": [
+        "Volkswagen Golf",
+        "Volkswagen",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 2964,
+    "Category": "1997-2003 Volkswagen Golf",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1999+2000+2001+2002+2003+2004+Volkswagen+Golf+Windshield+Wipers+Replacement/2964",
+    "Steps": [
+        {
+            "Order": 0,
+            "Tools_annotated": [
+                "flathead screwdriver"
+            ],
+            "Lines": [
+                {
+                    "Text": "use a flathead screwdriver to remove the cap from the windshield wiper ."
+                }
+            ],
+            "Text_raw": "Use a flathead screwdriver to remove the cap from the windshield wiper.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IxSU1wATCFJNVVmM.standard"
+            ],
+            "StepId": 14475,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Tools_annotated": [
+                "socket wrench"
+            ],
+            "Lines": [
+                {
+                    "Text": "use a socket wrench to release the passenger-side windshield wiper locking nut ."
+                }
+            ],
+            "Text_raw": "Use a socket wrench to release the passenger-side windshield wiper locking nut.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nxm4PdFYM5mZOxn1.standard"
+            ],
+            "StepId": 14476,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "gently lift up the passenger-side windshield wiper ."
+                }
+            ],
+            "Text_raw": "Gently lift up the passenger-side windshield wiper.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/12yGbSN4VAQWPrQt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xyb4sWcS4vh2swNX.standard"
+            ],
+            "StepId": 14477,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the driver-side windshield wiper in the same fashion ."
+                }
+            ],
+            "Text_raw": "Remove the driver-side windshield wiper in the same fashion.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ED3Ox2cZhUJ6DrNg.standard"
+            ],
+            "StepId": 14478,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Windshield Wipers"
+}

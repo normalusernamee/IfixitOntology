@@ -1,0 +1,227 @@
+{
+    "Title": "1997-2001 Jeep Cherokee Brake Light Replacement",
+    "Ancestors": [
+        "Jeep Cherokee",
+        "Jeep",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50443,
+    "Category": "1997-2001 Jeep Cherokee",
+    "Toolbox": [
+        {
+            "Name": "3 8 socket",
+            "Url": "http://www.amazon.com/TEKTON-14130-8-Inch-Shallow-6-Point/dp/B000NPULBK/ref=sr_1_1?s=hi&ie=UTF8&qid=1434651838&sr=1-1&keywords=tekton+14130",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1997+1998+1999+2000+2001+Jeep+Cherokee+Brake+Light+Replacement/50443",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "'''open the trunk door . ''' in order to remove the rear light assembly , it must be accessed with the trunk open ."
+                }
+            ],
+            "Text_raw": "'''Open the trunk door. ''' In order to remove the rear light assembly, it must be accessed with the trunk open.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xmvDWAkbSTIAQwfN.standard"
+            ],
+            "StepId": 109148,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "'''remove the three screws '''that are holding the rear light assembly to the body of the jeep . use the wrench to remove the screws ."
+                },
+                {
+                    "Text": "each screw is an indented hexagon washer head and is 3 /16 in diameter and 3 /4 long ."
+                },
+                {
+                    "Text": "all three screws are identical and can be removed in any order ."
+                }
+            ],
+            "Text_raw": "'''Remove the three screws '''that are holding the rear light assembly to the body of the Jeep. Use the wrench to remove the screws. Each screw is an indented hexagon washer head and is 3/16\" in diameter and 3/4\" long. All three screws are identical and can be removed in any order.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5BATf1Pj1nF2PN3F.standard"
+            ],
+            "StepId": 109154,
+            "Tools_extracted": [
+                "3 8 socket",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "'''gently pull the rear light assembly away''' from the car to gain access to the bulbs and wires ."
+                },
+                {
+                    "Text": "be careful when pulling away the rear light assembly . the wires will still be attached to the inside of the car ."
+                }
+            ],
+            "Text_raw": "'''Gently pull the rear light assembly away''' from the car to gain access to the bulbs and wires. Be careful when pulling away the rear light assembly.  The wires will still be attached to the inside of the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FeOakVBsOeGVPNG3.standard"
+            ],
+            "StepId": 109161,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "'''locate the brake light . '''turn the light assembly over and you will see three light bulb sockets . the brake light is the top bulb and the bulb behind the red plastic lens ."
+                }
+            ],
+            "Text_raw": "'''Locate the brake light. '''Turn the light assembly over and you will see three light bulb sockets.  The brake light is the top bulb and the bulb behind the red plastic lens.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mTCD1UcYj1OL4oYt.standard"
+            ],
+            "StepId": 109642,
+            "Tools_extracted": [
+                "socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "'''remove the brake light . '''twist the light bulb socket clockwise and remove the light bulb socket from the rear light assembly ."
+                }
+            ],
+            "Text_raw": "'''Remove the brake light. '''Twist the light bulb socket clockwise and remove the light bulb socket from the rear light assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/plcs33dE2NfkHwhQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lQS4OMSNIhblqMss.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KMtMnkDhJMoGOLRX.standard"
+            ],
+            "StepId": 109646,
+            "Tools_extracted": [
+                "socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "'''remove the bulb''' by pinching on either side of the bulb and gently pulling the bulb out ."
+                },
+                {
+                    "Text": "be careful not to force the bulb when pulling as it may damage the bulb socket ."
+                }
+            ],
+            "Text_raw": "'''Remove the bulb''' by pinching on either side of the bulb and gently pulling the bulb out. Be careful not to force the bulb when pulling as it may damage the bulb socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ysbAnblEjbSe2AP3.standard"
+            ],
+            "StepId": 109661,
+            "Tools_extracted": [
+                "socket"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "'''replace with the new bulb . '''gently put in the new bulb in the same manner as you removed the old bulb ."
+                }
+            ],
+            "Text_raw": "'''Replace with the new bulb. '''Gently put in the new bulb in the same manner as you removed the old bulb.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JsoFIDXURwy1Lq4d.standard"
+            ],
+            "StepId": 109664,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "'''lock the bulb back in place . '''carefully put the bulb back into the light assembly and twist counter clockwise until it locks in place ."
+                }
+            ],
+            "Text_raw": "'''Lock the bulb back in place. '''Carefully put the bulb back into the light assembly and twist counter clockwise until it locks in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NsYO1HssoLVOHWW1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/icxeRpAaJulNBnAJ.standard"
+            ],
+            "StepId": 109667,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "'''set the light assembly back in place . ''' there is a tab on the bottom of the light assembly that must line up with the hole in the car ."
+                },
+                {
+                    "Text": "the red brake light should be on top ."
+                }
+            ],
+            "Text_raw": "'''Set the light assembly back in place. ''' There is a tab on the bottom of the light assembly that must line up with the hole in the car. The red brake light should be on top.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qHSdcIWBIR1sK2gT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lLsGHE2BFCjaggOh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WxUrRVsFHHLWNx3A.standard"
+            ],
+            "StepId": 109675,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "'''tighten the three screws''' back into place . this will fasten the light assembly back onto the car ."
+                },
+                {
+                    "Text": "the order and the positioning of the screws will have no effect on the assembly , because they are all identical ."
+                }
+            ],
+            "Text_raw": "'''Tighten the three screws''' back into place. This will fasten the light assembly back onto the car. The order and the positioning of the screws will have no effect on the assembly, because they are all identical.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rmMGvtURgSlWGJNI.standard"
+            ],
+            "StepId": 109678,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "'''check the brake light . ''' have another person step on the brake to ensure proper lighting occurs ."
+                }
+            ],
+            "Text_raw": "'''Check the brake light.''' Have another person step on the brake to ensure proper lighting occurs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iHtsn3bV4fBTxjXX.standard"
+            ],
+            "StepId": 109681,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Brake Light"
+}

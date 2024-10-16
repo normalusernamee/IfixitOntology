@@ -1,0 +1,145 @@
+{
+    "Title": "2004 Mazda Tribute & Ford Escape - Ignition Coils and Spark Plugs Replacement on Cylinders 4  5 and 6",
+    "Ancestors": [
+        "Mazda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 67436,
+    "Category": "2000-2007 Mazda Tribute",
+    "Toolbox": [
+        {
+            "Name": "5 8 socket spark plug wrench",
+            "Url": "/Item/5_8_Socket_Spark_Plug_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 16 socket wrench",
+            "Url": "/Item/5_16_Socket_Wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2004+Mazda+Tribute+%26+Ford+Escape+-+Ignition+Coils+and+Spark+Plugs+Replacement+on+Cylinders+4++5+and+6/67436",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "3 5 /16 screws hold the shroud in place"
+                },
+                {
+                    "Text": "loosen screws and remove or if you cant get the loose screws out because the holes are deep , cover the holes with tape and remove the shroud . you may have to wiggle it to get it out"
+                }
+            ],
+            "Text_raw": "3  5/16 screws hold the shroud in place Loosen Screws and remove or if you cant get the loose screws out because the holes are deep, cover the holes with tape and remove the shroud.  you may have to wiggle it to get it out",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6M4BDOWYdnAG3YDd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UYXjSyOedFroUGxW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1e3pNct6GYNUmjFc.standard"
+            ],
+            "StepId": 136519,
+            "Tools_extracted": [
+                "5 8 socket spark plug wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "the image is marked for coils 4 , 5 and 6 which you will see once the shroud is off . you may as well replace all 3 but if money is a factor , then just replace the bad one ."
+                },
+                {
+                    "Text": "press on the clip lock on the electrical cable where you see my thumb nail to release the lock and just pull to slide off ."
+                }
+            ],
+            "Text_raw": "The image is marked for coils 4, 5 and 6 which you will see once the shroud is off.  you may as well replace all 3 but if money is a factor, then just replace the bad one. Press on the clip lock on the electrical cable where you see my thumb nail to release the lock and just pull to slide off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UKhJmwR2Vy3EREWa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AG2KAeM2fUYITPko.standard"
+            ],
+            "StepId": 136555,
+            "Tools_extracted": [
+                "5 socket wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the 3 bolts that holds the 3 coils in place"
+                },
+                {
+                    "Text": "if the bolts are tight because they've been in a while , use pb blaster to penetrate and give it some time to loosen . pb blaster is better than wd-40"
+                },
+                {
+                    "Text": "then pull the coils straight out . there might be a little resistance as it separates from the spark plug but it should just come right out ."
+                },
+                {
+                    "Text": "coils have a plastic top with an electrical connector and a rubber boot on the bottom . this eliminates the old style when we used to have a cap and wires to make the connection"
+                }
+            ],
+            "Text_raw": "Remove the 3 bolts that holds the 3 coils in place If the bolts are tight because they've been in a while, use pb blaster to penetrate and give it some time to loosen. pb blaster is better than wd-40 then pull the coils straight out. There might be a little resistance as it separates from the spark plug but it should just come right out. Coils have a plastic top with an electrical connector and a rubber boot on the bottom. This eliminates the old style when we used to have a cap and wires to make the connection",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/h6yFVM2LBZssuRpD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UEBRaUDZubL3BmRh.standard"
+            ],
+            "StepId": 136556,
+            "Tools_extracted": [
+                "5 8 socket spark plug wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "make sure you use an actual spark plug socket that has a rubber insert so that the plug will come out with the socket ."
+                },
+                {
+                    "Text": "take note of the direction of the plugs when you take them out , gap / screw side down"
+                },
+                {
+                    "Text": "the new plugs wont need to be gapped ."
+                },
+                {
+                    "Text": "loosen slowly and when tightening , tighten slowly . do not over tighten ."
+                },
+                {
+                    "Text": "i used ena brand coils that i got on amazon . was 6 for 45 and the plugs were 38."
+                }
+            ],
+            "Text_raw": "Make sure you use an actual spark plug socket that has a rubber insert so that the plug will come out with the socket. Take note of the direction of the plugs when you take them out, gap / screw side down The new plugs wont need to be gapped. Loosen slowly and when tightening, tighten slowly. Do not over tighten. I used ENA brand coils that I got on Amazon. Was 6 for $45 and the plugs were $38.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/j1IMl3TuBeEfVtNa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tPhGMDMrCOvnqvMI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QLGTwOMiSAvgFueH.standard"
+            ],
+            "StepId": 136557,
+            "Tools_extracted": [
+                "5 8 socket spark plug wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "assemble in reverse order . when properly seated and bolted back in , coils should be all the way down so the anchor bolt and plastic head of the coil is flush with the engine where it is seated ."
+                },
+                {
+                    "Text": "the bolt should be tight but do not over tighten . you may want to put a tiny tiny bit of pb blaster on the bolt to help it especially if it squeels as you tighten it . you don't want to break the bolt or over tighten ."
+                },
+                {
+                    "Text": "after everything is back together test drive the car . you should notice that the misfires are gone but the check engine light wont go out until the car has enough recordings of no-misfires usually several 20 minute drives ."
+                }
+            ],
+            "Text_raw": "Assemble in reverse order. When properly seated and bolted back in,  coils should be all the way down so the anchor bolt and plastic head of the coil is flush with the engine where it is seated. The bolt should be tight but do not over tighten. you may want to put a tiny tiny bit of pb blaster on the bolt to help it especially if it squeels as you tighten  it. You don't want to break the bolt or over tighten. After everything is back together test drive the car. You should notice that the misfires are gone but the check engine light wont go out until the car has enough recordings of no-misfires usually several 20 minute drives.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/S5uujVqyUvyXgsFH.standard"
+            ],
+            "StepId": 136559,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Ignition Coils and Spark Plugs"
+}

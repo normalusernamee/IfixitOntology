@@ -1,0 +1,146 @@
+{
+    "Title": "How To Replace A  Subaru Outback Exhaust Front Cover",
+    "Ancestors": [
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 37679,
+    "Category": "Subaru",
+    "Toolbox": [
+        {
+            "Name": "12 mm combination wrench",
+            "Url": "http://www.homedepot.com/p/URREA-12mm-12-Point-Combination-Chrome-Wrench-1212M/202797566",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "safety glasses",
+            "Url": "http://www.ifixit.com/Tools/Safety-Glasses/IF145-125",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/VCJJ1SfK1pneiLkY.mini"
+        },
+        {
+            "Name": "flashlight",
+            "Url": "http://www.amazon.com/dp/B006VPPERC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+To+Replace+A++Subaru+Outback+Exhaust+Front+Cover/37679",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "collect supplies ."
+                },
+                {
+                    "Text": "make sure the new exhaust front cover is free of stickers , oil , or residues ."
+                }
+            ],
+            "Text_raw": "Collect Supplies. Make sure the new Exhaust Front Cover is free of stickers, oil, or residues.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uB3qLfyAFcVL4XjM.standard"
+            ],
+            "StepId": 84978,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "park outback on a level dry and clean surface ."
+                },
+                {
+                    "Text": "make sure that the car is in park for an automatic transmission or in first gear for a manual transmission . verify that the parking brake is engaged ."
+                }
+            ],
+            "Text_raw": "Park Outback on a level dry and clean surface. Make sure that the car is in park for an automatic transmission or in first gear for a manual transmission. Verify that the parking brake is engaged.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MG5KDNT3h2TsA4le.standard"
+            ],
+            "StepId": 84961,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "put on safety glasses . be sure to leave them on until the fix is complete ."
+                },
+                {
+                    "Text": "do not touch any exhaust components until you have verified that there is no danger of getting burned ."
+                },
+                {
+                    "Text": "laying on your back , maneuver yourself underneath the driver or passenger side of the car carrying the 12 mm combination wrench . locate yourself about even with the back of the front door ."
+                }
+            ],
+            "Text_raw": "Put on safety glasses. Be sure to leave them on until the fix is complete. Do not touch any exhaust components until you have verified that there is no danger of getting burned. Laying on your back, maneuver yourself underneath the driver or passenger side of the car carrying the 12mm combination wrench. Locate yourself about even with the back of the front door.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Pgg4BZmTJwN6CW3N.standard"
+            ],
+            "StepId": 85024,
+            "Tools_extracted": [
+                "12 mm combination wrench",
+                "safety glasses"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "unplug the rear oxygen sensor connector and carefully route the wires through the exhaust front cover so they are no longer passing through it ."
+                }
+            ],
+            "Text_raw": "Unplug the rear oxygen sensor connector and carefully route the wires through the Exhaust Front Cover so they are no longer passing through it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hbVXWKPo4BDtNOgw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sVuN6n35AnjRsSuh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nCjRymmDDqNN2yPe.standard"
+            ],
+            "StepId": 86220,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "locate the four mounting bolts for the exhaust front cover ."
+                },
+                {
+                    "Text": "remove the bolts by turning them counterclockwise using the 12 mm combination wrench ."
+                }
+            ],
+            "Text_raw": "Locate the four mounting bolts for the Exhaust Front Cover. Remove the bolts by turning them counterclockwise using the 12mm combination wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6AwKCKt1olVGfXLT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AOvUsIKpJUAsWLwf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jZjFqRRpF5XOXiG2.standard"
+            ],
+            "StepId": 85037,
+            "Tools_extracted": [
+                "12 mm combination wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the old exhaust front cover taking care to prevent damage to the vehicles undercoating and the oxygen sensor wires ."
+                }
+            ],
+            "Text_raw": "Remove the old Exhaust Front Cover taking care to prevent damage to the vehicles undercoating and the oxygen sensor wires.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eZjZW6ZukOfXfsWo.standard"
+            ],
+            "StepId": 86707,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Exhaust Front Cover"
+}

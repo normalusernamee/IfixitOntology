@@ -1,0 +1,119 @@
+{
+    "Title": "2002-2008 Dodge Ram 1500 Transfer Case Oil Replacement",
+    "Ancestors": [
+        "Dodge Ram Pickup",
+        "Dodge",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11641,
+    "Category": "2002-2008 Dodge Ram",
+    "Toolbox": [
+        {
+            "Name": "10 mm hex driver socket",
+            "Url": "/Item/10_mm_hex_driver_socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "vacuum oil pump",
+            "Url": "/Item/vacuum_oil_pump",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2002+2003+2004+2005+2006+2007+2008+Dodge+Ram+1500+Transfer+Case+Oil+Replacement/11641",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the transfer case in the center of the undercarriage of your dodge . position yourself under the drivers side seat and look upwards toward the front left tire ."
+                },
+                {
+                    "Text": "locate the fill plug on the transfer case . and remove it using the 10 mm hex driver . the fill plug is the upper steel plug just to the left of the rear output of the transfer case ."
+                },
+                {
+                    "Text": "no oil will drain after the filler plug is removed ."
+                }
+            ],
+            "Text_raw": "Locate the transfer case in the center of the undercarriage of your Dodge. Position yourself under the drivers side seat and look upwards toward the front left tire. Locate the fill plug on the transfer case. and remove it using the 10 mm hex driver. The fill plug is the upper steel  plug just to the left of the rear output of the transfer case. No oil will drain after the filler plug is removed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VLsNRYp3BVEWdHCp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TAje4HdJT2TEWSPK.standard"
+            ],
+            "StepId": 41736,
+            "Tools_extracted": [
+                "oil drain pan",
+                "10 mm hex driver socket"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "set the drain pan underneath the transfer case . make sure that the drain pan has enough room for about 2 quarts of oil ."
+                },
+                {
+                    "Text": "locate the drain plug just left and under the filler plug ."
+                },
+                {
+                    "Text": "as soon as the filler plug is removed the transfer case oil will begin to drain . take caution when removing the drain plug ."
+                },
+                {
+                    "Text": "due to limited resources , the transfer case oil was not actually changed for this guide ."
+                },
+                {
+                    "Text": "while applying pressure towards the front of the car unscrew the drain plug with the 10 mm hex . once you feel that the plug is fully unthreaded quickly pull the plug away allowing the oil to drain ."
+                },
+                {
+                    "Text": "the oil will take upwards of 5 minutes to completely drain ."
+                }
+            ],
+            "Text_raw": "Set the drain pan underneath the transfer case. Make sure that the drain pan has enough room for about 2 quarts of oil. Locate the drain plug just left and under the filler plug. As soon as the filler plug is removed the Transfer case oil will begin to drain. Take caution when removing the drain plug. Due to limited resources, the transfer case oil was not actually changed for this guide. While applying pressure towards the front of the car unscrew the drain plug with the 10mm Hex.  Once you feel that the Plug is fully unthreaded quickly pull the plug away allowing the oil to drain. The oil will take upwards of 5 minutes to completely drain.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EEIKUxr6EuNl6B1L.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hcKPkwHLBjrF3L1i.standard"
+            ],
+            "StepId": 41735,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "tighten the drain plug using the 10 mm hex ."
+                },
+                {
+                    "Text": "fill the transfer case with the atf oil using the vacuum oil pump . when the case is full , oil will begin dripping out of the fill hole ."
+                },
+                {
+                    "Text": "insert and tighten the filler plug using the 10 mm hex ."
+                },
+                {
+                    "Text": "be careful to line up each plug carefully to prevent cross-threading . do not overtighten the plugs , as overtightening may cause the threads to strip ."
+                },
+                {
+                    "Text": "due to limited resources the transfer case oil was not actually changed ."
+                }
+            ],
+            "Text_raw": "Tighten the drain plug using the 10mm hex. Fill the transfer case with the ATF oil using the vacuum oil pump. When the case is full, oil will begin dripping out of the fill hole. Insert and tighten the filler plug using the 10 mm hex. Be careful to line up each plug carefully to prevent cross-threading. Do not overtighten the plugs, as overtightening may cause the threads to strip. Due to limited resources the transfer case oil was not actually changed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RfyZyR1lqbEHSlRU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5PdGLPT5snKjchQa.standard"
+            ],
+            "StepId": 41782,
+            "Tools_extracted": [
+                "oil",
+                "10 mm hex driver socket",
+                "vacuum oil pump"
+            ]
+        }
+    ],
+    "Subject": "Transfer Case Oil"
+}

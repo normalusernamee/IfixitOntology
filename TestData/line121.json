@@ -1,0 +1,185 @@
+{
+    "Title": "2012 Nissan Murano Driver Side Mirror Replacement",
+    "Ancestors": [
+        "Nissan Murano",
+        "Nissan",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20407,
+    "Category": "2008-2014 Nissan Murano",
+    "Toolbox": [
+        {
+            "Name": "panel tool",
+            "Url": "/Item/panel_tool",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2012+Nissan+Murano+Driver+Side+Mirror+Replacement/20407",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "pull out the driver preset panel , if your options package included this . usually no tools required ."
+                }
+            ],
+            "Text_raw": "Pull out the Driver preset panel, if your options package included this. Usually no tools required.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jr4YfGNBwQchCmQI.standard"
+            ],
+            "StepId": 56284,
+            "Tools_extracted": [
+                "panel tool"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "expose one of three screws by prying the door handle trim plate out ."
+                }
+            ],
+            "Text_raw": "Expose one of three screws by prying the door handle trim plate out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rZEOtLDBe2PefyOB.standard"
+            ],
+            "StepId": 56286,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "pry out the door lock and window control panel . disconnect all connectors on the back side ."
+                }
+            ],
+            "Text_raw": "Pry out the door lock and window control panel. Disconnect all connectors on the back side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pI2af6NVnZVZcw2H.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fDpKmVWOr3bCRKVx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rylqTkQ6uBGRlQIA.standard"
+            ],
+            "StepId": 56287,
+            "Tools_extracted": [
+                "panel tool"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "pry up the arm rest to expose the second hidden screw ( total of 3 ) ."
+                }
+            ],
+            "Text_raw": "Pry up the arm rest to expose the second hidden screw (total of 3).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6xsZxoIWMfIKbBAF.standard"
+            ],
+            "StepId": 56288,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "now you can remove all three hidden screws with the 10 mm socket or phillips screwdriver ."
+                }
+            ],
+            "Text_raw": "Now you can remove all three hidden screws with the 10mm socket or philips screw driver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nYhTCXHLxuZLtEUR.standard"
+            ],
+            "StepId": 56290,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "now the door panel itself can be pried off the door . starting at the bottom , find the plastic friction plugs and pull enough to pop them out one by one ."
+                },
+                {
+                    "Text": "then lift the door panel up off the door . you do not need to remove it completly . this should give you enough room to work on the mirror in the next steps ."
+                }
+            ],
+            "Text_raw": "Now the door panel itself can be pried off the door. Starting at the bottom, find the plastic friction plugs and pull enough to pop them out one by one. Then lift the door panel up off the door. You do not need to remove it completly. This should give you enough room to work on the mirror in the next steps.",
+            "Images": [],
+            "StepId": 56291,
+            "Tools_extracted": [
+                "panel tool"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "pull the inside mirror cover off ."
+                }
+            ],
+            "Text_raw": "Pull the inside mirror cover off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5a3hUkptCQ3elEoH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CSr23ZCCrKMYRHPI.standard"
+            ],
+            "StepId": 56293,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "unplug the mirror wiring harness . the connector on the door will stay put ."
+                }
+            ],
+            "Text_raw": "Unplug the mirror wiring harness. The connector on the door will stay put.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4kCVtnBe3ufsS1cY.standard"
+            ],
+            "StepId": 56294,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "remove the three nuts holding the mirror on to the door . depending on the age of your vehicle , you may want to clean off the remaining area so the new mirror seals good ."
+                }
+            ],
+            "Text_raw": "Remove the three nuts holding the mirror on to the door. Depending on the age of your vehicle, you may want to clean off the remaining area so the new mirror seals good.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OgMvOmjIyj4EupRM.standard"
+            ],
+            "StepId": 56296,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "2012 Nissan Murano Driver Side Mirror"
+}

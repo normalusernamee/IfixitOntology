@@ -1,0 +1,192 @@
+{
+    "Title": "Holley 4 Barrel Carburetor Gasket Replacement",
+    "Ancestors": [
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 63794,
+    "Category": "Auto Part",
+    "Toolbox": [
+        {
+            "Name": "safety glasses",
+            "Url": "http://www.ifixit.com/Tools/Safety-Glasses/IF145-125",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/VCJJ1SfK1pneiLkY.mini"
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "/Item/Flat_Head_ScrewDriver",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": "https://www.ifixit.com/Store/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "knife",
+            "Url": "/Item/Knife",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Holley+4+Barrel+Carburetor+Gasket+Replacement/63794",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "make sure your carburetor has no fuel inside ."
+                }
+            ],
+            "Text_raw": "Make sure your carburetor has no fuel inside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HArG6wWPppm5Qihb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DVtDdhwW3xHRWgxG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dALg4mSMeYMrQHQB.standard"
+            ],
+            "StepId": 133916,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the four 47 mm flat head screws ."
+                }
+            ],
+            "Text_raw": "Remove the four 47 mm flat head screws.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Jx2fK2xX4C5YtpkA.standard"
+            ],
+            "StepId": 133901,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the bowl from the side of the carburetor ."
+                }
+            ],
+            "Text_raw": "Remove the bowl from the side of the carburetor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iwEVNmiPvTZGcUNR.standard"
+            ],
+            "StepId": 133914,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the four 63 mm flat head screws ."
+                }
+            ],
+            "Text_raw": "Remove the four 63 mm flat head screws.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CMKQQIgwetkxxRbU.standard"
+            ],
+            "StepId": 133902,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the bowl and the steel fuel line from the side of the carburetor ."
+                }
+            ],
+            "Text_raw": "Remove the bowl and the steel fuel line from the side of the carburetor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1yW1utD52bnRFbyX.standard"
+            ],
+            "StepId": 133915,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the spacer from the side of the carburetor ."
+                },
+                {
+                    "Text": "if you need to , use a flat head screwdriver and carefully pry the spacer off of the carburetor ."
+                }
+            ],
+            "Text_raw": "Remove the spacer from the side of the carburetor. If you need to, use a flat head screwdriver and carefully pry the spacer off of the carburetor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3OHJS3CagB3cInUZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/riJH6ZgCSVCkgNdb.standard"
+            ],
+            "StepId": 133903,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the six 2.5 mm hex screws from the secondary metering block ."
+                },
+                {
+                    "Text": "if you need to , use the small flat head screwdriver that will fit the head of the hex screws in order to remove the screws ."
+                }
+            ],
+            "Text_raw": "Remove the six 2.5 mm hex screws from the secondary metering block. If you need to, use  the small flat head screwdriver that will fit the head of the hex screws in order to remove the screws.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HdsduZUFYgnAAdua.standard"
+            ],
+            "StepId": 133905,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "using a flat head screwdriver , remove the thin gasket from the side of the carburetor ."
+                }
+            ],
+            "Text_raw": "Using a flat head screwdriver, remove the thin gasket from the side of the carburetor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HknCXeGVBSBKyJLx.standard"
+            ],
+            "StepId": 133904,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "remove the eight 20 mm phillips screws from the bottom plate of the carburetor ."
+                },
+                {
+                    "Text": "then , carefully remove the gasket from the bottom plate . use a flat head screwdriver , if needed , to pry the gasket off of the plate ."
+                }
+            ],
+            "Text_raw": "Remove the eight 20 mm Phillips screws from the bottom plate of the carburetor. Then, carefully remove the gasket from the bottom plate. Use a flat head screwdriver, if needed, to pry the gasket off of the plate.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yRIGxNuKXwBxSv2s.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ssXpoDKPVXGLSopX.standard"
+            ],
+            "StepId": 133908,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        }
+    ],
+    "Subject": "Gaskets"
+}

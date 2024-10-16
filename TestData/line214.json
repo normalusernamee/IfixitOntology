@@ -1,0 +1,176 @@
+{
+    "Title": "Chevrolet Windshield Wiper Motor / Transmission Replacement",
+    "Ancestors": [
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 42959,
+    "Category": "Chevrolet",
+    "Toolbox": [
+        {
+            "Name": "t30 torx driver",
+            "Url": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=t30+torx&rh=i%3Aaps%2Ck%3At30+torx",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "metric socket set",
+            "Url": "/Item/Metric_socket_set",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "screwdriver",
+            "Url": "/Item/Screw_Driver",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "pliers or vise grips",
+            "Url": "/Item/Pliers_or_vise_grips",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "painters tape and marker",
+            "Url": "/Item/painters_tape_and_marker",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Chevrolet+Windshield+Wiper+Motor+-+Transmission+Replacement/42959",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "raise the hood ."
+                },
+                {
+                    "Text": "remove the negative terminal clamp from the battery . should be 10 mm"
+                }
+            ],
+            "Text_raw": "Raise the hood. Remove the negative terminal clamp from the battery.  Should be 10 mm",
+            "Images": [],
+            "StepId": 98419,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "apply painters tape to the windshield under each wiper arm ."
+                },
+                {
+                    "Text": "use a mark to record the wiper arm position on the windshield"
+                }
+            ],
+            "Text_raw": "Apply painters tape to the windshield under each wiper arm. Use a mark to record the wiper arm position on the windshield",
+            "Images": [],
+            "StepId": 98420,
+            "Tools_extracted": [
+                "painters tape and marker"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove antenna , use the proper wrench to loosen the antenna from the base ."
+                },
+                {
+                    "Text": "pull the washer hoses off of the small studs near the wiper arm bases ."
+                },
+                {
+                    "Text": "open the plastic caps from the base of the washer arms , using the proper socket wrench , loosen and remove the hold down nut ."
+                },
+                {
+                    "Text": "remove the washer arms . they make a puller tool but you should be able to wiggle them back and forth and lift them off the stud ."
+                }
+            ],
+            "Text_raw": "Remove Antenna, use the proper wrench to loosen the antenna from the base. Pull the washer hoses off of the small studs near the wiper arm bases. Open the plastic caps from the base of the washer arms, using the proper socket wrench, loosen and remove the hold down nut. Remove the washer arms.  They make a puller tool but you should be able to wiggle them back and forth and lift them off the stud.",
+            "Images": [],
+            "StepId": 98421,
+            "Tools_extracted": [
+                "metric socket set"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the plastic end covers by prying them off with a wide screwdriver"
+                },
+                {
+                    "Text": "remove 2 clips on the front of the plastic grille ."
+                },
+                {
+                    "Text": "remove 2 bolts from each side of the plastic grille ."
+                },
+                {
+                    "Text": "pull up on the grille and disconnect the wiper fluid tube near the drivers fender . there should be a section that will pull apart to allow removal ."
+                }
+            ],
+            "Text_raw": "Remove the plastic end covers by prying them off with a wide screw driver Remove 2 clips on the front of the plastic grille. Remove 2 bolts from each side of the plastic grille. Pull up on the grille and disconnect the wiper fluid tube near the drivers fender.  there should be a section that will pull apart to allow removal.",
+            "Images": [],
+            "StepId": 98422,
+            "Tools_extracted": [
+                "screwdriver",
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove three bolts holding the wiper transmission to the body . there should be a rubber gasket on each one - do not remove them from the assembly ."
+                },
+                {
+                    "Text": "remove the power plug , squeeze the plug on the bottom and pull , it should release with little effort ."
+                },
+                {
+                    "Text": "now you have to wiggle the transmission back and forth in the fire wall area in order to get it out"
+                }
+            ],
+            "Text_raw": "remove three bolts holding the wiper transmission to the body. There should be a rubber gasket on each one - do not remove them from the assembly. Remove the power plug, squeeze the plug on the bottom and pull, it should release with little effort. Now you have to wiggle the transmission back and forth in the fire wall area in order to get it out",
+            "Images": [],
+            "StepId": 98423,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "using a screwdriver , pry off the linkage from the motor arm ."
+                },
+                {
+                    "Text": "remove three torx ( 30 ) screws which will separate the wiper motor from the wiper transmission ."
+                },
+                {
+                    "Text": "note - if you purchase the wiper transmission assembly from a chevy dealership , it will probably come with a new motor already attached . this means you can skip this step ."
+                }
+            ],
+            "Text_raw": "Using a screwdriver, pry off the linkage from the motor arm. Remove three TORX (30) screws which will separate the wiper motor from the wiper transmission. NOTE - if you purchase the wiper transmission assembly from a Chevy dealership, it will probably come with a new motor already attached.  This means you can skip this step.",
+            "Images": [],
+            "StepId": 98424,
+            "Tools_extracted": [
+                "screwdriver",
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "reverse the steps to install the wiper transmission assembly ."
+                }
+            ],
+            "Text_raw": "Reverse the steps to install the wiper transmission assembly.",
+            "Images": [],
+            "StepId": 98425,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Windshield Wiper Motor Transmission"
+}

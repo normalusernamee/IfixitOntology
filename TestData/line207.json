@@ -1,0 +1,336 @@
+{
+    "Title": "2009 Subaru Impreza WRX Rear Speaker Replacement",
+    "Ancestors": [
+        "Subaru Impreza",
+        "Subaru",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 42165,
+    "Category": "2007-2011 Subaru Impreza",
+    "Toolbox": [
+        {
+            "Name": "wire stripper",
+            "Url": "http://www.ifixit.com/Tools/6-Inch-Wire-Stripper/IF145-046",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/KVMjZiV5sFidEgEX.mini"
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "https://www.ifixit.com/Store/Tools/Small-Needle-Nose-Pliers/IF145-058",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/wFGPUX2uMQPIiQCr.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2009+Subaru+Impreza+WRX+Rear+Speaker+Replacement/42165",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "pry off the plastic tab inside the rear door handle ."
+                }
+            ],
+            "Text_raw": "Pry off the plastic tab inside the rear door handle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/faRK4ElTjfa5LQr1.standard"
+            ],
+            "StepId": 97442,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use the phillips screwdriver to unscrew the 8x3 /4 phillips screw inside the door handle ."
+                }
+            ],
+            "Text_raw": "Use the Phillips screwdriver to unscrew the 8x3/4\" Phillips screw inside the door handle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QcNCgZYOExGkQUSA.standard"
+            ],
+            "StepId": 97445,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a flathead screwdriver to pry up the plastic tab inside the rear door armrest ."
+                }
+            ],
+            "Text_raw": "Use a flathead screwdriver to pry up the plastic tab inside the rear door armrest.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6MfVaNPPVQnMNPAm.standard"
+            ],
+            "StepId": 97439,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use the phillips screwdriver to unscrew the 8x3 /4 phillips screw inside the armrest ."
+                }
+            ],
+            "Text_raw": "Use the Phillips screwdriver to unscrew the 8x3/4\" Phillips screw inside the armrest.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VWFvHJVRyikyfKuO.standard"
+            ],
+            "StepId": 97446,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use flathead to pry off the upper panel located at the top of the rear door panel ."
+                }
+            ],
+            "Text_raw": "Use flathead to pry off the upper panel located at the top of the rear door panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jIXROKWCesuWRBBO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PNOFq1yw4tJAF5Il.standard"
+            ],
+            "StepId": 97447,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "use the flathead screwdriver to pry off and remove the panel over the door handle ."
+                }
+            ],
+            "Text_raw": "Use the flathead screwdriver to pry off and remove the panel over the door handle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kNBhIDpdJS12SxIN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5IFvqF25qhPTRIDa.standard"
+            ],
+            "StepId": 97448,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the bundle of wires from the panel by pressing the tabs on the sides of the large white plastic connector ."
+                }
+            ],
+            "Text_raw": "Remove the bundle of wires from the panel by pressing the tabs on the sides of the large white plastic connector.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DjmZY1oC2ECV6qvN.standard"
+            ],
+            "StepId": 97449,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "use the phillips screwdriver to unscrew the 8x3 /4 screws behind the door handle panel that was just removed ."
+                }
+            ],
+            "Text_raw": "Use the Phillips screwdriver to unscrew the 8x3/4\" screws behind the door handle panel that was just removed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2PN4fJNeDukQ4QuK.standard"
+            ],
+            "StepId": 97450,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "use the flathead screwdriver to pry off the door panel , starting from the outside edge of the door ."
+                }
+            ],
+            "Text_raw": "Use the flathead screwdriver to pry off the door panel, starting from the outside edge of the door.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/W36USXKWhltuLYiH.standard"
+            ],
+            "StepId": 97451,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "use your hands to pull off and remove the door panel from the frame ."
+                }
+            ],
+            "Text_raw": "Use your hands to pull off and remove the door panel from the frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CRtGHLJMi1Vm5XqW.standard"
+            ],
+            "StepId": 97452,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "using your hands , remove the two remaining wires connecting the door panel to the frame ."
+                },
+                {
+                    "Text": "the door panel is now completely removed from the frame ."
+                }
+            ],
+            "Text_raw": "Using your hands, remove the two remaining wires connecting the door panel to the frame. The door panel is now completely removed from the frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Efu6MW3oyVIO5XEl.standard"
+            ],
+            "StepId": 97453,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "locate and remove all three phillips 8x3 /4 screws . there's one on top and two on the sides where the arrows are pointing ."
+                }
+            ],
+            "Text_raw": "Locate and remove all three Phillips 8x3/4\" screws. There's one on top and two on the sides where the arrows are pointing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JcQeloNIbCgdoSfF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6loPaWIqPAOUMZmJ.standard"
+            ],
+            "StepId": 97379,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "once the screws are removed , the speaker will easily pop out of the door revealing two wires attached to the speaker with a white clip . remove this white clip by simply squeezing one of the tabs that lock it in place ."
+                }
+            ],
+            "Text_raw": "Once the screws are removed, the speaker will easily pop out of the door revealing two wires attached to the speaker with a white clip. Remove this white clip by simply squeezing one of the tabs that lock it in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/r4fuBCIQKbqE2DNQ.standard"
+            ],
+            "StepId": 97380,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "once the clip is removed from the speaker , you will want to then cut the wires from the white clip using a wire cutters ."
+                }
+            ],
+            "Text_raw": "Once the clip is removed from the speaker, you will want to then cut the wires from the white clip using a wire cutters.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sXIxlRN6QHyligKZ.standard"
+            ],
+            "StepId": 97383,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "once the white clip is removed from the wires , you will then want to strip about 0.5 of plastic from the wire revealing bare copper wire ."
+                }
+            ],
+            "Text_raw": "Once the white clip is removed from the wires, you will then want to strip about 0.5\" of plastic from the wire revealing bare copper wire.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RvwUdmPtFEBheGKO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/flMQlA6UBZquJXYp.standard"
+            ],
+            "StepId": 97389,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "once the wires are cut , you will then want to add separate clips on the end of the wires by placing the clips on the wires , and then using a pliers , squeeze the plastic to crimp the clip securely on the wire ."
+                }
+            ],
+            "Text_raw": "Once the wires are cut, you will then want to add separate clips on the end of the wires by placing the clips on the wires, and then using a pliers, squeeze the plastic to crimp the clip securely on the wire.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Tpvnq5PRfDWoeNJm.standard"
+            ],
+            "StepId": 97384,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "once the new clips are now on the separate wires , place these clips into the back of your new speaker ."
+                }
+            ],
+            "Text_raw": "Once the new clips are now on the separate wires, place these clips into the back of your new speaker.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ykDNAXXY1l5CuuVI.standard"
+            ],
+            "StepId": 97933,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "insert your new speaker where the old speaker once was ."
+                },
+                {
+                    "Text": "use the same three screws that you removed in the first step to secure your new speaker in the door ."
+                },
+                {
+                    "Text": "if you're having problems with your new speaker , refer to the troubleshooting guide 2009_subaru_impreza_wrx_troubleshootinghere ."
+                },
+                {
+                    "Text": "congratulations ! you are now done !"
+                }
+            ],
+            "Text_raw": "Insert your new speaker where the old speaker once was. Use the same three screws that you removed in the first step to secure your new speaker in the door. If you're having problems with your new speaker, refer to the troubleshooting guide [[2009_Subaru_Impreza_WRX_Troubleshooting|here]]. Congratulations! You are now done!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Hu4QJXexhXIZrc4v.standard"
+            ],
+            "StepId": 97387,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Rear Speaker"
+}

@@ -1,0 +1,159 @@
+{
+    "Title": "How To Install BMW E46 3 Series Switchback LED Halo Rings",
+    "Ancestors": [
+        "BMW",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 35520,
+    "Category": "1999-2006 BMW 3 Series",
+    "Toolbox": [
+        {
+            "Name": "screwdriver",
+            "Url": "/Item/Screw_Driver",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "electrical tape in 6 assorted colors",
+            "Url": "http://www.ifixit.com/Tools/Electrical-Tape-in-6-Assorted-Colors/IF145-088",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/3kDtLplL2LoTT4Wp.mini"
+        },
+        {
+            "Name": "wire stripper",
+            "Url": "https://www.ifixit.com/Store/Tools/Wire-Stripper-16-26-AWG-C-H-P-CSP-30-7-/IF317-040",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+To+Install+BMW+E46+3+Series+Switchback+LED+Halo+Rings/35520",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "take a long screwdriver and insert it into the hole to remove the turn signal lamp ."
+                },
+                {
+                    "Text": "remove under headlamp plastic trim and the above headlamp rubber trim ."
+                }
+            ],
+            "Text_raw": "Take a long screwdriver and insert it into the hole to remove the turn signal lamp. Remove under headlamp plastic trim and the above headlamp rubber trim.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5AoaLh5QRhuaWibT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5eaFj3Ha1ABvamxV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wfWRxWsqJHQicWxx.standard"
+            ],
+            "StepId": 80320,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove couple clips holding the headlamp lens and carefully remove the lens ."
+                },
+                {
+                    "Text": "remove the inside headlamp trim ."
+                }
+            ],
+            "Text_raw": "Remove couple clips holding the headlamp lens and carefully remove the lens. Remove the inside headlamp trim.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IV3kFtRMHj1FgE5W.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZXYZVxcPbHiE44sH.standard"
+            ],
+            "StepId": 80321,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "clip on the switchback led angel eye rings . grab the two black wires through the low beam bulb back openings ."
+                },
+                {
+                    "Text": "put back the black trim . if you install it properly , you will see that the led halo rings align with the inside trim . you don't have to worry about the rings protruding out because the rings will be pushed back to their appropriate location when you install the lens back ."
+                },
+                {
+                    "Text": "afterwards , please work on the driver side since later you need to connect the wires together ."
+                }
+            ],
+            "Text_raw": "Clip on the switchback LED angel eye rings. Grab the two black wires through the low beam bulb back openings. Put back the black trim. If you install it properly, you will see that the LED halo rings align with the inside trim. You don't have to worry about the rings protruding out because the rings will be pushed back to their appropriate location when you install the lens back. Afterwards, please work on the driver side since later you need to connect the wires together.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JXkyPMr4LjmxXhDk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hYipUalXTZTJPVtW.standard"
+            ],
+            "StepId": 80322,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "plug the two wires to the module box . on the other end of the module box ."
+                },
+                {
+                    "Text": "yellow : turn signal ; red : white ; black : ground ."
+                },
+                {
+                    "Text": "special note : you need to extend these wires for the installation ."
+                }
+            ],
+            "Text_raw": "Plug the two wires to the module box. On the other end of the module box. Yellow: Turn Signal; Red: White; Black: Ground. Special note: You need to extend these wires for the installation.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iStAmHtLCAEgXdGU.standard"
+            ],
+            "StepId": 80323,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "tap the black wire to the bolt circled in red ."
+                },
+                {
+                    "Text": "on the passenger side , merge the red wire on both driver and passenger side as indicated in the insert . you will need to extend the wires on both sides . tap the merged red wire to acc 12 v+ . there are a few acc locations ; in this case , we chose the blue striped wire ."
+                },
+                {
+                    "Text": "on each side , extend the yellow wire from the module box to the left and right side markers . tap it to the blue/yellow striped wire ."
+                }
+            ],
+            "Text_raw": "Tap the black wire to the bolt circled in red. On the passenger side, merge the red wire on both driver and passenger side as indicated in the insert. You will need to extend the wires on both sides.  Tap the merged red wire to ACC 12V+. There are a few ACC locations; in this case, we chose the blue striped wire. On each side, extend the yellow wire from the module box to the left and right side markers. Tap it to the blue/yellow striped wire.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MrtX6XXTlOR1xFUx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jGBiZQKMQIYehC4j.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yAtiRKgu2RsNYqRM.standard"
+            ],
+            "StepId": 80324,
+            "Tools_extracted": [
+                "wire stripper"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "test everything to make sure the bmw switchback led halo rings work . put everything back ."
+                }
+            ],
+            "Text_raw": "Test everything to make sure the BMW switchback LED halo rings work. Put everything back.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gYIgnf4klKDtKR2t.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2J2BwMPKsbBRlOnG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4OoVbRdakE2NfpC2.standard"
+            ],
+            "StepId": 80325,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Headlamps"
+}

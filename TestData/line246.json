@@ -1,0 +1,409 @@
+{
+    "Title": "2005-2007 Ford Freestyle AC Compressor Control Valve Replacement",
+    "Ancestors": [
+        "Ford Freestyle (Taurus X)",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 65401,
+    "Category": "2005-2007 Ford Freestyle",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_1?ie=UTF8&qid=1487787284&sr=8-1&keywords=3+8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "probe_and_pickset",
+            "Url": "http://www.ifixit.com/Tools/Probe-and-Pick-Set/IF145-059",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/1fZMHbcDB1yWGpkp.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2005+2006+2007+Ford+Freestyle+AC+Compressor+Control+Valve+Replacement/65401",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before getting started , go ahead and order a new ac compressor control valve . ebay is a good option and so is your favorite online auto parts retailer . search for dorman 917-275. about a 40 part . some local auto parts stores may carry this part as well . try napa ."
+                }
+            ],
+            "Text_raw": "Before getting started, go ahead and order a new AC Compressor Control Valve. eBay is a good option and so is your favorite online auto parts retailer. Search for \"Dorman 917-275\". About a $40 part. Some local auto parts stores may carry this part as well. Try NAPA.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UOvBlVMQwxCjXSjT.standard"
+            ],
+            "StepId": 135264,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "in order to replace the ac compressor control valve safely , the ac system will need to be depressurized . this is best done '''professionally''' to ensure the refrigerant is disposed of properly ."
+                },
+                {
+                    "Text": "any automotive shop offering ac service can do this for half their 1 hour labor rate . in this case , 49 to evacuate the system ."
+                },
+                {
+                    "Text": "ask the shop performing this procedure to provide you visual verification that your ac system has been completely evacuated . don't be shy ."
+                }
+            ],
+            "Text_raw": "In order to replace the AC Compressor Control Valve safely, the AC system will need to be depressurized. This is best done '''professionally''' to ensure the refrigerant is disposed of properly. Any automotive shop offering AC service can do this for half their 1 hour labor rate. In this case, $49 to evacuate the system. Ask the shop performing this procedure to provide you visual verification that your AC system has been completely evacuated. Don't be shy.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TbBNXwPGAHJVdCpO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cpWAF3NYmmnCDUvR.standard"
+            ],
+            "StepId": 135205,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "now that the refrigerant has been removed professionally , it's your turn to go to work . pop the hood of a 2005-2007 ford freestyle , ford 500 , or mercury montego and you're looking at a 3.0 l v6 dohc 24 v duratec engine . this was the one and only engine option for these vehicles ."
+                }
+            ],
+            "Text_raw": "Now that the refrigerant has been removed professionally, it's your turn to go to work. Pop the hood of a 2005-2007 Ford Freestyle, Ford 500, or Mercury Montego and you're looking at a 3.0L V6 DOHC 24V DURATEC engine. This was the one and only engine option for these vehicles.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RmUuq2mJODMPqjJt.standard"
+            ],
+            "StepId": 135204,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "the ac compressor control valve is located behind a backing plate on the rear of the ac compressor . the ac compressor itself '''does not''' need to be removed . a short 10 mm box end wrench will get the job done . a ratchet and 10 mm socket will help ."
+                },
+                {
+                    "Text": "since this step occurs adjacent to an exhaust manifold , use appropriate gloves to protect your skin from hot surfaces ."
+                },
+                {
+                    "Text": "remove plate with bolts . set these items aside , they will be re-used . this is a good time to clean the plate and retaining bolts . a small amount of wd40 and shop towel will work fine ."
+                }
+            ],
+            "Text_raw": "The AC Compressor Control Valve is located behind a backing plate on the rear of the AC compressor. The AC compressor itself '''does not''' need to be removed. A short 10mm box end wrench will get the job done. A ratchet and 10mm socket will help. Since this step occurs adjacent to an exhaust manifold, use appropriate gloves to protect your skin from hot surfaces. Remove plate with bolts. Set these items aside, they will be re-used. This is a good time to clean the plate and retaining bolts. A small amount of WD40 and shop towel will work fine.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qQ1yptGOTdIRIwaA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2fIVvSiqsSREBtfp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZNAJuIHiCkAEIKR2.standard"
+            ],
+            "StepId": 135211,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "removing the backing plate reveals the ac compressor control valve and seal ."
+                },
+                {
+                    "Text": "using dexterous fingertips or a dental pick , slowly remove the ac compressor control valve and spring . use the dental pick to extrude the green rubber seal from its groove without marring the machined surface ."
+                },
+                {
+                    "Text": "the used ac compressor control valve and seal are waste . keep the spring , it will be re-used ."
+                }
+            ],
+            "Text_raw": "Removing the backing plate reveals the AC Compressor Control Valve and seal. Using dexterous fingertips or a dental pick, slowly remove the AC Compressor Control Valve and spring. Use the dental pick to extrude the green rubber seal from its groove without marring the machined surface. The used AC Compressor Control Valve and seal are waste. Keep the spring, it will be re-used.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CFIZhXYvwe2hi1DE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Y2O6jk1Ct5dDk11L.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Fv3p1SZjyy5nKvQY.standard"
+            ],
+            "StepId": 135228,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "a small amount of wd40 on a shop towel will work fine to clean the backing plate mating surface on the ac compressor ."
+                },
+                {
+                    "Text": "wipe the surface clean of refrigerant and be careful not to knock any road grime into the ac compressor control valve housing ."
+                }
+            ],
+            "Text_raw": "A small amount of WD40 on a shop towel will work fine to clean the backing plate mating surface on the AC Compressor. Wipe the surface clean of refrigerant and be careful not to knock any road grime into the AC Compressor Control Valve housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cZpdZkidiUKglA5d.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1uscpQReYCMdNXoc.standard"
+            ],
+            "StepId": 135234,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "use a clean surface to layout everything needed to install the new ac compressor control valve and seal ."
+                },
+                {
+                    "Text": "spring , backing plate , and bolts shown here are re-used ."
+                },
+                {
+                    "Text": "attach spring to ac compressor control valve . the spring will simply snap into place with an interference fit ."
+                }
+            ],
+            "Text_raw": "Use a clean surface to layout everything needed to install the new AC Compressor Control Valve and seal. Spring, backing plate, and bolts shown here are re-used. Attach spring to AC Compressor Control Valve. The spring will simply snap into place with an interference fit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DuigYsKIcW4Tjbcb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xqKALhRPX33k4wkX.standard"
+            ],
+            "StepId": 135237,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "apply 2 drops of motor oil to the new seal and completely lubricate ."
+                },
+                {
+                    "Text": "carefully press seal into groove without picking up any debris during the process ."
+                }
+            ],
+            "Text_raw": "Apply 2 drops of motor oil to the new seal and completely lubricate. Carefully press seal into groove without picking up any debris during the process.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3wI1EfQFvBUAJX4M.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rNXM142aU2eeoSZF.standard"
+            ],
+            "StepId": 135287,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "apply 3 drops of motor oil to the ac compressor control valve mating surface and completely lubricate ."
+                },
+                {
+                    "Text": "the ac compressor control valve and spring assembly will install spring side first ."
+                },
+                {
+                    "Text": "install the assembly without picking up any debris during the process ."
+                }
+            ],
+            "Text_raw": "Apply 3 drops of motor oil to the AC Compressor Control Valve mating surface and completely lubricate. The AC Compressor Control Valve and spring assembly will install spring side first. Install the assembly without picking up any debris during the process.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BaNQCdJXfZsIgwCH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AtVSPwR2FPWShThi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gNV2flx4xqBI3ZNq.standard"
+            ],
+            "StepId": 135288,
+            "Tools_extracted": [
+                "3 8 drive ratchet"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "there will be obvious witness marks on the backing plate indicating the install orientation of this part ."
+                },
+                {
+                    "Text": "install backing plate hand tight ."
+                }
+            ],
+            "Text_raw": "There will be obvious witness marks on the backing plate indicating the install orientation of this part. Install backing plate hand tight.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HT4DvBTGlwepM43v.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xWNEbnEQBtQOFWDj.standard"
+            ],
+            "StepId": 135289,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "there is a module attached to the passenger side shock tower . start by removing the module's wiring harness ."
+                },
+                {
+                    "Text": "next , use a standard sized flathead screwdriver to depress the clip holding the module to its mounting bracket ."
+                },
+                {
+                    "Text": "carefully place the module out of the way ."
+                }
+            ],
+            "Text_raw": "There is a module attached to the passenger side shock tower. Start by removing the module's wiring harness. Next, use a standard sized flathead screwdriver to depress the clip holding the module to its mounting bracket. Carefully place the module out of the way.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lMoC3h36CYL4gNlS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sL3mYWEkrbPnpjTu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tQAkEPK1bOdASFuP.standard"
+            ],
+            "StepId": 135209,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "the ac low pressure port is now in plain sight . the port is covered by a black cap ."
+                },
+                {
+                    "Text": "remove the black cap to reveal the port ."
+                }
+            ],
+            "Text_raw": "The AC low pressure port is now in plain sight.  The port is covered by a black cap. Remove the black cap to reveal the port.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ESCTHNRn6SUbrhux.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BCeLt61YR6FuPIJD.standard"
+            ],
+            "StepId": 135210,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "2005-2007 ford freestyle , ford 500 , and mercury montego with front ac ( most ) use 29 ounces of r-134 a refrigerant ."
+                },
+                {
+                    "Text": "for a front ac application start with 24 ounces or ( 2 ) 12 oz . cans of refrigerant . r-134 a refrigerant is available at any auto parts store in 12 oz . cans . you will need a separate dispenser like the one shown here by ez chill ."
+                },
+                {
+                    "Text": "avoid stop leak refrigerant types and stick with untreated r-134 a refrigerant ."
+                },
+                {
+                    "Text": "refrigerant cans are designed to be attached to the dispenser full and removed from the dispenser empty . proceed to thread the first can of refrigerant onto the dispenser . the dispenser will pierce and seal the can ."
+                },
+                {
+                    "Text": "'''do not''' remove the refrigerant can from the dispenser until the can is completely empty ."
+                }
+            ],
+            "Text_raw": "2005-2007 Ford Freestyle, Ford 500, and Mercury Montego with \"Front AC\" (most) use 29 ounces of R-134A refrigerant. For a Front AC application start with 24 ounces or (2) 12 oz. cans of refrigerant. R-134A refrigerant is available at any auto parts store in 12 oz. cans. You will need a separate dispenser like the one shown here by EZ Chill. Avoid \"Stop Leak\" refrigerant types and stick with untreated R-134A refrigerant. Refrigerant cans are designed to be attached to the dispenser full and removed from the dispenser empty. Proceed to thread the first can of refrigerant onto the dispenser. The dispenser will pierce and seal the can. '''Do not''' remove the refrigerant can from the dispenser until the can is completely empty.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/brvXQREaq2qoWZpq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LiDbCYRePjPQpkLl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Jq5juY5HqPEhMsBs.standard"
+            ],
+            "StepId": 135240,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "r-134 a ac systems use quick disconnect ports . to attach the dispenser , first compress the coupler ."
+                },
+                {
+                    "Text": "when attaching coupler use a shop or plastic glove to protect your skin should any refrigerant discharge during the process ."
+                },
+                {
+                    "Text": "next , cover the port squarely with coupler and release . nest can in a secure spot ."
+                }
+            ],
+            "Text_raw": "R-134A AC systems use quick disconnect ports. To attach the dispenser, first compress the coupler. When attaching coupler use a shop or plastic glove to protect your skin should any refrigerant discharge during the process. Next, cover the port squarely with coupler and release.  Nest can in a secure spot.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MnD4ZwybLcHIqA4r.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NeEWYUOBdUH3IDcr.standard"
+            ],
+            "StepId": 135304,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "start engine and let idle with transmission in park and parking brake engaged ."
+                },
+                {
+                    "Text": "set ac to coldest setting and turn fan to high ."
+                }
+            ],
+            "Text_raw": "Start engine and let idle with transmission in park and parking brake engaged. Set AC to coldest setting and turn fan to high.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gqNNXPKJ5SW6d4Aq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XrFhdUydC5dNYlPG.standard"
+            ],
+            "StepId": 135305,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "pull trigger on dispenser while slowly clocking can back and forth until first can is completely empty ."
+                },
+                {
+                    "Text": "attach second can of refrigerant and dispense until ac system holds steady at 40-45 psi . detach coupler ."
+                }
+            ],
+            "Text_raw": "Pull trigger on dispenser while slowly clocking can back and forth until first can is completely empty. Attach second can of refrigerant and dispense until AC system holds steady at 40-45 psi. Detach coupler.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MiCuaphMGymwpbSh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xf1myGPTO5yXqBrI.standard"
+            ],
+            "StepId": 135306,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "reinstall low pressure port cap ."
+                },
+                {
+                    "Text": "reinstall module and reattach harness . you're done with the replacement ."
+                }
+            ],
+            "Text_raw": "Reinstall low pressure port cap. Reinstall module and reattach harness. You're done with the replacement.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1kXCNgWQDC6JWQEp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/w4J4W2mJetwVAVU2.standard"
+            ],
+            "StepId": 135307,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "AC Compressor Control Valve"
+}

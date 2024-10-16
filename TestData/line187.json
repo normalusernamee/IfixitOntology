@@ -1,0 +1,129 @@
+{
+    "Title": "Mercedes W123 fuel sending unit disassembly and cleaning",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 33385,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "2.6 spanner bit",
+            "Url": "/Item/2.6_Spanner_Bit",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 4 nut driver",
+            "Url": "https://www.ifixit.com/Store/Parts/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "aerosol brake cleaner",
+            "Url": "https://www.amazon.com/CRC-Brakleen-Brake-Parts-Cleaner/dp/B000LDR9HI/ref=sr_1_2?ie=UTF8&qid=1488060548&sr=8-2&keywords=brake+cleaner",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+fuel+sending+unit+disassembly+and+cleaning/33385",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "with the fuel sending unit removed ( if you need help with this see the fuel sending unit replacement guide ) you can proceed to disassemble and clean it ."
+                },
+                {
+                    "Text": "start by wiping any fuel , grime and grit from the sending unit body to make it easier for you to work with ."
+                }
+            ],
+            "Text_raw": "With the fuel sending unit removed (if you need help with this see the fuel sending unit replacement guide) you can proceed to disassemble and clean it. Start by wiping any fuel, grime and grit from the sending unit body to make it easier for you to work with.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Z6KRqgXoVaoTnHfC.standard"
+            ],
+            "StepId": 78157,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "turn the fuel sending unit over . handle it over a container like a bucket at all times as small amounts of diesel fuel may continue to dribble out as you turn it over ."
+                },
+                {
+                    "Text": "on the bottom side of the fuel sending unit there is a small nut . this nut needs to be removed with a spanner bit as shown ."
+                },
+                {
+                    "Text": "turn it until it is removed from the base of the sending unit ."
+                }
+            ],
+            "Text_raw": "Turn the fuel sending unit over. Handle it over a container like a bucket at all times as small amounts of diesel fuel may continue to dribble out as you turn it over. On the bottom side of the fuel sending unit there is a small nut. This nut needs to be removed with a spanner bit as shown. Turn it until it is removed from the base of the sending unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5ditxqdXDGJYRUdT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HLUwofHpwx66bx6b.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/253K5nSFGrhL1eTK.standard"
+            ],
+            "StepId": 78158,
+            "Tools_extracted": [
+                "2.6 spanner bit"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "turn the unit back over and lift the top out of the tube that makes up the body of the unit ."
+                },
+                {
+                    "Text": "there are two small plates ( one plastic and one metal ) behind the nut you removed . mind the order of these . the metal plate is on the outside and the plastic is on the inside . also note the orientation of the plastic plate . there is an inside face , and outside face ."
+                },
+                {
+                    "Text": "inside you will find the float and the three wires that make the sending unit work . you can see the three wires pictured here ."
+                },
+                {
+                    "Text": "inspect these wires carefully . if any of them is broken they will need to be repaired by soldering them back on to their contact points ."
+                },
+                {
+                    "Text": "if these wires are intact , proceed to clean the internal components ( wires , float , etc ) and the inside of the tube with brake cleaner ."
+                },
+                {
+                    "Text": "be very careful when handling the insides of the sending unit as the three wires are very fragile !"
+                }
+            ],
+            "Text_raw": "Turn the unit back over and lift the top out of the tube that makes up the body of the unit. There are two small plates (one plastic and one metal) behind the nut you removed. Mind the order of these. The metal plate is on the outside and the plastic is on the inside. Also note the orientation of the plastic plate. There is an inside face, and outside face. Inside you will find the float and the three wires that make the sending unit work. You can see the three wires pictured here. Inspect these wires carefully. If any of them is broken they will need to be repaired by soldering them back on to their contact points. If these wires are intact, proceed to clean the internal components (wires, float, etc) and the inside of the tube with brake cleaner. Be very careful when handling the insides of the sending unit as the three wires are very fragile!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3Ni3XUeJaawbbfVc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YqqalagiAHUBpoA5.standard"
+            ],
+            "StepId": 78159,
+            "Tools_extracted": [
+                "aerosol brake cleaner",
+                "1 4 nut driver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "wait until the components are dry of brake cleaner , then re-assemble it ."
+                },
+                {
+                    "Text": "consider replacing the seal at the top of the unit , just above the threaded portion . a good seal is needed to prevent diesel aromas from permeating the trunk and/or cabin ."
+                },
+                {
+                    "Text": "when done re-install the sending unit ."
+                }
+            ],
+            "Text_raw": "Wait until the components are dry of brake cleaner, then re-assemble it. Consider replacing the seal at the top of the unit, just above the threaded portion. A good seal is needed to prevent diesel aromas from permeating the trunk and/or cabin. When done re-install the sending unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fmsLqPBJjRXrNmkI.standard"
+            ],
+            "StepId": 78160,
+            "Tools_extracted": [
+                "aerosol brake cleaner"
+            ]
+        }
+    ],
+    "Subject": ""
+}

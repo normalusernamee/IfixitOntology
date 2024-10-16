@@ -1,0 +1,104 @@
+{
+    "Title": "Using a Floor Jack",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11166,
+    "Category": "2003-2007 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Using+a+Floor+Jack/11166",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "place the hydraulic floor jack under the vehicle until the '''''saddle''''' is directly under the '''''crossmember''''' ."
+                },
+                {
+                    "Text": "the '''''crossmember''''' is the long metal support beam that runs underneath from the front fender to the rear fender on both sides of the car ."
+                },
+                {
+                    "Text": "the '''''saddle''''' is the round metal part of the jack that moves upward as you pump the jack up ."
+                }
+            ],
+            "Text_raw": "Place the hydraulic floor jack under the vehicle until the '''''saddle''''' is directly under the '''''crossmember'''''. The '''''crossmember''''' is the long metal support beam that runs underneath from the front fender to the rear fender on both sides of the car. The '''''saddle''''' is the round metal part of the jack that moves upward as you pump the jack up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UFHnKqTQJabuV5As.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lSNqNbjkuDKB6ebD.standard"
+            ],
+            "StepId": 39942,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "push downward on the jack's lever to lift the saddle upward so that it contacts the crossmember . continue pushing downward on the lever to lift the car upward ."
+                }
+            ],
+            "Text_raw": "Push downward on the jack's lever to lift the saddle upward so that it contacts the crossmember. Continue pushing downward on the lever to lift the car upward.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QM4J4SBHnfjcqotk.standard"
+            ],
+            "StepId": 41974,
+            "Tools_extracted": [
+                "jack"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "place the jack stand under the jack mounting point ."
+                },
+                {
+                    "Text": "the jack mounting point is a metallic protrusion beneath each of the car doors ."
+                }
+            ],
+            "Text_raw": "Place the jack stand under the jack mounting point. The jack mounting point is a metallic protrusion beneath each of the car doors.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cktSsXVpOBuwdDRO.standard"
+            ],
+            "StepId": 39943,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "raise the jack stand until it contacts the jack mounting point ."
+                },
+                {
+                    "Text": "in the event the floor jack fails , the jack stand is designed to prevent the car from falling ."
+                }
+            ],
+            "Text_raw": "Raise the jack stand until it contacts the jack mounting point. In the event the floor jack fails, the jack stand is designed to prevent the car from falling.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vEtKlH5OqX1U56Xd.standard"
+            ],
+            "StepId": 41989,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        }
+    ],
+    "Subject": ""
+}

@@ -1,0 +1,250 @@
+{
+    "Title": "How to fix a rattling window, E46 M3",
+    "Ancestors": [
+        "BMW",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 88654,
+    "Category": "2000-2006 BMW M3",
+    "Toolbox": [
+        {
+            "Name": "metal spudger",
+            "Url": "https://www.ifixit.com/Tools/Metal-Spudger/IF145-012",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/CqYPL4Od3PMvu1wm.mini"
+        },
+        {
+            "Name": "spudger retail 3 pack",
+            "Url": "https://www.ifixit.com/Store/Tools/Spudger-Retail-3-Pack/IF145-334",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RMhXs1tlxa5oFXql.mini"
+        },
+        {
+            "Name": "jimmy",
+            "Url": "https://www.ifixit.com/Store/Parts/Jimmy/IF145-259",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/4NIBlkfaLCtmCnMP.mini"
+        },
+        {
+            "Name": "t20 torx screwdriver",
+            "Url": "https://www.ifixit.com/Store/Tools/54-Bit-Driver-Kit/IF145-299",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+fix+a+rattling+window+E46+M3/88654",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the door card is held securely in place with 5 screws ."
+                },
+                {
+                    "Text": "keep in mind the door card has up to 3 wire bundles attached to it . be careful when removing it ! be prepared to support it while dealing with the wires ."
+                }
+            ],
+            "Text_raw": "The door card is held securely in place with 5 screws. Keep in mind the door card has up to 3 wire bundles attached to it. Be careful when removing it! Be prepared to support it while dealing with the wires.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/52XcH2aKJT2xTLQu.standard"
+            ],
+            "StepId": 168065,
+            "Tools_extracted": [
+                "spudger retail 3 pack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "using a spudger , work off the cap of the first screw . the cap is tight ; you may need a jimmy or metal spudger ."
+                },
+                {
+                    "Text": "using the flat end of a spudger , remove the airbag emblem . the emblem has clips on the top and bottom -- work carefully ."
+                }
+            ],
+            "Text_raw": "Using a spudger, work off the cap of the first screw. The cap is tight; you may need a jimmy or metal spudger. Using the flat end of a spudger, remove the airbag emblem. The emblem has clips on the top and bottom -- work carefully.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rcXCZqcVApPKKVbF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/x6mHnloPZYYobOFL.standard"
+            ],
+            "StepId": 168066,
+            "Tools_extracted": [
+                "metal spudger"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "using a t20 torx driver with extension , remove all 5 bolts ."
+                }
+            ],
+            "Text_raw": "Using a T20 Torx driver with extension, remove all 5 bolts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/V6Q2uRPS5PYhTEN3.standard"
+            ],
+            "StepId": 168067,
+            "Tools_extracted": [
+                "t20 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "if you're working on the driver side door , remove the mirror control module . disconnect it from its wiring plug ."
+                }
+            ],
+            "Text_raw": "If you're working on the driver side door, remove the mirror control module. Disconnect it from its wiring plug.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JR6KRjjlJHmVgScQ.standard"
+            ],
+            "StepId": 168068,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "using a trim tool or similar , begin at the bottom of the door card and pop the card away from the door frame ."
+                },
+                {
+                    "Text": "after you've released the bottom clips , work your way around ."
+                },
+                {
+                    "Text": "you will need to lift the door card from the door frame in order to fully release it . be careful !"
+                }
+            ],
+            "Text_raw": "Using a trim tool or similar, begin at the bottom of the door card and pop the card away from the door frame. After you've released the bottom clips, work your way around. You will need to lift the door card from the door frame in order to fully release it. Be careful!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xOlU2MNLuLyRJLJb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PnntYi5VIXrrdSYJ.standard"
+            ],
+            "StepId": 168069,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "disconnect the following from the door panel :"
+                },
+                {
+                    "Text": "unlocking cable"
+                },
+                {
+                    "Text": "speaker cable ( s )"
+                },
+                {
+                    "Text": "set the door panel aside ."
+                }
+            ],
+            "Text_raw": "Disconnect the following from the door panel: Unlocking cable Speaker cable(s) Set the door panel aside.",
+            "Images": [],
+            "StepId": 168070,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "the door panel is now removed ."
+                },
+                {
+                    "Text": "you will see the airbag module , vapor barrier , and other components ."
+                }
+            ],
+            "Text_raw": "The door panel is now removed. You will see the airbag module, vapor barrier, and other components.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ADDrKBCpd1lF1cDY.standard"
+            ],
+            "StepId": 168071,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "very gently , peel back the vapor barrier to expose the retaining bolt ."
+                },
+                {
+                    "Text": "roll the window up ."
+                },
+                {
+                    "Text": "the tar-like substance used to seal the vapor barrier to the door frame will release itself to a gentle pull , but it is extremely sticky , and too much pulling will tear your barrier . slow and steady is the name of the game !"
+                },
+                {
+                    "Text": "inspect the bolt . it is probably missing a nut !"
+                }
+            ],
+            "Text_raw": "Very gently, peel back the vapor barrier to expose the retaining bolt. Roll the window up. The tar-like substance used to seal the vapor barrier to the door frame WILL release itself to a gentle pull, but it is EXTREMELY sticky, and too much pulling will tear your barrier. Slow and steady is the name of the game! Inspect the bolt. It is probably missing a nut!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3wqAfdorUfwAIdQ2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZQVKUdYhIAs1AQCJ.standard"
+            ],
+            "StepId": 168072,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "while you're in here , inspect and tighten the bottom bolt ."
+                }
+            ],
+            "Text_raw": "While you're in here, inspect and tighten the bottom bolt.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dhLFeiE1OpA3Ivr3.standard"
+            ],
+            "StepId": 168073,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "look in the bottom of your door and locate the nut that fell off that top bolt ."
+                },
+                {
+                    "Text": "replace the nut onto the upper bolt and tighten ."
+                },
+                {
+                    "Text": "in a pinch , you can use a little bit of that tarry substance to temporarily paste the nut to your fingertip in order to screw it on to the bolt ."
+                }
+            ],
+            "Text_raw": "Look in the bottom of your door and locate the nut that fell off that top bolt. Replace the nut onto the upper bolt and tighten. In a pinch, you can use a little bit of that tarry substance to temporarily paste the nut to your fingertip in order to screw it on to the bolt.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JUEAeQN5NTGIbIGa.standard"
+            ],
+            "StepId": 168074,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "ta da ! now closing the door sounds great !"
+                }
+            ],
+            "Text_raw": "Ta da! Now closing the door sounds great!",
+            "Images": [],
+            "StepId": 168075,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

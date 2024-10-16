@@ -1,0 +1,164 @@
+{
+    "Title": "Front Turn Signal Bulb",
+    "Ancestors": [
+        "Dodge Ram Pickup",
+        "Dodge",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11527,
+    "Category": "2002-2008 Dodge Ram",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Front+Turn+Signal+Bulb/11527",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "open the hood by pulling the hood lever in the driver-side footwell ."
+                },
+                {
+                    "Text": "reach under the center of the grille and press the hood latch ."
+                }
+            ],
+            "Text_raw": "Open the hood by pulling the hood lever in the driver-side footwell. Reach under the center of the grille and press the hood latch.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ArepFbVULWvZ5BDb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hUEIbjVIYqX3DBKg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NKbWOYRKwTounQhg.standard"
+            ],
+            "StepId": 41255,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "in this guide we will be removing the left headlight . the steps are mirrored for the right headlight ."
+                }
+            ],
+            "Text_raw": "In this guide we will be removing the left headlight. The steps are mirrored for the right headlight.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JOAFhESKfeM3fWEM.standard"
+            ],
+            "StepId": 41722,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use the 10 mm socket wrench to unscrew the first of three 12 mm long 10 mm hex-head screws holding in the headlight assembly . the screw is located just to the left of the headlight assembly ."
+                },
+                {
+                    "Text": "unscrew the second screw located approximately 6 inches below the first ."
+                },
+                {
+                    "Text": "locate the third screw at the bottom left corner of the headlight assembly just behind the bumper and remove ."
+                },
+                {
+                    "Text": "when re-installing the screws do not over tighten . over tightening the screws will result in stripped threads ."
+                }
+            ],
+            "Text_raw": "Use the 10 mm socket wrench to unscrew the first of three 12 mm long 10 mm hex-head screws holding in the headlight assembly. The screw is located just to the left of the headlight assembly. Unscrew the second screw located approximately 6 inches below the first. Locate the third screw at the bottom left corner of the headlight assembly just behind the bumper and remove. When re-installing the screws do not over tighten.  Over tightening the screws will result in stripped threads.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qmK3GGo3tirKby5I.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XNYaZUFnNHUaHokv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/md6OTYTWKqQHfMEd.standard"
+            ],
+            "StepId": 41260,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "approach this step with the process of unbuttoning a shirt in mind ."
+                },
+                {
+                    "Text": "be careful if the rubber gasket is dry-rotted . use vaseline to re-moisturize if necessary . manipulating dry-rotted rubber will result in tearing ."
+                },
+                {
+                    "Text": "pinch the bottom of the rubber gasket at the left side of the assembly and remove it from the plastic buttons on the headlight assembly ."
+                }
+            ],
+            "Text_raw": "Approach this step with the process of unbuttoning a shirt in mind. Be careful if the rubber gasket is dry-rotted.  Use vaseline to re-moisturize if necessary.  Manipulating dry-rotted rubber will result in tearing. Pinch the bottom of the rubber gasket at the left side of the assembly and remove it from the plastic \"buttons\" on the headlight assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5NQJYP2HNKSD3Yor.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ImsJQAsOimBSDinR.standard"
+            ],
+            "StepId": 41215,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "locate the blue headlight wire . use a flathead screwdriver to pry up one side of the clamping teeth and pull the connector off ."
+                },
+                {
+                    "Text": "locate the green turn signal wire clamp . use a flathead screwdriver to push in the tab on the side and pull off the connector ."
+                },
+                {
+                    "Text": "now that all connections between the car and the headlight assembly are disconnected , it is safe to remove the headlight assembly from the truck ."
+                }
+            ],
+            "Text_raw": "Locate the blue headlight wire. Use a flathead screwdriver to pry up one side of the clamping teeth and pull the connector off. Locate the green turn signal wire clamp. Use a flathead screwdriver to push in the tab on the side and pull off the connector. Now that all connections between the car and the headlight assembly are disconnected, it is safe to remove the headlight assembly from the truck.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lmSe1pNYCc4ncoqn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xQLPQTXKbkmcVdIH.standard"
+            ],
+            "StepId": 41248,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "turn the turn signal bulb holder counterclockwise until it stops ."
+                },
+                {
+                    "Text": "remove the bulb holder ."
+                },
+                {
+                    "Text": "inspect the bulb . check for broken filaments or cracked glass ."
+                },
+                {
+                    "Text": "be sure to replace the turn signal bulb with the correct type for your dodge . using an incorrect bulb will result in shortened bulb or fuse lifespan ."
+                }
+            ],
+            "Text_raw": "Turn the turn signal bulb holder counterclockwise until it stops. Remove the bulb holder. Inspect the bulb. Check for broken filaments or cracked glass. Be sure to replace the turn signal bulb with the correct type for your Dodge. Using an incorrect bulb will result in shortened bulb or fuse lifespan.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JrgjPJURG6hjRMZE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EKLiIr1nr1IYZCcO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6BlMrxIxYDe6fhfD.standard"
+            ],
+            "StepId": 41359,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Front Turn Signal Bulb"
+}

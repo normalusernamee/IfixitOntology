@@ -1,0 +1,323 @@
+{
+    "Title": "2001-2006 Mini Cooper Lock Actuator Replacement",
+    "Ancestors": [
+        "Mini",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 18876,
+    "Category": "2001-2006 Mini Cooper",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "t25 torx screwdriver",
+            "Url": "https://www.ifixit.com/Store/Parts/4mm-Screwdriver-Bits/IF145-357-63",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "t30 torx driver",
+            "Url": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=t30+torx&rh=i%3Aaps%2Ck%3At30+torx",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2001+2002+2003+2004+2005+2006+Mini+Cooper+Lock+Actuator+Replacement/18876",
+    "Steps": [
+        {
+            "Order": 0,
+            "Tools_annotated": [
+                "t30 torx driver"
+            ],
+            "Lines": [
+                {
+                    "Text": "the first step is to remove the door handle and speaker cover . this is easily done by prying it off the plastic tabs with a flathead screwdriver or possibly even your hands ."
+                },
+                {
+                    "Text": "next you need to remove the four size t30 torx screws that hold the panel in place . three of these are in the obvious screw holes shown but the last is hidden behind the colored reflector , which you will need to pry off . it is easy to remove with a small flathead screwdriver . of the four screws , two are 18 mm and the other two are 52.5 mm long ."
+                }
+            ],
+            "Text_raw": "The first step is to remove the door handle and speaker cover. This is easily done by prying it off the plastic tabs with a flathead screwdriver or possibly even your hands. Next you need to remove the four size T30 torx screws that hold the panel in place. Three of these are in the obvious screw holes shown but the last is hidden behind the colored reflector, which you will need to pry off. It is easy to remove with a small flathead screwdriver. Of the four screws, two are 18mm and the other two are 52.5mm long.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/loYfkdfFeaBr5Wwx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mniNVcBpDKmkKlpG.standard"
+            ],
+            "StepId": 54994,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Tools_annotated": [
+                "2.5mm flathead screwdriver"
+            ],
+            "Lines": [
+                {
+                    "Text": "with the screws removed , you will need to pry the panel off of the door using a prybar or flathead screwdriver . i wrapped my screwdriver in electrical tape to keep it from scratching the car ."
+                },
+                {
+                    "Text": "the bottom and sides of the panel are held on with one type of clip while the top is held on by another . because of this , you want to start prying it somewhere along the bottom edge of the panel , i chose the lower outside corner ."
+                }
+            ],
+            "Text_raw": "With the screws removed, you will need to pry the panel off of the door using a prybar or flathead screwdriver. I wrapped my screwdriver in electrical tape to keep it from scratching the car. The bottom and sides of the panel are held on with one type of clip while the top is held on by another. Because of this, you want to start prying it somewhere along the bottom edge of the panel, I chose the lower outside corner.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AXQBmUQ2llJJClMj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZT4aWKj2eBeUcmTP.standard"
+            ],
+            "StepId": 54996,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "once you have the bottom and sides of the panel popped off the tabs , you want to to a combination of lifting and pulling along the top edge to remove it from these other types of tabs ."
+                },
+                {
+                    "Text": "once the panel is free from these , you can slide it over the door lock knob and pull the whole thing away ."
+                },
+                {
+                    "Text": "that's it . you now have access to the rest of the door . in order to put the panel back on , just follow these directions in reverse order ."
+                }
+            ],
+            "Text_raw": "Once you have the bottom and sides of the panel popped off the tabs, you want to to a combination of lifting and pulling along the top edge to remove it from these other types of tabs. Once the panel is free from these, you can slide it over the door lock knob and pull the whole thing away. That's it. You now have access to the rest of the door. In order to put the panel back on, just follow these directions in reverse order.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WIXyFqPbPjIfEyYE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2qa3oBWBah4d3c6D.standard"
+            ],
+            "StepId": 54997,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "unscrew the three phillips screws from the handle and speaker component ."
+                },
+                {
+                    "Text": "remove the handle from the door panel so that you can remove the cable ."
+                },
+                {
+                    "Text": "you can pull out the cable from the back of the handle by pulling back on the housing cable , and rotating the cable counter-clockwise in the socket so that it lines up with the opening as to be pulled out ."
+                }
+            ],
+            "Text_raw": "Unscrew the three Phillips screws from the handle and speaker component. Remove the handle from the door panel so that you can remove the cable. You can pull out the cable from the back of the handle by pulling back on the housing cable, and rotating the cable counter-clockwise in the socket so that it lines up with the opening as to be pulled out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ufcGENhHZib5TedF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AcPEXbJpMqBMlc4c.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HoCBMNAFXfuiTNCS.standard"
+            ],
+            "StepId": 55029,
+            "Tools_extracted": [
+                "phillips 2 screwdriver",
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "fold the rubber grommet , which is located on the left top side of the door panel , then push it into the inside of the hole in order to put the cable to the inside of the door panel ."
+                },
+                {
+                    "Text": "peel out the rubber , which holds the door lock , from the door panel ."
+                }
+            ],
+            "Text_raw": "Fold the rubber grommet, which is located on the left top side of the door panel, then push it into the inside of the hole in order to put the cable to the inside of the door panel. Peel out the rubber, which holds the door lock, from the door panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xsRpmrrcqVLWmVIl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EJnRqWTuWJ4FO1WZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/taUfYPJBmqAdICig.standard"
+            ],
+            "StepId": 55030,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "take off the cable from the door panel clips in order to put the cable into the door panel ."
+                },
+                {
+                    "Text": "push the cable through the door panel hole , which was blocked by the rubber before ."
+                }
+            ],
+            "Text_raw": "Take off the cable from the door panel clips in order to put the cable into the door panel. Push the cable through the door panel hole, which was blocked by the rubber before.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AY5dWvUC2OJxiTEZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Q2RZOhE5uYAHIv43.standard"
+            ],
+            "StepId": 55031,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "in order to remove the lock actuator with ease , the guide rail for the window nearest the actuator must be moved ."
+                },
+                {
+                    "Text": "the bolt for the guide rail is located on the bottom of the door and uses a 10 mm socket ."
+                },
+                {
+                    "Text": "once the bolt is removed the guide needs to be moved towards the opening in the door . this is done by grabbing the guide and pulling up and towards you ."
+                }
+            ],
+            "Text_raw": "In order to remove the lock actuator with ease, the guide rail for the window nearest the actuator must be moved. The bolt for the guide rail is located on the bottom of the door and uses a 10mm socket. Once the bolt is removed the guide needs to be moved towards the opening in the door. This is done by grabbing the guide and pulling up and towards you.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pZaCHx1Q6WWqYGK1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NgQKQb5VnTPMULfT.standard"
+            ],
+            "StepId": 55152,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "the actuator mechanism is attached to the car door with three bolts , which are on the end of the door ( the left side when looking at the opening ) . these bolts can be removed with a t25 torx screwdriver ."
+                }
+            ],
+            "Text_raw": "The actuator mechanism is attached to the car door with three bolts, which are on the end of the door (the left side when looking at the opening). These bolts can be removed with a T25 Torx screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/q1J3hQJQHnC65VMs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NjqPpdiHKIyrl3Kx.standard"
+            ],
+            "StepId": 55032,
+            "Tools_extracted": [
+                "t25 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "looking inside the door , this is what you will see . you will need to detach the cable shown which connects the outside door handle to the housing . this is done by pushing the lever arm with the white plastic clip on it down ."
+                },
+                {
+                    "Text": "that releases the tension in the cable so you can release it from the hook on the bottom by turning it sideways ."
+                }
+            ],
+            "Text_raw": "Looking inside the door, this is what you will see. You will need to detach the cable shown which connects the outside door handle to the housing. This is done by pushing the lever arm with the white plastic clip on it down. That releases the tension in the cable so you can release it from the hook on the bottom by turning it sideways.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vPd5Jr2nCPpoCYUe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PBZAq5pbhQtaKpjg.standard"
+            ],
+            "StepId": 55168,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "once the cable is detached , the housing is mostly free . you will need to pull it away from the door handle bar though . this is a metal bar coming from the outside handle which slots into the mechanism . to get it out , just twist the top of the actuator away from it and it should slide out easily ."
+                },
+                {
+                    "Text": "you will also need to pop the inside lock bar off the green clip that it's attached to . this can be done by inserting a flathead screwdriver in between them and turning it sideways ."
+                }
+            ],
+            "Text_raw": "Once the cable is detached, the housing is mostly free. You will need to pull it away from the door handle bar though. This is a metal bar coming from the outside handle which slots into the mechanism. To get it out, just twist the top of the actuator away from it and it should slide out easily. You will also need to pop the inside lock bar off the green clip that it's attached to. This can be done by inserting a flathead screwdriver in between them and turning it sideways.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Giox45wql3qGgnjY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GBw3vxiDkVkFgBtX.standard"
+            ],
+            "StepId": 55170,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "next you want to remove the electrical cable leading to the housing . this is a black plug that fits into a white female end . the best way to do this is to squeeze the sides of the black plug , push in , and then pull it out ."
+                }
+            ],
+            "Text_raw": "Next you want to remove the electrical cable leading to the housing. This is a black plug that fits into a white female end. The best way to do this is to squeeze the sides of the black plug, push in, and then pull it out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qhflCnTJSRBC4PPu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JpmRh3kUZAAMyPTA.standard"
+            ],
+            "StepId": 55169,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "finally , you can take out the locking mechanism from the inside of the door panel . this is done by angling it slightly since it's a tight fit and almost wiggling it out between the guide rail , and the back side of the door ."
+                }
+            ],
+            "Text_raw": "Finally, you can take out the locking mechanism from the inside of the door panel. This is done by angling it slightly since it's a tight fit and almost wiggling it out between the guide rail, and the back side of the door.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CIeOfMcGgKZZGcNo.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xbRkJdtujadCKACh.standard"
+            ],
+            "StepId": 55033,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "lastly , if you need to detach the inside handle cable from the actuator , you just need to pop the door open on the side of the housing ."
+                },
+                {
+                    "Text": "the blue cable end can be pulled straight up from the place holders it sits in ."
+                },
+                {
+                    "Text": "the actual cable is just hooked on the end and can be taken off pretty easily ."
+                },
+                {
+                    "Text": "in order to put the locking mechanism back , just follow these directions in reverse order ."
+                },
+                {
+                    "Text": "when putting the actuator back in , slotting the blue cap in the right grooves can be a little tricky when it's inside the door so i advise doing it once or twice while it's outside to get the feel for it ."
+                }
+            ],
+            "Text_raw": "Lastly, if you need to detach the inside handle cable from the actuator, you just need to pop the door open on the side of the housing. The blue cable end can be pulled straight up from the place holders it sits in. The actual cable is just hooked on the end and can be taken off pretty easily. In order to put the locking mechanism back, just follow these directions in reverse order. When putting the actuator back in, slotting the blue cap in the right grooves can be a little tricky when it's inside the door so I advise doing it once or twice while it's outside to get the feel for it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CjSstu6WaSO2PshJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kB1TMIyqpSrlhFMs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nhYRW2vit3UpHNPd.standard"
+            ],
+            "StepId": 55171,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Door Lock Actuator"
+}

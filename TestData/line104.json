@@ -1,0 +1,534 @@
+{
+    "Title": "Disassembling Audi Navigation Plus unit",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 12405,
+    "Category": "Audi Navigation Plus RNS-D",
+    "Toolbox": [
+        {
+            "Name": "metal spudger",
+            "Url": "https://www.ifixit.com/Tools/Metal-Spudger/IF145-012",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/CqYPL4Od3PMvu1wm.mini"
+        },
+        {
+            "Name": "ph00 phillips screwdriver",
+            "Url": "https://www.ifixit.com/Store/Parts/Phillips-00-Screwdriver/IF145-006",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/rLfPqcRxAVqNxfwc.mini"
+        },
+        {
+            "Name": "spudger",
+            "Url": "http://www.ifixit.com/Tools/Spudger/IF145-002",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/fIQ3oZSjd1yLgqpX.mini"
+        },
+        {
+            "Name": "t6 torx screwdriver",
+            "Url": "https://www.ifixit.com/Store/Tools/TR6-Torx-Security-Screwdriver/IF145-225",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "t9 torx screwdriver",
+            "Url": "https://www.ifixit.com/Store/Tools/TR9-Torx-Security-Screwdriver/IF145-227",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "t10 torx screwdriver",
+            "Url": "https://www.ifixit.com/Store/Tools/TR10-Torx-Security-Screwdriver/IF145-080",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "tweezers",
+            "Url": "http://www.ifixit.com/Tools/Tweezers/IF145-020-5",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/vpkPZkdbvOUTTaIO.mini"
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "http://www.ifixit.com/Tools/Large-Needle-Nose-Pliers/IF145-024",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xsuUhWaHMfDB6FnN.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Disassembling+Audi+Navigation+Plus+unit/12405",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "remove the three 6 mm t9 torx screws securing the cover plate ."
+                },
+                {
+                    "Text": "slightly loosen the rubber knob since it pushes down on the cover plate ."
+                },
+                {
+                    "Text": "slide the cover plate about 1 or 2 mm upwards and remove it from the unit ."
+                }
+            ],
+            "Text_raw": "Remove the three 6 mm T9 Torx screws securing the cover plate. Slightly loosen the rubber knob since it pushes down on the cover plate. Slide the cover plate about 1 or 2 mm upwards and remove it from the unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/D3EdUQRow2N5SgUa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nGOjXLSJoyvEcVFU.standard"
+            ],
+            "StepId": 42989,
+            "Tools_extracted": [
+                "t9 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a spudger to disconnect the cable connecting the gps with the radio unit ."
+                }
+            ],
+            "Text_raw": "Use a spudger to disconnect the cable connecting the GPS with the radio unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xVdB5T4KFe4Qv6lO.standard"
+            ],
+            "StepId": 42991,
+            "Tools_extracted": [
+                "spudger"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove two 6 mm t9 torx screws from the left side of the unit ."
+                },
+                {
+                    "Text": "remove two 6 mm t9 torx screws from the right side of the unit ."
+                },
+                {
+                    "Text": "the gps/cd-rom unit can now be separated from the radio ."
+                }
+            ],
+            "Text_raw": "Remove two 6 mm T9 Torx screws from the left side of the unit. Remove two 6 mm T9 Torx screws from the right side of the unit. The GPS/CD-ROM unit can now be separated from the radio.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nu2VIEqo2bgtPjsU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/n3BvufajkmbBFW2b.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jtQlaOcMegsd4iuW.standard"
+            ],
+            "StepId": 42992,
+            "Tools_extracted": [
+                "t9 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use the flat edge of a metal spudger and/or a flat head screwdriver to pry open the top cover ."
+                },
+                {
+                    "Text": "when closing the cover , make sure the cover is completely locked as shown in the third picture ."
+                }
+            ],
+            "Text_raw": "Use the flat edge of a metal spudger and/or a flat head screwdriver to pry open the top cover. When closing the cover, make sure the cover is completely locked as shown in the third picture.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aHQgZjhnjbSF4dPi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WjU5JagZ44QkWY3X.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pGecW3o2EBOJO1Q2.standard"
+            ],
+            "StepId": 42990,
+            "Tools_extracted": [
+                "spudger"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove five 6 mm t9 torx screws from the top side of the unit ."
+                }
+            ],
+            "Text_raw": "Remove five 6 mm T9 Torx screws from the top side of the unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WiGXEFK1Y15uphkx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WkFTEdDg3ioShNer.standard"
+            ],
+            "StepId": 42993,
+            "Tools_extracted": [
+                "t9 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "the cd-rom has to be pulled out straight up . some force might be needed since the unit is plugged into the logic board at the bottom of the housing with a connector board ( see the third photo ) . the board might come out with the cd-rom unit , or still be connected to the logic board ."
+                },
+                {
+                    "Text": "at the left side , it might be possible to use fingers to pull out the unit ."
+                },
+                {
+                    "Text": "at the right side , a flat head screwdriver can be used . the force that is needed will most likely bend a metal spudger ."
+                },
+                {
+                    "Text": "once disconnected , flip over the cd-rom unit and place it next to the housing with the logic board ."
+                },
+                {
+                    "Text": "the brown cable will still be connected , optionally remove the one t9 torx screw located next to the cooling fan ( see second photo ) to disconnect the connector from the housing ."
+                }
+            ],
+            "Text_raw": "The CD-ROM has to be pulled out straight up. Some force might be needed since the unit is plugged into the logic board at the bottom of the housing with a connector board (see the third photo). The board might come out with the CD-ROM unit, or still be connected to the logic board. At the left side, it might be possible to use fingers to pull out the unit. At the right side, a flat head screwdriver can be used. The force that is needed will most likely bend a metal spudger. Once disconnected, flip over the CD-ROM unit and place it next to the housing with the logic board. The brown cable will still be connected, optionally remove the one T9 Torx screw located next to the cooling fan (see second photo) to disconnect the connector from the housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/I2bMC51XdDnCKS31.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mTSEQKHwPYFimwxc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/r2uVF2KjQwG5IMSh.standard"
+            ],
+            "StepId": 42994,
+            "Tools_extracted": [
+                "spudger",
+                "t9 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "if the connector board is still connected to the cd-rom unit :"
+                },
+                {
+                    "Text": "remove the connector board using two fingers on either side of the board and prying it up ."
+                },
+                {
+                    "Text": "when assembling , place the connector board on the logic board inside the housing . push it down until the connector pins are visible at the surface of the connector board ."
+                },
+                {
+                    "Text": "when assembling , make sure the two logic boards ( one in the housing and one on the cd-rom unit ) are pushed into the connector board all the way ."
+                }
+            ],
+            "Text_raw": "If the connector board is still connected to the CD-ROM unit: Remove the connector board using two fingers on either side of the board and prying it up. When assembling, place the connector board on the logic board inside the housing. Push it down until the connector pins are visible at the surface of the connector board. When assembling, make sure the two logic boards (one in the housing and one on the CD-ROM unit) are pushed into the connector board all the way.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sTnMhWoutakGDWYD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FOA3WE4biu1tIjav.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3FTQ1JRIlemrSjGT.standard"
+            ],
+            "StepId": 42995,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "use the tip of a plastic spudger to disconnect the cable that connects the ( what is assumed to be an ) angle calibration unit , to the logic board of the cd-rom drive ."
+                },
+                {
+                    "Text": "flip the unit over to remove four 6 mm t9 torx screws ."
+                },
+                {
+                    "Text": "the cd-rom unit is now separated from the surrounding bracket ."
+                }
+            ],
+            "Text_raw": "Use the tip of a plastic spudger to disconnect the cable that connects the (what is assumed to be an) angle calibration unit, to the logic board of the CD-ROM drive. Flip the unit over to remove four 6 mm T9 Torx screws. The CD-ROM unit is now separated from the surrounding bracket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HbUwXlEJ3ZQakpWX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yhls2BBFKeDS5jyE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vrDWuysYaArQACTr.standard"
+            ],
+            "StepId": 43072,
+            "Tools_extracted": [
+                "spudger",
+                "t9 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "use a plastic spudger to open the three plastic connectors and slide the ribbon cables out , no force should be used ."
+                },
+                {
+                    "Text": "disconnect the three other connectors from the logic board , using a spudger if necessary ."
+                },
+                {
+                    "Text": "remove the four 6 mm t9 torx screws from the corners of the logic board ."
+                },
+                {
+                    "Text": "the board can now safely be removed from the cd-rom drive ."
+                }
+            ],
+            "Text_raw": "Use a plastic spudger to open the three plastic connectors and slide the ribbon cables out, no force should be used. Disconnect the three other connectors from the logic board, using a spudger if necessary. Remove the four 6 mm T9 Torx screws from the corners of the logic board. The board can now safely be removed from the CD-ROM drive.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lDMFsWLMQYMKNGIH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/STDwptOyRPRLiTxV.standard"
+            ],
+            "StepId": 43071,
+            "Tools_extracted": [
+                "spudger",
+                "t9 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "flip the cd-rom unit back over ."
+                },
+                {
+                    "Text": "remove one gold colored phillips screw located in the center ."
+                }
+            ],
+            "Text_raw": "Flip the CD-ROM unit back over. Remove one gold colored Phillips screw located in the center.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wmm2A4xJ2vKtX4ED.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/S5S6EVLPGvY2Ki1u.standard"
+            ],
+            "StepId": 43073,
+            "Tools_extracted": [
+                "ph00 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "it is advisable to grab an old cd and push it half way into the cd-rom drive until it is visible through the hole marked in the first picture . this will prevent the part that has to be removed in this step to fall down into the unit , with the risk of damaging the laser ."
+                },
+                {
+                    "Text": "the metal plate slides forward as shown in the first picture ."
+                },
+                {
+                    "Text": "use a pair of tweezers to very carefully slide forward and then lift up and remove the metal plate together with the white plastic disk ."
+                },
+                {
+                    "Text": "i did not take the unit apart beyond this level , taking it apart any further might offset the calibration of the laser and damage the unit ."
+                }
+            ],
+            "Text_raw": "It is advisable to grab an old CD and push it half way into the CD-ROM drive until it is visible through the hole marked in the first picture. This will prevent the part that has to be removed in this step to fall down into the unit, with the risk of damaging the laser. The metal plate slides forward as shown in the first picture. Use a pair of tweezers to very carefully slide forward and then lift up and remove the metal plate together with the white plastic disk. I did not take the unit apart beyond this level, taking it apart any further might offset the calibration of the laser and damage the unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/m2JWLgIbi4IcgwNH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/X5cJ4GLNIWn1yVBN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/m2TkXInNHPDAUALR.standard"
+            ],
+            "StepId": 43074,
+            "Tools_extracted": [
+                "tweezers"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "start by removing top cover ."
+                },
+                {
+                    "Text": "use the flat edge of a metal spudger and/or a flat head screwdriver to pry open the top cover ."
+                },
+                {
+                    "Text": "when closing the cover , make sure the cover is completely locked as shown in the third picture ."
+                }
+            ],
+            "Text_raw": "Start by removing top cover. Use the flat edge of a metal spudger and/or a flat head screwdriver to pry open the top cover. When closing the cover, make sure the cover is completely locked as shown in the third picture.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FDoRljIlrrjJbydp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aPNydTHW14wALHrE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/E3NkhSVi1PZLrq3Q.standard"
+            ],
+            "StepId": 54068,
+            "Tools_extracted": [
+                "spudger"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "use a spudger to open the clip locking the flatcable , you can leave the cable in because it's difficult to remove it from the connector at this point ."
+                },
+                {
+                    "Text": "use a spudger to disconnect the screen powercable ."
+                }
+            ],
+            "Text_raw": "Use a spudger to open the clip locking the flatcable, you can leave the cable in because it's difficult to remove it from the connector at this point. Use a spudger to disconnect the screen powercable.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kMovxdFclJrEQtmc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3jCD6d3n4MU1iL3F.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AHHnv6bLiq5xmqLU.standard"
+            ],
+            "StepId": 54069,
+            "Tools_extracted": [
+                "spudger"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "remove two 6 mm t9 torx screws from the left side of the unit ."
+                },
+                {
+                    "Text": "remove two 6 mm t9 torx screws from the right side of the unit ."
+                }
+            ],
+            "Text_raw": "Remove two 6 mm T9 Torx screws from the left side of the unit. Remove two 6 mm T9 Torx screws from the right side of the unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Iw4IbJ4PBQZ52Dg4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DxDQeNF6prrqkjuF.standard"
+            ],
+            "StepId": 54071,
+            "Tools_extracted": [
+                "t9 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "gently separate the front part from the radio unit just far enough until you are able to pull out the flatcable by it's pulling-flap ."
+                },
+                {
+                    "Text": "slowly fold down the front keeping in mind the two black sleeved cables still connected ."
+                },
+                {
+                    "Text": "the two black cables are at the left and right bottom side and are long enough to allow the front to fold down without disconnecting them . but do make sure the folded cable is pulled out from behind the metal plate while folding the front away from the unit ."
+                }
+            ],
+            "Text_raw": "Gently separate the front part from the radio unit just far enough until you are able to pull out the flatcable by it's pulling-flap. Slowly fold down the front keeping in mind the two black sleeved cables still connected. The two black cables are at the left and right bottom side and are long enough to allow the front to fold down without disconnecting them. But do make sure the folded cable is pulled out from behind the metal plate while folding the front away from the unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IgyOOiCNDSYGTXBc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jHLhRDKgeTOJeUUr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GEZlLKnVNPppJmJ2.standard"
+            ],
+            "StepId": 54072,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "carefully pull the two black wires out of their connector . it's almost impossible to use a spudger so pull them out by pulling at the sleeved cable . do this '''very''' carefully ."
+                },
+                {
+                    "Text": "when assembling , make sure these two cables are plugged in all the way into the connector ."
+                }
+            ],
+            "Text_raw": "Carefully pull the two black wires out of their connector. It's almost impossible to use a spudger so pull them out by pulling at the sleeved cable. Do this '''very''' carefully. When assembling, make sure these two cables are plugged in all the way into the connector.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nRGRRIFp4o5yElDZ.standard"
+            ],
+            "StepId": 54073,
+            "Tools_extracted": [
+                "spudger"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "remove two 4 mm t10 torx screws ."
+                },
+                {
+                    "Text": "the screen can fall out after you have removed these two screws so be careful ."
+                },
+                {
+                    "Text": "guide the flatcable through the metal plate when removing the screen ."
+                }
+            ],
+            "Text_raw": "Remove two 4 mm T10 Torx screws. The screen can fall out after you have removed these two screws so be careful. Guide the flatcable through the metal plate when removing the screen.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/i6rRnhUHuHrlTHfe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3TG33CZRAgbuLCdY.standard"
+            ],
+            "StepId": 54074,
+            "Tools_extracted": [
+                "t10 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "remove four 6 mm t9 torx screws ."
+                },
+                {
+                    "Text": "carefully remove the metal plate , guiding the two wires through the holes ."
+                }
+            ],
+            "Text_raw": "Remove four 6 mm T9 Torx screws. Carefully remove the metal plate, guiding the two wires through the holes.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QbQk4YgGWblNIGq1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jgEMdE6BkMwq2u2O.standard"
+            ],
+            "StepId": 54075,
+            "Tools_extracted": [
+                "t9 torx screwdriver"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "use a spudger to disconnect the connector from the board ."
+                },
+                {
+                    "Text": "flip over the front panel and pull off the rubber knob of the rotary push button ."
+                },
+                {
+                    "Text": "remove the 11 mm nut with a pair of pliers or a socket wrench if you have one that is long enough ."
+                }
+            ],
+            "Text_raw": "Use a spudger to disconnect the connector from the board. Flip over the front panel and pull off the rubber knob of the rotary push button. Remove the 11 mm nut with a pair of pliers or a socket wrench if you have one that is long enough.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YHxKBRALeFYtPUfE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qkTpSLWEmbBVWQW4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3NW5UIRaHXStEOU4.standard"
+            ],
+            "StepId": 54076,
+            "Tools_extracted": [
+                "needlenose pliers",
+                "spudger"
+            ]
+        },
+        {
+            "Order": 19,
+            "Lines": [
+                {
+                    "Text": "you can now remove the rotary push button unit from the back ."
+                },
+                {
+                    "Text": "repeat these same procedure for the rotary push button on the right side ."
+                }
+            ],
+            "Text_raw": "You can now remove the rotary push button unit from the back. Repeat these same procedure for the rotary push button on the right side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/koHGL26AEEQOdHnD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AwiyBYmnGDDlSRu1.standard"
+            ],
+            "StepId": 54080,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 20,
+            "Lines": [
+                {
+                    "Text": "remove eight 6 mm t6 torx screws from the left side logic board ."
+                },
+                {
+                    "Text": "remove eight 6 mm t6 torx screws from the right side logic board ."
+                },
+                {
+                    "Text": "remove the logic boards from the front panel of the unit ."
+                }
+            ],
+            "Text_raw": "Remove eight 6 mm T6 Torx screws from the left side logic board. Remove eight 6 mm T6 Torx screws from the right side logic board. Remove the logic boards from the front panel of the unit.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IPQJeZ4c1FKsQgES.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6sMhUyXhIBak4DnI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5LPLpDopJPZbuHN5.standard"
+            ],
+            "StepId": 54082,
+            "Tools_extracted": [
+                "t6 torx screwdriver"
+            ]
+        }
+    ],
+    "Subject": "Navigation unit"
+}

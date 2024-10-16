@@ -1,0 +1,246 @@
+{
+    "Title": "1998-2002 Honda Accord Spark Plugs Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3634,
+    "Category": "1998-2002 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "/Item/Socket_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 ratchet extension",
+            "Url": "http://www.amazon.com/TEKTON-14267-2-Inch-10-Inch-Extension/dp/B000NPZ5TI/ref=sr_1_1?ie=UTF8&qid=1407776986&sr=8-1&keywords=10%22+Ratchet+Extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "spark plug gap gauge",
+            "Url": "http://www.amazon.com/Lisle-67870-Spark-Plug-Gauge/dp/B0002STS2Q/ref=sr_1_5?s=automotive&ie=UTF8&qid=1356975161&sr=1-5&keywords=spark+plug+gap+gauge",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "spark plug socket",
+            "Url": "https://www.amazon.com/GearWrench-80546-8-Inch-6-Inch-Swivel/dp/B0014ZVSVK/ref=sr_1_1?ie=UTF8&qid=1480629388&sr=8-1&keywords=5%2F8+spark+plug+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "latex or nitrile gloves",
+            "Url": "http://www.amazon.com/dp/B00J084MHA/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1998+1999+2000+2001+2002+Honda+Accord+Spark+Plugs+Replacement/3634",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "begin by locating the four spark plug connectors near the front of the valve cover of your engine ."
+                },
+                {
+                    "Text": "we recommend replacing the spark plugs one at a time to prevent mixing up the spark plug connectors ."
+                },
+                {
+                    "Text": "you can also label the connectors 1-4 , left to right , to keep track of which plug you're working on ."
+                }
+            ],
+            "Text_raw": "Begin by locating the four spark plug connectors near the front of the valve cover of your engine. We recommend replacing the spark plugs one at a time to prevent mixing up the spark plug connectors. You can also label the connectors 1-4, left to right, to keep track of which plug you're working on.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/POOoUHsBq2ydYaOW.standard"
+            ],
+            "StepId": 17364,
+            "Tools_extracted": [
+                "spark plug"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "grab the top of the spark plug connector and pull upward while rocking the connector around its socket ."
+                },
+                {
+                    "Text": "this may require a significant amount of force ."
+                },
+                {
+                    "Text": "once the connector has been disconnected from the top of the spark plug , lift it out of the engine ."
+                },
+                {
+                    "Text": "for more slack to move the spark plug connector out of the way , simply pop the spark plug wire out of the closest plastic loom ."
+                }
+            ],
+            "Text_raw": "Grab the top of the spark plug connector and pull upward while rocking the connector around its socket. This may require a significant amount of force. Once the connector has been disconnected from the top of the spark plug, lift it out of the engine. For more slack to move the spark plug connector out of the way, simply pop the spark plug wire out of the closest plastic loom.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1mAywQGFhUxRCuep.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qGxOFNInBqkGHPQ6.standard"
+            ],
+            "StepId": 17365,
+            "Tools_extracted": [
+                "spark plug socket"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "at this point , you can peer down into the spark plug hole and see the top of the spark plug ."
+                },
+                {
+                    "Text": "attach a 5 /8 spark plug socket to a 10 ratchet extension , and attach the extenstion to a socket wrench ."
+                },
+                {
+                    "Text": "lower the spark plug socket down into the spark plug hole and press downward to firmly seat the spark plug in the rubber retainer found inside the socket . make sure that the hex thread of the socket lines up with the hex thread of the spark plug ."
+                },
+                {
+                    "Text": "rotate the socket wrench counter-clockwise to loosen the spark plug from the cylinder head ."
+                },
+                {
+                    "Text": "lift the spark plug out of the cylinder head ."
+                },
+                {
+                    "Text": "remove the old spark plug from the spark plug socket ."
+                }
+            ],
+            "Text_raw": "At this point, you can peer down into the spark plug hole and see the top of the spark plug. Attach a 5/8\" spark plug socket to a 10\" ratchet extension, and attach the extenstion to a socket wrench. Lower the spark plug socket down into the spark plug hole and press downward to firmly seat the spark plug in the rubber retainer found inside the socket. Make sure that the hex thread of the socket lines up with the hex thread of the spark plug. Rotate the socket wrench counter-clockwise to loosen the spark plug from the cylinder head. Lift the spark plug out of the cylinder head. Remove the old spark plug from the spark plug socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/o2TVsVCHQXHHogPN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cilOSMAJDZhRORl6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZHf2MDMVBHhv4WAl.standard"
+            ],
+            "StepId": 17366,
+            "Tools_extracted": [
+                "spark plug socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "even if you are using pre-gapped spark plugs , it is a good idea to check the gap before installing your new plugs ."
+                },
+                {
+                    "Text": "insert the thinnest portion of a spark plug gap gauge between the center electrode and the ground electrode of the spark plug ."
+                },
+                {
+                    "Text": "while holding the gauge between the spark plug gap , rotate it until it gently wedges itself into the gap ."
+                },
+                {
+                    "Text": "the distance of the spark plug gap can now be read off the gauge . the factory spec for this vehicle is anywhere from . 039 to . 043 inches ."
+                }
+            ],
+            "Text_raw": "Even if you are using pre-gapped spark plugs, it is a good idea to check the gap before installing your new plugs. Insert the thinnest portion of a spark plug gap gauge between the center electrode and the ground electrode of the spark plug. While holding the gauge between the spark plug gap, rotate it until it gently wedges itself into the gap. The distance of the spark plug gap can now be read off the gauge. The factory spec for this vehicle is anywhere from .039 to .043 inches.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SOoxDqbXtyAYDfdk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HcuvKDagDdCpB3Al.standard"
+            ],
+            "StepId": 17367,
+            "Tools_extracted": [
+                "spark plug gap gauge"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "insert a new spark plug into the spark plug socket until it is seated within the rubber retainer inside ."
+                },
+                {
+                    "Text": "lightly coat the threads of the spark plug in anti-seize lubricant to aid in removal the next time the spark plugs are replaced ."
+                },
+                {
+                    "Text": "do not get any anti-seize lubricant on either of the two electrodes ."
+                },
+                {
+                    "Text": "since the rubber retainer inside the spark plug socket holds the spark plug very firmly , you can tape the socket to the extension to aid in removing the socket once the spark plug is installed ."
+                }
+            ],
+            "Text_raw": "Insert a new spark plug into the spark plug socket until it is seated within the rubber retainer inside. Lightly coat the threads of the spark plug in anti-seize lubricant to aid in removal the next time the spark plugs are replaced. Do not get any anti-seize lubricant on either of the two electrodes. Since the rubber retainer inside the spark plug socket holds the spark plug very firmly, you can tape the socket to the extension to aid in removing the socket once the spark plug is installed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5L4CEwABdmYFBZYD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/btvHPO2fAyeSyjZO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Nv4AvES3LdVGiR5n.standard"
+            ],
+            "StepId": 17368,
+            "Tools_extracted": [
+                "spark plug socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "it is easiest to accomplish this step with the socket wrench disconnected from the extension ."
+                },
+                {
+                    "Text": "carefully lower the new spark plug down into its hole , being sure not to contact the spark plug with the side of the tube leading to the cylinder head ."
+                },
+                {
+                    "Text": "once the spark plug has reached the threads in the cylinder head , hand tighten the spark plug ."
+                }
+            ],
+            "Text_raw": "It is easiest to accomplish this step with the socket wrench disconnected from the extension. Carefully lower the new spark plug down into its hole, being sure not to contact the spark plug with the side of the tube leading to the cylinder head. Once the spark plug has reached the threads in the cylinder head, hand tighten the spark plug.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UBkhhF3I4HtQLIeC.standard"
+            ],
+            "StepId": 17369,
+            "Tools_extracted": [
+                "spark plug",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "use a torque wrench to tighten the spark plug to a spec of 156 in-lbs ."
+                },
+                {
+                    "Text": "do not over-tighten the spark plugs , as the threads may strip out of the soft aluminum cylinder head ."
+                }
+            ],
+            "Text_raw": "Use a torque wrench to tighten the spark plug to a spec of 156 in-lbs. Do not over-tighten the spark plugs, as the threads may strip out of the soft aluminum cylinder head.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UO4KRFcRqBSMqhpN.standard"
+            ],
+            "StepId": 17370,
+            "Tools_extracted": [
+                "spark plug",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "reinstall the spark plug connector and , if necessary , push the spark plug wire back into its plastic loom ."
+                },
+                {
+                    "Text": "make sure the spark plug connector clicks firmly in place , and double-check all four connectors once you're finished with all the plugs ."
+                },
+                {
+                    "Text": "repeat this procedure for all four spark plugs ."
+                }
+            ],
+            "Text_raw": "Reinstall the spark plug connector and, if necessary, push the spark plug wire back into its plastic loom. Make sure the spark plug connector clicks firmly in place, and double-check all four connectors once you're finished with all the plugs. Repeat this procedure for all four spark plugs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QlcbTXXL1sdoZStl.standard"
+            ],
+            "StepId": 17371,
+            "Tools_extracted": [
+                "spark plug"
+            ]
+        }
+    ],
+    "Subject": "Spark Plugs"
+}

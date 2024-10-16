@@ -1,0 +1,293 @@
+{
+    "Title": "1997-2003 BMW 5 Series Bluetooth Hands-Free Telephone system Replacement",
+    "Ancestors": [
+        "BMW",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 7589,
+    "Category": "1997-2003 BMW 5 Series",
+    "Toolbox": [
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        },
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_1?ie=UTF8&qid=1487787284&sr=8-1&keywords=3+8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1997+1998+1999+2000+2001+2002+2003+BMW+5+Series+Bluetooth+Hands-Free+Telephone+system+Replacement/7589",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the first step in any bmw upgrade is to determine some baseline details . while any bmw e39 can be retrofitted to include the bmw bluetooth hands-free and voice control system . these details will enable you to avoid any troublesome mistakes"
+                },
+                {
+                    "Text": "1 ) build date of bmw . you can locate the vin number of your car and look it up with an online vin decoder , or locate the build date stamp code found on some vin number placards . ( top right of photo )"
+                }
+            ],
+            "Text_raw": "The first step in any BMW upgrade is to determine some baseline details.  While any BMW E39 can be retrofitted to include the BMW Bluetooth Hands-Free and voice control system. These details will enable you to avoid any troublesome mistakes 1) Build Date of BMW.  You can locate the VIN number of your car and look it up with an online VIN decoder, or locate the build date stamp code found on some VIN number placards.  (Top right of photo)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mnJws2j4mdVRxVMp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pZhpablXY1mLMiNN.standard"
+            ],
+            "StepId": 31602,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "2 ) is bmw prewired for telephone . all north american bmw e39 s are prewired for telephone , but some euro and other region bmw e39 s may not be prewired for telephone . a quick check option is to look at the panel where the overhead lights and located and determine if you have the microphone trim piece ."
+                },
+                {
+                    "Text": "photo 1 no microphone trim piece . - car most likely not prewired for telephone"
+                },
+                {
+                    "Text": "photo 2 prewired for telephone . photo shows panel removed with arrow pointing towards back side of microphone trim piece"
+                }
+            ],
+            "Text_raw": "2) Is BMW prewired for telephone.  All North American BMW E39s are prewired for telephone, but some Euro and other Region BMW E39s may not be prewired for telephone. A quick check option is to look at the panel where the overhead lights and located and determine if you have the microphone trim piece. Photo 1 No Microphone trim piece. - Car most likely NOT prewired for telephone Photo 2 Prewired for telephone.  Photo shows Panel removed with arrow pointing towards back side of microphone trim piece",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Gtn4QcA1toCR4JqY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4CCHGuP1hTHiVRVg.standard"
+            ],
+            "StepId": 31603,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "the specific parts required for your installation will depend on the build date and prewiring options determined ."
+                },
+                {
+                    "Text": "it is recommended to get specialized advise on what parts will be required . bmw dealers are not the best source of information and we suggest doing a google search for e39 bluetooth kit or visiting websites such as www . bimmernav . com for the best advice"
+                },
+                {
+                    "Text": "bluetooth kit contents can vary , but all use the bmw ulf module . the ulf module is the bmw bluetooth hands-free and voice control module . - get the latest version module available in order to support the newest types of bluetooth phones ."
+                }
+            ],
+            "Text_raw": "The specific parts required for your installation will depend on the build date and prewiring options determined. It is recommended to get specialized advise on what parts will be required.  BMW dealers are not the best source of information and we suggest doing a Google search for \"E39 Bluetooth Kit\" or visiting websites such as www.bimmernav.com for the best advice Bluetooth Kit contents can vary, but all use the BMW ULF module.  The ULF module is the BMW Bluetooth Hands-Free and Voice Control module.  - Get the latest version module available in order to support the newest types of bluetooth phones.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BoccqNtVYqXVMtWn.standard"
+            ],
+            "StepId": 31604,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "starting in the back of the car , connect the bluetooth module . the module will connect directly to the wiring in the car depending on the telephone configuration of your model year and telephone wiring"
+                },
+                {
+                    "Text": "newer bmw e39 s , starting with march 2002 production cars will have the 54 pin telephone wiring plug that connects directly to the bluetooth module"
+                },
+                {
+                    "Text": "older bmws will have different wiring connectors if prewired for telephone , or a telephone wiring connector if not prewired for telephone"
+                }
+            ],
+            "Text_raw": "Starting in the back of the car, connect the bluetooth module.  The module will connect directly to the wiring in the car depending on the telephone configuration of your model year and telephone wiring Newer BMW E39s, starting with March 2002 Production cars will have the 54 pin telephone wiring plug that connects directly to the Bluetooth module Older BMWs will have different wiring connectors if prewired for telephone, or a telephone wiring connector if not prewired for telephone",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YsOIfERmSDbQndBW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HaI5YY6jSKLbXReP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/61OUepCEC5meWanx.standard"
+            ],
+            "StepId": 31652,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "all north american bmw e39 s 5 series are prewired for telephone , while some euro or rest of world bmws may not be prewired for telephone ."
+                },
+                {
+                    "Text": "if your e39 is not prewired for telephone , the e39 wil simply need a special wiring cable harness that connects to the telephone power connector in the back of the car ."
+                },
+                {
+                    "Text": "these custom wiring cable harnesses can be found from online retailers . a web search for bmw e39 bmw bluetooth custom made for options on obtaining the proper wiring harness for your car"
+                }
+            ],
+            "Text_raw": "All North American BMW E39s 5 series ARE prewired for telephone, while some Euro or Rest of World BMWs may not be prewired for telephone. If your E39 is not prewired for telephone, the E39 wil simply need a special wiring cable harness that connects to the telephone power connector in the back of the car. These custom wiring cable harnesses can be found from online retailers.  A web search for \"bmw e39 bmw bluetooth custom made\" for options on obtaining the proper wiring harness for your car",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YVdxYPRMMOEjBFRI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ficZq26TELsmhPK2.standard"
+            ],
+            "StepId": 31653,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "mount the bluetooth module in your bmw - with a new bmw bracket or if your bmw e39 is a 2003 model and prewired for telephone in the bracket that is already mounted in your car"
+                },
+                {
+                    "Text": "connect the bluetooth antenna to the bluetooth ulf control module and mount the bluetooth antenna in the location based on the simple instructions in your bluetooth installation kit"
+                }
+            ],
+            "Text_raw": "Mount the Bluetooth module in your BMW - with a new BMW bracket or if your BMW E39 is a 2003 model and prewired for telephone in the bracket that is already mounted in your car Connect the Bluetooth antenna to the Bluetooth ULF control module and mount the Bluetooth antenna in the location based on the simple instructions in your Bluetooth Installation Kit",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CdWLwTfxPftDuiYD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/44iYUZNqa5oRiUjV.standard"
+            ],
+            "StepId": 31654,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "if your bmw was not equipped with a factory installed telephone system you will need to install a bmw microphone to use with your bmw bluetooth system"
+                },
+                {
+                    "Text": "to install the microphone simply remove the overhead console trim panel and connect the bmw microphone to the connector in the car and attach to the inside of the trim panel at the microphone mounting location"
+                }
+            ],
+            "Text_raw": "If your BMW was not equipped with a factory installed telephone system you will need to install a BMW microphone to use with your BMW Bluetooth system To install the microphone simply remove the overhead console trim panel and connect the BMW microphone to the connector in the car and attach to the inside of the trim panel at the microphone mounting location",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6JADrdM24pFnnp1V.standard"
+            ],
+            "StepId": 31655,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "if your bmw is prewired for telephone you will need to connect the bmw bluetooth eject box that is used for pairing your telephone and for charging your telephone with optional bmw snap in adapter phone charging cradels"
+                },
+                {
+                    "Text": "to remove the blank tray arm rest insert and replace with the eject box simple remove the storage compartment below the vents that vent the rear passengers"
+                },
+                {
+                    "Text": "slide the vent down slightly to reveal two phillips head screws"
+                }
+            ],
+            "Text_raw": "If your BMW is prewired for telephone you will need to connect the BMW Bluetooth eject box that is used for pairing your telephone and for charging your telephone with optional BMW snap in adapter phone charging cradels To remove the blank tray arm rest insert and replace with the Eject Box simple remove the storage compartment below the vents that vent the rear passengers Slide the Vent down slightly to reveal two phillips head screws",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LCNaIZSGaGgqdjk3.standard"
+            ],
+            "StepId": 31656,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "remove the arm rest piece gently sliding the arm rest forward . disconnect the blank tray and replace with the bmw eject box that includes the telephone pairing button"
+                },
+                {
+                    "Text": "if you bmw was built after march 2002 production the bluetooth antenna will mount under this arm rest in the location shown"
+                },
+                {
+                    "Text": "snap the new eject box in place and connect to the factory wiring connectors under the arm rest at the top of the plastic panel . if your bmw was a 2002 or earlier build date the connectors are located under the plastic trim panel at the bottom of the compartment ."
+                }
+            ],
+            "Text_raw": "Remove the arm rest piece gently sliding the arm rest forward.  Disconnect the blank tray and replace with the BMW Eject Box that includes the telephone pairing button If you BMW was built after March 2002 production the bluetooth antenna will mount under this arm rest in the location shown Snap the new Eject box in place and connect to the factory wiring connectors under the arm rest at the top of the plastic panel.  If your BMW was a 2002 or earlier build date the connectors are located under the plastic trim panel at the bottom of the compartment.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/utUOGPXLQeQAr5aa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bRVMtWcg1X36c16B.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3KwiWUHfQBy2upxh.standard"
+            ],
+            "StepId": 31657,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "once complete , press and hold the face button ( pairing button ) on the eject box while turning on the ignition . after 3-5 seconds of turning on the ignition let go of the button to initiate the telephone pairing process"
+                },
+                {
+                    "Text": "from your mobile phone search for bluetooth devices and select bmw ulf . use the unique bluetooth passkey located on the side of the bluetooth module to pair your phone"
+                },
+                {
+                    "Text": "once complete the system will disconnect from your phone to allow you to connect upto 4 phones at a time with your system . the last phone paired has highest priority"
+                }
+            ],
+            "Text_raw": "Once complete, press and hold the face button (pairing button) on the eject box while turning on the ignition.  After 3-5 seconds of turning on the ignition let go of the button to initiate the telephone pairing process From your mobile phone search for Bluetooth devices and select BMW ULF.  Use the unique Bluetooth passkey located on the side of the bluetooth module to pair your phone Once complete the system will disconnect from your phone to allow you to connect upto 4 phones at a time with your system.  The last phone paired has highest priority",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BFC2FxMjKNQAa3fS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3qhLTyQ2YdWP2VC1.standard"
+            ],
+            "StepId": 31658,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "once your telephone is paired , you can turn off the ignition to save your settings and the next time you turn on the car you will be able to use the hands-free system from the steering wheel controls , radio or navigation display"
+                },
+                {
+                    "Text": "pressing and holding the face buttons in the car activates voice control while pressing the face or phone buttons briefly can send or end calls . the steering wheel controls can also be used to view phonebooks and other telephone settings"
+                }
+            ],
+            "Text_raw": "Once your telephone is paired, you can turn off the ignition to save your settings and the next time you turn on the car you will be able to use the Hands-Free System from the Steering wheel controls, Radio or Navigation Display Pressing and holding the FACE buttons in the car activates voice control while pressing the FACE or PHONE buttons briefly can send or end calls.  The Steering wheel controls can also be used to view phonebooks and other telephone settings",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3J5gnX1XZALY1PWb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XEgePHBKImxE1rbM.standard"
+            ],
+            "StepId": 31659,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "bmw's bluetooth system also works properly with cars equipped with radio/cassette players and radio/cd players ."
+                }
+            ],
+            "Text_raw": "BMW's Bluetooth system also works properly with cars equipped with Radio/Cassette Players and Radio/CD players.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FpKAYACBFS5XbMAZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KJEQQXKtKRCYVsRp.standard"
+            ],
+            "StepId": 31660,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Bluetooth Hands-Free Telephone system"
+}

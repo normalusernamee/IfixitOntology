@@ -1,0 +1,301 @@
+{
+    "Title": "2005 Honda Accord Engine Oil Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 25259,
+    "Category": "2003-2007 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "oil filter wrench",
+            "Url": "http://amzn.com/B0009WG5SU",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "17 mm box end wrench",
+            "Url": "/Item/17_mm_Box_End_Wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2005+Honda+Accord+Engine+Oil+Replacement/25259",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "identify the jack point , located directly underneath your car , in the center portion between the front two wheels ."
+                },
+                {
+                    "Text": "place the hydraulic jack beneath the jack point ."
+                },
+                {
+                    "Text": "pump the lever on the jack , up and down , until the jack makes contact with the jack point . ( adjust the placement if necessary ) ."
+                },
+                {
+                    "Text": "continue pumping the lever until the wheels are two inches off the ground ."
+                }
+            ],
+            "Text_raw": "Identify the jack point, located directly underneath your car, in the center portion between the front two wheels. Place the Hydraulic Jack beneath the jack point. Pump the lever on the [http://www.amazon.com/Powerzone-380044-Aluminum-Steel-Garage/dp/B003UM7B98/ref=sr_1_3?s=automotive&ie=UTF8&qid=1356889069&sr=1-3&keywords=hydraulic+jack&tag=ifixitam-20|Hydraulic Jack], up and down, until the jack makes contact with the jack point. (Adjust the placement if necessary). Continue pumping the lever until the wheels are two inches off the ground.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qMGqfv1kNQIP5ylA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pYXQl3xYJsMiFSYW.standard"
+            ],
+            "StepId": 63770,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "identify the jack points located behind each front tire . place a stand underneath both jack points ."
+                },
+                {
+                    "Text": "clear the area underneath the car of people or debris . make sure the jack stands are properly supporting the car ."
+                },
+                {
+                    "Text": "slowly rotate the hydraulic jack counter-clockwise to lower it . ( half a turn should be enough . )"
+                },
+                {
+                    "Text": "after fully lowering the hydraulic jack , remove it from underneath your car ."
+                }
+            ],
+            "Text_raw": "Identify the jack points located behind each front tire. Place a [http://www.amazon.com/Torin-T43002A-Double-Locking-Jack/dp/B00026Z3E0/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889110&sr=1-1&keywords=jack+stands&tag=ifixitam-20|Jack Stand] underneath both jack points. Clear the area underneath the car of people or debris. Make sure the jack stands are properly supporting the car. Slowly rotate the Hydraulic Jack counter-clockwise to lower it. (Half a turn should be enough.) After fully lowering the Hydraulic Jack, remove it from underneath your car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YAIOjMNnSEeCqWOM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/m6KmGYwvygUD1f41.standard"
+            ],
+            "StepId": 64192,
+            "Tools_extracted": [
+                "hydraulic floor jack",
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "identify the open hood latch . it is located to the left of your brake pedal ."
+                },
+                {
+                    "Text": "pull latch toward you . you should hear a click from the front of the car ."
+                }
+            ],
+            "Text_raw": "Identify the open hood latch. It is located to the left of your brake pedal. Pull latch toward you. You should hear a click from the front of the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZNDUbVGwMYuVkceq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QUwLxeCJ1TbaNHjf.standard"
+            ],
+            "StepId": 63759,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "walk to the front of the car ."
+                },
+                {
+                    "Text": "slide your hand under the hood , just above the honda logo . feel for a small rectangular lever . pull the lever up , and lift the hood ."
+                },
+                {
+                    "Text": "be sure to lift the hood all the way up , until the pneumatic braces hold the hood in place ."
+                }
+            ],
+            "Text_raw": "Walk to the front of the car. Slide your hand under the hood, just above the Honda logo. Feel for a small rectangular lever. Pull the lever up, and lift the hood. Be sure to lift the hood all the way up, until the pneumatic braces hold the hood in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BBJLioZkmIFUNYxq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6EOAtnJNkBvsqWN1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ikn3AU6CJMtokq4k.standard"
+            ],
+            "StepId": 63764,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "pull out the dipstick"
+                },
+                {
+                    "Text": "unscrew the cap from the oil tank"
+                },
+                {
+                    "Text": "set both aside . lay a towel over the engine block and set dipstick and the cap on that to avoid traces of oil ."
+                }
+            ],
+            "Text_raw": "Pull out the dipstick Unscrew the cap from the oil tank Set both aside.  lay a towel over the engine block and set dipstick and the cap on that to avoid traces of oil.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KJYEaX4g4LKlv1AC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TKCwHJPMVlIl4Ihx.standard"
+            ],
+            "StepId": 65614,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "place oil pan between the front tires"
+                },
+                {
+                    "Text": "lay down and slide yourself headfirst under the front of the car . to the side of the right tire you will see the oil tank ."
+                },
+                {
+                    "Text": "loosen the drain bolt with a wrench . once loose , use your hand to unscrew the rest of the way ."
+                },
+                {
+                    "Text": "once the bolt is removed , oil will pour out of the hole very quickly . position the oil pan under the hole before completely removing the screw ."
+                },
+                {
+                    "Text": "allow oil to drain until the flow is reduced to a slow drip ."
+                }
+            ],
+            "Text_raw": "Place oil pan  between the front tires Lay down and slide yourself headfirst under the front of the car. To the side of the right tire you will see the oil tank. Loosen the drain bolt with a [http://www.amazon.com/GearWrench-9117-Combination-Ratcheting-Wrench/dp/B0002NYD8U/ref=sr_1_5?s=hi&ie=UTF8&qid=1339018906&sr=1-5&tag=ifixitam-20|17mm wrench]. Once loose, use your hand to unscrew the rest of the way. Once the bolt is removed, oil will pour out of the hole very quickly. Position the oil pan under the hole before completely removing the screw. Allow oil to drain until the flow is reduced to a slow drip.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mYDIAah4CEHLjraA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NlULNZGW5RwDW6Ry.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4SonStUd56Ik3c3l.standard"
+            ],
+            "StepId": 64697,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "replace the item : crush washercrush washer on the drain bolt with a new one ."
+                },
+                {
+                    "Text": "put the drain bolt back into the oil tank and tighten with 29 ft-lb of torque ."
+                }
+            ],
+            "Text_raw": "Replace the [[Item:Crush Washer|crush washer]] on the drain bolt with a new one. Put the drain bolt back into the oil tank and tighten with 29 ft-lb of torque.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uRSG1GoLcPZVAvFA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tBIZ1FoKAgekP2yH.standard"
+            ],
+            "StepId": 65643,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "locate the oil filter housed with in the suspension members of the right wheel ."
+                },
+                {
+                    "Text": "use the oil filter wrench to loosen the oil filter , then unscrew it the rest of the way by hand ."
+                },
+                {
+                    "Text": "the filter will have some oil left in it ."
+                }
+            ],
+            "Text_raw": "Locate the oil filter housed with in the suspension members of the right wheel. Use the oil filter wrench to loosen the oil filter, then unscrew it the rest of the way by hand. The filter will have some oil left in it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Il6VQFfZOJ3FRhwD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DjOs6KlKQwqcsTyr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2nDcASnikJMS3eTK.standard"
+            ],
+            "StepId": 64698,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "before putting in the new item : oil filteroil filter , rub some clean oil all the way around the gasket . this will allow the gasket to create a full seal ."
+                },
+                {
+                    "Text": "put the new oil filter on ."
+                },
+                {
+                    "Text": "tighten the new oil filter only with your hand . if you tighten it any more than what you can with your hand , it will be nearly impossible to remove the next time you change your oil ."
+                }
+            ],
+            "Text_raw": "Before putting in the new [[Item:Oil Filter|oil filter]], rub some clean oil all the way around the gasket. This will allow the gasket to create a full seal. Put the new oil filter on. Tighten the new oil filter only with your hand. If you tighten it any more than what you can with your hand, it will be nearly impossible to remove the next time you change your oil.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/krJwRydeO3sRysHZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/niEBCXKVhghUx1vI.standard"
+            ],
+            "StepId": 65642,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "using a funnel , pour the new oil into the oil tank ."
+                },
+                {
+                    "Text": "honda recommends using 4 quarts of their synthetic blend motor oil ."
+                }
+            ],
+            "Text_raw": "Using a funnel, pour the new oil into the oil tank. Honda recommends using 4 quarts of their synthetic blend [http://www.google.com/search?q=1+quart+5w-30&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a#hl=en&client=firefox-a&hs=CAp&rls=org.mozilla:en-US%3Aofficial&sclient=psy-ab&q=1+quart+5w-20&oq=1+quart+5w-20&gs_l=serp.3..0i8i30.6239.631|5w-20 Motor oil].",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HwvyS6YfZKro5cPL.standard"
+            ],
+            "StepId": 65644,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "put the dipstick back in ."
+                },
+                {
+                    "Text": "put the oil tank cap back on ."
+                },
+                {
+                    "Text": "close the hood ."
+                },
+                {
+                    "Text": "lower the car from the jack stands ."
+                }
+            ],
+            "Text_raw": "Put the dipstick back in. Put the oil tank cap back on. close the hood. lower the car from the jack stands.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LfDmnZGNDiKSifjx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TU6Fscqow4yRCWNo.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qLpSvupq4dGmTb3h.standard"
+            ],
+            "StepId": 65645,
+            "Tools_extracted": [
+                "jack stand",
+                "oil filter wrench"
+            ]
+        }
+    ],
+    "Subject": "Engine Oil"
+}

@@ -1,0 +1,139 @@
+{
+    "Title": "1996-1998 Subaru Legacy Oil Change",
+    "Ancestors": [
+        "Subaru Legacy",
+        "Subaru",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 32655,
+    "Category": "1994-1999 Subaru Legacy",
+    "Toolbox": [
+        {
+            "Name": "funnel",
+            "Url": "http://www.amazon.com/TEKTON-6093-Funnel-Set-4-Piece/dp/B003DN0RTA/ref=sr_1_1?s=hi&ie=UTF8&qid=1407340826&sr=1-1&keywords=funnel",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 17 mm",
+            "Url": "http://www.amazon.com/TEKTON-14149-8-Inch-Shallow-6-Point/dp/B000NPULCE/ref=sr_1_1?ie=UTF8&qid=1431011350&sr=8-1&keywords=17+mm+socket",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1996+1997+1998+Subaru+Legacy+Oil+Change/32655",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "pull the hood latch to release the front hood ."
+                },
+                {
+                    "Text": "go around to the front of the car and trigger the lever to raise the hood ."
+                },
+                {
+                    "Text": "lift the hood prop and insert the end into the hood ."
+                }
+            ],
+            "Text_raw": "Pull the hood latch to release the front hood. Go around to the front of the car and trigger the lever to raise the hood. Lift the hood prop and insert the end into the hood.",
+            "Images": [],
+            "StepId": 76310,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate the oil drain plug underneath the vehicle ."
+                },
+                {
+                    "Text": "put down some newspaper or cardboard to catch any spills or splashes"
+                },
+                {
+                    "Text": "slide the oil pan under the drain plug ."
+                }
+            ],
+            "Text_raw": "Locate the oil drain plug underneath the vehicle. Put down some newspaper or cardboard to catch any spills or splashes Slide the oil pan under the drain plug.",
+            "Images": [],
+            "StepId": 76311,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "take your 17 mm socket and loosen the drain plug ."
+                },
+                {
+                    "Text": "once loose enough , remove the plug by hand ."
+                },
+                {
+                    "Text": "the oil may be hot , so wear latex gloves when removing the plug ."
+                },
+                {
+                    "Text": "let the oil drain out until its just a drip ."
+                },
+                {
+                    "Text": "clean off the plug with a paper towel or rag ."
+                },
+                {
+                    "Text": "re-screw drain plug back into the oil pan ."
+                },
+                {
+                    "Text": "make sure it's not to tight or loose - check the owners manual for torque specifications ."
+                }
+            ],
+            "Text_raw": "Take your 17mm socket and loosen the drain plug. Once loose enough, remove the plug by hand. The oil may be hot, so wear latex gloves when removing the plug. Let the oil drain out until its just a drip. Clean off the plug with a paper towel or rag. Re-screw drain plug back into the oil pan. Make sure it's not to tight or loose - check the owners manual for torque specifications.",
+            "Images": [],
+            "StepId": 76312,
+            "Tools_extracted": [
+                "oil drain pan",
+                "socket 17 mm"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "locate the oil filter on the underside of the car ."
+                },
+                {
+                    "Text": "remove the oil filter and let the oil drain out ."
+                },
+                {
+                    "Text": "re-add the new , fresh oil filter ."
+                }
+            ],
+            "Text_raw": "Locate the Oil Filter on the underside of the car. Remove the oil filter and let the oil drain out. Re-add the new, fresh oil filter.",
+            "Images": [],
+            "StepId": 76313,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "add 4.8 quarts of new oil ."
+                }
+            ],
+            "Text_raw": "Add 4.8 Quarts of new oil.",
+            "Images": [],
+            "StepId": 76314,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        }
+    ],
+    "Subject": ""
+}

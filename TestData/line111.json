@@ -1,0 +1,116 @@
+{
+    "Title": "How to fix 2000-2007 Mazda Tribute cylinder misfire",
+    "Ancestors": [
+        "Mazda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 17533,
+    "Category": "2000-2007 Mazda Tribute",
+    "Toolbox": [
+        {
+            "Name": "wire cutter",
+            "Url": "http://www.ifixit.com/Tools/Flush-Wire-Cutter/IF145-056",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 8 mm",
+            "Url": "http://www.amazon.com/TEKTON-14140-Shallow-Socket-6-Point/dp/B000NY8PVE/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "multimeter",
+            "Url": "https://www.ifixit.com/Store/Parts/Digital-Multimeter/IF145-035",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+fix+2000+2001+2002+2003+2004+2005+2006+2007+Mazda+Tribute+cylinder+misfire/17533",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "start removing all the mark parts in red circles . ( upper bolts from the intake manifold , hoses , vacuum hoses , filter tube , etc )"
+                }
+            ],
+            "Text_raw": "Start removing all the mark parts in red circles. (upper bolts from the intake manifold,hoses,vacuum hoses,filter tube,etc)",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wfBhZUywFvRfpMSJ.standard"
+            ],
+            "StepId": 52254,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the connector from the pcm"
+                }
+            ],
+            "Text_raw": "Remove the connector from the PCM",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rEktlJGvw2UPVspX.standard"
+            ],
+            "StepId": 52255,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "the ignition coil should get around 1.5 volts to work ( at least in my truck ) this will change constantly due to the cylinder position . measure between using the two cables from the coil pack connector"
+                },
+                {
+                    "Text": "the cylinder fire like this : 1 , 4 , 2 , 5 , 3 , 6. so if you don't get the voltage and you get half 0.542 v this mean the any of the cable running from the coil to the pcm is broken ( most common problem is in the pcm due to the position )"
+                },
+                {
+                    "Text": "first measure the voltage from all the coils . if you get around 1.5 v in all of them we will start replacing the coil pack . ej misfire cyl 1 - we place coil pack 1 in cylinder 4 - this is to make sure you have a bad coil pack ."
+                }
+            ],
+            "Text_raw": "The ignition coil should get around 1.5 volts to work (at least in my truck) this will change constantly due to the cylinder position. Measure between using the two cables from the coil pack connector The cylinder fire like this:  1,4,2,5,3,6.  So if you don't get the voltage and you get half 0.542v this mean the any of the cable running from the coil to the pcm is broken (most common problem is in the pcm due to the position) First measure the voltage from all the coils. If you get around 1.5v in all of them we will start replacing the coil pack. ej misfire cyl #1 - we place coil pack #1 in cylinder # 4 - this is to make sure you have a bad coil pack.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QLSWMVOHQqZWJdB5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Vdke1gwZeB5BYQF4.standard"
+            ],
+            "StepId": 52259,
+            "Tools_extracted": [
+                "3 8 inch drive socket ratchet extension"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "test for continuity from the bad cylinder ( coil pack connector the pcm ) all cables have different color so it will be easy to identify . ( most of them are in the right corner )"
+                },
+                {
+                    "Text": "in case you don't get continuity this means the cable is broken . ( use a jumper till you get continuity ) test the connector with the jumper cable connected . assembly the intake manifold and re-test ."
+                }
+            ],
+            "Text_raw": "Test for continuity from the bad cylinder (coil pack connector the pcm) all cables have different color so it will be easy to identify. (most of them are in the right corner) In case you don't get continuity this means the cable is broken. ( use a jumper till you  get continuity) test the connector with the jumper cable connected. Assembly the intake manifold and re-test.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/su6TQetKBqkrsUEw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/STDiFEKBAKaXqHvR.standard"
+            ],
+            "StepId": 52261,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

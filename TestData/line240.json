@@ -1,0 +1,310 @@
+{
+    "Title": "Honda CSC29 Voltage Regulator Replacement",
+    "Ancestors": [
+        "Auto Part",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 62712,
+    "Category": "Honda CSC29",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "8 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14113-4-Inch-Shallow-6-Point/dp/B000NPPCGE/ref=sr_1_1?ie=UTF8&qid=1431011181&sr=8-1&keywords=8+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "soldering station",
+            "Url": "https://www.ifixit.com/Tools/Soldering-Station/IF145-018",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/OiyVpTEtEQyw1Ije.mini"
+        },
+        {
+            "Name": "pry bar",
+            "Url": "http://www.amazon.com/Stanley-55-045-7-1-2-Inch-Wonder/dp/B00002X1XS/ref=sr_1_1?ie=UTF8&qid=1407359568&sr=8-1&keywords=pry+bar",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wire cutter",
+            "Url": "http://www.ifixit.com/Tools/Flush-Wire-Cutter/IF145-056",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Honda+CSC29+Voltage+Regulator+Replacement/62712",
+    "Steps": [
+        {
+            "Order": 0,
+            "Tools_annotated": [
+                "8 mm socket"
+            ],
+            "Lines": [
+                {
+                    "Text": "remove 4 , 7.9 mm nuts using a 7.9 mm socket driver head"
+                },
+                {
+                    "Text": "one of the nuts is placed underneath the l-bracket . remove the l-bracket and the 3 circled nuts before attempting to remove the remaining nut"
+                },
+                {
+                    "Text": "there are two covers that need to be removed from the alternator . this step describes how to remove the back cover ."
+                }
+            ],
+            "Text_raw": "Remove 4, 7.9mm  nuts using a 7.9mm socket driver head One of the nuts is placed underneath the L-Bracket. Remove the L-Bracket and the 3 circled nuts before attempting to remove the remaining nut There are two covers that need to be removed from the alternator. This step describes how to remove the back cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BAhkNBdqeLrZCcng.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Wv6N6Jepf4BwFYBS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bmSSDyKTXymEt1bI.standard"
+            ],
+            "StepId": 132385,
+            "Tools_extracted": [
+                "socket"
+            ]
+        },
+        {
+            "Order": 1,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "pull cover off the body of the alternator"
+                },
+                {
+                    "Text": "once you have done this , you should be able to see the internal components of the alternator , particularly the bridge assembly that houses the rectifier , voltage regulator and brushes ."
+                }
+            ],
+            "Text_raw": "Pull cover off the body of the alternator Once you have done this, you should be able to see the internal components of the alternator, particularly the bridge assembly that houses the rectifier, voltage regulator and brushes.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/h35iNqkANoAkkSlc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NsoGtlflcFaGrifN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oOOhy2WBOqDvCwZw.standard"
+            ],
+            "StepId": 132386,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Tools_annotated": [
+                "phillips 2 screwdriver"
+            ],
+            "Lines": [
+                {
+                    "Text": "with the alternator cover removed , use a 2 phillips screwdriver to remove the two , 6 mm screws that hold the brush cover in place ."
+                },
+                {
+                    "Text": "remove the brush cover assembly from the alternator . you might need to insert a needle in the small hole to separate the brushes from the rotor . pull it out without using much force to avoid damage ."
+                },
+                {
+                    "Text": "avoid disconnecting wires unless otherwise specified !"
+                }
+            ],
+            "Text_raw": "With the alternator cover removed, use a #2 Phillips screwdriver to remove the two, 6 mm screws that hold the brush cover in place. Remove the brush cover assembly from the alternator. You might need to insert a needle in the small hole to separate the brushes from the rotor. Pull it out without using much force to avoid damage. Avoid disconnecting wires unless otherwise specified!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wF2LRSylOthPrJKl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Iaigpqq4PmxYnsfH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3gKs4yln6B3kIqho.standard"
+            ],
+            "StepId": 132186,
+            "Tools_extracted": [
+                "wire cutter",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Tools_annotated": [
+                "phillips 2 screwdriver"
+            ],
+            "Lines": [
+                {
+                    "Text": "use a 2 phillips screwdriver to remove the two 6 mm screws holding down the voltage regulator"
+                },
+                {
+                    "Text": "there are three screws that attach the voltage regulator to the bridge assembly . one of these screws was removed in the previous step ."
+                }
+            ],
+            "Text_raw": "Use a #2 Phillips screwdriver to remove the two 6mm screws holding down the voltage regulator There are three screws that attach the voltage regulator to the bridge assembly. One of these screws was removed in the previous step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lZ2ZGkXq3G2WTZJN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DCqPJfbB3SLaWsbB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/e4J11o4WHot2XIDh.standard"
+            ],
+            "StepId": 132550,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Tools_annotated": [
+                "phillips 2 screwdriver"
+            ],
+            "Lines": [
+                {
+                    "Text": "locate and unscrew the 3 , 6 mm screws holding the bridge assembly in place"
+                },
+                {
+                    "Text": "there are 4 screws attaching the bridge assembly to the alternator . one of these screws were removed in the previous step ."
+                }
+            ],
+            "Text_raw": "Locate and unscrew the 3, 6mm screws holding the bridge assembly in place There are 4 screws attaching the bridge assembly to the alternator. One of these screws were removed in the previous step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/B5gEeRwERlqCK1AG.standard"
+            ],
+            "StepId": 132552,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Tools_annotated": [
+                "wire cutter"
+            ],
+            "Lines": [
+                {
+                    "Text": "locate the copper leads connecting the stator to the bridge assembly . there are 3 sets of 2 leads on the perimeter of the bridge , making 6 leads total ."
+                },
+                {
+                    "Text": "these leads must be cut in order to remove the bridge from the alternator . these leads will have to be soldered back together on reassembly . keep the cut as clean as possible ."
+                },
+                {
+                    "Text": "use wire cutters to cut all 6 of the leads on the perimeter of the bridge ."
+                }
+            ],
+            "Text_raw": "Locate the copper leads connecting the stator to the bridge assembly. There are 3 sets of 2 leads on the perimeter of the bridge, making 6 leads total. These leads must be cut in order to remove the bridge from the alternator. These leads will have to be soldered back together on reassembly. Keep the cut as clean as possible. Use wire cutters to cut all 6 of the leads on the perimeter of the bridge.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LlGZdUoRy3KLrBYK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xJPHiUYPkxTI6bUd.standard"
+            ],
+            "StepId": 132560,
+            "Tools_extracted": [
+                "wire cutter",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Tools_annotated": [
+                "pry bar"
+            ],
+            "Lines": [
+                {
+                    "Text": "if necessary , use a pry bar to gently raise the top of the bridge assembly off the alternator"
+                },
+                {
+                    "Text": "be extremely careful with the pry bar . excessive force will damage the bridge assembly ."
+                },
+                {
+                    "Text": "make sure the cut ends of the copper leads are straight to make bridge assembly easier to pull off ."
+                }
+            ],
+            "Text_raw": "If necessary, use a pry bar to gently raise the top of the bridge assembly off the alternator Be extremely careful with the pry bar. Excessive force will damage the bridge assembly. Make sure the cut ends of the copper leads are straight to make bridge assembly easier to pull off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MljetcECmLEHibG3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PSFgxZE6tJJbNaYC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cX2JL6WSRMBLenRA.standard"
+            ],
+            "StepId": 132562,
+            "Tools_extracted": [
+                "pry bar"
+            ]
+        },
+        {
+            "Order": 7,
+            "Tools_annotated": [
+                "pry bar"
+            ],
+            "Lines": [
+                {
+                    "Text": "remove the lower section of the bridge assembly"
+                },
+                {
+                    "Text": "use of a pry bar may be necessary . be gentle ."
+                }
+            ],
+            "Text_raw": "Remove the lower section of the bridge assembly Use of a pry bar may be necessary. Be gentle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wB32lxkR1YTZaJRF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rJ43Ye6tWuV2EGCO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iCNcSfUUfStbPFhv.standard"
+            ],
+            "StepId": 132563,
+            "Tools_extracted": [
+                "pry bar"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "locate the small metal clasp attaching the voltage regulator to the the rectifier ."
+                },
+                {
+                    "Text": "loosen the clasp using a pair of needle-nose pliers"
+                }
+            ],
+            "Text_raw": "Locate the small metal clasp attaching the voltage regulator to the the rectifier. Loosen the clasp using a pair of needle-nose pliers",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JTLsPXnnwVOmCuWj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rv15TPawb3Xnu23C.standard"
+            ],
+            "StepId": 132576,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "using a pair of wire cutters , cut the copper winding attaching the voltage regulator to the rectifier"
+                },
+                {
+                    "Text": "be very careful with any cuts . keep them as clean as possible , as any severed connections will need to be soldered on reassembly ."
+                }
+            ],
+            "Text_raw": "Using a pair of wire cutters, cut the copper winding attaching the voltage regulator to the rectifier Be very careful with any cuts. Keep them as clean as possible, as any severed connections will need to be soldered on reassembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dryqqBLwHbiJriGy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lX2hifHrYFuScHfF.standard"
+            ],
+            "StepId": 132650,
+            "Tools_extracted": [
+                "wire cutter"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "remove the voltage regulator from the alternator"
+                },
+                {
+                    "Text": "when connecting the new voltage regulator , carefully read the manufacturer's instructions on how to connect it to different types of alternators ."
+                }
+            ],
+            "Text_raw": "Remove the voltage regulator from the alternator When connecting the new voltage regulator, carefully read the manufacturer's instructions on how to connect it to different types of alternators.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2uBWXG2BuvIWpPSD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WXGOOVME1qlqPyV2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4ZjCMavGsxsnvOTf.standard"
+            ],
+            "StepId": 132577,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Voltage Regulator"
+}

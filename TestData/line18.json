@@ -1,0 +1,252 @@
+{
+    "Title": "1992-1999 Pontiac Bonneville Upper Radiator Hose Replacement",
+    "Ancestors": [
+        "Pontiac Bonneville",
+        "Pontiac",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3642,
+    "Category": "1992-1999 Pontiac Bonneville",
+    "Toolbox": [
+        {
+            "Name": "6-in-1 bit driver",
+            "Url": "/Item/6-in-1_Bit_Driver",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "slotted screwdriver",
+            "Url": "/Item/Slotted_Screwdriver",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "smart wrench",
+            "Url": "https://www.ifixit.com/Store/Parts/Smart-Wrench/IF145-231",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/bIqPGgt6wXCOMSeU.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1992+1993+1994+1995+1996+1997+1998+1999+Pontiac+Bonneville+Upper+Radiator+Hose+Replacement/3642",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "in order to make sure you get the right part , make sure you know the year and the engine you have . this can be found under the hood on the vehicle emission information sticker ."
+                },
+                {
+                    "Text": "the model year"
+                },
+                {
+                    "Text": "engine size and family/type ."
+                },
+                {
+                    "Text": "you will also want to buy coolant to refill your system ."
+                }
+            ],
+            "Text_raw": "In order to make sure you get the right part, make sure you know the year and the engine you have. This can be found under the hood on the Vehicle Emission information sticker. The model year Engine size and family/type. You will also want to buy coolant to refill your system.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DGFVPXABZuKlHiAJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/P6JStIDoZJRcRxBx.standard"
+            ],
+            "StepId": 17435,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "here you can see the upper radiator hose which we are going to replace ."
+                },
+                {
+                    "Text": "you can see in more detail that this hose has a large gash in it where pressure build up and old age caused it to fail thus rupturing ."
+                }
+            ],
+            "Text_raw": "Here you can see the upper radiator hose which we are going to replace. You can see in more detail that this hose has a large gash in it where pressure build up and old age caused it to fail thus rupturing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uNVh2oVHiGhjnCRH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/J6hBUMTaXEdcOfAA.standard"
+            ],
+            "StepId": 17436,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "make sure your engine has cooled off before starting this job . steam and hot coolant can cause serious injury ."
+                },
+                {
+                    "Text": "the first thing you need to do is remove the plastic engine cover ."
+                },
+                {
+                    "Text": "remove the oil cap and cover"
+                },
+                {
+                    "Text": "unclip the plastic cover in the back"
+                },
+                {
+                    "Text": "you should now be able to take the cover off ."
+                }
+            ],
+            "Text_raw": "Make sure your engine has cooled off before starting this job. Steam and hot coolant can cause serious injury. The first thing you need to do is remove the plastic engine cover. Remove the oil cap and cover Unclip the plastic cover in the back You should now be able to take the cover off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/R2UGdeZFT5TiUOBv.standard"
+            ],
+            "StepId": 17437,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the two 3 /16 screws that hold the air filter in place with a 3 /16 nut driver ."
+                }
+            ],
+            "Text_raw": "Remove the two 3/16\" screws that hold the air filter in place with a 3/16\" nut driver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iXd6XRteRHQiJdPI.standard"
+            ],
+            "StepId": 17438,
+            "Tools_extracted": [
+                "6-in-1 bit driver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "using pair of channel locks or large pliers , pinch together and pull back the hose clamp securing the hose to the coolant intake ."
+                },
+                {
+                    "Text": "if the factory hose clamps have been replaced , you may need a screwdriver to remove the replacement hose clamps ."
+                },
+                {
+                    "Text": "there is probably still coolant in the tube so try not to spill it everywhere when removing the hose ."
+                }
+            ],
+            "Text_raw": "Using pair of channel locks or large pliers, pinch together and pull back the hose clamp securing the hose to the coolant intake. If the factory hose clamps have been replaced, you may need a screwdriver to remove the replacement hose clamps. There is probably still coolant in the tube so try not to spill it everywhere when removing the hose.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GnYrNHkqo3rgSRiQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ppjxwPkG1YPiLNeB.standard"
+            ],
+            "StepId": 17439,
+            "Tools_extracted": [
+                "slotted screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "pull back on the air filter case in order to expose the other end of the hose , hidden underneath the front edge of the air cleaner assembly ."
+                },
+                {
+                    "Text": "you'll probably want another set of hands to help you with this . if you are having difficulty working in the limited space , you can remove the air cleaner assembly completely for better access ."
+                },
+                {
+                    "Text": "use the channel locks again to remove the clamp securing the hose to the radiator ."
+                }
+            ],
+            "Text_raw": "Pull back on the air filter case in order to expose the other end of the hose, hidden underneath the front edge of the air cleaner assembly. You'll probably want another set of hands to help you with this. If you are having difficulty working in the limited space, you can remove the air cleaner assembly completely for better access. Use the channel locks again to remove the clamp securing the hose to the radiator.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vllEtpSh2OvVU2EX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/orYP5MWgC6YFlSFv.standard"
+            ],
+            "StepId": 17440,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "take your new hose and secure it into place with the hose clamps from your old hose ."
+                },
+                {
+                    "Text": "it is probably easier to do the end under the air filter first then the end closer to the engine ."
+                },
+                {
+                    "Text": "congratulations ! you have installed your new upper radiator hose !"
+                },
+                {
+                    "Text": "remember to replace the the two 3 /16 screws securing the air filter ."
+                }
+            ],
+            "Text_raw": "Take your new hose and secure it into place with the hose clamps from your old hose. It is probably easier to do the end under the air filter first then the end closer to the engine. Congratulations! You have installed your new upper radiator hose! Remember to replace the the two 3/16\" screws securing the air filter.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ydL6xHOBQvkkb3UG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ObEqC6N4hEvRbYVp.standard"
+            ],
+            "StepId": 17441,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "now you have to fill up the system with coolant since you have probably lost some already ."
+                },
+                {
+                    "Text": "you'll want to use the dex-cool kind for this model of bonneville . either 50 /50 mixture or straight coolant will work if you are topping it off ."
+                },
+                {
+                    "Text": "coolant smells and tastes good to animals , but is very poisonous . be careful not to leave any puddles or coolant unattended ."
+                },
+                {
+                    "Text": "top off the coolant by pouring it directly into the radiator , then replace the radiator cap . a funnel is recommended to avoid spilling coolant ."
+                },
+                {
+                    "Text": "top off your coolant reservoir at this point also ."
+                }
+            ],
+            "Text_raw": "Now you have to fill up the system with coolant since you have probably lost some already. You'll want to use the Dex-Cool kind for this model of Bonneville. Either 50/50 mixture or straight coolant will work if you are topping it off. Coolant smells and tastes good to animals, but is very poisonous. Be careful not to leave any puddles or coolant unattended. Top off the coolant by pouring it directly into the radiator, then replace the radiator cap. A funnel is recommended to avoid spilling coolant. Top off your coolant reservoir at this point also.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/seqmpn2FefSLMvSd.standard"
+            ],
+            "StepId": 17442,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "turn your car on and let it warm up for about 5-10 minutes . you want to wait until your thermostat opens , and allows coolant to circulate through your system ."
+                },
+                {
+                    "Text": "there is a bleeder valve that allows air to escape so not to be trapped in a high spot in the cooling system above the thermostat . loosing this slightly will allow the air to bleed out of the system . you can re-close it as soon as you see coolant leaking from it ."
+                },
+                {
+                    "Text": "after it is cool , top off the coolant again by filling up the radiator and checking the coolant reservoir . keep an eye open for leaks and check your coolant reservoir occasionally over the next couple days ."
+                },
+                {
+                    "Text": "never open the radiator cap while the engine is hot . pressurized steam can cause serious injury ."
+                },
+                {
+                    "Text": "you are done !"
+                }
+            ],
+            "Text_raw": "Turn your car on and let it warm up for about 5-10 minutes. You want to wait until your thermostat opens, and allows coolant to circulate through your system. There is a bleeder valve that allows air to escape so not to be trapped in a high spot in the cooling system above the thermostat. Loosing this slightly will allow the air to bleed out of the system. You can re-close it as soon as you see coolant leaking from it. After it is cool, top off the coolant again by filling up the radiator and checking the coolant reservoir. Keep an eye open for leaks and check your coolant reservoir occasionally over the next couple days. Never open the radiator cap while the engine is hot. Pressurized steam can cause serious injury. You are done!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dAJQQVRU2K3CFNrX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MUNVNPOvBiuPNb2s.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pipg2jZgAYfxLXJt.standard"
+            ],
+            "StepId": 17443,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Upper Radiator Hose"
+}

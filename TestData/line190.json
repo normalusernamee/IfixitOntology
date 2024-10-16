@@ -1,0 +1,123 @@
+{
+    "Title": "Car Key Fob Battery Replacement",
+    "Ancestors": [
+        "Subaru Legacy",
+        "Subaru",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 34168,
+    "Category": "2010-2014 Subaru Legacy",
+    "Toolbox": [
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        },
+        {
+            "Name": "spudger",
+            "Url": "http://www.ifixit.com/Tools/Spudger/IF145-002",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/fIQ3oZSjd1yLgqpX.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Car+Key+Fob+Battery+Replacement/34168",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "unscrew the single phillips screw on the back of the key fob using a 1 phillips screwdriver ."
+                },
+                {
+                    "Text": "the two black plastic pieces should separate , revealing the control module . lift out the control module from the rest of the key ."
+                }
+            ],
+            "Text_raw": "Unscrew the single Phillips screw on the back of the key fob using a #1 Phillips screwdriver. The two black plastic pieces should separate, revealing the control module. Lift out the control module from the rest of the key.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EqQ5rIEdpZiFDUVJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HO4ClAvueuaDgeaV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xRsGWgQCALPmRxMl.standard"
+            ],
+            "StepId": 79429,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "there are four plastic retaining clips that hold the control module intact ."
+                },
+                {
+                    "Text": "starting with the smallest retaining clip , insert the flat end of a spudger in between the black and white plastic pieces of the clip in order to release its hold ."
+                },
+                {
+                    "Text": "rotate the control module to the next retaining clip , taking care not to accidentally clamp down the previously-released clip . repeat the same procedure in the previous bullet to release the other two retaining clips ."
+                },
+                {
+                    "Text": "once all four clips are released , separate the white plastic piece from the rest of the control module ."
+                }
+            ],
+            "Text_raw": "There are four plastic retaining clips that hold the control module intact. Starting with the smallest retaining clip, insert the flat end of a spudger in between the black and white plastic pieces of the clip in order to release its hold. Rotate the control module to the next retaining clip, taking care not to accidentally clamp down the previously-released clip. Repeat the same procedure in the previous bullet to release the other two retaining clips. Once all four clips are released, separate the white plastic piece from the rest of the control module.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Zghx1RXZIExHC4lF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ng1s1BbCpgV5jPnn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WQiWKiHbXOvR6yWu.standard"
+            ],
+            "StepId": 79430,
+            "Tools_extracted": [
+                "spudger"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "the cr1620 battery is held in place by metal contacts . use the pointy end of the spudger to release the battery from the metal contacts ."
+                },
+                {
+                    "Text": "swap in a new cr1620 battery , and make sure it is securely held in place by the metal contacts ."
+                }
+            ],
+            "Text_raw": "The CR1620 battery is held in place by metal contacts. Use the pointy end of the spudger to release the battery from the metal contacts. Swap in a new CR1620 battery, and make sure it is securely held in place by the metal contacts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bCnwTToxGetcdZAR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/n6fEJCGXouSWeLuK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QrQxs6rTyWZh4tHb.standard"
+            ],
+            "StepId": 79431,
+            "Tools_extracted": [
+                "spudger"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "optional : use the pointy end of the spudger to remove some of the gunk/buildup within the key fob ."
+                },
+                {
+                    "Text": "insert the control module back into the key fob , making sure all the buttons line up with the holes ."
+                },
+                {
+                    "Text": "reattach the two halves of the key fob on the side opposite of the key first , then continue until the entire fob is back together in its original state ."
+                },
+                {
+                    "Text": "don't forget to put back the phillips screw !"
+                }
+            ],
+            "Text_raw": "Optional: Use the pointy end of the spudger to remove some of the gunk/buildup within the key fob. Insert the control module back into the key fob, making sure all the buttons line up with the holes. Reattach the two halves of the key fob on the side opposite of the key first, then continue until the entire fob is back together in its original state. Don't forget to put back the Phillips screw!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qAYpcMPi1oweQVjQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XQ4P2xOKJFAcpIAa.standard"
+            ],
+            "StepId": 79432,
+            "Tools_extracted": [
+                "spudger",
+                "phillips screwdriver"
+            ]
+        }
+    ],
+    "Subject": "Key Fob Battery"
+}

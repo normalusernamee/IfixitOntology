@@ -1,0 +1,237 @@
+{
+    "Title": "How to Remove a Car Stereo in a Chevy Tracker",
+    "Ancestors": [
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50445,
+    "Category": "Chevrolet",
+    "Toolbox": [
+        {
+            "Name": "10 mm hex driver socket",
+            "Url": "/Item/10_mm_hex_driver_socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+Remove+a+Car+Stereo+in+a+Chevy+Tracker/50445",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "first , you must disconnect the negative end of the car battery ."
+                },
+                {
+                    "Text": "you will potentially be shocked if you mishandle the battery . make sure the car is off before inspecting the engine and grabbing the negative connector ."
+                },
+                {
+                    "Text": "open the hood of your car and locate the battery ."
+                },
+                {
+                    "Text": "look for the negative end of your battery . it is usually indicated with a minus sign next to it ."
+                },
+                {
+                    "Text": "disconnecting the negative connection prevents you from receiving any electrical shocks while removing the stereo ."
+                }
+            ],
+            "Text_raw": "First, you must disconnect the negative end of the car battery. You will potentially be shocked if you mishandle the battery. Make sure the car is off before inspecting the engine and  grabbing the negative connector. Open the hood of your car and locate the battery. Look for the negative end of your battery. It is usually indicated with a minus sign next to it. Disconnecting the negative connection prevents you from receiving any electrical shocks while removing the stereo.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XgUTDLKqQ5kLMeG2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VJupsVvjnuQMN54X.standard"
+            ],
+            "StepId": 109679,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a socket wrench to remove the nut that holds the negative connector in place ."
+                },
+                {
+                    "Text": "place the negative connector away from the battery ."
+                }
+            ],
+            "Text_raw": "Use a socket wrench to remove the nut that holds the negative connector in place. Place the negative connector away from the battery.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DM4jnVE6ILBluXsB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FgQjCgLjYJ4qsci1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/o2gD3hYaSRURpFbd.standard"
+            ],
+            "StepId": 109688,
+            "Tools_extracted": [
+                "10 mm hex driver socket"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "a chevy tracker will have a trim that surrounds the stereo ."
+                },
+                {
+                    "Text": "the trim is the black plastic that encompasses the stereo and the small tray/compartment ."
+                },
+                {
+                    "Text": "remove the screw located on the underside of the trim above the car stereo ."
+                }
+            ],
+            "Text_raw": "A Chevy Tracker will have a trim that surrounds the stereo. The trim is the black plastic that encompasses the stereo and the small tray/compartment. Remove the screw located on the underside of the trim above the car stereo.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wY6qi3MV5gYH3CYY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CCkZVwCF5Qa2GDps.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QCNVAhfhqKgtjwwW.standard"
+            ],
+            "StepId": 109694,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "unscrew the two screws hidden behind the tiny tray/compartment ."
+                },
+                {
+                    "Text": "afterwards , you can safely remove the trim ."
+                }
+            ],
+            "Text_raw": "Unscrew the two screws hidden behind the tiny tray/compartment. Afterwards, you can safely remove the trim.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Va4XLSwWWIGnAF5G.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/J4ybMYPPTkgCUKxk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AmBSOnj6eCZZRbLc.standard"
+            ],
+            "StepId": 109695,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "once the trim is removed , remove the four screws found on each corner of the stereo ."
+                }
+            ],
+            "Text_raw": "Once the trim is removed, remove the four screws found on each corner of the stereo.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZcKmGU4L4GYTpCnP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GHYIPdkr3Bk4BaLK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cYBWX4wIrriFPWlP.standard"
+            ],
+            "StepId": 109700,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "carefully remove the stereo ."
+                },
+                {
+                    "Text": "look behind the stereo to see how it is connected ."
+                },
+                {
+                    "Text": "the grouped up , different colored collection of wires connect to the speakers , amplifiers , and stereo buttons depending on the color ."
+                },
+                {
+                    "Text": "the thick , metal wire connects to the car antennae ."
+                },
+                {
+                    "Text": "don't pull too hard ! there are connections to the radio that we need to unplug ."
+                }
+            ],
+            "Text_raw": "Carefully remove the stereo. Look behind the stereo to see how it is connected. The grouped up, different colored collection of wires connect to the speakers, amplifiers, and stereo buttons depending on the color. The thick, metal wire connects to the car antennae. Don't pull too hard! There are connections to the radio that we need to unplug.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QQkDYlIdj3EQaS1t.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OCV25Eqp1HPDnoYw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sm3NQv6dKPXblHfL.standard"
+            ],
+            "StepId": 109703,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "unplugging the connections , except for the multicolored group of wires . all are located on the back of stereo should be as simple as pulling on them ."
+                },
+                {
+                    "Text": "to remove the group of wires , follow the wires until you reach a connector and unplug the connector ."
+                },
+                {
+                    "Text": "the thick , metal wire connecting to the radio antennae can be easily removed by pulling on it ."
+                },
+                {
+                    "Text": "the harness ( the grayish female connector circled in red ) is what connects the wires to the various components of the car ."
+                }
+            ],
+            "Text_raw": "Unplugging the connections, except for the multicolored group of wires. All are located on the back of stereo should be as simple as pulling on them. \"To remove the group of wires\", follow the wires until you reach a connector and unplug the connector. The thick, metal wire connecting to the radio antennae can be easily removed by pulling on it. The harness (the grayish female connector circled in red) is what connects the wires to the various components of the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BsHNdfciGviRAYHa.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/E3cR2sZqHglvpglG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ObbiqqmPTFlHDMPq.standard"
+            ],
+            "StepId": 109706,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "some car stereos are attached to a mount ."
+                },
+                {
+                    "Text": "each mount is similarly installed as the image shows ."
+                },
+                {
+                    "Text": "remove the screws located on each side of the mount ."
+                }
+            ],
+            "Text_raw": "Some car stereos are attached to a mount. Each mount is similarly installed as the image shows. Remove the screws located on each side of the mount.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UnRKCbbOfnkfAhUE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ERjujPoXDtABCHw5.standard"
+            ],
+            "StepId": 109710,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "you have now successfully uninstalled a car stereo from a chevy tracker !"
+                },
+                {
+                    "Text": "do not forget to reconnect the negative connector to the battery when finished !"
+                }
+            ],
+            "Text_raw": "You have now successfully uninstalled a car stereo from a Chevy Tracker! Do not forget to reconnect the negative connector to the battery when finished!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nvogIdgiHO4WvOdb.standard"
+            ],
+            "StepId": 109726,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

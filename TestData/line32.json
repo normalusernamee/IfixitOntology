@@ -1,0 +1,575 @@
+{
+    "Title": "2008-Present Scion xB Oil Change",
+    "Ancestors": [
+        "Scion",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 6380,
+    "Category": "2008-Present Scion xB",
+    "Toolbox": [
+        {
+            "Name": "14 mm socket wrench",
+            "Url": "/Item/14_mm_socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "6-in-screwdriver",
+            "Url": "https://www.ifixit.com/Store/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xymsGUBoCsGEXdDw.mini"
+        },
+        {
+            "Name": "funnel",
+            "Url": "http://www.amazon.com/TEKTON-6093-Funnel-Set-4-Piece/dp/B003DN0RTA/ref=sr_1_1?s=hi&ie=UTF8&qid=1407340826&sr=1-1&keywords=funnel",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil drain pan",
+            "Url": "http://www.amazon.com/The-Plastics-Group-Drain-Container/dp/B000HEBYYU/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356973286&sr=1-2&keywords=oil+drain+pan",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "oil filter wrench",
+            "Url": "http://amzn.com/B0009WG5SU",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "tire iron",
+            "Url": "/Item/Tire_Iron",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2008-Present+Scion+xB+Oil+Change/6380",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "loosen the lug nuts on the passenger side front wheel a half turn with a 22 mm wrench or tire iron ."
+                },
+                {
+                    "Text": "if you have steel wheels with wheel covers , use a large flat head screwdriver or the tip of the emergency tire iron to pry off the wheel cover to access the lug nuts ."
+                }
+            ],
+            "Text_raw": "Loosen the lug nuts on the passenger side front wheel a half turn with a 22 mm wrench or tire iron. If you have steel wheels with wheel covers, use a large flat head screwdriver or the tip of the emergency tire iron to pry off the wheel cover to access the lug nuts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YJEKjmFhUlNDiyZy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JGrdND5k3MuGapxi.standard"
+            ],
+            "StepId": 27398,
+            "Tools_extracted": [
+                "tire iron"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "jack up the front right corner of the car by placing a jack under the long vertical portion of the frame directly behind the wheel well ."
+                },
+                {
+                    "Text": "raise the car until the wheel is a couple inches off the ground"
+                },
+                {
+                    "Text": "place a jack stand between the two notches in the frame a few inches back from the jack ."
+                },
+                {
+                    "Text": "slowly lower the car onto the jack stand ."
+                },
+                {
+                    "Text": "many hydraulic jacks are lowered by placing the open end of the handle over a knob and turning it counterclockwise . consult the owner's manual for your jack if you don't know how to lower it ."
+                },
+                {
+                    "Text": "'''never''' work underneath a car that is only supported by a jack . the jack may slip or fail , resulting in serious injury or death ."
+                }
+            ],
+            "Text_raw": "Jack up the front right corner of the car by placing a jack under the long vertical portion of the frame directly behind the wheel well. Raise the car until the wheel is a couple inches off the ground Place a jack stand between the two notches in the frame a few inches back from the jack. Slowly lower the car onto the jack stand. Many hydraulic jacks are lowered by placing the open end of the handle over a knob and turning it counterclockwise. Consult the owner's manual for your jack if you don't know how to lower it. '''Never''' work underneath a car that is only supported by a jack. The jack may slip or fail, resulting in serious injury or death.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YZQdTMesLAuyMC1A.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3Pmsj2pXTFPLujuc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IYk3lRo16yFvco35.standard"
+            ],
+            "StepId": 27399,
+            "Tools_extracted": [
+                "hydraulic floor jack",
+                "jack stand",
+                "jack"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "unscrew and remove the five lug nuts from the wheel ."
+                },
+                {
+                    "Text": "pull the wheel off the hub and set it aside ."
+                }
+            ],
+            "Text_raw": "Unscrew and remove the five lug nuts from the wheel. Pull the wheel off the hub and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mI2DWnhyrpSCCu61.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tcJxCkWvMsKLGaIV.standard"
+            ],
+            "StepId": 27400,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the three visible push retainers from the flap located towards the front of the wheel well ."
+                },
+                {
+                    "Text": "there are two more retainers that can not be seen , but they do not need to be removed ."
+                },
+                {
+                    "Text": "remove the retainers by first prying the inner push pin with a flat head screwdriver and then pulling out the inner and outer pieces together ."
+                }
+            ],
+            "Text_raw": "Remove the three visible push retainers from the flap located towards the front of the wheel well. There are two more retainers that can not be seen, but they do not need to be removed. Remove the retainers by first prying the inner push pin with a flat head screw driver and then pulling out the inner and outer pieces together.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qJcRDPJPUU4ImS5n.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WmfVWW6kkwKhQYvf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lQ4kgGSBbAMYFAfh.standard"
+            ],
+            "StepId": 27401,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "locate the oil drain plug at the back passenger side corner of the oil pan and place an oil drain pan underneath it ."
+                },
+                {
+                    "Text": "use a 14 mm socket or box end wrench to loosen the drain plug a couple turns ."
+                }
+            ],
+            "Text_raw": "Locate the oil drain plug at the back passenger side corner of the oil pan and place an oil drain pan underneath it. Use a 14 mm socket or box end wrench to loosen the drain plug a couple turns.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xBRpOXAtKULiU63U.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LGeulsFsDZEuBVhH.standard"
+            ],
+            "StepId": 27402,
+            "Tools_extracted": [
+                "oil drain pan",
+                "14 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "loosen the drain plug by hand until it comes off completely and oil begins to drain out of the oil pan ."
+                },
+                {
+                    "Text": "watch the draining oil for shiny specks . metal flakes in the oil could mean that there is a serious problem with the internals of your engine ."
+                }
+            ],
+            "Text_raw": "Loosen the drain plug by hand until it comes off completely and oil begins to drain out of the oil pan. Watch the draining oil for shiny specks. Metal flakes in the oil could mean that there is a serious problem with the internals of your engine.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QSFqQK4em12n2Ylk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EZIOUPcDBt3MOxPK.standard"
+            ],
+            "StepId": 27403,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the old gasket from your drain plug by pulling it straight off ."
+                },
+                {
+                    "Text": "if your drain plug gasket did not come off with the drain plug , pry it off the oil pan with a flat head screwdriver ."
+                },
+                {
+                    "Text": "wipe off the drain plug and install the new gasket ."
+                }
+            ],
+            "Text_raw": "Remove the old gasket from your drain plug by pulling it straight off. If your drain plug gasket did not come off with the drain plug, pry it off the oil pan with a flat head screw driver. Wipe off the drain plug and install the new gasket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VQIRIvokYKPPGJhO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2tFWXEIwQqUWSL1c.standard"
+            ],
+            "StepId": 27418,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "once the draining oil has slowed to a drip , wipe the area around the drain plug with a clean rag or towel ."
+                },
+                {
+                    "Text": "replace the drain plug and tighten it with a 14 mm socket or box end wrench ."
+                },
+                {
+                    "Text": "ensure that the drain plug is tight , but do not over-tighten it . you may risk stripping the threads or cracking the oil pana costly error ."
+                }
+            ],
+            "Text_raw": "Once the draining oil has slowed to a drip, wipe the area around the drain plug with a clean rag or towel. Replace the drain plug and tighten it with a 14 mm socket or box end wrench. Ensure that the drain plug is tight, but do not over-tighten it. You may risk stripping the threads or cracking the oil pan\u2014a costly error.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pHpBjHdUc4ESrcva.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3FX3mo1hWVsEV2QV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3wNohcfkLBXQnUsI.standard"
+            ],
+            "StepId": 27404,
+            "Tools_extracted": [
+                "oil drain pan",
+                "14 mm socket wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "the oil filter is located towards the front of the engine , and is easily accessible by pulling back the flap in the wheel well ."
+                },
+                {
+                    "Text": "place the oil drain pan underneath the oil filter ."
+                },
+                {
+                    "Text": "grasp the oil filter with an oil filter wrench and loosen it by twisting it about a half turn counterclockwise ( when viewed from below ) ."
+                },
+                {
+                    "Text": "loosen the filter by hand until it is free ."
+                },
+                {
+                    "Text": "a lot of oil will begin to run down the sides of the oil filter when you're loosening it . it is up to your discretion to let the oil drain this way , or to pull the filter off quickly and let it drain straight into the drain pan ."
+                }
+            ],
+            "Text_raw": "The oil filter is located towards the front of the engine, and is easily accessible by pulling back the flap in the wheel well. Place the oil drain pan underneath the oil filter. Grasp the oil filter with an oil filter wrench and loosen it by twisting it about a half turn counterclockwise (when viewed from below). Loosen the filter by hand until it is free. A lot of oil will begin to run down the sides of the oil filter when you're loosening it. It is up to your discretion to let the oil drain this way, or to pull the filter off quickly and let it drain straight into the drain pan.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LlGYYOrAdKhd3BQM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6ZoxYDUSgDVeIKKj.standard"
+            ],
+            "StepId": 27405,
+            "Tools_extracted": [
+                "oil drain pan",
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "using your finger , spread a thin layer of clean oil around the rubber gasket of the new oil filter ."
+                },
+                {
+                    "Text": "place the filter over the filter threads and use your hand to tighten it ."
+                },
+                {
+                    "Text": "do not over-tighten the new filter . screw it on with your hand until it fits snugly ."
+                }
+            ],
+            "Text_raw": "Using your finger, spread a thin layer of clean oil around the rubber gasket of the new oil filter. Place the filter over the filter threads and use your hand to tighten it. Do not over-tighten the new filter. Screw it on with your hand until it fits snugly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2lCEIOYpO4QpacrP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UaibiNjPGnr4A4Pk.standard"
+            ],
+            "StepId": 27406,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "open the driver side door and pull up on the hood release lever until you hear the hood click open ."
+                },
+                {
+                    "Text": "locate the release latch under the hood . pull it upward while you lift the hood open ."
+                },
+                {
+                    "Text": "insert the hood prop rod into the hole labeled with an arrow ."
+                }
+            ],
+            "Text_raw": "Open the driver side door and pull up on the hood release lever until you hear the hood click open. Locate the release latch under the hood. Pull it upward while you lift the hood open. Insert the hood prop rod into the hole labeled with an arrow.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KX6euxeODPTwFh5v.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4KJSmivTZehUenZp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/35SxvdQbvhAHvXsg.standard"
+            ],
+            "StepId": 27407,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "locate the oil filler cap on the passenger side of the engine ."
+                },
+                {
+                    "Text": "twist the cap counterclockwise until you can remove it from the valve cover ."
+                }
+            ],
+            "Text_raw": "Locate the oil filler cap on the passenger side of the engine. Twist the cap counterclockwise until you can remove it from the valve cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/y2jxHqY3VJwcyTyV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iZiwe5ZtiiGgIoTL.standard"
+            ],
+            "StepId": 27408,
+            "Tools_extracted": [
+                "oil"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "insert a funnel into the oil filler hole ."
+                },
+                {
+                    "Text": "scion recommends 0 w-20 oil for low temperature climates , and 5 w-20 for moderate and warm climates . we broke all the rules and used 5 w-30 ; it is easier to find and better than 5 w-20 for especially hot conditions ."
+                },
+                {
+                    "Text": "use one hand to hold the funnel steady in the filler hole . pour 4.5 quarts of oil into the funnel ."
+                },
+                {
+                    "Text": "we know you don't want to do math , so here's some math help ! if you are using a handy-dandy 5 liter jug of motor oil , you will be left with just under . 8 quarts in the bottle ."
+                }
+            ],
+            "Text_raw": "Insert a funnel into the oil filler hole. Scion recommends 0W-20 oil for low temperature climates, and 5W-20 for moderate and warm climates. We broke all the rules and used 5W-30; it is easier to find and better than 5W-20 for especially hot conditions. Use one hand to hold the funnel steady in the filler hole. Pour 4.5 quarts of oil into the funnel. We know you don't want to do math, so here's some math help! If you are using a handy-dandy 5 liter jug of motor oil, you will be left with just under .8 quarts in the bottle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DUOJHWPToPOJNsiv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LC3VJKqNLyFr3ECi.standard"
+            ],
+            "StepId": 27409,
+            "Tools_extracted": [
+                "funnel",
+                "oil"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "grab the yellow handle of the engine oil dipstick at the front of the engine and pull the dipstick out ."
+                },
+                {
+                    "Text": "wipe down the dipstick with a rag or towel , reinsert it , then pull it out again to get a an oil level reading ."
+                },
+                {
+                    "Text": "the oil level should be somewhere between the two holes , which denote the minimum and maximum levels . add or drain oil as necessary until you have an appropriate level ."
+                },
+                {
+                    "Text": "it takes one quart of oil to change the level from minimum to maximum ."
+                },
+                {
+                    "Text": "reinstall the dipstick and oil filler cap . twist the cap clockwise until it is snug ."
+                }
+            ],
+            "Text_raw": "Grab the yellow handle of the engine oil dipstick at the front of the engine and pull the dipstick out. Wipe down the dipstick with a rag or towel, reinsert it, then pull it out again to get a an oil level reading. The oil level should be somewhere between the two holes, which denote the minimum and maximum levels. Add or drain oil as necessary until you have an appropriate level. It takes one quart of oil to change the level from minimum to maximum. Reinstall the dipstick and oil filler cap. Twist the cap clockwise until it is snug.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xhHY313AMBcrW1U5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/c6nHopnjaqsZHCyT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jd4h1EWwTt6kfJpI.standard"
+            ],
+            "StepId": 27410,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "remove the hood prop rod from its notch in the hood and place it back in its clip ."
+                },
+                {
+                    "Text": "close the hood ."
+                },
+                {
+                    "Text": "don't forget to grab your funnel !"
+                }
+            ],
+            "Text_raw": "Remove the hood prop rod from its notch in the hood and place it back in its clip. Close the hood. Don't forget to grab your funnel!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/T1tsbORcPRrGht6T.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Nlyxbwl2vTVQ3Lrb.standard"
+            ],
+            "StepId": 27415,
+            "Tools_extracted": [
+                "funnel"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "replace the three push retainers by first inserting them into their respective holes with the inner pin pried up . push the pin into place to secure each retainer ."
+                }
+            ],
+            "Text_raw": "Replace the three push retainers by first inserting them into their respective holes with the inner pin pried up. Push the pin into place to secure each retainer.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tpxF5lYeJlIqNgym.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sjHsoE44ibk2CRMh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BhKRMlMuE55aFhW4.standard"
+            ],
+            "StepId": 27411,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "place the wheel over the lugs and back onto the hub ."
+                },
+                {
+                    "Text": "hand tighten each of the five lug nuts ."
+                }
+            ],
+            "Text_raw": "Place the wheel over the lugs and back onto the hub. Hand tighten each of the five lug nuts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Z3LEoFNJfclCcDBO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cn4IS3SvJ1Zv1pZW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ea3ljhOqfMSDI2YP.standard"
+            ],
+            "StepId": 27412,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "use a 22 mm tire iron or torque wrench to tighten the lug nuts to 80 ft-lbs . to make sure that you tighten the nuts evenly , work in a star pattern :"
+                },
+                {
+                    "Text": "top"
+                },
+                {
+                    "Text": "bottom right"
+                },
+                {
+                    "Text": "top left"
+                },
+                {
+                    "Text": "top right"
+                },
+                {
+                    "Text": "bottom left ."
+                },
+                {
+                    "Text": "jack the car up about an inch and remove the jack stand ."
+                },
+                {
+                    "Text": "''slowly'' lower the jack and remove it from under the car ."
+                }
+            ],
+            "Text_raw": "Use a 22mm tire iron or torque wrench to tighten the lug nuts to 80 ft-lbs. To make sure that you tighten the nuts evenly, work in a star pattern: Top Bottom Right Top Left Top Right Bottom Left. Jack the car up about an inch and remove the jack stand. ''Slowly'' lower the jack and remove it from under the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1UgYPb3TjNQEsYVq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lDTwXuskZhr15P6A.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MYPGFSk6sCdoRsoc.standard"
+            ],
+            "StepId": 27413,
+            "Tools_extracted": [
+                "tire iron",
+                "jack",
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "place the wheel cover over the wheel and line up the semi-circular cutout of the wheel cover with the valve stem ."
+                },
+                {
+                    "Text": "tap firmly around the edges of the wheel cover until it snaps into place ."
+                }
+            ],
+            "Text_raw": "Place the wheel cover over the wheel and line up the semi-circular cutout of the wheel cover with the valve stem. Tap firmly around the edges of the wheel cover until it snaps into place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XE3IMLDrAvQaSDj2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bX3WSZYpK2IcbZUs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NEFjsBxBAVFyophA.standard"
+            ],
+            "StepId": 27414,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 19,
+            "Lines": [
+                {
+                    "Text": "to reset the 'maintenance required' light on your dash , turn the ignition to '''on''' and press the odometer button until the dash displays '''trip a''' ."
+                },
+                {
+                    "Text": "even if your the 'maintenance required' light is not on , you should do this to reset the oil life counter , which causes the light to come on after 5 , 000 miles ."
+                },
+                {
+                    "Text": "turn the ignition off ."
+                },
+                {
+                    "Text": "hold the button and turn the ignition to '''on''' ."
+                },
+                {
+                    "Text": "continue to hold the button during the countdown and release after the zeros flash across the display ."
+                },
+                {
+                    "Text": "before driving away , start the car and let it run for a few minutes to allow the new oil to circulate through the engine . while the engine is running , check underneath the car for any oil leaks . turn the car off and check the oil level one last time . add or drain oil as necessary ."
+                }
+            ],
+            "Text_raw": "To reset the 'Maintenance Required' light on your dash, turn the ignition to '''On''' and press the odometer button until the dash displays '''Trip A'''. Even if your the 'Maintenance Required' light is not on, you should do this to reset the oil life counter, which causes the light to come on after 5,000 miles. Turn the ignition off. Hold the button and turn the ignition to '''On'''. Continue to hold the button during the countdown and release after the zeros flash across the display. Before driving away, start the car and let it run for a few minutes to allow the new oil to circulate through the engine. While the engine is running, check underneath the car for any oil leaks. Turn the car off and check the oil level one last time. Add or drain oil as necessary.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ouf4RpjtOGuPNFHO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KYImEBY4OB6HXpMT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Wy2YVneBfVQtfRLA.standard"
+            ],
+            "StepId": 27416,
+            "Tools_extracted": [
+                "oil drain pan"
+            ]
+        },
+        {
+            "Order": 20,
+            "Lines": [
+                {
+                    "Text": "allow 12-24 hours for all of the oil to drain out of the old oil filter ."
+                },
+                {
+                    "Text": "take your old oil and filter to a recycling facility . most auto parts stores and repair shops accept these at no charge to you . in addition , some cities and/or counties have a service where they will collect used oil and filters from your home . for more information , see the american petroleum institute's web page on motor oil collection and recycling ."
+                }
+            ],
+            "Text_raw": "Allow 12-24 hours for all of the oil to drain out of the old oil filter. Take your old oil and filter to a recycling facility. Most auto parts stores and repair shops accept these at no charge to you. In addition, some cities and/or counties have a service where they will collect used oil and filters from your home. For more information, see the American Petroleum Institute's web page on [http://www.recycleoil.org/|used motor oil collection and recycling].",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gnX4xhUgYKiYronk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MkZBZUXY3aUHsMcW.standard"
+            ],
+            "StepId": 27417,
+            "Tools_extracted": [
+                "oil filter wrench"
+            ]
+        }
+    ],
+    "Subject": ""
+}

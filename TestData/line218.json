@@ -1,0 +1,224 @@
+{
+    "Title": "2003-2007 Honda Accord Battery Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50436,
+    "Category": "2003-2007 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "shop towels or rags",
+            "Url": "https://www.amazon.com/dp/B00AMUXE5G/ref=twister_B00AMV4ER2?_encoding=UTF8&psc=1",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "2.5mm flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Flathead-3-32-Inch-Screwdriver/IF145-011",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/IRnGQ4e2ZPBSxpuB.mini"
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "http://www.ifixit.com/Tools/Large-Needle-Nose-Pliers/IF145-024",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xsuUhWaHMfDB6FnN.mini"
+        },
+        {
+            "Name": "memory saver",
+            "Url": "http://www.amazon.com/OTC-3177A-Professional-Memory-Saver/dp/B004FZ9FWK/ref=sr_1_4?ie=UTF8&qid=1444615356&sr=8-4&keywords=memory+saver",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2003+2004+2005+2006+2007+Honda+Accord+Battery+Replacement/50436",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the latch to open your hood , normally located by your left foot when sitting in the driver's seat ."
+                },
+                {
+                    "Text": "after lifting the latch , open your hood and securely hold it up ."
+                }
+            ],
+            "Text_raw": "Locate the latch to open your hood, normally located by your left foot when sitting in the driver's seat. After lifting the latch, open your hood and securely hold it up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/USIEK2R3fDHjTFDu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XMYHIeLRmYfwcVbR.standard"
+            ],
+            "StepId": 110481,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "you will lose your radio station presets and clock time if you do not use a memory saver . one will not be used in this guide ."
+                },
+                {
+                    "Text": "the battery is located on the front driver's side of the vehicle ."
+                },
+                {
+                    "Text": "begin using your ratchet to loosen and remove the negative ( black ) cable from the terminal ."
+                },
+                {
+                    "Text": "you can use a rag or towel to cover the cable in order to prevent a short ."
+                }
+            ],
+            "Text_raw": "You will lose your radio station presets and clock time if you do not use a Memory Saver.  One will NOT be used in this guide. The battery is located on the front driver's side of the vehicle. Begin using your ratchet to loosen and remove the negative (black) cable from the terminal. You can use a rag or towel to cover the cable in order to prevent a short.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BK2ulFcCFP61H3mB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XL6rfjgqMVZ1EjsJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/odLY5LeoePYtPPCK.standard"
+            ],
+            "StepId": 109136,
+            "Tools_extracted": [
+                "shop towels or rags",
+                "memory saver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "loosen and remove the positive ( red ) cable from the terminal ."
+                }
+            ],
+            "Text_raw": "Loosen and remove the positive (Red) cable from the terminal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fdvGAiaCutITpQ3H.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xh5UjuZdEkxkDHwS.standard"
+            ],
+            "StepId": 109466,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the cross-bar that holds the battery in place by loosening both bolts ."
+                },
+                {
+                    "Text": "lift out the bracket ."
+                }
+            ],
+            "Text_raw": "Remove the cross-bar that holds the battery in place by loosening both bolts. Lift out the bracket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NHXEZqstXZjJhSbm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XkbJHBmMtCLdDIB6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UcUBPRhY1OCUZEhi.standard"
+            ],
+            "StepId": 109453,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the battery by lifting it straight up and out ."
+                },
+                {
+                    "Text": "avoid tilting the battery in order to prevent an acid spill ."
+                }
+            ],
+            "Text_raw": "Remove the battery by lifting it straight up and out. Avoid tilting the battery in order to prevent an acid spill.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HLbFYhKN3tvBNWJB.standard"
+            ],
+            "StepId": 109495,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "replace with a new battery ."
+                },
+                {
+                    "Text": "secure the battery cover back in place ."
+                }
+            ],
+            "Text_raw": "Replace with a new battery. Secure the battery cover back in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OqZF1bDpZrBbYrnE.standard"
+            ],
+            "StepId": 109497,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "place the cross-bar back in place ."
+                },
+                {
+                    "Text": "when placing the cross-bar back in , make sure the bars are properly hooked into place ."
+                }
+            ],
+            "Text_raw": "Place the cross-bar back in place. When placing the cross-bar back in, make sure the bars are properly hooked into place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bIAUliJ6xY3tJIE5.standard"
+            ],
+            "StepId": 109524,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "repeat the steps in reverse order to properly secure battery ."
+                }
+            ],
+            "Text_raw": "Repeat the steps in reverse order to properly secure battery.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KpYWc3FSSdCFNZuY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZJZMHA1U1KdGchHD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FGNljUp3A5v1N4LO.standard"
+            ],
+            "StepId": 109570,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "start your car in order to make sure all of your electronic components are working properly ."
+                }
+            ],
+            "Text_raw": "Start your car in order to make sure all of your electronic components are working properly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DThlsAJnbP5B2BRF.standard"
+            ],
+            "StepId": 109573,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Battery"
+}

@@ -1,0 +1,252 @@
+{
+    "Title": "Mercedes W123 Brake Pads, Rear Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 21531,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "pry bar",
+            "Url": "http://www.amazon.com/Stanley-55-045-7-1-2-Inch-Wonder/dp/B00002X1XS/ref=sr_1_1?ie=UTF8&qid=1407359568&sr=8-1&keywords=pry+bar",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hammer",
+            "Url": "http://www.amazon.com/dp/B0000224VG/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "pin punch",
+            "Url": "http://www.ofrei.com/page431.html#5285",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "http://www.ifixit.com/Tools/Large-Needle-Nose-Pliers/IF145-024",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xsuUhWaHMfDB6FnN.mini"
+        },
+        {
+            "Name": "turkey baster",
+            "Url": "https://www.amazon.com/Resistant-Baster-Rubber-measurement-Model/dp/B002U9JSIE/ref=sr_1_3?ie=UTF8&qid=1488061666&sr=8-3&keywords=turkey+baster+heat+resistant",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Brake+Pads+Rear+Replacement/21531",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the pad removal process in this guide is performed with the caliper off of the vehicle . the installation process is documented with it on the vehicle . both procedures can be done with the caliper on the vehicle . the calipers were off of this car for cleaning , since the soft rubber hoses were being replaced too ."
+                },
+                {
+                    "Text": "you'll need to remove your wheels to perform this work ."
+                },
+                {
+                    "Text": "start by removing the cotters from the pins that hold the pad retaining springs in place . not all calipers will use cotters in the pins ; some may use compression fit pins . guide"
+                }
+            ],
+            "Text_raw": "The pad removal process in this guide is performed with the caliper off of the vehicle. The installation process is documented with it on the vehicle. Both procedures can be done with the caliper on the vehicle. The calipers were off of this car for cleaning, since the soft rubber hoses were being replaced too. You'll need to remove your wheels to perform this work. Start by removing the cotters from the pins that hold the pad retaining springs in place. Not all calipers will use cotters in the pins; some may use compression fit pins. [guide|21526|See the front brake pad replacement guide to see how these are removed.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QR3iFvADolT6GouA.standard"
+            ],
+            "StepId": 57506,
+            "Tools_extracted": [
+                "pin punch"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "then use a punch to hammer out the pins ."
+                },
+                {
+                    "Text": "the springs will come out after the pin is removed ."
+                },
+                {
+                    "Text": "this picture shows one pin and spring already removed . the second is being removed ."
+                },
+                {
+                    "Text": "the pads can then be pulled out ."
+                }
+            ],
+            "Text_raw": "Then use a punch to hammer out the pins. The springs will come out after the pin is removed. This picture shows one pin and spring already removed. The second is being removed. The pads can then be pulled out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cCODBcWJRkJ3IGrT.standard"
+            ],
+            "StepId": 57507,
+            "Tools_extracted": [
+                "pin punch",
+                "hammer"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "now that the pads are removed you will need to move the pistons in the caliper back so that the new , thicker pads will fit in ."
+                },
+                {
+                    "Text": "first , you should remove a bit of brake fluid from the system . as the old pads wore down , there was room for more fluid in the system and the level was likely topped off . with the new thicker pads in place there will be more fluid in the system that there is room for , potentially ."
+                },
+                {
+                    "Text": "begin with this process by removing the cap on the brake fluid reservoir ."
+                }
+            ],
+            "Text_raw": "Now that the pads are removed you will need to move the pistons in the caliper back so that the new, thicker pads will fit in. First, you should remove a bit of brake fluid from the system. As the old pads wore down, there was room for more fluid in the system and the level was likely topped off. With the new thicker pads in place there will be more fluid in the system that there is room for, potentially. Begin with this process by removing the cap on the brake fluid reservoir.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wPpkKYEt4B3BtV3M.standard"
+            ],
+            "StepId": 57508,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "then lift the screen out of the neck of the reservoir ."
+                }
+            ],
+            "Text_raw": "Then lift the screen out of the neck of the reservoir.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yu33HipZxNwjYsmj.standard"
+            ],
+            "StepId": 57509,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "suction out a few ounces of brake fluid . you can use a suction tool as shown , or a clean turkey baster . just never use the turkey baster in the kitchen again !"
+                },
+                {
+                    "Text": "do not suction the reservoir dry ! you would need to bleed the system if this happens ."
+                }
+            ],
+            "Text_raw": "Suction out a few ounces of brake fluid. You can use a suction tool as shown, or a clean turkey baster. Just never use the turkey baster in the kitchen again! Do not suction the reservoir dry! You would need to bleed the system if this happens.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FwqIbZLEAWXboYW1.standard"
+            ],
+            "StepId": 57510,
+            "Tools_extracted": [
+                "turkey baster"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "with some fluid removed and the top left off of the brake fluid reservoir , use a large pry tool to gently pry the pistons back in to the body of the caliper ."
+                },
+                {
+                    "Text": "always use the flat surface of the pry , never the tip , and try to push the piston back in as straight and evenly as possible ."
+                },
+                {
+                    "Text": "alternately , you can purchase the proper brake caliper piston compression tool from mercedes . . . but this pry bar technique works if you are careful ."
+                },
+                {
+                    "Text": "repeat this on all four pistons . watch the brake fluid level as your proceed to ensure it does not overflow the reservoir . remove more if necessary ."
+                }
+            ],
+            "Text_raw": "With some fluid removed and the top left off of the brake fluid reservoir, use a large pry tool to gently pry the pistons back in to the body of the caliper. Always use the flat surface of the pry, never the tip, and try to push the piston back in as straight and evenly as possible. Alternately, you can purchase the proper brake caliper piston compression tool from Mercedes...but this pry bar technique works if you are careful. Repeat this on all four pistons. Watch the brake fluid level as your proceed to ensure it does not overflow the reservoir. Remove more if necessary.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ITGSf5G1VpiGMLWv.standard"
+            ],
+            "StepId": 57511,
+            "Tools_extracted": [
+                "pry bar"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "cover the back of each new brake pad with a very light coat of brake pad grease/anti-squeal coating ."
+                },
+                {
+                    "Text": "be very careful to not get any of this grease on the front of the pads , where the pad material is ."
+                }
+            ],
+            "Text_raw": "Cover the back of each new brake pad with a very light coat of brake pad grease/anti-squeal coating. Be very careful to not get any of this grease on the front of the pads, where the pad material is.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2cocEwmFerAfjlgU.standard"
+            ],
+            "StepId": 57512,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "slide the pads in to the calipers . make sure the brake pad material is facing towards the rotor . the holes on top of the pads need to face away from the rotor ."
+                },
+                {
+                    "Text": "if the pads are not sliding in , try prying the piston back a bit further ."
+                }
+            ],
+            "Text_raw": "Slide the pads in to the calipers. Make sure the brake pad material is facing towards the rotor. The holes on top of the pads need to face away from the rotor. If the pads are not sliding in, try prying the piston back a bit further.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VMYtTVLGNT5LwN2a.standard"
+            ],
+            "StepId": 57513,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "insert the springs in the same way they were removed ."
+                },
+                {
+                    "Text": "then insert the pins . it can be tricky to get the pin through the holes in the second pad especially if the pad is in the caliper a bit too far . it can help to use an allen key or something similarly long and slender to align the pads ."
+                },
+                {
+                    "Text": "then , simply chase the allen key out with the pin ."
+                }
+            ],
+            "Text_raw": "Insert the springs in the same way they were removed. Then insert the pins. It can be tricky to get the pin through the holes in the second pad especially if the pad is in the caliper a bit too far. It can help to use an allen key or something similarly long and slender to align the pads. Then, simply chase the allen key out with the pin.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JHDUJnkWNLQlJlWA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6CJMSTNaEd2lfoZv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/onZ6oPNgPZyvkWnt.standard"
+            ],
+            "StepId": 57514,
+            "Tools_extracted": [
+                "pin punch"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "then use some strong wire or cotters to secure the ends of the pin in place ."
+                },
+                {
+                    "Text": "be certain to top off the brake fluid reservoir before driving , if necessary ."
+                }
+            ],
+            "Text_raw": "Then use some strong wire or cotters to secure the ends of the pin in place. Be certain to top off the brake fluid reservoir before driving, if necessary.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/23WKDLUXP5ZDEryV.standard"
+            ],
+            "StepId": 57515,
+            "Tools_extracted": [
+                "pin punch"
+            ]
+        }
+    ],
+    "Subject": "Brake Pads, Rear"
+}

@@ -1,0 +1,187 @@
+{
+    "Title": "Repairing Mercedes W123 Door Lock Master Vacuum Switch",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20887,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "drill",
+            "Url": "http://www.amazon.com/DEWALT-DWD112-Pistol-Grip-Keyless-All-Metal/dp/B0011XSEW6/ref=sr_1_9?ie=UTF8&qid=1376354304&sr=8-9&keywords=power+drill",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "wire cutter",
+            "Url": "http://www.ifixit.com/Tools/Flush-Wire-Cutter/IF145-056",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drill",
+            "Url": "/Item/5_16%22_drill_bit",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drill",
+            "Url": "/Item/1_16%22_drill_bit",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Repairing+Mercedes+W123+Door+Lock+Master+Vacuum+Switch/20887",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "to begin you will need to remove your door panel . for help with this process guide"
+                },
+                {
+                    "Text": "then you will need to remove the master door lock switch from the car . after following the steps in the guide to unbolt the switch from the door and disconnect it from the lock mechanism simply pull the three vacuum lines , making note of where the red , green , and solid yellow lines attach ."
+                }
+            ],
+            "Text_raw": "To begin you will need to remove your door panel. For help with this process [guide|20198|see the door panel removal guide.] Then you will need to remove the master door lock switch from the car. After following the steps in the [guide|20201|vacuum door lock system diagnosis technique guide|stepid=56172] to unbolt the switch from the door and disconnect it from the lock mechanism simply pull the three vacuum lines, making note of where the red, green, and solid yellow lines attach.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IJHTlpqQmMxu1KHg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/avhXethmAnQb6Cqi.standard"
+            ],
+            "StepId": 56830,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "shown is the vacuum switch removed from the door , with the flexible rubber vacuum connectors still attached . the rubber vacuum connectors may also be left on the plastic hard lines in the door , its your choice ."
+                }
+            ],
+            "Text_raw": "Shown is the vacuum switch removed from the door, with the flexible rubber vacuum connectors still attached. The rubber vacuum connectors may also be left on the plastic hard lines in the door, its your choice.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/afpBiK1WiMjk1ZOr.standard"
+            ],
+            "StepId": 56831,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "the metal shaft of the lock switch needs to be removed . to remove the shaft , drill in to the back of the switch body with a 5 /16 drill bit ."
+                },
+                {
+                    "Text": "be sure to drill as centered on the body as possible and as straight as possible . go slowly and be careful to stop drilling after you have gotten through the plastic body of the switch . to help avoid damaging the piston shaft pull it as far out as possible away from the area to be drilled ."
+                }
+            ],
+            "Text_raw": "The metal shaft of the lock switch needs to be removed. To remove the shaft, drill in to the back of the switch body with a 5/16\" drill bit. Be sure to drill as centered on the body as possible and as straight as possible. Go slowly and be careful to stop drilling after you have gotten through the plastic body of the switch. To help avoid damaging the piston shaft pull it as far out as possible away from the area to be drilled.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OEMgIeutwgBk6Dod.standard"
+            ],
+            "StepId": 56832,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "once the back of the switch is drilled out the piston shaft can be removed ."
+                },
+                {
+                    "Text": "the switch body is otherwise hollow ."
+                },
+                {
+                    "Text": "the black rubber seals you can see on the switch are what seal that piston inside the switch body ."
+                }
+            ],
+            "Text_raw": "Once the back of the switch is drilled out the piston shaft can be removed. The switch body is otherwise hollow. The black rubber seals you can see on the switch are what seal that piston inside the switch body.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JFbprUDrV3yLi1Tb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qekvXGmHdGvTBYlI.standard"
+            ],
+            "StepId": 56833,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "inspect the shaft closely . as you can see here there is sufficient dirt and other contaminants to prevent a good seal , hence the leak ."
+                },
+                {
+                    "Text": "clean the piston shaft , then carefully remove the two rubber seals with a small flat blade screwdriver or pick to clean underneath ."
+                },
+                {
+                    "Text": "re-install the seals on the shaft ."
+                },
+                {
+                    "Text": "lubricate the shaft with a silicone grease that is safe on rubber ."
+                }
+            ],
+            "Text_raw": "Inspect the shaft closely. As you can see here there is sufficient dirt and other contaminants to prevent a good seal, hence the leak. Clean the piston shaft, then carefully remove the two rubber seals with a small flat blade screw driver or pick to clean underneath. Re-install the seals on the shaft. Lubricate the shaft with a silicone grease that is safe on rubber.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6jdsIq1lYNLabmVG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1RbFXNOrdOaEd3t2.standard"
+            ],
+            "StepId": 56834,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "re-insert the piston shaft in the body of the switch ."
+                },
+                {
+                    "Text": "use a drill with a 1 /16 bit to drill a small hole from top through to the bottom of the switch body at the very back of the body , on the opposite side of the piston shaft ."
+                }
+            ],
+            "Text_raw": "Re-insert the piston shaft in the body of the switch. Use a drill with a 1/16\" bit to drill a small hole from top through to the bottom of the switch body at the very back of the body, on the opposite side of the piston shaft.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XDrZlwLc6TDYRitY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vtlItmd4CpJUTtu1.standard"
+            ],
+            "StepId": 56835,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "cut a small section of wire , smaller than 1 /16 in diameter , and insert it in the hole you just drilled at the back of the switch body ."
+                },
+                {
+                    "Text": "bend the top and bottom of this wire so it stays in the opening ."
+                },
+                {
+                    "Text": "this will keep the shaft inside the body . keep in mind that it's ok to leave the back of the switch open ; the two rubber seals on the shaft are what retain the vacuum inside the switch ."
+                },
+                {
+                    "Text": "an alternative would be to find a cotter pin of suitable size to fit in this hole ."
+                }
+            ],
+            "Text_raw": "Cut a small section of wire, smaller than 1/16\" in diameter, and insert it in the hole you just drilled at the back of the switch body. Bend the top and bottom of this wire so it stays in the opening. This will keep the shaft inside the body. Keep in mind that it's OK to leave the back of the switch open; the two rubber seals on the shaft are what retain the vacuum inside the switch. An alternative would be to find a cotter pin of suitable size to fit in this hole.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WMPQWxlnE3oNlfS5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UKbNDyEEZVylxJDt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KdG4LJiGSdyLMCb2.standard"
+            ],
+            "StepId": 56836,
+            "Tools_extracted": [
+                "wire cutter"
+            ]
+        }
+    ],
+    "Subject": ""
+}

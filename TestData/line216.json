@@ -1,0 +1,181 @@
+{
+    "Title": "1992-1999 BMW 3 Series  Brake Light Bulb Replacement",
+    "Ancestors": [
+        "BMW",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50405,
+    "Category": "1992-1999 BMW 3 Series",
+    "Toolbox": [
+        {
+            "Name": "8 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14189-Drive-Socket-6-Point/dp/B000NY4TYQ/ref=sr_1_4?ie=UTF8&qid=1388418081&sr=8-4&keywords=8mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 4 drive ratchet",
+            "Url": "https://www.amazon.com/Crescent-CRW0-Release-Ratchet-Polished/dp/B00H1JIRNA/ref=sr_1_3?ie=UTF8&qid=1488929941&sr=8-3&keywords=1%2F4+drive+ratchet",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1992+1993+1994+1995+1996+1997+1998+1999+BMW+3+Series++Brake+Light+Bulb+Replacement/50405",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "determine which brake light is out . have a friend step on the brake and see which light does not illuminate ."
+                },
+                {
+                    "Text": "in the trunk , locate the plastic cover that protects the taillight . turn the handle clockwise ( as shown by the arrow above the handle ) and gently pull outwards ."
+                }
+            ],
+            "Text_raw": "Determine which brake light is out. Have a friend step on the brake and see which light does not illuminate. In the trunk, locate the plastic cover that protects the taillight. Turn the handle clockwise (as shown by the arrow above the handle) and gently pull outwards.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rEQrDufr2O4E33Qw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VVnWL5MuDjlBCyME.standard"
+            ],
+            "StepId": 109064,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "pinch the top and bottom of the power connection . pull hard on the power connection to remove it , disconnecting the wiring ."
+                }
+            ],
+            "Text_raw": "Pinch the top and bottom of the power connection. Pull hard on the power connection to remove it, disconnecting the wiring.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xavB6BRrIsSoMoES.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iAT1PoaGphKeIp3J.standard"
+            ],
+            "StepId": 109085,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "undo all four nuts with the 8 mm socket and ratchet ."
+                },
+                {
+                    "Text": "the nuts are marked by red circles in the second image ."
+                }
+            ],
+            "Text_raw": "Undo all four nuts with the 8mm socket and ratchet. The nuts are marked by red circles in the second image.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6aurI1Nj4Ob5mucX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nqUAptlc6HfG2ZTQ.standard"
+            ],
+            "StepId": 109101,
+            "Tools_extracted": [
+                "8 mm socket"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "to remove the taillight from the metal frame , push outwards ( towards the back of the car ) on the back of one of the plastic bulb carriers ."
+                },
+                {
+                    "Text": "support the taillight housing with your free hand to keep it from falling and being damaged ."
+                }
+            ],
+            "Text_raw": "To remove the taillight from the metal frame, push outwards (towards the back of the car) on the back of one of the plastic bulb carriers. Support the taillight housing with your free hand to keep it from falling and being damaged.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wBunmsuVPDkGcFyA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JOSkeJAaY5kVPetI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/q6cupZsWwvKKrRGQ.standard"
+            ],
+            "StepId": 109126,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "the brake light bulb is behind the bottom right plug . push the plug inwards while turning it counterclockwise to remove the assembly . you may need to use a lot of force to turn the plug ."
+                }
+            ],
+            "Text_raw": "The brake light bulb is behind the bottom right plug. Push the plug inwards while turning it counterclockwise to remove the assembly. You may need to use a lot of force to turn the plug.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4HSiPUt4lhVPAVaN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JAIW6SWJHL3UpVRi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kYJpelsnPe3FBxVk.standard"
+            ],
+            "StepId": 109123,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "the 7528 bulb is in the off-white plastic carrier . apply slight pressure downwards and twist counterclockwise to remove the bulb ."
+                }
+            ],
+            "Text_raw": "The 7528 bulb is in the off-white plastic carrier.  Apply slight pressure downwards and twist counterclockwise to remove the bulb.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YBROm1Lb5KHubRuM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AuHuHXqxYPAHFpdA.standard"
+            ],
+            "StepId": 109124,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "to determine whether or not a bulb is burnt , check for a connection break in the bulb . in the image shown , wires run continuously between both connections . this means the bulb is working correctly and can be installed ."
+                },
+                {
+                    "Text": "insert the new bulb into the white housing and turn clockwise to install ."
+                }
+            ],
+            "Text_raw": "To determine whether or not a bulb is burnt, check for a connection break in the bulb.  In the image shown, wires run continuously between both connections. This means the bulb is working correctly and can be installed. Insert the new bulb into the white housing and turn clockwise to install.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/54jAKrQZH2SsjfS5.standard"
+            ],
+            "StepId": 109125,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "the plastic carriers only fit into the taillight carrier one way . the fit is very snug against the metal ground ."
+                },
+                {
+                    "Text": "align the two plastic tabs with the indents in the metal sheet . push hard inward while twisting clockwise until the bulb is horizontal , similar to the other four bulbs . when the bulb fits correctly , you will hear a loud snap ."
+                },
+                {
+                    "Text": "note : the bulb carrier is very hard to place correctly . ensure the tabs are lined up , and apply hard pressure while turning clockwise . if the bulb carrier does not sit properly , remove it and reseat it ."
+                }
+            ],
+            "Text_raw": "The plastic carriers only fit into the taillight carrier one way.  The fit is very snug against the metal ground. Align the two plastic tabs with the indents in the metal sheet.  Push hard inward while twisting clockwise until the bulb is horizontal, similar to the other four bulbs. When the bulb fits correctly, you will hear a loud snap. Note: The bulb carrier is very hard to place correctly.  Ensure the tabs are lined up, and apply hard pressure while turning clockwise.  If the bulb carrier does not sit properly, remove it and reseat it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Xn2EqWWc6Jpoy2qM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EfrUWQVVDustAy6F.standard"
+            ],
+            "StepId": 109127,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Brake Light Bulb"
+}

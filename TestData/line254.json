@@ -1,0 +1,193 @@
+{
+    "Title": "Kenwood KDC-BT362U DVD-Drive Replacement",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 74736,
+    "Category": "Kenwood KDC-BT362U",
+    "Toolbox": [
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        },
+        {
+            "Name": "opening tool",
+            "Url": "https://www.ifixit.com/Store/Parts/iFixit-Opening-Tool/IF145-335",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Kenwood+KDC-BT362U+DVD-Drive+Replacement/74736",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the face-plate eject button ."
+                }
+            ],
+            "Text_raw": "Locate the face-plate eject button.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AyWsMLwoiTWuqFfD.standard"
+            ],
+            "StepId": 147009,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "press the eject button with your forefinger ."
+                },
+                {
+                    "Text": "remove the face-plate ."
+                }
+            ],
+            "Text_raw": "Press the eject button with your forefinger. Remove the face-plate.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FyrHDQbARNQx2ZXL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tDPW4nqxTDEIbTuX.standard"
+            ],
+            "StepId": 147903,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "starting on the top side , pop the front panel frame out ."
+                },
+                {
+                    "Text": "remove the face-plate frame ."
+                }
+            ],
+            "Text_raw": "Starting on the top side, pop the front panel frame out. Remove the face-plate frame.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/j3lJAGYwAHCOvDNr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nsME2qxXF1V3PKHx.standard"
+            ],
+            "StepId": 147911,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use the plastic opening tool to pry open the tabs ."
+                },
+                {
+                    "Text": "repeat on the opposite side ."
+                }
+            ],
+            "Text_raw": "Use the plastic opening tool to pry open the tabs. Repeat on the opposite side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/leEN1Z3aovxNTRGk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3DaVdVXCgW5rQyQt.standard"
+            ],
+            "StepId": 147912,
+            "Tools_extracted": [
+                "opening tool"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the front panel ."
+                }
+            ],
+            "Text_raw": "Remove the front panel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UMbncD1ixfr2qeWi.standard"
+            ],
+            "StepId": 147958,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "use the phillips 0 screwdriver to remove the screws off of the metal case ."
+                }
+            ],
+            "Text_raw": "Use the Phillips #0 Screwdriver to remove the screws off of the metal case.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KIXPeGULHofACwiZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UuIKfGDjUacuLgKs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ARMNST22WJXTb1FP.standard"
+            ],
+            "StepId": 151180,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "carefully separate the top and bottom halves of the metal case apart ."
+                },
+                {
+                    "Text": "do not separate the metal case halves completely ."
+                },
+                {
+                    "Text": "carefully pull the dvd-drive ribbon cable from the motherboard ."
+                }
+            ],
+            "Text_raw": "Carefully separate the top and bottom halves of the metal case apart. Do not separate the metal case halves completely. Carefully pull the DVD-Drive ribbon cable from the motherboard.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FCWJg4SOMMcBsaEc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Wg2jQWtGnmKDfLGe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OQRSeWnrkfsWBhUR.standard"
+            ],
+            "StepId": 151197,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "use the phillips 0 screwdriver to remove the three screws ."
+                }
+            ],
+            "Text_raw": "Use the Phillips #0 Screwdriver to remove the three screws.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5UiHshAIIKPFVnR1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vdKg3JvZn5irmplI.standard"
+            ],
+            "StepId": 151199,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "lift the dvd-drive to separate it from the metal case ."
+                }
+            ],
+            "Text_raw": "Lift the DVD-Drive to separate it from the metal case.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hfbbVsZBhqmGGmjc.standard"
+            ],
+            "StepId": 151201,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "DVD-Drive"
+}

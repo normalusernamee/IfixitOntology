@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Knowledge Graph</title>
+</head>
+<body>
+    <h1>Edit Knowledge Graph</h1>
+    <form action="{{ url_for('edit_graph') }}" method="POST">
+        <label for="operation">Select Operation:</label>
+        <select id="operation" name="operation">
+            <option value="add">Add</option>
+            <option value="update">Update</option>
+            <option value="delete">Delete</option>
+        </select><br>
+
+        <label for="data">Enter Data (in RDF format):</label><br>
+        <textarea id="data" name="data" rows="4" cols="50" required></textarea><br>
+        
+        <input type="submit" value="Submit">
+    </form>
+    <p><a href="{{ url_for('home') }}">Back to Home</a></p>
+</body>
+</html>

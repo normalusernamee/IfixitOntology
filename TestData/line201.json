@@ -1,0 +1,108 @@
+{
+    "Title": "2012-2015 Honda Civic Honda Key Battery Replacement",
+    "Ancestors": [
+        "Honda Civic",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 40413,
+    "Category": "2012-2015 Honda Civic",
+    "Toolbox": [
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        },
+        {
+            "Name": "spudger",
+            "Url": "http://www.ifixit.com/Tools/Spudger/IF145-002",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/fIQ3oZSjd1yLgqpX.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2012+2013+2014+2015+Honda+Civic+Honda+Key+Battery+Replacement/40413",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "lay the key down so that the honda symbol is facing upward ."
+                },
+                {
+                    "Text": "use a phillips 0 screwdriver to remove one screw ."
+                }
+            ],
+            "Text_raw": "Lay the key down so that the Honda symbol is facing upward. Use a Phillips #0 screwdriver to remove one screw.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BGlMLgcABiwVDUDt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UWWBoXakDgYE2tIR.standard"
+            ],
+            "StepId": 92548,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "insert the flat end of the spudger into the side of the key remote ."
+                },
+                {
+                    "Text": "pry the key remote apart to remove the cover ."
+                }
+            ],
+            "Text_raw": "Insert the flat end of the Spudger into the side of the key remote. Pry the key remote apart to remove the cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BHGNmsEu3hwFnvIg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YhYJhTmcwMKYi3wt.standard"
+            ],
+            "StepId": 92549,
+            "Tools_extracted": [
+                "spudger"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the existing battery ."
+                },
+                {
+                    "Text": "insert a new cr1616 battery with the '+' sign facing upward ."
+                }
+            ],
+            "Text_raw": "Remove the existing battery. Insert a new CR1616 battery with the '+' sign facing upward.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XJJhFjpIwRjadMCD.standard"
+            ],
+            "StepId": 92550,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "place the two halves of the remote cover back together ."
+                },
+                {
+                    "Text": "press the unlock or lock buttons to make sure the remote is working ."
+                },
+                {
+                    "Text": "place the screw into the hole and tighten with a phillips 0 screwdriver ."
+                }
+            ],
+            "Text_raw": "Place the two halves of the remote cover back together. Press the unlock or lock buttons to make sure the remote is working. Place the screw into the hole and tighten with a Phillips  #0 screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LISbUgPnPHJLWJKO.standard"
+            ],
+            "StepId": 92551,
+            "Tools_extracted": [
+                "ph0 phillips screwdriver"
+            ]
+        }
+    ],
+    "Subject": "Honda Key Battery"
+}

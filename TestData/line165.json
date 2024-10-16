@@ -1,0 +1,376 @@
+{
+    "Title": "Repairing Mercedes W123 Odometer",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 25421,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "utility knife",
+            "Url": "https://www.ifixit.com/Store/Parts/Utility-Knife/IF145-185",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        },
+        {
+            "Name": "hammer",
+            "Url": "http://www.amazon.com/dp/B0000224VG/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "punch",
+            "Url": "/Item/Punch",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "drill",
+            "Url": "/Item/Drill_bit",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Repairing+Mercedes+W123+Odometer/25421",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "you'll need to begin by removing the instrument cluster from the car . guide"
+                }
+            ],
+            "Text_raw": "You'll need to begin by removing the instrument cluster from the car. [guide|25231|You can read the removal guide for this process if you need help with this.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QgjNx3R1DPS3ZWRO.standard"
+            ],
+            "StepId": 64165,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "get your cluster inside , someplace safe , and on to your work bench . protect it with something on the bench like a towel to avoid scratching the clear plastic cover ."
+                }
+            ],
+            "Text_raw": "Get your cluster inside, someplace safe, and on to your work bench. Protect it with something on the bench like a towel to avoid scratching the clear plastic cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mK5ESALMhqAsjQWa.standard"
+            ],
+            "StepId": 64168,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "to get access to the odometer , the speedometer assembly needs to be removed ."
+                },
+                {
+                    "Text": "first , however , the tachometer/clock assembly needs to be removed as it overlays on top of the speedometer ."
+                }
+            ],
+            "Text_raw": "To get access to the odometer, the speedometer assembly needs to be removed. First, however, the tachometer/clock assembly needs to be removed as it overlays on top of the speedometer.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5JJKRCFKTUF2CKUM.standard"
+            ],
+            "StepId": 64173,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the screws holding the tachometer/clock assembly to the back of the cluster . there are three shown here ; a fourth is obscured behind the fixer's hand ."
+                },
+                {
+                    "Text": "you may also need to remove the rheostat that dims the instrument lights ."
+                }
+            ],
+            "Text_raw": "Remove the screws holding the tachometer/clock assembly to the back of the cluster. There are three shown here; a fourth is obscured behind the fixer's hand. You may also need to remove the rheostat that dims the instrument lights.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AF2N5gpKhNVpIviv.standard"
+            ],
+            "StepId": 64180,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "you will now be able to carefully lift the tachometer/clock assembly out of the cluster . set it aside someplace safe . do not set it face down , on the needles ."
+                }
+            ],
+            "Text_raw": "You will now be able to carefully lift the tachometer/clock assembly out of the cluster. Set it aside someplace safe. Do not set it face down, on the needles.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MduXdaDZmWiWIXXv.standard"
+            ],
+            "StepId": 64181,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "you may need to remove the rheostat that dims the instrument lights first , before removing these last two screws ."
+                },
+                {
+                    "Text": "next , unscrew the two remaining screws holding the speedometer assembly in place ."
+                },
+                {
+                    "Text": "note that it shares two screws with the tachometer assembly , on the left hand side , so those are already out ."
+                }
+            ],
+            "Text_raw": "You may need to remove the rheostat that dims the instrument lights first, before removing these last two screws. Next, unscrew the two remaining screws holding the speedometer assembly in place. Note that it shares two screws with the tachometer assembly, on the left hand side, so those are already out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YXhRKHUWg1iDsGBa.standard"
+            ],
+            "StepId": 64183,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "you can now lift the speedometer assembly out , carefully . note that there are wires that cross behind the gauge face ; you will need to clear these wires to remove the gauge ."
+                }
+            ],
+            "Text_raw": "You can now lift the speedometer assembly out, carefully. Note that there are wires that cross behind the gauge face; you will need to clear these wires to remove the gauge.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZytokogYRAiSPxF6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MNLdXLwMVImBJoeI.standard"
+            ],
+            "StepId": 64184,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "now , remove the single screw that holds the black plug on the back of the speedometer assembly . with the screw removed the plug pulls out of a slot ."
+                }
+            ],
+            "Text_raw": "Now, remove the single screw that holds the black plug on the back of the speedometer assembly. With the screw removed the plug pulls out of a slot.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Gb5jMXDdxhe5CAI4.standard"
+            ],
+            "StepId": 64186,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "now you can remove the two flat head screws that hold the metal back on the speedometer assembly ."
+                }
+            ],
+            "Text_raw": "Now you can remove the two flat head screws that hold the metal back on the speedometer assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LN4JKeiGFREDRK6r.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BOMw3CojiftLxvat.standard"
+            ],
+            "StepId": 64187,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "removing the metal cover will expose the odometer . inspect the various plastic gears for broken parts . if you find any , they will need to be fixed before continuing ."
+                }
+            ],
+            "Text_raw": "Removing the metal cover will expose the odometer. Inspect the various plastic gears for broken parts. If you find any, they will need to be fixed before continuing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nKSOj4coCAJiTF1M.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tvcS4dltSB1kEgi4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dmJERloLbxtAL3qk.standard"
+            ],
+            "StepId": 64188,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "if all of your odometer gears check out , you can then test the odometer operation to see where the problem lies ."
+                },
+                {
+                    "Text": "to do this you should place a power drill , with an appropriately sized square drill bit , in to the speedometer cable opening and run the drill . observe the speedometer and odometer function while you do this ."
+                }
+            ],
+            "Text_raw": "If all of your odometer gears check out, you can then test the odometer operation to see where the problem lies. To do this you should place a power drill, with an appropriately sized square drill bit, in to the speedometer cable opening and run the drill. Observe the speedometer and odometer function while you do this.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PalH2pSRNBlVYRLB.standard"
+            ],
+            "StepId": 64189,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "view this video to see the test in action . note this video was recorded after this odometer was fixed via the steps in this guide ."
+                },
+                {
+                    "Text": "if all of the gears on your odometer turn , and the speedometer also moves , but the numbers on your odometer do not turn this is the guide for you ! continue reading ."
+                }
+            ],
+            "Text_raw": "View this video to see the test in action. Note this video was recorded after this odometer was fixed via the steps in this guide. If all of the gears on your odometer turn, and the speedometer also moves, but the numbers on your odometer do not turn this is the guide for you! Continue reading.",
+            "Images": [],
+            "StepId": 64190,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "this brass gear is the item we are interested in . it is attached to a shaft that is responsible for turning the main odometer gear ."
+                },
+                {
+                    "Text": "this grey gear is the main odometer gear that turns the small plastic gears along the top of the odometer numbers ."
+                },
+                {
+                    "Text": "this is the other end of the shaft the brass gear is attached to . it is held in place by a tight fitting brass ring ."
+                }
+            ],
+            "Text_raw": "This brass gear is the item we are interested in. It is attached to a shaft that is responsible for turning the main odometer gear. This grey gear is the main odometer gear that turns the small plastic gears along the top of the odometer numbers. This is the other end of the shaft the brass gear is attached to. It is held in place by a tight fitting brass ring.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fEacDZamr6SGbYaL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5OSJHkdukZNwy3sK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FjQ2CjXDYfee2Ym5.standard"
+            ],
+            "StepId": 64191,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "now support the speedometer gauge face and the rest of the assembly on something soft that will protect it . some foam was used in this case ."
+                },
+                {
+                    "Text": "then , using a hammer and small punch , tap out the shaft shown in the last step from the side with the small brass ring ."
+                },
+                {
+                    "Text": "press your finger against the gear end to keep the shaft from falling out . this shaft also acts to support the numbers . without it they droop down and can also become out of alignment ."
+                }
+            ],
+            "Text_raw": "Now support the speedometer gauge face and the rest of the assembly on something soft that will protect it. Some foam was used in this case. Then, using a hammer and small punch, tap out the shaft shown in the last step from the side with the small brass ring. Press your finger against the gear end to keep the shaft from falling out. This shaft also acts to support the numbers. Without it they \"droop\" down and can also become out of alignment.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ClDoKZRaH4QrSPlh.standard"
+            ],
+            "StepId": 64195,
+            "Tools_extracted": [
+                "hammer"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "as soon as the metal shaft with the brass gear becomes loose , chase it out with an appropriately sized drill bit . go slowly to make sure you don't leave too much space between the shaft and the bit or else one of the numbers might fall out of alignment ."
+                }
+            ],
+            "Text_raw": "As soon as the metal shaft with the brass gear becomes loose, chase it out with an appropriately sized drill bit. Go slowly to make sure you don't leave too much space between the shaft and the bit or else one of the numbers might fall out of alignment.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6MmkFBiAvBOOIORj.standard"
+            ],
+            "StepId": 64196,
+            "Tools_extracted": [
+                "drill"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "the shaft should now be fully accessible ."
+                }
+            ],
+            "Text_raw": "The shaft should now be fully accessible.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/W15DajxUZmTntGcj.standard"
+            ],
+            "StepId": 64197,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "inspect the shaft . as you can see here , the area just inside of the brass gear is very shiny compared to the rest of the shaft . it has been worn smooth by years of friction . this is what slips underneath the grey gear , leading to the odometer not turning ."
+                }
+            ],
+            "Text_raw": "Inspect the shaft. As you can see here, the area just inside of the brass gear is very shiny compared to the rest of the shaft. It has been worn smooth by years of friction. This is what slips underneath the grey gear, leading to the odometer not turning.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GhXRIqZsQDOs4LmH.standard"
+            ],
+            "StepId": 64198,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "you will now want to score the shaft using a utility knife , or other sharp object . the tip of a sharp screwdriver can work . or you can rough it up with thick sandpaper . in any case , the idea is to create a surface that is rough enough to restore friction between the shaft and the grey gear ."
+                },
+                {
+                    "Text": "it isn't easy to take a picture of , but the shaft has been scored in a cross-hatch pattern ."
+                },
+                {
+                    "Text": "you can now re-insert the shaft , chasing the drill bit back out , ensuring that the numbers remain in sync . once the shaft is all the way back in , you can then use a small punch and a hammer to tap the brass retaining ring back on the end of the shaft . if needed , support the brass gear with a small piece of hard wood ."
+                }
+            ],
+            "Text_raw": "You will now want to score the shaft using a utility knife, or other sharp object. The tip of a sharp screw driver can work. Or you can rough it up with thick sandpaper. In any case, the idea is to create a surface that is rough enough to restore friction between the shaft and the grey gear. It isn't easy to take a picture of, but the shaft has been scored in a cross-hatch pattern. You can now re-insert the shaft, chasing the drill bit back out, ensuring that the numbers remain in sync. Once the shaft is all the way back in, you can then use a small punch and a hammer to tap the brass retaining ring back on the end of the shaft. If needed, support the brass gear with a small piece of hard wood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JAbZfRCjuKEHTHv4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HuXA6aZIpqmWOhcH.standard"
+            ],
+            "StepId": 64200,
+            "Tools_extracted": [
+                "hammer",
+                "utility knife"
+            ]
+        }
+    ],
+    "Subject": ""
+}

@@ -1,0 +1,660 @@
+{
+    "Title": "2005-2007 Ford Focus Front Brake Rotors Replacement",
+    "Ancestors": [
+        "Ford Focus",
+        "Ford",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3095,
+    "Category": "2005-2007 Ford Focus",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_2?ie=UTF8&qid=1431005020&sr=8-2&keywords=3%2F8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "7 allen wrench",
+            "Url": "http://www.amazon.com/30-Allen-Wrench-Set--SAE/dp/B0006Q0FC6/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889897&sr=1-1&keywords=allen+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "8 needle nose plier",
+            "Url": "http://www.ifixit.com/Tools/8-Inch-Needle-Nose-Plier/IF145-024",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "c-clamp",
+            "Url": "http://www.amazon.com/Tradespro-835137-C-Clamp-Set-3-Piece/dp/B004QO9ABQ/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889785&sr=1-1&keywords=c-clamp",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "lug wrench",
+            "Url": "http://www.amazon.com/Wilmar-W2-Metric-Lug-Wrench/dp/B000FW2NU8/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356889157&sr=1-1&keywords=lug+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "turkey baster",
+            "Url": "https://www.amazon.com/Resistant-Baster-Rubber-measurement-Model/dp/B002U9JSIE/ref=sr_1_3?ie=UTF8&qid=1488061666&sr=8-3&keywords=turkey+baster+heat+resistant",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2005+2006+2007+Ford+Focus+Front+Brake+Rotors+Replacement/3095",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "put the car in park ( automatic ) or neutral ( manual ) ."
+                },
+                {
+                    "Text": "apply the parking brake ."
+                },
+                {
+                    "Text": "place chocks behind the rear wheels ."
+                }
+            ],
+            "Text_raw": "Put the car in park (automatic) or neutral (manual). Apply the parking brake. Place chocks behind the rear wheels.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PYyJFkwtoHRYGJFD.standard"
+            ],
+            "StepId": 14835,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a 19 mm lug wrench to loosen each lug nut a half turn ."
+                }
+            ],
+            "Text_raw": "Use a 19 mm lug wrench to loosen each lug nut a half turn.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/u2psVB3f3S3aYYpm.standard"
+            ],
+            "StepId": 14836,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a hydraulic jack on the car's frame to jack the car ."
+                },
+                {
+                    "Text": "a small notch shows where to place the jack ."
+                },
+                {
+                    "Text": "it is only necessary to jack the car until the wheel no longer touches the ground ."
+                }
+            ],
+            "Text_raw": "Use a hydraulic jack on the car's frame to jack the car. A small notch shows where to place the jack. It is only necessary to jack the car until the wheel no longer touches the ground.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BX23MmeWjHMtyQvV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rG2v636PkLUWoEVk.standard"
+            ],
+            "StepId": 14837,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "place a jack stand on the frame and remove the jack ."
+                },
+                {
+                    "Text": "never work on or underneath a car that is only supported by a jack . the car may fall , causing serious injury , or even death ."
+                }
+            ],
+            "Text_raw": "Place a jack stand on the frame and remove the jack. Never work on or underneath a car that is only supported by a jack. The car may fall, causing serious injury, or even death.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hRYhEsLc32UnZTHG.standard"
+            ],
+            "StepId": 14839,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "use a lug wrench to completely remove the four lug nuts ."
+                },
+                {
+                    "Text": "remove the wheel ."
+                }
+            ],
+            "Text_raw": "Use a lug wrench to completely remove the four lug nuts. Remove the wheel.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Un6kLrBSTTYKP3EW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NvWhHJoOGQwrLfFZ.standard"
+            ],
+            "StepId": 14840,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "the brake fluid reservoir is located towards the back of the engine compartment ."
+                },
+                {
+                    "Text": "unscrew the cap and remove it ."
+                },
+                {
+                    "Text": "be careful when handling brake fluid . wash hands immediately if they come in contact with it . do not let the fluid touch any painted parts ; it will strip the paint ."
+                }
+            ],
+            "Text_raw": "The brake fluid reservoir is located towards the back of the engine compartment. Unscrew the cap and remove it. Be careful when handling brake fluid. Wash hands immediately if they come in contact with it. Do not let the fluid touch any painted parts; it will strip the paint.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2gl1hqOGNPCHBtdv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bNZDQnOZniNKe5mU.standard"
+            ],
+            "StepId": 15102,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "use a turkey baster to remove 2-3 ounces of brake fluid from the reservoir ."
+                },
+                {
+                    "Text": "never let the fluid level drop below the minimum mark . this will let air into your lines , which will require bleeding to remove ."
+                },
+                {
+                    "Text": "properly dispose of old brake fluid . do not reuse it ."
+                }
+            ],
+            "Text_raw": "Use a turkey baster to remove 2-3 ounces of brake fluid from the reservoir. Never let the fluid level drop below the minimum mark. This will let air into your lines, which will require bleeding to remove. Properly dispose of old brake fluid. Do not reuse it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RQSCEaSu1WZNCkQq.standard"
+            ],
+            "StepId": 15103,
+            "Tools_extracted": [
+                "turkey baster"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "use a flat head screwdriver or brake spoon to remove the outer pad retaining clip ."
+                },
+                {
+                    "Text": "the clip has a lot of spring energy . hold onto it with a pair of pliers when removing it to keep it from flying off and injuring someone ."
+                }
+            ],
+            "Text_raw": "Use a flat head screwdriver or brake spoon to remove the outer pad retaining clip. The clip has a lot of spring energy. Hold onto it with a pair of pliers when removing it to keep it from flying off and injuring someone.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/T4csjtVsMXiW4xLC.standard"
+            ],
+            "StepId": 15104,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "use a flat head screwdriver to remove the black plastic guide bolt dust caps ."
+                }
+            ],
+            "Text_raw": "Use a flat head screwdriver to remove the black plastic guide bolt dust caps.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KxFInEyBOKb6qTXu.standard"
+            ],
+            "StepId": 15105,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "use a 7 mm allen wrench to remove the two caliper guide bolts ."
+                }
+            ],
+            "Text_raw": "Use a 7 mm Allen wrench to remove the two caliper guide bolts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jBwALI4OwYCvGWwF.standard"
+            ],
+            "StepId": 15106,
+            "Tools_extracted": [
+                "7 allen wrench"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "remove the clip that holds the brake line to the strut with a pair of vise grips ."
+                },
+                {
+                    "Text": "pull the brake line towards you and out of the bracket ."
+                }
+            ],
+            "Text_raw": "Remove the clip that holds the brake line to the strut with a pair of vise grips. Pull the brake line towards you and out of the bracket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WqXmD1LEGDPHJfGX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dnFBlW5i1xICxLXy.standard"
+            ],
+            "StepId": 15107,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "pull the caliper off of the rotor ."
+                },
+                {
+                    "Text": "place the caliper on top of a box or bucket so the brake line doesn't stretch or kink ."
+                }
+            ],
+            "Text_raw": "Pull the caliper off of the rotor. Place the caliper on top of a box or bucket so the brake line doesn't stretch or kink.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2KGjj6u4YQJaXoiI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nkSbDpJEMnIwEiS5.standard"
+            ],
+            "StepId": 15108,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "pull the outer brake pad from the mounting bracket ."
+                }
+            ],
+            "Text_raw": "Pull the outer brake pad from the mounting bracket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ytj2SxFFa5cKfyjs.standard"
+            ],
+            "StepId": 15109,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "remove the inner brake pad from the caliper ."
+                },
+                {
+                    "Text": "the pad is held in place by three metal clips . it may take some force and wiggling to free the pad ."
+                }
+            ],
+            "Text_raw": "Remove the inner brake pad from the caliper. The pad is held in place by three metal clips. It may take some force and wiggling to free the pad.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fATIhgxRkPqtylOK.standard"
+            ],
+            "StepId": 15110,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "this step is only necessary if you are replacing the guide bolt bushings ."
+                },
+                {
+                    "Text": "use a flat head screwdriver to push the bushing through its hole in the caliper ."
+                },
+                {
+                    "Text": "remove the bushing from the caliper ."
+                }
+            ],
+            "Text_raw": "This step is only necessary if you are replacing the guide bolt bushings. Use a flat head screwdriver to push the bushing through its hole in the caliper. Remove the bushing from the caliper.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hQ1cAVamJOGdklZJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yJATsB1nChncYK5V.standard"
+            ],
+            "StepId": 15111,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "remove the two 15 mm mounting bracket bolts ."
+                },
+                {
+                    "Text": "lift the mounting bracket off the rotor ."
+                }
+            ],
+            "Text_raw": "Remove the two 15 mm mounting bracket bolts. Lift the mounting bracket off the rotor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YHVNIFVCTYKcLCkJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CUxDpCOIuoDt6eRY.standard"
+            ],
+            "StepId": 15112,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "remove the brake rotor by pulling it straight off the lugs ."
+                },
+                {
+                    "Text": "if the rotor is to be reused , it is a good idea to take it to a shop to check that it is not out of round and to have it turned ."
+                }
+            ],
+            "Text_raw": "Remove the brake rotor by pulling it straight off the lugs. If the rotor is to be reused, it is a good idea to take it to a shop to check that it is not out of round and to have it turned.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MZxiPbAbwrVbovby.standard"
+            ],
+            "StepId": 15113,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "install the new rotor over the wheel lugs ."
+                }
+            ],
+            "Text_raw": "Install the new rotor over the wheel lugs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2P1dpfMSJTpbEHbQ.standard"
+            ],
+            "StepId": 15114,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "reinstall the mounting bracket ."
+                },
+                {
+                    "Text": "grease the mounting bracket bolts and install them ."
+                },
+                {
+                    "Text": "mounting bracket bolts should be tightened to 133 ft-lbs ."
+                }
+            ],
+            "Text_raw": "Reinstall the mounting bracket. Grease the mounting bracket bolts and install them. Mounting bracket bolts should be tightened to 133 ft-lbs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iCDwEJbPlvEhmt3l.standard"
+            ],
+            "StepId": 15115,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 19,
+            "Lines": [
+                {
+                    "Text": "clean the rotor , caliper , and all other hardware with an aerosol brake cleaner ."
+                },
+                {
+                    "Text": "never use compressed air to clean brake components . brakes contain asbestos , and blowing the particles into the air could cause serious respiratory problems if inhaled ."
+                }
+            ],
+            "Text_raw": "Clean the rotor, caliper, and all other hardware with an aerosol brake cleaner. Never use compressed air to clean brake components. Brakes contain asbestos, and blowing the particles into the air could cause serious respiratory problems if inhaled.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2qYmqO1mtNLd2YGI.standard"
+            ],
+            "StepId": 15116,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 20,
+            "Lines": [
+                {
+                    "Text": "coat the steel backing plates of the new brake pads with an anti-squeal coating ."
+                }
+            ],
+            "Text_raw": "Coat the steel backing plates of the new brake pads with an anti-squeal coating.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jQ22VYt4FbGvaCSr.standard"
+            ],
+            "StepId": 15117,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 21,
+            "Lines": [
+                {
+                    "Text": "place the new outer pad on the mounting bracket ."
+                },
+                {
+                    "Text": "small particles are a common cause of brake noise . make sure pad and rotor surfaces are clean of all dirt and debris before installing ."
+                }
+            ],
+            "Text_raw": "Place the new outer pad on the mounting bracket. Small particles are a common cause of brake noise. Make sure pad and rotor surfaces are clean of all dirt and debris before installing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Xpfbwk6NeVIaNoSk.standard"
+            ],
+            "StepId": 15118,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 22,
+            "Lines": [
+                {
+                    "Text": "this step is only necessary if the guide bolt bushings were removed ."
+                },
+                {
+                    "Text": "insert the new bushing from the inside of the caliper ."
+                },
+                {
+                    "Text": "use a flat head screwdriver to help feed the bushing through its hole ."
+                }
+            ],
+            "Text_raw": "This step is only necessary if the guide bolt bushings were removed. Insert the new bushing from the inside of the caliper. Use a flat head screwdriver to help feed the bushing through its hole.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3WLMtGB1qyJKUFCv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YKsR2dkvj2meJ2ue.standard"
+            ],
+            "StepId": 15119,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 23,
+            "Lines": [
+                {
+                    "Text": "compress the caliper piston with a c-clamp ."
+                },
+                {
+                    "Text": "continually check the fluid level in the brake fluid reservoir to make sure it doesn't exceed the maximum level ."
+                },
+                {
+                    "Text": "install the new inner pad by pressing it into the caliper and making sure the clips are secure ."
+                }
+            ],
+            "Text_raw": "Compress the caliper piston with a C-clamp. Continually check the fluid level in the brake fluid reservoir to make sure it doesn't exceed the maximum level. Install the new inner pad by pressing it into the caliper and making sure the clips are secure.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tvBf4JmD4RhG2Bfx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KagU1aYPaCu4KVKw.standard"
+            ],
+            "StepId": 15120,
+            "Tools_extracted": [
+                "c-clamp"
+            ]
+        },
+        {
+            "Order": 24,
+            "Lines": [
+                {
+                    "Text": "place the caliper back on the rotor ."
+                }
+            ],
+            "Text_raw": "Place the caliper back on the rotor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OcuXfZPYIYDPDRop.standard"
+            ],
+            "StepId": 15121,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 25,
+            "Lines": [
+                {
+                    "Text": "grease the two guide bolts and reinstall them ."
+                },
+                {
+                    "Text": "guide bolts should be torqued to 21 foot-pounds ."
+                },
+                {
+                    "Text": "reinstall the guide bolt dust caps ."
+                }
+            ],
+            "Text_raw": "Grease the two guide bolts and reinstall them. Guide bolts should be torqued to 21 foot-pounds. Reinstall the guide bolt dust caps.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DSCmJ234fQnVdZWH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YsPgfGh32FLiUVvs.standard"
+            ],
+            "StepId": 15122,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 26,
+            "Lines": [
+                {
+                    "Text": "place the brake line back in the bracket on the strut ."
+                },
+                {
+                    "Text": "secure the brake line with the retaining clip . use the blunt end of a wrench to knock it completely into place ."
+                }
+            ],
+            "Text_raw": "Place the brake line back in the bracket on the strut. Secure the brake line with the retaining clip. Use the blunt end of a wrench to knock it completely into place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5Xs1SwxukTlnIWVv.standard"
+            ],
+            "StepId": 15123,
+            "Tools_extracted": [
+                "wrench"
+            ]
+        },
+        {
+            "Order": 27,
+            "Lines": [
+                {
+                    "Text": "reinstall the retainer clip by first inserting the ends into the two holes in the caliper , then use pliers to stretch the ends onto the mounting bracket ."
+                },
+                {
+                    "Text": "it is always a good idea to use white lithium grease wherever you have metal-on-metal contact ."
+                }
+            ],
+            "Text_raw": "Reinstall the retainer clip by first inserting the ends into the two holes in the caliper, then use pliers to stretch the ends onto the mounting bracket. It is always a good idea to use white lithium grease wherever you have metal-on-metal contact.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KdTj2xfWS2AJVWFr.standard"
+            ],
+            "StepId": 15124,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 28,
+            "Lines": [
+                {
+                    "Text": "put the wheel back on the car and hand tighten the lug nuts ."
+                },
+                {
+                    "Text": "lower the car and completely tighten the lug nuts"
+                },
+                {
+                    "Text": "lug nuts should torqued to 94 foot-pounds ."
+                }
+            ],
+            "Text_raw": "Put the wheel back on the car and hand tighten the lug nuts. Lower the car and completely tighten the lug nuts Lug nuts should torqued to 94 foot-pounds.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XpEbfKRe56YSKpo4.standard"
+            ],
+            "StepId": 15125,
+            "Tools_extracted": [
+                "lug wrench"
+            ]
+        },
+        {
+            "Order": 29,
+            "Lines": [
+                {
+                    "Text": "place the cap back on the brake fluid reservoir ."
+                },
+                {
+                    "Text": "turn the key to the on position . press the brake pedal a few times . it should go to the floor once , and then become firm ."
+                },
+                {
+                    "Text": "fill the brake fluid reservoir with new fluid , if needed ."
+                }
+            ],
+            "Text_raw": "Place the cap back on the brake fluid reservoir. Turn the key to the \"on\" position. Press the brake pedal a few times. It should go to the floor once, and then become firm. Fill the brake fluid reservoir with new fluid, if needed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XU2RNHlVXviIaniI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aNMVXYpCvJVbI3VF.standard"
+            ],
+            "StepId": 15126,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        }
+    ],
+    "Subject": "Front Brake Rotors"
+}

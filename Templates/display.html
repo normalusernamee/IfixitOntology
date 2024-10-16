@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Data</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head><body>
+    <h1>Ontology Data</h1>
+    <h2>Classes:</h2>
+    <ul>
+        {% for cls in ontology.classes() %}
+        <li>{{ cls.name }}</li>
+        {% endfor %}
+    </ul>
+    
+    <h2>Instances:</h2>
+    <ul>
+        {% for cls_name, instances in instances_by_class.items() %}
+            <h3>{{ cls_name }}</h3>
+            <ul>
+                {% if instances %}
+                    {% for inst in instances %}
+                        <li>{{ inst.name }}</li>
+                    {% endfor %}
+                {% else %}
+                    <li>No instances found.</li>
+                {% endif %}
+            </ul>
+        {% endfor %}
+    </ul>
+    
+    <p><a href="{{ url_for('home') }}">Back to Home</a></p>
+</body>
+</html>

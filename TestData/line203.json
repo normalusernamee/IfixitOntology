@@ -1,0 +1,204 @@
+{
+    "Title": "1999-2004 Jeep Grand Cherokee Power Steering Pressure Hose Replacement",
+    "Ancestors": [
+        "Jeep Grand Cherokee",
+        "Jeep",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 41163,
+    "Category": "1999-2004 Jeep Grand Cherokee",
+    "Toolbox": [
+        {
+            "Name": "socket wrench extension 3 8 drive",
+            "Url": "http://www.halfords.com/motoring/garage-equipment/socket-sets/halfords-advanced-professional-8-piece-star-bit-rail-3-8",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "16 mmx18 mm flare nut wrench",
+            "Url": "/Item/16mmx18mm_Flare_Nut_wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "13 wrench",
+            "Url": "https://www.amazon.com/GearWrench-9113-Combination-Ratcheting-Wrench/dp/B0002NYD7Q/ref=sr_1_3?ie=UTF8&qid=1487798994&sr=8-3&keywords=13mm+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1999+2000+2001+2002+2003+2004+Jeep+Grand+Cherokee+Power+Steering+Pressure+Hose+Replacement/41163",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "here is a view of the power steering pump . it is located on the front left side in the engine compartment . visible fresh oil stains on the fan shroud and other parts ."
+                },
+                {
+                    "Text": "most sludge was found at the pressure line connection"
+                },
+                {
+                    "Text": "the leak is on top of the flare nut where the pipe enters the pump ."
+                }
+            ],
+            "Text_raw": "Here is a view of the power steering pump. It is located on the front left side in the engine compartment. Visible fresh oil stains on the fan shroud and other parts. Most sludge was found at the pressure line connection The leak is on top of the flare nut where the pipe enters the pump.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kTIWnbpmiwVZOuTX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DXjPwaA3G1QYdGAx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/U6WmIPaQfELO5AOd.standard"
+            ],
+            "StepId": 95025,
+            "Tools_extracted": [
+                "16 mmx18 mm flare nut wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "to remove the hoses from the power steering pump , the air cleaner housing has to be removed . remove the four clips on the air filter cover"
+                },
+                {
+                    "Text": "remove the air filter"
+                },
+                {
+                    "Text": "loosen the clamps from the air intake duct to remove the air cleaner cover from the engine ."
+                }
+            ],
+            "Text_raw": "To remove the hoses from the power steering pump, the air cleaner housing has to be removed. Remove the four clips on the air filter cover Remove the air filter Loosen the clamps from the air intake duct to remove the air cleaner cover from the engine.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2Y6JaFRhuheCvTUP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DuXncjCUdmaZmpkQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pY4ywohnlTFcyWUw.standard"
+            ],
+            "StepId": 95027,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "here is the complete housing . there are three 13 mm hex head mounting bolts for the air cleaner housing . one on the front left"
+                },
+                {
+                    "Text": "one on the rear left"
+                },
+                {
+                    "Text": "and the last one is difficult to find on the front right ."
+                }
+            ],
+            "Text_raw": "Here is the complete housing. There are three 13mm hex head mounting bolts for the air cleaner housing. One on the front left one on the rear left and the last one is difficult to find on the front right.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RCdHRINkUF6NnKAd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BZn1MY5CGkOpOSIS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gPtMNQViZSIUweDT.standard"
+            ],
+            "StepId": 95028,
+            "Tools_extracted": [
+                "13 wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "all three bolts have lock nuts that can be accessed from the driver side front wheel well"
+                },
+                {
+                    "Text": "use a socket wrench or similar tool to loosen the bolts , then remove the nuts in the wheel well ."
+                },
+                {
+                    "Text": "all three bolts and nuts are identical"
+                }
+            ],
+            "Text_raw": "All three bolts have lock nuts that can be accessed from the driver side front wheel well Use a socket wrench or similar tool to loosen the bolts, then remove the nuts in the wheel well. All three bolts and nuts are identical",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xvQMORNxv5odS6Js.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gScGiAYUviIosGJw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hN5Eus1XIwdBXBxj.standard"
+            ],
+            "StepId": 95029,
+            "Tools_extracted": [
+                "16 mmx18 mm flare nut wrench",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "with the three bolts remove the air filter housing can simply removed . this gives full access to the power steering gear and hoses ."
+                },
+                {
+                    "Text": "new line ."
+                },
+                {
+                    "Text": "use a 16 mm x 18 mm flare nut wrench . it will be safer then a open end wrench since it provides a better grip . this will prevent any damage to the flare nut on the hose ."
+                },
+                {
+                    "Text": "disconnect the hose on the power steering pump by loosing the flare nut in a counter clockwise rotation"
+                }
+            ],
+            "Text_raw": "With the three bolts remove the air filter housing can simply removed. This gives full access to the power steering gear and hoses. New line. Use a 16mm x 18mm flare nut wrench. It will be safer then a open end wrench since it provides a better grip. This will prevent any damage to the flare nut on the hose. Disconnect the hose on the power steering pump by loosing the flare nut in a counter clockwise rotation",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Yhh6q3R1XJx5oUOq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6vQVFJATf4MLJmL6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eOq1RKbEgsaFgfPX.standard"
+            ],
+            "StepId": 95030,
+            "Tools_extracted": [
+                "16 mmx18 mm flare nut wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "disconnect the hose on the power steering gear by loosing the flare nut in a counter clockwise rotation"
+                },
+                {
+                    "Text": "once both ends are disconnected , remove the hose from the vehicle ."
+                },
+                {
+                    "Text": "new line ."
+                },
+                {
+                    "Text": "install the supplied o-rings on either side of the new hose ."
+                }
+            ],
+            "Text_raw": "Disconnect the hose on the power steering gear by loosing the flare nut in a counter clockwise rotation Once both ends are disconnected, remove the hose from the vehicle. New line. Install the supplied O-rings on either side of the new hose.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uoWwjNHhSnmYme3R.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/g3LD5eTDCSFmaSqM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rycCZCmPlgfh4STy.standard"
+            ],
+            "StepId": 95032,
+            "Tools_extracted": [
+                "16 mmx18 mm flare nut wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "install new power steering pressure hose ."
+                }
+            ],
+            "Text_raw": "Install new power steering pressure hose.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1RALsCqoXhERA4QQ.standard"
+            ],
+            "StepId": 95033,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Power Steering Pressure Hose"
+}

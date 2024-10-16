@@ -1,0 +1,223 @@
+{
+    "Title": "2006-2008 Isuzu i-Series Wiper Motor Replacement",
+    "Ancestors": [
+        "Isuzu",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 31732,
+    "Category": "2006-2008 Isuzu i-Series",
+    "Toolbox": [
+        {
+            "Name": "spudger",
+            "Url": "http://www.ifixit.com/Tools/Spudger/IF145-002",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/fIQ3oZSjd1yLgqpX.mini"
+        },
+        {
+            "Name": "5 8 wrench",
+            "Url": "http://amzn.com/B000NPR42O",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 8 socket",
+            "Url": "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dtools&field-keywords=tekton+14134",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "https://www.ifixit.com/Store/Tools/Small-Needle-Nose-Pliers/IF145-058",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/wFGPUX2uMQPIiQCr.mini"
+        },
+        {
+            "Name": "10 mm wrench",
+            "Url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 2 open-ended wrench",
+            "Url": "/Item/1_2%22_Open-ended_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "1 2 socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1482-10-Inch-Polished-72-Tooth/dp/B00A50NAF2/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2006+2007+2008+Isuzu+i-Series+Wiper+Motor+Replacement/31732",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "use a plastic prying tool or spudger to gently remove nut cap from wiper base ."
+                }
+            ],
+            "Text_raw": "Use a plastic prying tool or spudger to gently remove nut cap from wiper base.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hMcJVlWdRXJUpJkT.standard"
+            ],
+            "StepId": 73790,
+            "Tools_extracted": [
+                "spudger"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use a 5 /8 wrench or socket to remove the necessary nut holding the wiper in place ."
+                }
+            ],
+            "Text_raw": "Use a 5/8 wrench or socket to remove the necessary nut holding the wiper in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lCMmNyjyYZqdEHV5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CfmgyDAYJ32B56du.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZAyxFFaVZUhRdu4M.standard"
+            ],
+            "StepId": 73791,
+            "Tools_extracted": [
+                "1 2 socket wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "once the necessary nuts are removed , the wiper blade itself can be removed ."
+                },
+                {
+                    "Text": "this can be done easiest by first flexing the wiper to the upright position , then gently pulling the wiper off of the screw ."
+                }
+            ],
+            "Text_raw": "Once the necessary nuts are removed, the wiper blade itself can be removed. This can be done easiest by first flexing the wiper to the upright position, then gently pulling the wiper off of the screw.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VHbWBpHPHyIlJw1S.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RcZqJJMS1uKbEmqU.standard"
+            ],
+            "StepId": 73792,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "open the hood of the truck for easier access to the wiper cowl ."
+                },
+                {
+                    "Text": "using pliers , locate the six retainer clips on the plastic cowl and remove them by pulling straight up ."
+                }
+            ],
+            "Text_raw": "Open the hood of the truck for easier access to the wiper cowl. Using pliers, locate the six retainer clips on the plastic cowl and remove them by pulling straight up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jBhNaAALP3nO2VQl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3EMjjKHw1U3SBduX.standard"
+            ],
+            "StepId": 73793,
+            "Tools_extracted": [
+                "needlenose pliers"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "position your hands underneath the wiper cowl and start to gently loosen the plastic from the windshield ."
+                },
+                {
+                    "Text": "pull straight towards the front of the truck to slide the wiper cowl over the screws that held the wiper blades , exposing the wiper components underneath ."
+                },
+                {
+                    "Text": "the wiper cowl is flexible and can therefore be removed a little bit at a time . take your time ."
+                }
+            ],
+            "Text_raw": "Position your hands underneath the wiper cowl and start to gently loosen the plastic from the windshield. Pull straight towards the front of the truck to slide the wiper cowl over the screws that held the wiper blades, exposing the wiper components underneath. The wiper cowl is flexible and can therefore be removed a little bit at a time. Take your time.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YN5nTkUntFPpw1Mp.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JQkyOFqtAuJKAtLj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fnFlP5FZUnuAFSDF.standard"
+            ],
+            "StepId": 73794,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "locate the two screws on each side of the wiper assembly ."
+                },
+                {
+                    "Text": "use a 10 mm socket or wrench and remove each screw ."
+                }
+            ],
+            "Text_raw": "Locate the two screws on each side of the wiper assembly. Use a 10mm socket or wrench and remove each screw.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TFpEaxFojxHbBEeM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wAqUn5XjWfod5NQN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rcJxtZpm1BO6ptjM.standard"
+            ],
+            "StepId": 73795,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "rotate assembly towards the windshield while starting to remove it from the truck ."
+                },
+                {
+                    "Text": "unplug the wiring harness located towards the driver's side of the truck ."
+                },
+                {
+                    "Text": "the wire can then be fed through to remove the assembly the rest of the way ."
+                }
+            ],
+            "Text_raw": "Rotate assembly towards the windshield while starting to remove it from the truck. Unplug the wiring harness located towards the driver's side of the truck. The wire can then be fed through to remove the assembly the rest of the way.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Y1EbnZT1ZhFFKKVJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bxpOad1QmoVPKQn1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XKtjdfZYEcFuwIbQ.standard"
+            ],
+            "StepId": 73797,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "remove the connecting arm socket with a 1 /2 inch wrench or socket ( red circle ) ."
+                },
+                {
+                    "Text": "remove the three motor bolts with a 10 mm wrench or socket ( orange circles ) ."
+                },
+                {
+                    "Text": "the wiper motor is now able to be replaced ."
+                }
+            ],
+            "Text_raw": "Remove the connecting arm socket with a 1/2 inch wrench or socket (red circle). Remove the three motor bolts with a 10mm wrench or socket (orange circles). The wiper motor is now able to be replaced.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dv1VYNPPd2GiImcR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HgAiJl2FaZIZp4Uu.standard"
+            ],
+            "StepId": 73801,
+            "Tools_extracted": [
+                "1 2 socket wrench",
+                "10 mm wrench"
+            ]
+        }
+    ],
+    "Subject": "Wiper Motor"
+}

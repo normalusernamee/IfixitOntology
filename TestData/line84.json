@@ -1,0 +1,294 @@
+{
+    "Title": "2003-2007 Honda Accord Spark Plugs Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 10944,
+    "Category": "2003-2007 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "10 mm hex driver socket",
+            "Url": "/Item/10_mm_hex_driver_socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 ratchet extension",
+            "Url": "http://www.amazon.com/TEKTON-14267-2-Inch-10-Inch-Extension/dp/B000NPZ5TI/ref=sr_1_1?ie=UTF8&qid=1407776986&sr=8-1&keywords=10%22+Ratchet+Extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 8 spark plug socket",
+            "Url": "http://www.amazon.com/dp/B004QO9F0W/ref=cm_sw_su_dp",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2003+2004+2005+2006+2007+Honda+Accord+Spark+Plugs+Replacement/10944",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the hood latch beside the driver's side door , right next to the left foot rest ."
+                }
+            ],
+            "Text_raw": "Locate the hood latch beside the driver's side door, right next to the left foot rest.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NSjYhEA23iAKNwmh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/diHAcUUQAKctjJHl.standard"
+            ],
+            "StepId": 39936,
+            "Tools_extracted": [
+                "10 mm hex driver socket"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "pull the latch toward you to release the hood ."
+                }
+            ],
+            "Text_raw": "Pull the latch toward you to release the hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YIuxlPgwiJUSChbd.standard"
+            ],
+            "StepId": 41987,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "walk around to the front of the vehicle ."
+                },
+                {
+                    "Text": "slide your hand under the hood , directly above the honda emblem . locate and pull the hood tab to unlock the hood ."
+                },
+                {
+                    "Text": "once the tab is released , lift the hood up ."
+                }
+            ],
+            "Text_raw": "Walk around to the front of the vehicle. Slide your hand under the hood, directly above the Honda emblem. Locate and pull the hood tab to unlock the hood. Once the tab is released, lift the hood up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ybu3ZsR2KjnojtMl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KGkLxNUjKGvWtJuj.standard"
+            ],
+            "StepId": 39937,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use your left hand to hold the hood up . locate the hood stand and pull it out of the clip ."
+                }
+            ],
+            "Text_raw": "Use your left hand to hold the hood up. Locate the hood stand and pull it out of the clip.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bk3mU1myDjWAa1p4.standard"
+            ],
+            "StepId": 39938,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "place the tip of the hood stand into the hole located in the upper left of the hood ."
+                },
+                {
+                    "Text": "let the hood rest on the stand ."
+                }
+            ],
+            "Text_raw": "Place the tip of the hood stand into the hole located in the upper left of the hood. Let the hood rest on the stand.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LnPagmD6xDNhLhXl.standard"
+            ],
+            "StepId": 41988,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "use a 10 mm hex driver or socket to remove the four screws that hold the spark plug cover in place ."
+                },
+                {
+                    "Text": "lift the plastic cover and set it aside ."
+                }
+            ],
+            "Text_raw": "Use a 10 mm hex driver or socket to remove the four screws that hold the spark plug cover in place. Lift the plastic cover and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HqTplX1RLfTVLMGF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Lnn2pAQBTpti5UpT.standard"
+            ],
+            "StepId": 40682,
+            "Tools_extracted": [
+                "10 mm hex driver socket"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the spark plug wire by pinching the locking tabs on either side of it and pulling it out ."
+                }
+            ],
+            "Text_raw": "Remove the spark plug wire by pinching the locking tabs on either side of it and pulling it out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SvxYbHi2slX2VKVB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/laSfAjUy6sCh22FF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UqoVbMbljT1NoWfR.standard"
+            ],
+            "StepId": 40074,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "use a 10 mm hex driver or socket to remove the four spark plug boot screws ."
+                }
+            ],
+            "Text_raw": "Use a 10 mm hex driver or socket to remove the four spark plug boot screws.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qETLjQgXMrDxjUke.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1QAkePIOPUfow22w.standard"
+            ],
+            "StepId": 39925,
+            "Tools_extracted": [
+                "10 mm hex driver socket"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "lift the boot screws out of the spark plug bores ."
+                }
+            ],
+            "Text_raw": "Lift the boot screws out of the spark plug bores.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sfFDjjnOcJcsSxrh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kfMIyWcbBZwap2LT.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GmAZOUO3extrVEAv.standard"
+            ],
+            "StepId": 40075,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "locate the spark plug at the bottom of the bore ."
+                },
+                {
+                    "Text": "use a ratchet , extension , and 5 /8 socket to remove the plug by turning counterclockwise until it's free ."
+                }
+            ],
+            "Text_raw": "Locate the spark plug at the bottom of the bore. Use a ratchet, extension, and 5/8 socket to remove the plug by turning counterclockwise until it's free.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Akju3cd2Dk645ZLC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gms15Qkl5UPLYN2p.standard"
+            ],
+            "StepId": 40076,
+            "Tools_extracted": [
+                "5 8 spark plug socket",
+                "10 ratchet extension"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "pull the plug out of the bore ."
+                }
+            ],
+            "Text_raw": "Pull the plug out of the bore.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EsjKcEsNLxdoH3HH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UpCIopCwVytZZZvA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MRKqDFKNjQlJmu1Y.standard"
+            ],
+            "StepId": 40077,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "determine if the spark plug needs to be replaced by examining the gap for the problems listed below :"
+                },
+                {
+                    "Text": "the gap is bridged by corrosion ."
+                },
+                {
+                    "Text": "the gap is too large ."
+                },
+                {
+                    "Text": "the area around the gap is black and dark ."
+                }
+            ],
+            "Text_raw": "Determine if the spark plug needs to be replaced by examining the gap for the problems listed below: The gap is bridged by corrosion. The gap is too large. The area around the gap is black and dark.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VblCuRRkKWGuSNBc.standard"
+            ],
+            "StepId": 40078,
+            "Tools_extracted": [
+                "5 8 spark plug socket"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "if the spark plug doesn't need to be replaced , return it to the spark plug bore . if it does need to be replaced , use a new one ."
+                },
+                {
+                    "Text": "use of anti-seize on the thread of spark plug is highly recommended to ensure threads don't get damaged while tightening ."
+                },
+                {
+                    "Text": "use a ratchet , extension , and 5 /8 socket to tighten the spark plug by turning clockwise . use your hand to tighten as well ."
+                },
+                {
+                    "Text": "if a torque wrench is available , tighten to 13 ft-lbs ."
+                },
+                {
+                    "Text": "repeat steps 10-13 for the three remaining spark plugs ."
+                }
+            ],
+            "Text_raw": "If the spark plug doesn't need to be replaced, return it to the spark plug bore. If it does need to be replaced, use a new one. Use of Anti-Seize on the thread of spark plug is highly recommended to ensure threads don't get damaged while tightening. Use a ratchet, extension, and 5/8 socket to tighten the spark plug by turning clockwise. Use your hand to tighten as well. If a torque wrench is available, tighten to 13 ft-lbs. Repeat Steps 10-13 for the three remaining spark plugs.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FCx6TfX2KOQ14BTn.standard"
+            ],
+            "StepId": 40083,
+            "Tools_extracted": [
+                "5 8 spark plug socket",
+                "socket wrench"
+            ]
+        }
+    ],
+    "Subject": "Spark Plugs"
+}

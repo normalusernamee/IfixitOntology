@@ -1,0 +1,133 @@
+{
+    "Title": "1997-2003 Chevrolet Malibu Fluid Check",
+    "Ancestors": [
+        "Chevrolet Malibu",
+        "Chevrolet",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11424,
+    "Category": "1997-2003 Chevrolet Malibu",
+    "Toolbox": [
+        {
+            "Name": "latex or nitrile gloves",
+            "Url": "http://www.amazon.com/dp/B00J084MHA/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1997+1998+1999+2000+2001+2002+2003+Chevrolet+Malibu+Fluid+Check/11424",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "use caution while handling brake fluid . brake fluid strips paint and dissolves plastic ."
+                },
+                {
+                    "Text": "there is a maximum fluid line on the right side of the reservoir . remove the brake fluid cap and fill the brake fluid to the maximum level line ."
+                }
+            ],
+            "Text_raw": "Use caution while handling brake fluid. Brake fluid strips paint and dissolves plastic. There is a maximum fluid line on the right side of the reservoir. Remove the brake fluid cap and fill the brake fluid to the maximum level line.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2ZPOTPscnGswIcAQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/X3tddOqRFrDtBoyy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6u4uBpymD2JmZDuU.standard"
+            ],
+            "StepId": 40890,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "do not overfill the power steering fluid reservoir , as this can overwork the power steering pump and cause it to burn up ."
+                },
+                {
+                    "Text": "remove the power steering fluid cap . check the fluid level using the dipstick attached to the cap ."
+                },
+                {
+                    "Text": "fill the power steering fluid to the appropriate level indicated by the h for hot and the c for cold ."
+                },
+                {
+                    "Text": "if the car has not been started then the fluid is cold . if the engine has been running for five minutes or more , then it is hot ."
+                }
+            ],
+            "Text_raw": "Do not overfill the power steering fluid reservoir, as this can overwork the power steering pump and cause it to burn up. Remove the power steering fluid cap. Check the fluid level using the dipstick attached to the cap. Fill the power steering fluid to the appropriate level indicated by the \"H\" for hot and the \"C\" for cold. If the car has not been started then the fluid is cold.  If the engine has been running for five minutes or more, then it is hot.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Tmum2lTqcRlrFCP2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gbX4JfygZqbX2P12.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Yi4OIvdAikPyWoSK.standard"
+            ],
+            "StepId": 40891,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use the yellow handled oil dipstick to check the oil level by removing the dipstick , wiping off the oil , and re-inserting it ."
+                },
+                {
+                    "Text": "remove the dipstick again and check the oil level . full level is read on the right side of the dipstick ."
+                }
+            ],
+            "Text_raw": "Use the yellow handled oil dipstick to check the oil level by removing the dipstick, wiping off the oil, and re-inserting it. Remove the dipstick again and check the oil level. Full level is read on the right side of the dipstick.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Slr4Ol6Z26MnbntU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oM3qMddtt4UG6kB1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ubrI3HawmrWDxxKj.standard"
+            ],
+            "StepId": 40896,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "if the oil level is below full , add oil to the car by removing the cap labeled engine oil ."
+                },
+                {
+                    "Text": "add a small amount of oil and repeat step 3 until the oil level is full ."
+                }
+            ],
+            "Text_raw": "If the oil level is below full, add oil to the car by removing the cap labeled \"Engine Oil.\" Add a small amount of oil and repeat Step 3 until the oil level is full.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2yD6FmhGUGlAqVrZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eBLFVS5FT1VMFN2D.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QcdvQDXrvUOPrXhe.standard"
+            ],
+            "StepId": 40898,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "make sure the engine is cool before removing the radiator reservoir cap . radiator coolant needs to be disposed of properly . visit this link for more information"
+                },
+                {
+                    "Text": "remove the radiator reservoir cap and fill it with coolant until it reaches the full level indicator line on the front side of the reservoir ."
+                }
+            ],
+            "Text_raw": "Make sure the engine is cool before removing the radiator reservoir cap. Radiator coolant needs to be disposed of properly. Visit this link for more information http://www.epa.gov/osw/conserve/materials/antifree.htm Remove the radiator reservoir cap and fill it with coolant until it reaches the full level indicator line on the front side of the reservoir.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/opZWcHNswDEeZhlH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ynXTg36DIPgCjUdU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/avFRHBFKdEadX1ue.standard"
+            ],
+            "StepId": 40899,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

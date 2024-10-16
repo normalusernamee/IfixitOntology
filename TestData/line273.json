@@ -1,0 +1,85 @@
+{
+    "Title": "2012-2017 Toyota Camry Spark Plug Replacement",
+    "Ancestors": [
+        "Toyota Camry",
+        "Toyota",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 95237,
+    "Category": "2012-2017 Toyota Camry",
+    "Toolbox": [
+        {
+            "Name": "3 8 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_1?ie=UTF8&qid=1487787284&sr=8-1&keywords=3+8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8-inch drive extension bar",
+            "Url": "https://www.amazon.com/TEKTON-1601-8-Inch-Extension-3-Piece/dp/B00943KFTA/ref=sr_1_1?ie=UTF8&qid=1487786894&sr=8-1&keywords=3+8+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "spark plug socket",
+            "Url": "https://www.amazon.com/GearWrench-80546-8-Inch-6-Inch-Swivel/dp/B0014ZVSVK/ref=sr_1_1?ie=UTF8&qid=1480629388&sr=8-1&keywords=5%2F8+spark+plug+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "anti-seize lubricant",
+            "Url": "http://www.amazon.com/Permatex-80071-Anti-Seize-Lubricant-Bottle/dp/B000CCMKZY/ref=sr_1_2?s=automotive&ie=UTF8&qid=1356890160&sr=1-2&keywords=anti-seize+compound",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "dielectric grease",
+            "Url": "http://www.amazon.com/dp/B000AL8VD2/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "spark plug gap gauge",
+            "Url": "http://www.amazon.com/Lisle-67870-Spark-Plug-Gauge/dp/B0002STS2Q/ref=sr_1_5?s=automotive&ie=UTF8&qid=1356975161&sr=1-5&keywords=spark+plug+gap+gauge",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2012+2013+2014+2015+2016+2017+Toyota+Camry+Spark+Plug+Replacement/95237",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "insert wisdom here ."
+                }
+            ],
+            "Text_raw": "Insert wisdom here.",
+            "Images": [],
+            "StepId": 176723,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "insert wisdom here ."
+                }
+            ],
+            "Text_raw": "Insert wisdom here.",
+            "Images": [],
+            "StepId": 176724,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Spark Plug"
+}

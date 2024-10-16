@@ -1,0 +1,249 @@
+{
+    "Title": "1994-2001 Acura Integra Head Unit Replacement",
+    "Ancestors": [
+        "Acura Integra",
+        "Acura",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 3601,
+    "Category": "1994-2001 Acura Integra",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1994+1995+1996+1997+1998+1999+2000+2001+Acura+Integra+Head+Unit+Replacement/3601",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "remove the two phillips screws at the very rear of the center console near the floor ."
+                }
+            ],
+            "Text_raw": "Remove the two Phillips screws at the very rear of the center console near the floor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kFVNe4G6uBcrEmqQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/f2NwEPFkvItHyXJu.standard"
+            ],
+            "StepId": 17226,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "insert a small flathead screwdriver into the notch at the driver's side rear corner of the screw cover directly below the parking brake lever and pry it off ."
+                },
+                {
+                    "Text": "remove the two phillips screws that were underneath the screw cover ."
+                }
+            ],
+            "Text_raw": "Insert a small flathead screwdriver into the notch at the driver's side rear corner of the screw cover directly below the parking brake lever and pry it off. Remove the two Phillips screws that were underneath the screw cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FvriAHHMuqMm2Fxr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/r3ceoDYaGs2kxZJK.standard"
+            ],
+            "StepId": 17227,
+            "Tools_extracted": [
+                "flathead screwdriver",
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "grab the bottom of the rear portion of the console and lift up and away from the front of the car ."
+                },
+                {
+                    "Text": "remove the rear portion of the center console ."
+                }
+            ],
+            "Text_raw": "Grab the bottom of the rear portion of the console and lift up and away from the front of the car. Remove the rear portion of the center console.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PvUGNRZKtDBgfJEf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/U6uVQrM5pTClV5QL.standard"
+            ],
+            "StepId": 17228,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "pull the ash tray out from the center console until it stops ."
+                },
+                {
+                    "Text": "push down on the metal plate at the top of the ash tray and continue to pull the tray out until it is completely removed ."
+                }
+            ],
+            "Text_raw": "Pull the ash tray out from the center console until it stops. Push down on the metal plate at the top of the ash tray and continue to pull the tray out until it is completely removed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2vYHfwEl3LhpvLlq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CGmpOLWfcO2S5TJ4.standard"
+            ],
+            "StepId": 17229,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove two phillips screws from behind the ash tray ."
+                },
+                {
+                    "Text": "remove the lower portion of the console that contains the cigarette lighter from the rest of the center console ."
+                },
+                {
+                    "Text": "disconnect the electrical connector for the cigarette lighter by first depressing the tab on top , and then pulling directly out of the socket ."
+                }
+            ],
+            "Text_raw": "Remove two Phillips screws from behind the ash tray. Remove the lower portion of the console that contains the cigarette lighter from the rest of the center console. Disconnect the electrical connector for the cigarette lighter by first depressing the tab on top, and then pulling directly out of the socket.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BSsuF3KTQFHhTeEK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/X3QCtTsrckLm6nsO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TNeVlPguRWqYdUnk.standard"
+            ],
+            "StepId": 17230,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove four phillips screws that hold the side pieces of the front portion of the console in place ."
+                },
+                {
+                    "Text": "two below the radio pocket ."
+                },
+                {
+                    "Text": "two on the faces of the side pieces , one on either side ."
+                }
+            ],
+            "Text_raw": "Remove four Phillips screws that hold the side pieces of the front portion of the console in place. Two below the radio pocket. Two on the faces of the side pieces, one on either side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gODXD6OriPXegTxC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/V4ZwDZWXUIFunFDX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/We4sHI2riGsvpWjp.standard"
+            ],
+            "StepId": 17231,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the shift knob by unscrewing it counter-clockwise ."
+                },
+                {
+                    "Text": "lift the front portion of the center console up and away from the front of the car ."
+                },
+                {
+                    "Text": "it may be necessary to pull the emergency brake handle up further to create enough room to remove the front portion of the center console ."
+                }
+            ],
+            "Text_raw": "Remove the shift knob by unscrewing it counter-clockwise. Lift the front portion of the center console up and away from the front of the car. It may be necessary to pull the emergency brake handle up further to create enough room to remove the front portion of the center console.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AapOvhHOrP1JfxGu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CXftwmcZ5JPllVXR.standard"
+            ],
+            "StepId": 17232,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "to remove the factory head unit , you must position yourself on your back with your head behind the dash . use a flashlight or headlamp and look up towards the area where the head unit sits ."
+                },
+                {
+                    "Text": "use a very short screwdriver to remove the two downward-facing phillips screws that hold the head unit in place ."
+                },
+                {
+                    "Text": "with enough light it is fairly easy to identify these two screws , since they have large , hex-shaped heads ."
+                },
+                {
+                    "Text": "be very careful when removing these screws , since the metal brackets behind the dash have sharp edges . you may wish to wear some sort of gloves to keep from scratching your hands ."
+                }
+            ],
+            "Text_raw": "To remove the factory head unit, you must position yourself on your back with your head behind the dash. Use a flashlight or headlamp and look up towards the area where the head unit sits. Use a very short screwdriver to remove the two downward-facing Phillips screws that hold the head unit in place. With enough light it is fairly easy to identify these two screws, since they have large, hex-shaped heads. Be very careful when removing these screws, since the metal brackets behind the dash have sharp edges. You may wish to wear some sort of gloves to keep from scratching your hands.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aSqUmPoxSSx3EZrd.standard"
+            ],
+            "StepId": 17249,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "grab the pocket below the factory radio and pull the head unit a few inches out of the dash ."
+                },
+                {
+                    "Text": "there are connectors on the back of the head unit that must be disconnected before it can be removed entirely ."
+                }
+            ],
+            "Text_raw": "Grab the pocket below the factory radio and pull the head unit a few inches out of the dash. There are connectors on the back of the head unit that must be disconnected before it can be removed entirely.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KJHnHJJCcdeKqmOa.standard"
+            ],
+            "StepId": 17271,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "disconnect the connector that includes all of the power and signal wires from the back of the head unit by first pushing down on the small tab on top of the connector , and then pulling straight out ."
+                },
+                {
+                    "Text": "remove the radio antenna cable from the back of the head unit by pulling it straight out ."
+                },
+                {
+                    "Text": "with these two things removed , the entire head unit can be pulled out of the dash ."
+                },
+                {
+                    "Text": "when installing the new stereo , make sure that the speaker and signal wires are not getting in the way of the head unit sliding all the way into place ."
+                },
+                {
+                    "Text": "if you are installing an after-market head unit , you don't need to reuse the two phillips screws , because the adapter bracket for the head unit will clip into the dash ."
+                }
+            ],
+            "Text_raw": "Disconnect the connector that includes all of the power and signal wires from the back of the head unit by first pushing down on the small tab on top of the connector, and then pulling straight out. Remove the radio antenna cable from the back of the head unit by pulling it straight out. With these two things removed, the entire head unit can be pulled out of the dash. When installing the new stereo, make sure that the speaker and signal wires are not getting in the way of the head unit sliding all the way into place. If you are installing an after-market head unit, you don't need to reuse the two Phillips screws, because the adapter bracket for the head unit will clip into the dash.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WZowPVejYD2NlTW1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/y4urEVVNZHDrtikL.standard"
+            ],
+            "StepId": 17250,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        }
+    ],
+    "Subject": "Head Unit"
+}

@@ -1,0 +1,255 @@
+{
+    "Title": "How to Replace Battery and Program Keyless Entry Remote for a Mercury Mountaineer  1997-2007",
+    "Ancestors": [
+        "Auto Accessory",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 50514,
+    "Category": "Keyless Entry Remote",
+    "Toolbox": [
+        {
+            "Name": "screwdriver",
+            "Url": "https://www.ifixit.com/Store/Parts/64-Bit-Driver-Kit/IF145-299-1",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "paper towels",
+            "Url": "http://www.amazon.com/Sparkle-Paper-Towels-Giant-Pick-A-Size/dp/B00BGN8PLG/ref=sr_1_1?ie=UTF8&qid=1390949049&sr=8-1&keywords=paper+towel",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+Replace+Battery+and+Program+Keyless+Entry+Remote+for+a+Mercury+Mountaineer++1997+1998+1999+2000+2001+2002+2003+2004+2005+2006+2007/50514",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the space to put the screwdriver ."
+                },
+                {
+                    "Text": "put the screwdriver in this space and pry open the remote ."
+                },
+                {
+                    "Text": "you do not need to use much force to open it ."
+                }
+            ],
+            "Text_raw": "Locate the space to put the screwdriver. Put the screwdriver in this space and pry open the remote. You do not need to use much force to open it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GwCAQUlAxng2fXvN.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iiwtBHOp5TYBSX1R.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yhVLhMjrCoZJDPYL.standard"
+            ],
+            "StepId": 109464,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "take the half with the buttons and use your fingernails to take out the button pad ."
+                }
+            ],
+            "Text_raw": "Take the half with the buttons and use your fingernails to take out the button pad.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FZT3HvsE3uNh1tNd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fJiO2qP1X6CkODuq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NiO1FdaSpj1P6yEx.standard"
+            ],
+            "StepId": 109486,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "clean out dirt from remote cover and button pad ."
+                },
+                {
+                    "Text": "this helps the remote stick once you put it back together ."
+                }
+            ],
+            "Text_raw": "Clean out dirt from remote cover and button pad. This helps the remote stick once you put it back together.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gnGNZiHIgwrxPqIl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wBWtgmQQtGRFoxci.standard"
+            ],
+            "StepId": 109506,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "put the screwdriver in between the battery and the remote cover ."
+                },
+                {
+                    "Text": "push the screwdriver down which will make the battery pop out of the remote cover ."
+                }
+            ],
+            "Text_raw": "Put the screwdriver in between the battery and the remote cover. Push the screwdriver down which will make the battery pop out of the remote cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ndLetk1CcBm3rbTf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/J3TF6wQR2RiQlrL4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xShTIYWCRFqqaFNF.standard"
+            ],
+            "StepId": 109519,
+            "Tools_extracted": [
+                "screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "get your new battery and locate the positive side ."
+                },
+                {
+                    "Text": "put the positive side facing down towards the cover ."
+                },
+                {
+                    "Text": "click it into its position ."
+                },
+                {
+                    "Text": "take the other half of the remote and put the case back together ."
+                }
+            ],
+            "Text_raw": "Get your new battery and locate the positive side. Put the positive side facing down towards the cover. Click it into its position. Take the other half of the remote and put the case back together.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uCpq2DhmuN5MeRIc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/snVrUtxdpPfd5ILs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6pI2FZkt42MvBIWn.standard"
+            ],
+            "StepId": 109530,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "get in your vehicle and make sure all doors are closed ."
+                },
+                {
+                    "Text": "put the key in the ignition ."
+                }
+            ],
+            "Text_raw": "Get in your  vehicle and make sure all doors are closed. Put the key in the ignition.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lfVZakU6wSpgPX6s.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pINIQFmw1WEiAylc.standard"
+            ],
+            "StepId": 109532,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "these are the positions the key has to be in to be on and off ."
+                },
+                {
+                    "Text": "this position is on ."
+                },
+                {
+                    "Text": "this position is off ."
+                }
+            ],
+            "Text_raw": "These are the positions the key has to be in to be on and off. This position is on. This position is off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3uJq5NbmeEbvAdx2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/43vM1XeUaQtZWGDU.standard"
+            ],
+            "StepId": 110382,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "turn the car on ."
+                },
+                {
+                    "Text": "turn the car off ."
+                },
+                {
+                    "Text": "repeat this eight times ."
+                },
+                {
+                    "Text": "do not turn on the engine ."
+                },
+                {
+                    "Text": "stop on the eighth time with the key turning the car on ."
+                }
+            ],
+            "Text_raw": "Turn the car on. Turn the car off. Repeat this eight times. Do not turn on the engine. Stop on the eighth time with the key turning the car on.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xNDZVPYKdDnkFGH4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2RENhEyxCJAlAtQl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ux56b3QTIlGmKZvZ.standard"
+            ],
+            "StepId": 109535,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "the car ( not the engine ) should be on for this whole step ."
+                },
+                {
+                    "Text": "you will then hear the car lock then unlock , telling you that it is time to pair the remote with the vehicle ."
+                },
+                {
+                    "Text": "then press any button on the remote to pair with the car ."
+                },
+                {
+                    "Text": "the car should then lock and unlock again to verify that your vehicle and your remote have paired ."
+                }
+            ],
+            "Text_raw": "The car (not the engine) should be on for this whole step. You will then hear the car lock then unlock, telling you that it is time to pair the remote with the vehicle. Then press any button on the remote to pair with the car. The car should then lock and unlock again to verify that your vehicle and your remote have paired.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NDUxEorum1wyVYTB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/r3KRkZQwNV5RxPoA.standard"
+            ],
+            "StepId": 109538,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "turn off the car and take it out of the ignition ."
+                },
+                {
+                    "Text": "click all four buttons to check and see if the remote is paired ."
+                }
+            ],
+            "Text_raw": "Turn off the car and take it out of the ignition. Click all four buttons to check and see if the remote is paired.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/skNmHUkl2VNyEgYc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vbDPEETWa1UQnLQ1.standard"
+            ],
+            "StepId": 109550,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Battery"
+}

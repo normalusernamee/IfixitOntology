@@ -1,0 +1,354 @@
+{
+    "Title": "1988-1994 Nissan Model 240SX Steering Wheel Replacement",
+    "Ancestors": [
+        "Nissan 240SX",
+        "Nissan",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 87843,
+    "Category": "1989-1994 Nissan Model 240SX",
+    "Toolbox": [
+        {
+            "Name": "3 8 drive ratchet",
+            "Url": "https://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_1?ie=UTF8&qid=1487787284&sr=8-1&keywords=3+8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        },
+        {
+            "Name": "3 mm hex key or bit",
+            "Url": "https://www.ifixit.com/Store/Parts/64-Bit-Driver-Kit/IF145-299",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "paint marker",
+            "Url": "/Item/Paint_Marker",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-Shallow-Socket-6-Point/dp/B000NPULD8/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "15 mm socket wrench",
+            "Url": "https://www.amazon.com/TEKTON-14147-8-Inch-Shallow-6-Point/dp/B000NPR4BA/ref=sr_1_1?ie=UTF8&qid=1488405884&sr=8-1&keywords=15mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "13 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-14145-8-Inch-Shallow-6-Point/dp/B000NY5CQK/ref=sr_1_1?ie=UTF8&qid=1488830200&sr=8-1&keywords=13mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "steering wheel puller tool",
+            "Url": "/Item/Steering_Wheel_Puller_Tool",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "threadlocking compound",
+            "Url": "/Item/Threadlocking_Compound",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "latex or nitrile gloves",
+            "Url": "http://www.amazon.com/dp/B00J084MHA/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1988+1989+1990+1991+1992+1993+1994+Nissan+Model+240SX+Steering+Wheel+Replacement/87843",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "gather the hardware , tools and protective equipment ."
+                }
+            ],
+            "Text_raw": "Gather the hardware, tools and protective equipment.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FCZmZWDDsK36vhcv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HLDvnKY2sAw12qE2.standard"
+            ],
+            "StepId": 167324,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "straighten the steering wheel and remove the key from the ignition ."
+                }
+            ],
+            "Text_raw": "Straighten the steering wheel and remove the key from the ignition.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pukQmGZuFlFEon2P.standard"
+            ],
+            "StepId": 167325,
+            "Tools_extracted": [
+                "steering wheel puller tool"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "grip the steering wheel horn pad , placing your fingertips at the edges ."
+                },
+                {
+                    "Text": "gently pull it straight towards you and the clips will release it ."
+                }
+            ],
+            "Text_raw": "Grip the steering wheel horn pad, placing your fingertips at the edges. Gently pull it straight towards you and the clips will release it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CDNDHd6QYwfPEF51.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/31E1bRR6OMGXCieG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QWcTDKJ54ihUoRuD.standard"
+            ],
+            "StepId": 167326,
+            "Tools_extracted": [
+                "steering wheel puller tool"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use a paint marker to mark a reference point for the top center of the steering wheel on the face of the steering shaft ."
+                }
+            ],
+            "Text_raw": "Use a paint marker to mark a reference point for the top center of the steering wheel on the face of the steering shaft.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/f1OIDfaG1KKRwJBO.standard"
+            ],
+            "StepId": 167328,
+            "Tools_extracted": [
+                "paint marker"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "using a 19 mm socket and ratchet , loosen the steering wheel retainer nut and remove it ."
+                }
+            ],
+            "Text_raw": "Using a 19mm socket and ratchet, loosen the steering wheel retainer nut and remove it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fgo2mPsGP25PEMn2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ASg2bWsYVxF1FJCh.standard"
+            ],
+            "StepId": 167331,
+            "Tools_extracted": [
+                "3 8 inch drive socket ratchet extension"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "place the puller tool on the wheel aligning the steering shaft with the press head and the two threaded holes in the steering wheel with the holes in the ears of the puller ."
+                },
+                {
+                    "Text": "run the bolts , from the puller tool , through the holes in the ears and thread them into the steering wheel hand tight ."
+                }
+            ],
+            "Text_raw": "Place the puller tool on the wheel aligning the steering shaft with the press head and the two threaded holes in the steering wheel with the holes in the ears of the puller. Run the bolts, from the puller tool, through the holes in the ears and thread them into the steering wheel hand tight.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UCpPhMdAHjSVAdgJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uQfUDjg6fju4OPKA.standard"
+            ],
+            "StepId": 167335,
+            "Tools_extracted": [
+                "steering wheel puller tool"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "slowly tighten the press shaft until the steering wheel releases ."
+                },
+                {
+                    "Text": "this should not take much force to accomplish . if something starts bending or you have to use excessive force tightening the shaft , stop , reinstall the steering wheel retaining nut , and take the vehicle to a professional ."
+                }
+            ],
+            "Text_raw": "Slowly tighten the press shaft until the steering wheel releases. This should not take much force to accomplish. If something starts bending or you have to use excessive force tightening the shaft, stop, reinstall the steering wheel retaining nut, and take the vehicle to a professional.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6F2SXxLMqp4yaIEr.standard"
+            ],
+            "StepId": 167339,
+            "Tools_extracted": [
+                "steering wheel puller tool"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "install the steering wheel hub onto the steering shaft , aligning the top center mark on the hub with the paint mark you made in step 4."
+                }
+            ],
+            "Text_raw": "Install the steering wheel hub onto the steering shaft, aligning the top center mark on the hub with the paint mark you made in Step 4.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rHFAVwhL5XrSdjXp.standard"
+            ],
+            "StepId": 167341,
+            "Tools_extracted": [
+                "steering wheel puller tool"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "reinstall the steering wheel retaining nut torqueing it down to 29 ftlb using a torque wrench ."
+                }
+            ],
+            "Text_raw": "Reinstall the steering wheel retaining nut torqueing it down to 29 ft*lb using a torque wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pNDohY4rBTVxAilR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qjlutxBBnBxBv4yD.standard"
+            ],
+            "StepId": 167343,
+            "Tools_extracted": [
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "place the inner horn retainer ring in-between the new steering wheel and hub , aligning the six bolt holes , and place one screw , finger tight , in the hub to temporarily hold everything in place ."
+                }
+            ],
+            "Text_raw": "Place the inner horn retainer ring in-between the new steering wheel and hub, aligning the six bolt holes, and place one screw, finger tight, in the hub to temporarily hold everything in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xVsdedZVvy5dMVB1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oRPqEZDxYCui4oiD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/v5lLd1BhDgXLhXNY.standard"
+            ],
+            "StepId": 167344,
+            "Tools_extracted": [
+                "steering wheel puller tool"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "make the wiring connections for the horn ."
+                }
+            ],
+            "Text_raw": "Make the wiring connections for the horn.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LrSVbldd21tu6eH5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CcG6VmTIOqYFMAWk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sRdMgZSRqCeoFFoT.standard"
+            ],
+            "StepId": 167347,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "press the horn into the inner horn retainer ."
+                }
+            ],
+            "Text_raw": "Press the horn into the inner horn retainer.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PCu4JBQeCl5V3WeA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CNe3NdZASyGhHZFg.standard"
+            ],
+            "StepId": 167351,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "hold the assembly steady and remove the screw that was temporarily installed ."
+                },
+                {
+                    "Text": "place the outer horn retainer over the horn aligning the bolt pattern ."
+                },
+                {
+                    "Text": "reinsert the screw to temporarily hold the steering wheel assembly together ."
+                }
+            ],
+            "Text_raw": "Hold the assembly steady and remove the screw that was temporarily installed. Place the outer horn retainer over the horn aligning the bolt pattern. Reinsert the screw to temporarily hold the steering wheel assembly together.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kmXDXdgtHhXMdrri.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dTkm2cfEGVhySdnX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EW5XpfY42QiOQUPU.standard"
+            ],
+            "StepId": 167353,
+            "Tools_extracted": [
+                "steering wheel puller tool"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "place a drop of low strength thread locking compound to each screw and thread them into the steering wheel hub ."
+                },
+                {
+                    "Text": "do not use excessive thread locking compound . it only takes a drop . this step is to ensure the screws do not loosen due to vibrations ."
+                }
+            ],
+            "Text_raw": "Place a drop of low strength thread locking compound to each screw and thread them into the steering wheel hub. Do not use excessive thread locking compound. It only takes a drop. This step is to ensure the screws do not loosen due to vibrations.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/belMBySZTDY2fVF5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/R4t6OsWNIkkoOOCR.standard"
+            ],
+            "StepId": 167358,
+            "Tools_extracted": [
+                "steering wheel puller tool",
+                "threadlocking compound"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "tighten these screws using a 3 mm hex wrench ."
+                },
+                {
+                    "Text": "tighten the screws in a star pattern sequence starting with the bolt circled in red ."
+                }
+            ],
+            "Text_raw": "Tighten these screws using a 3 mm hex wrench. Tighten the screws in a \"star\"  pattern sequence starting with the bolt circled in red.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vYPXYATOLqmue4A1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VWJdjgJOXrZOvsfy.standard"
+            ],
+            "StepId": 167359,
+            "Tools_extracted": [
+                "3 mm hex key or bit"
+            ]
+        }
+    ],
+    "Subject": "Steering Wheel"
+}

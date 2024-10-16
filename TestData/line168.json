@@ -1,0 +1,153 @@
+{
+    "Title": "Mercedes W114/W115 Cluster Clock replacement and troubleshooting",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 26127,
+    "Category": "Mercedes W115",
+    "Toolbox": [
+        {
+            "Name": "phillips screwdriver",
+            "Url": "/Item/flat_head_amp_philips_screw_driver",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "test probe",
+            "Url": "/Item/test_probe",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "12 v bulb and socket",
+            "Url": "/Item/12v_bulb_and_socket",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W114-W115+Cluster+Clock+replacement+and+troubleshooting/26127",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the area that houses the clock . unscrew the two barrels and place it aside ."
+                },
+                {
+                    "Text": "carefully pull out the clock without damaging any other parts ."
+                }
+            ],
+            "Text_raw": "Locate the area that houses the clock. Unscrew the two barrels and place it aside. Carefully pull out the clock without damaging any other parts.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MLeKMNtDXfC1WvTM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3SBlE5j2yWf1CYRC.standard"
+            ],
+            "StepId": 65842,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "connect the screw ( located behind the clock ) to the negative supply of the battery , and then the small pin to the positive supply ."
+                }
+            ],
+            "Text_raw": "Connect the screw (located behind the clock) to the negative supply of the battery, and then the small pin to the positive supply.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cAuphVK4UbFSABNE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dCKO4VDZh1JOgga5.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ktmdYhfYKJaxdgmY.standard"
+            ],
+            "StepId": 65843,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "to check the clock , set the time to something you can remember and set it aside ."
+                }
+            ],
+            "Text_raw": "To check the clock, set the time to something you can remember and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jPgL6EnACeJ16euh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bEGNfPr1NyVKWHKF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yKBnX3g6S2XQhrIG.standard"
+            ],
+            "StepId": 65844,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "to check the power supply of the clock , locate the electrical connector and find the pin on it which supplies the power ( 12 v ) to the clock ."
+                },
+                {
+                    "Text": "take a small bulb and socket and bridge a wire from the 12 v pin supplied from the electrical connector , to one of the two wires on the bulb and socket ."
+                },
+                {
+                    "Text": "next find a ground supply nearby ( the best place would be the key hole ) and bridge another wire from it to the second available wire on the bulb and socket ."
+                },
+                {
+                    "Text": "if the bulb lights up , it means your clock has power ."
+                }
+            ],
+            "Text_raw": "To check the power supply of the clock, locate the electrical connector and find the pin on it which supplies the power (12v) to the clock. Take a small bulb and socket and bridge a wire from the 12v pin supplied from the electrical connector, to one of the two wires on the bulb and socket. Next find a ground supply nearby ( the best place would be the key hole) and bridge another wire from it to the second available wire on the bulb and socket. If the bulb lights up, it means your clock has power.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gra6eWWSMAWWCd2T.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PpnxACXhKReVLGWL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wNUyS2RG2oKs6o1j.standard"
+            ],
+            "StepId": 65845,
+            "Tools_extracted": [
+                "12 v bulb and socket"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "if the bulb lights up , the power supply to the clock is good ."
+                }
+            ],
+            "Text_raw": "If the bulb lights up, the power supply to the clock is  good.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3XEbDnFZ2SCtuLKk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eL1HWv3iZRqMvmNN.standard"
+            ],
+            "StepId": 65846,
+            "Tools_extracted": [
+                "12 v bulb and socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "before putting the clock in , clean the holder with a sand paper or a flat headed screwdriver ."
+                },
+                {
+                    "Text": "start reassembling the dashboard by following the guide in reverse order ."
+                },
+                {
+                    "Text": "while reassembling , be careful not to damage the wire harness , oil pressure meter hose , and temperature meter cable ."
+                }
+            ],
+            "Text_raw": "Before putting the clock in, clean the holder with a sand paper or a flat headed screw driver. Start reassembling the dashboard by following the guide in reverse order. While reassembling, be careful not to damage the wire harness , oil pressure meter hose, and temperature meter cable.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cIHW3XEDbAX6TDHH.standard"
+            ],
+            "StepId": 65847,
+            "Tools_extracted": [
+                "phillips screwdriver"
+            ]
+        }
+    ],
+    "Subject": "Cluster Clock"
+}

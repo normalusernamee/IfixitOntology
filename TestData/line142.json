@@ -1,0 +1,180 @@
+{
+    "Title": "Mercedes W123 Brake Disc, Rear Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 21542,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-Shallow-Socket-6-Point/dp/B000NPULD8/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "/Item/Socket_Wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hammer",
+            "Url": "http://www.amazon.com/dp/B0000224VG/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "rubber mallet",
+            "Url": "https://www.amazon.com/TEKTON-30603-Fiberglass-Handle-16-Ounce/dp/B00KX4KB5M/ref=sr_1_4?ie=UTF8&qid=1499456771&sr=8-4&keywords=rubber+mallet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "sand paper",
+            "Url": "http://www.amazon.com/3M-9005NA-Aluminum-Sandpaper-Assorted/dp/B00004Z48U/ref=sr_1_1?ie=UTF8&qid=1377552439&sr=8-1&keywords=sand+paper",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "latex or nitrile gloves",
+            "Url": "http://www.amazon.com/dp/B00J084MHA/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Brake+Disc+Rear+Replacement/21542",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "you will first need to remove your wheel to complete the remainder of this job ."
+                },
+                {
+                    "Text": "then unbolt the two 19 mm bolts on the back of the caliper . they are in very tightly and held in by thread locker , you may need a long wrench or breaker bar to remove these ."
+                },
+                {
+                    "Text": "lift the caliper off of the rotor and hang it with a wire hanger from the sway bar or other strong point on the car . do not let the caliper hang by the brake hose , this can damage the hose leading to an unsafe driving condition ."
+                },
+                {
+                    "Text": "or , optionally , remove the caliper from the car for cleaning and new pad install . see the guide guides ."
+                },
+                {
+                    "Text": "the rear rotor can then be simply pulled off . if it seems to be stuck to the rear hub , tap around the outside of the rotor with the wooden handle of a hammer , or a rubber mallet , to break it loose ."
+                }
+            ],
+            "Text_raw": "You will first need to remove your wheel to complete the remainder of this job. Then unbolt the two 19mm bolts on the back of the caliper. They are in very tightly and held in by thread locker, you may need a long wrench or breaker bar to remove these. Lift the caliper off of the rotor and hang it with a wire hanger from the sway bar or other strong point on the car. Do not let the caliper hang by the brake hose, this can damage the hose leading to an unsafe driving condition. Or, optionally, remove the caliper from the car for cleaning and new pad install. See the [guide|21534|caliper replacement] and [guide|21531|break pad replacement] guides. The rear rotor can then be simply pulled off. If it seems to be stuck to the rear hub, tap around the outside of the rotor with the wooden handle of a hammer, or a rubber mallet, to break it loose.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/epRDR2pKCFxFKVom.standard"
+            ],
+            "StepId": 57534,
+            "Tools_extracted": [
+                "rubber mallet",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "with the rotor off the rear hub is exposed . it may be quite rusty like this . if the rotor was seized to the hub it was because of this rust ."
+                }
+            ],
+            "Text_raw": "With the rotor off the rear hub is exposed. It may be quite rusty like this. If the rotor was seized to the hub it was because of this rust.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VWJQ1PyfXZBwUBPi.standard"
+            ],
+            "StepId": 57535,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a fine grit sandpaper , and optionally a power sander , to work around the flat surface of the hub to remove rust ."
+                },
+                {
+                    "Text": "then use the sandpaper to remove rust from the raised portion at the center of the hub ."
+                },
+                {
+                    "Text": "the area around the lug bolt holes is recessed slightly and does not contact the rotors so it does not to be fully de-rusted ."
+                },
+                {
+                    "Text": "spray the hub down with brake cleaner to remove the dust ."
+                }
+            ],
+            "Text_raw": "Use a fine grit sandpaper, and optionally a power sander, to work around the flat surface of the hub to remove rust. Then use the sandpaper to remove rust from the raised portion at the center of the hub. The area around the lug bolt holes is recessed slightly and does not contact the rotors so it does not to be fully de-rusted. Spray the hub down with brake cleaner to remove the dust.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EomrBWlyIvIlZY2Q.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bdSXgDiqaYRsTvC4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EIKNmItItK3CnSSg.standard"
+            ],
+            "StepId": 57536,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "now apply a light coat of anti-seize to the surfaces on the hub that contact the rotor ."
+                },
+                {
+                    "Text": "this will help prevent the new rotor from seizing to the surface of the hub the next time you need to remove it ."
+                },
+                {
+                    "Text": "do not get anti-seize in to the lug bolt holes ! this could lead to the lug bolts backing out while you are driving , allowing the wheel to fall off ."
+                }
+            ],
+            "Text_raw": "Now apply a light coat of anti-seize to the surfaces on the hub that contact the rotor. This will help prevent the new rotor from seizing to the surface of the hub the next time you need to remove it. Do not get anti-seize in to the lug bolt holes! This could lead to the lug bolts backing out while you are driving, allowing the wheel to fall off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PQAPQdFyFKT6MDr4.standard"
+            ],
+            "StepId": 57537,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "now set the new rotor in place . there is a small raised pin on the hub that the rotor has a corresponding hole for . this ensure the rotor is installed correctly aligned with the bolt holes ."
+                },
+                {
+                    "Text": "spray both sides of the new rotor down with brake cleaner to remove any oils from the factory or from your gloves ."
+                }
+            ],
+            "Text_raw": "Now set the new rotor in place. There is a small raised pin on the hub that the rotor has a corresponding hole for. This ensure the rotor is installed correctly aligned with the bolt holes. Spray both sides of the new rotor down with brake cleaner to remove any oils from the factory or from your gloves.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dMrEVoRSN3tbVhyB.standard"
+            ],
+            "StepId": 57538,
+            "Tools_extracted": [
+                "latex or nitrile gloves"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "now re-install the caliper . make sure to put blue thread locker on the caliper bolts ."
+                },
+                {
+                    "Text": "torque the caliper bolts down to 115 nm / 85 lb-ft"
+                }
+            ],
+            "Text_raw": "Now re-install the caliper. Make sure to put blue thread locker on the caliper bolts. Torque the caliper bolts down to 115 nm / 85 lb-ft",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/nKNrVSVWZ12cOEoj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Oh1fW4KetgUlBcOX.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1tZjt2FnshgodQN5.standard"
+            ],
+            "StepId": 57539,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Brake Disc, Rear"
+}

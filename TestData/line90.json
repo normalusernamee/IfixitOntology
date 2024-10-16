@@ -1,0 +1,136 @@
+{
+    "Title": "1965-1969 Chevrolet Corvair valve adjustment",
+    "Ancestors": [
+        "Chevrolet Corvair",
+        "Chevrolet",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11281,
+    "Category": "1965-1969 Chevrolet Corvair",
+    "Toolbox": [
+        {
+            "Name": "1 3 valve cover",
+            "Url": "/Item/1_3_Valve_Cover",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "5 8 socket",
+            "Url": "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dtools&field-keywords=tekton+14134",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "7 16 socket",
+            "Url": "http://www.amazon.com/TEKTON-14131-16-Inch-Shallow-6-Point/dp/B000NPPCHS/ref=sr_1_1?s=power-hand-tools&ie=UTF8&qid=1434663920&sr=8-1&keywords=tekton+14131",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1965+1966+1967+1968+1969+Chevrolet+Corvair+valve+adjustment/11281",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "adjusting the valves first requires removing the valve cover . there are two valve covers , one on each side of the car . in this guide we'll be adjusting the valves on the drivers side , which does not have the exhaust in the way ."
+                },
+                {
+                    "Text": "look under the back of the car , and on the side of the engine you will see the valve cover ."
+                }
+            ],
+            "Text_raw": "Adjusting the valves first requires removing the valve cover. There are two valve covers, one on each side of the car. In this guide we'll be adjusting the valves on the drivers side, which does not have the exhaust in the way. Look under the back of the car, and on the side of the engine you will see the valve cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/c5ktBoB6rUiPwGTu.standard"
+            ],
+            "StepId": 41352,
+            "Tools_extracted": [
+                "1 3 valve cover"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "in order to remove the valve cover , locate the 4 bolts which hold it in place and remove them using a 7 /16 socket or wrench ."
+                },
+                {
+                    "Text": "remove them carefully to avoid stripping the holes ."
+                }
+            ],
+            "Text_raw": "In order to remove the valve cover, locate the 4 bolts which hold it in place and remove them using a 7/16\" socket or wrench. Remove them carefully to avoid stripping the holes.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pPquvVIrMBQdSpDp.standard"
+            ],
+            "StepId": 41353,
+            "Tools_extracted": [
+                "1 3 valve cover"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "next , remove the valve cover and the gasket by pulling out gently ."
+                },
+                {
+                    "Text": "put a piece of cardboard below to capture the oil which will spill out ."
+                }
+            ],
+            "Text_raw": "Next, remove the valve cover and the gasket by pulling out gently. Put a piece of cardboard below to capture the oil which will spill out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZN1vllvMO1R4R6BB.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OYIWLvdBZ3fmhU24.standard"
+            ],
+            "StepId": 41354,
+            "Tools_extracted": [
+                "1 3 valve cover"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "now you must attach the 1 /3 valve cover , which is essentially 1 /3 of a valve cover that keeps the oil in while exposing the valves so you can adjust them when the engine is running ."
+                },
+                {
+                    "Text": "place the valve cover on the lower side of the valves and line up the bolt holes . verify the gasket is in place and use the bolts you previously removed to attach the adjustment cover ."
+                }
+            ],
+            "Text_raw": "Now you must attach the 1/3 Valve Cover, which is essentially 1/3 of a valve cover that keeps the oil in while exposing the valves so you can adjust them when the engine is running. Place the valve cover on the lower side of the valves and line up the bolt holes. Verify the gasket is in place and use the bolts you previously removed to attach the adjustment cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1taqglkVTuZ2ClYq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ajC6Wy4xNeBUhhIi.standard"
+            ],
+            "StepId": 41355,
+            "Tools_extracted": [
+                "1 3 valve cover"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "finally , turn on the engine and you are ready to adjust ."
+                },
+                {
+                    "Text": "start on the left side and adjust each one at a time using a 5 /16 socket ."
+                },
+                {
+                    "Text": "loosen the bolt on the lifter till you hear that lifter start ticking . the ticking noise should be quite apparent ."
+                },
+                {
+                    "Text": "then slowly tighten it till it stops ticking . and then tighten in one half turn . now you can move on to the next valve ."
+                }
+            ],
+            "Text_raw": "Finally, turn on the engine and you are ready to adjust. Start on the left side and adjust each one at a time using a 5/16\" socket. Loosen the bolt on the lifter till you hear that lifter start ticking. The ticking noise should be quite apparent. Then slowly tighten it till it stops ticking. And then tighten in one half turn. Now you can move on to the next valve.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1uiQtiXYDvWAySkk.standard"
+            ],
+            "StepId": 41356,
+            "Tools_extracted": [
+                "1 3 valve cover",
+                "7 16 socket"
+            ]
+        }
+    ],
+    "Subject": ""
+}

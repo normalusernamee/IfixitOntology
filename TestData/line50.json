@@ -1,0 +1,213 @@
+{
+    "Title": "1998-2002 Honda Accord Vehicle Speed Sensor (Manual 2.3L I4) Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 6662,
+    "Category": "1998-2002 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "10 ratchet extension",
+            "Url": "http://www.amazon.com/TEKTON-14267-2-Inch-10-Inch-Extension/dp/B000NPZ5TI/ref=sr_1_1?ie=UTF8&qid=1407776986&sr=8-1&keywords=10%22+Ratchet+Extension",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "12 mm socket",
+            "Url": "/Item/12_mm_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "needlenose pliers",
+            "Url": "https://www.ifixit.com/Store/Tools/Large-Needle-Nose-Pliers/IF145-024",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/xsuUhWaHMfDB6FnN.mini"
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1998+1999+2000+2001+2002+Honda+Accord+Vehicle+Speed+Sensor+%28Manual+2.3L+I4%29+Replacement/6662",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "pull on the hood release lever just inside the passenger door to pop the hood ."
+                },
+                {
+                    "Text": "locate the hood release latch under the hood . use one hand to press up on the latch while you lift the hood ."
+                },
+                {
+                    "Text": "insert the hood prop rod into the hole in the hood marked with an arrow ."
+                }
+            ],
+            "Text_raw": "Pull on the hood release lever just inside the passenger door to pop the hood. Locate the hood release latch under the hood. Use one hand to press up on the latch while you lift the hood. Insert the hood prop rod into the hole in the hood marked with an arrow.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bffETOtxxOOK5JBc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2YSgrEIQaQRhv6Dq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ltTgESOwAAfxadfj.standard"
+            ],
+            "StepId": 28363,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate the engine air intake unit on the back of the engine ."
+                },
+                {
+                    "Text": "locate the screw for the hose clamp securing the air intake hose to the engine's air intake unit ."
+                },
+                {
+                    "Text": "loosen the the hose clamp , using a phillips 2 screwdriver , by turning the screw counter-clockwise until the back end of the screw no longer protrudes out of the hose clamp ."
+                }
+            ],
+            "Text_raw": "Locate the engine air intake unit on the back of the engine. Locate the screw for the hose clamp securing the air intake hose to the engine's air intake unit. Loosen the the hose clamp, using a Phillips #2 screwdriver, by turning the screw counter-clockwise until the back end of the screw no longer protrudes out of the hose clamp.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1HsEIKEtIFJQFOgy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vIMMCgoipyVhNWuI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RdxlVNrAxfmSo6XD.standard"
+            ],
+            "StepId": 28364,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a pair of pliers to slide the hose clamp off the tube attaching the valve cover breather to the air intake hose ."
+                }
+            ],
+            "Text_raw": "Use a pair of pliers to slide the hose clamp off the tube attaching the valve cover breather to the air intake hose.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iYGkYDS2QwdbLnI3.standard"
+            ],
+            "StepId": 28388,
+            "Tools_extracted": [
+                "needlenose pliers"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "pull the air intake hose off of the engine air intake unit ."
+                },
+                {
+                    "Text": "pull the air intake hose and valve cover breather hose away from each other until they detach ."
+                },
+                {
+                    "Text": "bend the air intake tube so that there is an easily accessible path to below the engine air intake and the back of the engine ."
+                },
+                {
+                    "Text": "if the tube cannot flex far enough to be out of the way , it may help to detach the other end of the tube from the air box and completely remove it ."
+                }
+            ],
+            "Text_raw": "Pull the air intake hose off of the engine air intake unit. Pull the air intake hose and valve cover breather hose away from each other until they detach. Bend the air intake tube so that there is an easily accessible path to below the engine air intake and the back of the engine. If the tube cannot flex far enough to be out of the way, it may help to detach the other end of the tube from the air box and completely remove it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IrFU1wueYtaYZGXt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rSBKRvCpRjYjvtVy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/u3PZTvxDXHO66SWG.standard"
+            ],
+            "StepId": 28365,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "look behind the engine , almost directly under the engine air intake unit , to locate the vehicle speed sensor ."
+                },
+                {
+                    "Text": "locate the sensor's 12 mm hex bolt . the bolt is slightly further back and towards the driver's side of the car , relative to the vehicle speed sensor connector ."
+                }
+            ],
+            "Text_raw": "Look behind the engine, almost directly under the engine air intake unit, to locate the vehicle speed sensor. Locate the sensor's 12 mm hex bolt. The bolt is slightly further back and towards the driver's side of the car, relative to the vehicle speed sensor connector.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LG2RlvD1dIL6MspB.standard"
+            ],
+            "StepId": 28369,
+            "Tools_extracted": [
+                "12 mm socket"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "guide a 12 mm socket with two 10 extensions down onto the bolt ."
+                },
+                {
+                    "Text": "you will need to carefully work the socket and extensions between wires and hoses , being careful not to put too much tension on them ."
+                },
+                {
+                    "Text": "turn the bolt counter-clockwise until it completely un-threads ."
+                },
+                {
+                    "Text": "remove the bolt from the engine bay ."
+                }
+            ],
+            "Text_raw": "Guide a 12 mm socket with two 10\" extensions down onto the bolt. You will need to carefully work the socket and extensions between wires and hoses, being careful not to put too much tension on them. Turn the bolt counter-clockwise until it completely un-threads. Remove the bolt from the engine bay.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/I6SLWQBLwimWgHCY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GMB2AEfhrG5slgDF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aEGrMYYC32TM5UBQ.standard"
+            ],
+            "StepId": 28371,
+            "Tools_extracted": [
+                "12 mm socket",
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "pull the vehicle speed sensor out of it's hole ."
+                },
+                {
+                    "Text": "be careful to not bump too many parts while removing the sensor , as you may knock debris into the transmission which can cause premature wear or failure ."
+                },
+                {
+                    "Text": "to avoid the risk of damaging the wiring harness , do not pull the sensor by its wires ."
+                },
+                {
+                    "Text": "disconnect the sensor from the wiring harness by pressing the grey tab on top of the harness connector and pulling the connector and sensor away from each other ."
+                },
+                {
+                    "Text": "remove the sensor from the engine bay ."
+                },
+                {
+                    "Text": "when installing the new vehicle speed sensor , be careful not to knock debris into the transmission , as the area around its hole is likely very dirty ."
+                }
+            ],
+            "Text_raw": "Pull the vehicle speed sensor out of it's hole. Be careful to not bump too many parts while removing the sensor, as you may knock debris into the transmission which can cause premature wear or failure. To avoid the risk of damaging the wiring harness, do not pull the sensor by its wires. Disconnect the sensor from the wiring harness by pressing the grey tab on top of the harness connector and pulling the connector and sensor away from each other. Remove the sensor from the engine bay. When installing the new vehicle speed sensor, be careful not to knock debris into the transmission, as the area around its hole is likely very dirty.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/K1iJIArbEDjdpeSj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Zw2JA1usZseZsRoF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FbsKJuHXVaEAVbKI.standard"
+            ],
+            "StepId": 28376,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Vehicle Speed Sensor (Manual 2.3L I4)"
+}

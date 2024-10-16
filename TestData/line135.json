@@ -1,0 +1,102 @@
+{
+    "Title": "2007 Chevy Aveo Indicator light bulb Replacement",
+    "Ancestors": [
+        "Chevrolet Aveo",
+        "Chevrolet",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 21323,
+    "Category": "2002-2011 Chevrolet Aveo",
+    "Toolbox": [
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        },
+        {
+            "Name": "prying tool",
+            "Url": "/Item/Prying_Tool",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2007+Chevy+Aveo+Indicator+light+bulb+Replacement/21323",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "here is a view of the left tail light assembly"
+                },
+                {
+                    "Text": "open the rear hatch , ( or trunk if it is a sedan ) . on the inside of the assembly are two retaining screws . remove those"
+                },
+                {
+                    "Text": "both screws are 6x3 /4 inch"
+                }
+            ],
+            "Text_raw": "Here is a view of the left tail light assembly Open the rear hatch,( or trunk if it is a sedan). On the inside of the assembly are two retaining screws. Remove those both screws are #6x3/4 inch",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/34AgOLexIBTMMVpu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eiQrPk6vuTng5o1Q.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jccxkWtHJcbMVBMv.standard"
+            ],
+            "StepId": 57180,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "here is a view of the assembly with the screws removed ."
+                },
+                {
+                    "Text": "insert some sort of prying tool between the tail light assembly and the body , just below the crease in the body and pry to the rear of the vehicle . a snap will be felt/heard as the plastic stud releases"
+                },
+                {
+                    "Text": "move the prying tool to above 1 1 /2 inch above the bottom of the assembly . insert it between the assembly and body and gently pry toward the rear of the vehicle . this should free the second stud ."
+                }
+            ],
+            "Text_raw": "Here is a view of the assembly with the screws removed. Insert some sort of prying tool between the tail light assembly and the body, just below the crease in the body and pry to the rear of the vehicle. a snap will be felt/heard as the plastic stud releases Move the prying tool to above 1 1/2 inch above the bottom of the assembly. Insert it between the assembly and body and gently pry toward the rear of the vehicle. This should free the second stud.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QCEvQSG1gcCXRFg1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NXSvZgeQEQKAREXj.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pmC5BSaKBlkvHSeN.standard"
+            ],
+            "StepId": 57181,
+            "Tools_extracted": [
+                "prying tool"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "now just pull the assembly straight back ."
+                },
+                {
+                    "Text": "avoid pulling the assembly to one side or another , that can snap the plastic studs"
+                },
+                {
+                    "Text": "locate the burned out bulb . in this case it was the indicator light . rotate the bulb sockets in a counterclockwise direction ."
+                },
+                {
+                    "Text": "pull the sockets straight out of the tail light assembly ."
+                }
+            ],
+            "Text_raw": "Now just pull the assembly straight back. Avoid pulling the assembly to one side or another, that can snap the plastic studs Locate the burned out bulb. In this case it was the indicator light. Rotate the bulb sockets in a counterclockwise direction. Pull the sockets straight out of the tail light assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XVoLZOjUHacaNvNd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BOPAoGVF6yvS5iNU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OPNnNWdyQvvVcgSS.standard"
+            ],
+            "StepId": 57182,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Indicator light bulb"
+}

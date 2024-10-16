@@ -1,0 +1,181 @@
+{
+    "Title": "Volkswagen New Beetle Headlight Bulb Replacement",
+    "Ancestors": [
+        "Volkswagen",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 6582,
+    "Category": "Volkswagen Beetle",
+    "Toolbox": [
+        {
+            "Name": "needlenose pliers",
+            "Url": "https://www.ifixit.com/Store/Tools/Small-Needle-Nose-Pliers/IF145-058",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/wFGPUX2uMQPIiQCr.mini"
+        },
+        {
+            "Name": "5mm nut driver",
+            "Url": "http://www.ifixit.com/Tools/5mm-Nut-Driver/IF145-009",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/YeEXYJMQPWZYUZXo.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Volkswagen+New+Beetle+Headlight+Bulb+Replacement/6582",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "before you decide to change a burnt-out bulb , make sure it's not the blown fuse that keeps you in the dark . you will need to open the fuse block cover that is located on the left hand side of the dashboard . use a thin flat object , such as a flat head screwdriver or a key to pop open the cover ."
+                },
+                {
+                    "Text": "under the cover you will see a number of multicoloured fuses ."
+                },
+                {
+                    "Text": "use the reference card and the white plastic tweezers attached to the back of the fuse cover to locate and pull out fuses responsible for headlight bulbs . fuses 18 and 19 are for high beam bulbs ; 20 and 21 - for low beam ; 22 and 23 - for parking lights . pull fuses one by one so as not to mix them up ."
+                },
+                {
+                    "Text": "fuse body is semi-transparent . look at it from the side to see if the fuse is good ."
+                }
+            ],
+            "Text_raw": "Before you decide to change a burnt-out bulb, make sure it's not the blown fuse that keeps you in the dark. You will need to open the fuse block cover that is located on the left hand side of the dashboard. Use a thin flat object, such as a flat head screwdriver or a key to pop open the cover. Under the cover you will see a number of multicoloured fuses. Use the reference card and the white plastic tweezers attached to the back of the fuse cover to locate and pull out fuses responsible for headlight bulbs. Fuses 18 and 19 are for high beam bulbs; 20 and 21 - for low beam; 22 and 23 - for parking lights.  Pull fuses one by one so as not to mix them up. Fuse body is semi-transparent. Look at it from the side to see if the fuse is good.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mFAFoXv32B2RDQZE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mxYMXE1STIJHmfdh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/e4QwmMjY6bUlYwXy.standard"
+            ],
+            "StepId": 28250,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "you have verified that all fuses are ok , and it must be the bulb that has burned out . to replace a bulb you will need to remove the entire headlight assembly by sliding it out of its housing in the fender ."
+                },
+                {
+                    "Text": "first , unlock the hood by pulling the handle located on the left hand side of the driver's foot well ."
+                },
+                {
+                    "Text": "then open the hood by pulling the plastic tab toward you and lifting the hood ."
+                },
+                {
+                    "Text": "the headlight assembly on the passenger side can be easily found , while on the driver side it hides beneath the battery . it may be useful to remove the battery cover - this will provide a little more 'viewing' and a bit more 'maneuvering' ."
+                }
+            ],
+            "Text_raw": "You have verified that all fuses are OK, and it must be the bulb that has burned out. To replace a bulb you will need to remove the entire headlight assembly by sliding it out of its housing in the fender. First, unlock the hood by pulling the handle located on the left hand side of the driver's foot well. Then open the hood by pulling the plastic tab toward you and lifting the hood. The headlight assembly on the passenger side can be easily found, while on the driver side it hides beneath the battery.  It may be useful to remove the battery cover - this will provide a little more 'viewing' and a bit more 'maneuvering'.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/POnK3hOHMSftLMjS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WxI6QNLYEFHGwlAJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CKx2VPmnZWsSi55J.standard"
+            ],
+            "StepId": 28251,
+            "Tools_extracted": [
+                "5mm nut driver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "to remove the headlight assembly , first use the 5 mm nut driver to turn the locking nut 1 /4 of a turn in the indicated direction . on the passenger side the nut is clearly visible ; turn it clockwise ."
+                },
+                {
+                    "Text": "on the driver side you will need to reach between the battery and the car body , using a nut driver with a long handle , to turn the nut counterclockwise ."
+                },
+                {
+                    "Text": "try not to turn the locking nut more than 1 /4 turn . doing so may rotate it back into a locking position ."
+                }
+            ],
+            "Text_raw": "To remove the headlight assembly, first use the 5mm nut driver to turn the locking nut 1/4* of a turn in the indicated direction. On the passenger side the nut is clearly visible; turn it clockwise. On the driver side you will need to reach between the battery and the car body, using a nut driver with a long handle, to turn the nut counterclockwise. * Try not to turn the locking nut more than 1/4 turn.  Doing so may rotate it back into a locking position.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dAZ4DAZ4JlLDYESv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yZpqJVHjnCAL3WZA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3lkUjCnYlsdGUrlF.standard"
+            ],
+            "StepId": 28252,
+            "Tools_extracted": [
+                "5mm nut driver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "once the headlight assembly is unlocked , press down on the bright locking lever - it is visible when looking straight down from above the headlight ."
+                },
+                {
+                    "Text": "on the driver side only a portion of the locking lever is visible between the battery and the air box , but you can still reach it with a screwdriver that has a long handle ."
+                },
+                {
+                    "Text": "while pressing down on the locking lever , push the headlight assembly forward and out of its housing . careful - it may take a hard push and it might lurch out suddenly ."
+                }
+            ],
+            "Text_raw": "Once the headlight assembly is unlocked, press down on the bright locking lever - it is visible when looking straight down from above the headlight. On the driver side only a portion of the locking lever is visible between the battery and the air box, but you can still reach it with a screwdriver that has a long handle. While pressing down on the locking lever, push the headlight assembly forward and out of its housing. Careful - it may take a hard push and it might lurch out suddenly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YJn63c2voDc3aUds.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/j4sjGvbogwvkXvRJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/COOjWVNaujWJTnfd.standard"
+            ],
+            "StepId": 28254,
+            "Tools_extracted": [
+                "5mm nut driver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "locate the bulb cover at the back of the assembly . unclip and open the cover to expose bulbs ."
+                },
+                {
+                    "Text": "remove the electrical connector and pull out the bulb that you want to replace . the low beam bulb is held in place with a clip . other bulbs are held by friction ; use pliers to gently pull them out ."
+                },
+                {
+                    "Text": "put in the replacement bulb and reattach the connector . do not touch the bulb glass with your bare hands -- oils from your fingers will remain on the glass and cause it to crack when it heats after turning the lights on ."
+                },
+                {
+                    "Text": "replace the bulb cover ."
+                }
+            ],
+            "Text_raw": "Locate the bulb cover at the back of the assembly. Unclip and open the cover to expose bulbs. Remove the electrical connector and pull out the bulb that you want to replace. The low beam bulb is held in place with a clip. Other bulbs are held by friction; use pliers to gently pull them out. Put in the replacement bulb and reattach the connector. Do not touch the bulb glass with your bare hands -- oils from your fingers will remain on the glass and cause it to crack when it heats after turning the lights on. Replace the bulb cover.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KsqveBVO5UyEVkNm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XBAHrLm1tjv1sm5J.standard"
+            ],
+            "StepId": 28253,
+            "Tools_extracted": [
+                "needlenose pliers"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "when inserting the headlight assembly back into the housing , make sure that the housing locator guides fit into the catches on both sides of the assembly ."
+                },
+                {
+                    "Text": "push the assembly into the housing until you hear it click into place ."
+                },
+                {
+                    "Text": "again use the 5 mm nut driver to turn the locking nut that locks the assembly in its housing ."
+                },
+                {
+                    "Text": "turn on the ignition and check that the new bulb works . close the hood ."
+                }
+            ],
+            "Text_raw": "When inserting the headlight assembly back into the housing, make sure that the housing locator guides fit into the catches on both sides of the assembly. Push the assembly into the housing until you hear it click into place. Again use the 5mm nut driver to turn the locking nut that locks the assembly in its housing. Turn on the ignition and check that the new bulb works. Close the hood.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oJBZWo2OBWSURL3x.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/H1YDfppSOKtOOKsu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QLwQLhptUeJ1MhXv.standard"
+            ],
+            "StepId": 28255,
+            "Tools_extracted": [
+                "5mm nut driver"
+            ]
+        }
+    ],
+    "Subject": "Headlight Bulb"
+}

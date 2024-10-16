@@ -1,0 +1,218 @@
+{
+    "Title": "2008-2012 Honda Accord  ATF Flush - Every 80k Miles",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 97174,
+    "Category": "2008-2012 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "funnel",
+            "Url": "http://www.amazon.com/TEKTON-6093-Funnel-Set-4-Piece/dp/B003DN0RTA/ref=sr_1_1?s=hi&ie=UTF8&qid=1407340826&sr=1-1&keywords=funnel",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "11 slash 16 socket",
+            "Url": "/Item/11_slash_16_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "3 8 inch drive socket ratchet extension",
+            "Url": "https://www.amazon.com/Stanley-85-706-Piece-8-Inch-Extension/dp/B000NIFJKA/ref=sr_1_15?ie=UTF8&qid=1488066542&sr=8-15&keywords=3%2F8th+inch+ratchet+extension",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2008+2009+2010+2011+2012+Honda+Accord++ATF+Flush+-+Every+80k+Miles/97174",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "every 30 k miles , do a plain vanilla drain and fill . the steps in this guide are not for a vanilla drain and fill ."
+                },
+                {
+                    "Text": "every 80 k miles , do a full flush as shown in this guide ."
+                }
+            ],
+            "Text_raw": "Every 30k miles, do a plain vanilla drain and fill. The steps in this guide are not for a vanilla drain and fill. Every 80k miles, do a full flush as shown in this guide.",
+            "Images": [],
+            "StepId": 178693,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "'''v6 engines : ''' use this video . loosen 11 /16 bolt with atf printed on it . use a 10 socket extension . this allows air into the transmission as the fluid drains out later ."
+                },
+                {
+                    "Text": "remove fill plug washer , which may be just sitting on the transmission case . do not drop the washer into the transmission or your car must be towed !"
+                }
+            ],
+            "Text_raw": "'''V6 Engines:''' Use this video. Loosen 11/16\" bolt with \"ATF\" printed on it. Use a 10\" socket extension. This allows air into the transmission as the fluid drains out later. Remove fill plug washer, which may be just sitting on the transmission case. Do not drop the washer into the transmission or your car must be towed!",
+            "Images": [],
+            "StepId": 178694,
+            "Tools_extracted": [
+                "3 8 inch drive socket ratchet extension"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "'''v4 and i4 engines : ''' use this video . remove the transmission fluid dipstick . this allows air into the transmission as the fluid drains out later ."
+                }
+            ],
+            "Text_raw": "'''V4 and I4 Engines:''' Use this video. Remove the Transmission Fluid Dipstick. This allows air into the transmission as the fluid drains out later.",
+            "Images": [],
+            "StepId": 178697,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "caution ! fluid will be hot . loosen drain plug a little and let fluid come out '''slowly '''into a bucket ."
+                },
+                {
+                    "Text": "open drain plug with a 3 /8 socket drive"
+                },
+                {
+                    "Text": "when mostly drained , fluid flow will decrease to a dribble . wait until fluid has drained to unscrew the drain plug all the way and remove it ."
+                }
+            ],
+            "Text_raw": "Caution! Fluid will be hot. Loosen drain plug a little and let fluid come out '''slowly '''into a bucket. Open drain plug with a 3/8\" socket drive When mostly drained, fluid flow will decrease to a dribble. Wait until fluid has drained to unscrew the drain plug all the way and remove it.",
+            "Images": [],
+            "StepId": 178698,
+            "Tools_extracted": [
+                "3 8 inch drive socket ratchet extension"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "wipe metal filings and any fluid off the drain plug . replace the drain plug and tighten to hand-tight ."
+                },
+                {
+                    "Text": "replace drain plug and tighten to finger tight ."
+                },
+                {
+                    "Text": "fill transmission from fill plug ( or dipstick ) . use 2.5 quarts of honda dw-1 automatic transmission fluid . use a funnel and pour carefully to not spill fluid ."
+                },
+                {
+                    "Text": "replace fill plug ( or dipstick ) ."
+                },
+                {
+                    "Text": "wait 15 minutes , then check transmission fluid level . this allows fluid to enter all the corners of the transmission . if needed , add last 0.5 quarts of fluid ."
+                },
+                {
+                    "Text": "drive the car and make sure to reach all gears . this should be about freeway speed ."
+                }
+            ],
+            "Text_raw": "Wipe metal filings and any fluid off the drain plug. Replace the drain plug and tighten to hand-tight. Replace drain plug and tighten to finger tight. Fill transmission from fill plug (or dipstick). Use 2.5 quarts of Honda DW-1 Automatic Transmission Fluid. Use a funnel and pour carefully to not spill fluid. Replace fill plug (or dipstick). Wait 15 minutes, then check transmission fluid level. This allows fluid to enter all the corners of the transmission. If needed, add last 0.5 quarts of fluid. Drive the car and make sure to reach all gears. This should be about freeway speed.",
+            "Images": [],
+            "StepId": 178699,
+            "Tools_extracted": [
+                "funnel",
+                "3 8 inch drive socket ratchet extension"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "loosen the fill plug ( or dipstick )"
+                },
+                {
+                    "Text": "drain the fluid following previous instructions . caution : hot fluid ."
+                },
+                {
+                    "Text": "replace drain plug following previous instructions ."
+                },
+                {
+                    "Text": "refill transmission with a funnel and 2.5 quarts of the same fluid as before ."
+                },
+                {
+                    "Text": "replace fill plug ( or dipstick ) . wait 15 minutes . check transmission fluid level . add last 0.5 quarts if needed ."
+                },
+                {
+                    "Text": "drive the car and make sure to reach all gears . this should be about freeway speed ."
+                }
+            ],
+            "Text_raw": "Loosen the fill plug (or dipstick) Drain the fluid following previous instructions. CAUTION: HOT FLUID. Replace drain plug following previous instructions. Refill transmission with a funnel and 2.5 quarts of the same fluid as before. Replace fill plug (or dipstick). Wait 15 minutes. Check transmission fluid level. Add last 0.5 quarts if needed. Drive the car and make sure to reach all gears. This should be about freeway speed.",
+            "Images": [],
+            "StepId": 178695,
+            "Tools_extracted": [
+                "funnel",
+                "3 8 inch drive socket ratchet extension"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "loosen the fill plug ( or dipstick ) ."
+                },
+                {
+                    "Text": "drain the fluid following previous instructions . caution : hot fluid ."
+                },
+                {
+                    "Text": "place a new crush washer on drain plug . tighten the drain plug using a torque wrench to 36 ft-lb of torque ."
+                },
+                {
+                    "Text": "refill with a funnel and 3 quarts of the same fluid as before ."
+                },
+                {
+                    "Text": "replace fill plug ( or dipstick ) ."
+                },
+                {
+                    "Text": "wait 15 minutes ."
+                },
+                {
+                    "Text": "check transmission fluid level . top off transmission fluid if needed ."
+                }
+            ],
+            "Text_raw": "Loosen the fill plug (or dipstick). Drain the fluid following previous instructions. CAUTION: HOT FLUID. Place a new crush washer on drain plug. Tighten the drain plug using a Torque Wrench to 36 ft-lb of torque. Refill with a funnel and 3 quarts of the same fluid as before. Replace fill plug (or dipstick). Wait 15 minutes. Check transmission fluid level. Top off transmission fluid if needed.",
+            "Images": [],
+            "StepId": 178696,
+            "Tools_extracted": [
+                "funnel",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "one day after the flush , inspect the transmission for signs of fluid leaking ."
+                },
+                {
+                    "Text": "check transmission fluid level . add transmission fluid if the fluid level is a little low , using a funnel . when checking fluid level , engine and transmission should be up to normal temperature , which is reached after about 5 minutes of driving"
+                },
+                {
+                    "Text": "two days after the flush , inspect transmission again for signs of fluid leaking ."
+                }
+            ],
+            "Text_raw": "One day after the flush, inspect the transmission for signs of fluid leaking. Check transmission fluid level. Add transmission fluid if the fluid level is a little low, using a funnel. When checking fluid level, engine and transmission should be up to normal temperature, which is reached after about 5 minutes of driving Two days after the flush, inspect transmission again for signs of fluid leaking.",
+            "Images": [],
+            "StepId": 178700,
+            "Tools_extracted": [
+                "funnel"
+            ]
+        }
+    ],
+    "Subject": "Automatic Transmission Fluid"
+}

@@ -1,0 +1,243 @@
+{
+    "Title": "1998-2002 Honda Accord Headlights Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 7323,
+    "Category": "1998-2002 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_2?ie=UTF8&qid=1431005020&sr=8-2&keywords=3%2F8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 8 mm",
+            "Url": "http://www.amazon.com/TEKTON-14140-Shallow-Socket-6-Point/dp/B000NY8PVE/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1998+1999+2000+2001+2002+Honda+Accord+Headlights+Replacement/7323",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "pull on the hood release lever just inside the passenger door to pop the hood ."
+                },
+                {
+                    "Text": "locate the hood release latch under the hood . use one hand to press up on the latch while you lift the hood ."
+                },
+                {
+                    "Text": "insert the hood prop rod into the hole in the hood marked with an arrow ."
+                }
+            ],
+            "Text_raw": "Pull on the hood release lever just inside the passenger door to pop the hood. Locate the hood release latch under the hood. Use one hand to press up on the latch while you lift the hood. Insert the hood prop rod into the hole in the hood marked with an arrow.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QGDaWBtv64c3WvG4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YLiJgCFZC3NfC2lq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PUewBSDXYTh2jmld.standard"
+            ],
+            "StepId": 31092,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "locate the head light bulbs and connectors directly behind the headlights and on either side of the engine bay ."
+                },
+                {
+                    "Text": "detach the head light connectors by pushing on the lever on the top of the connector and pulling it straight down ."
+                },
+                {
+                    "Text": "if needed , you can disconnect the air intake ( next to the battery ) to get some extra wiggle room in order to detach the head light connector on the passenger side . if you remove the air intake , be sure to plug both sides with a clean , lint-free cloth so that nothing gets inside while you work ."
+                }
+            ],
+            "Text_raw": "Locate the head light bulbs and connectors directly behind the headlights and on either side of the engine bay. Detach the head light connectors by pushing on the lever on the top of the connector and pulling it straight down. If needed, you can disconnect the air intake (next to the battery) to get some extra wiggle room in order to detach the head light connector on the passenger side.  If you remove the air intake, be sure to plug both sides with a clean, lint-free cloth so that nothing gets inside while you work.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YXT1xBmvBGdjacY4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TpbJwwCuMOHSkBZL.standard"
+            ],
+            "StepId": 31094,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "locate and remove the bolts in the front of the wheel well on the either side of the car using a 1 phillips screwdriver or an 8 mm socket wrench ."
+                },
+                {
+                    "Text": "locate the bolts on the bottom of both corners of the bumper and remove them using an 8 mm socket wrench or box end wrench ."
+                }
+            ],
+            "Text_raw": "Locate and remove the bolts in the front of the wheel well on the either side of the car using a #1 Phillips screw driver or an 8 mm socket wrench. Locate the bolts on the bottom of both corners of the bumper and remove them using an 8 mm socket wrench or box end wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Re4HVIwxuupvFyHh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EeOHENIiid3eTn2e.standard"
+            ],
+            "StepId": 31097,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "locate the plastic push pins along the bottom of the bumper ."
+                },
+                {
+                    "Text": "use a small thin prying device , such as a flathead screwdriver , to pop the heads of the push pin up . then remove the entire push pin assembly from their holes ."
+                }
+            ],
+            "Text_raw": "Locate the plastic push pins along the bottom of the bumper. Use a small thin prying device, such as  a flathead screwdriver, to pop the heads of the push pin up. Then remove the entire push pin assembly from their holes.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OLMmpxVQvvf5nxKV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KAEYpmSZLYS3KAcC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QAVfJkm6XSLNaVAX.standard"
+            ],
+            "StepId": 31098,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the push pins on the two raised portions of the bumper next to the inside of the headlights ."
+                },
+                {
+                    "Text": "there are four clips along the top of the bumper still holding it in place . gently lift the bumper while pulling it away from the car to free the clips and remove the bumper ."
+                }
+            ],
+            "Text_raw": "Remove the push pins on the two raised portions of the bumper next to the inside of the headlights. There are four clips along the top of the bumper still holding it in place. Gently lift the bumper while pulling it away from the car to free the clips and remove the bumper.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Rjt1LXESuYe4qbIc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YX2wtu2oZIhiJnaI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WMwPtQXGDXLwwSaO.standard"
+            ],
+            "StepId": 31099,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the three 10 mm hex bolts securing the headlight bracket by turning them counter-clockwise with either a socket wrench or box end wrench ,"
+                },
+                {
+                    "Text": "one bolt will be under the outer edge of the headlight . the remaining two bolts will be located under the headlight with the bolt heads pointed towards the side panels ."
+                },
+                {
+                    "Text": "remove the headlight bracket by pulling it straight out ."
+                }
+            ],
+            "Text_raw": "Remove the three 10 mm hex bolts securing the headlight bracket by turning them counter-clockwise with either a socket wrench or box end wrench, One bolt will be under the outer edge of the headlight. The remaining two bolts will be located under the headlight with the bolt heads pointed towards the side panels. Remove the headlight bracket by pulling it straight out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uQlqNIgkP6kO4ANP.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RQEGo6P4a15xOiSJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/R4EUKQLE5wRO5pWF.standard"
+            ],
+            "StepId": 31113,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "locate the blinker light bulb assembly , it will be accessible from below the headlight , near the wheel well ."
+                },
+                {
+                    "Text": "disconnect the connector or remove the light bulb assembly by turning it counter-clockwise and pulling it out ."
+                }
+            ],
+            "Text_raw": "Locate the blinker light bulb assembly, it will be accessible from below the headlight, near the wheel well. Disconnect the connector or remove the light bulb assembly by turning it counter-clockwise and pulling it out.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WV2tHHK5p5dSRhfQ.standard"
+            ],
+            "StepId": 31114,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "remove the 10 mm bolt on top of the headlight using a socket wrench or box end wrench ."
+                },
+                {
+                    "Text": "remove the metal clip ."
+                },
+                {
+                    "Text": "pull the headlight straight away from the car ."
+                },
+                {
+                    "Text": "do not attempt to fully remove the headlight . there is still one connection left ."
+                }
+            ],
+            "Text_raw": "Remove the 10 mm bolt on top of the headlight using a socket wrench or box end wrench. Remove the metal clip. Pull the headlight straight away from the car. Do not attempt to fully remove the headlight. There is still one connection left.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cCT4KUYyikmNK3XS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xGJa4DBbIxlGxgXh.standard"
+            ],
+            "StepId": 31115,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "locate the front marker light connector . it is along the bottom of the headlight ."
+                },
+                {
+                    "Text": "turn the marker light counterclockwise and remove it from the headlight ."
+                }
+            ],
+            "Text_raw": "Locate the front marker light connector. It is along the bottom of the headlight. Turn the marker light counterclockwise and remove it from the headlight.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4nYqtMluaaecnRVA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wcTLcEiqVu5ax6OF.standard"
+            ],
+            "StepId": 31116,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Headlights"
+}

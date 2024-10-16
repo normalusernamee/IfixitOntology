@@ -1,0 +1,99 @@
+{
+    "Title": "1998-2002 Honda Accord Front Bumper Replacement",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 7319,
+    "Category": "1998-2002 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/Stanley-91-929-8-Inch-Release-Ratchet/dp/B000NJ63UY/ref=sr_1_2?ie=UTF8&qid=1431005020&sr=8-2&keywords=3%2F8+ratchet",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        },
+        {
+            "Name": "socket 8 mm",
+            "Url": "http://www.amazon.com/TEKTON-14140-Shallow-Socket-6-Point/dp/B000NY8PVE/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1998+1999+2000+2001+2002+Honda+Accord+Front+Bumper+Replacement/7319",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate and remove the bolts in the front of the wheel well on the either side of the car using a 1 phillips screwdriver or an 8 mm socket wrench ."
+                },
+                {
+                    "Text": "locate the bolts on the bottom of both corners of the bumper and remove them using an 8 mm socket wrench or box end wrench ."
+                }
+            ],
+            "Text_raw": "Locate and remove the bolts in the front of the wheel well on the either side of the car using a #1 Phillips screw driver or an 8 mm socket wrench. Locate the bolts on the bottom of both corners of the bumper and remove them using an 8 mm socket wrench or box end wrench.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Re4HVIwxuupvFyHh.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EeOHENIiid3eTn2e.standard"
+            ],
+            "StepId": 31097,
+            "Tools_extracted": [
+                "socket wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "locate the plastic push pins along the bottom of the bumper ."
+                },
+                {
+                    "Text": "use a small thin prying device , such as a flathead screwdriver , to pop the heads of the push pin up . then remove the entire push pin assembly from their holes ."
+                }
+            ],
+            "Text_raw": "Locate the plastic push pins along the bottom of the bumper. Use a small thin prying device, such as  a flathead screwdriver, to pop the heads of the push pin up. Then remove the entire push pin assembly from their holes.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OLMmpxVQvvf5nxKV.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KAEYpmSZLYS3KAcC.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QAVfJkm6XSLNaVAX.standard"
+            ],
+            "StepId": 31098,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the push pins on the two raised portions of the bumper next to the inside of the headlights ."
+                },
+                {
+                    "Text": "there are four clips along the top of the bumper still holding it in place . gently lift the bumper while pulling it away from the car to free the clips and remove the bumper ."
+                }
+            ],
+            "Text_raw": "Remove the push pins on the two raised portions of the bumper next to the inside of the headlights. There are four clips along the top of the bumper still holding it in place. Gently lift the bumper while pulling it away from the car to free the clips and remove the bumper.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Rjt1LXESuYe4qbIc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YX2wtu2oZIhiJnaI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WMwPtQXGDXLwwSaO.standard"
+            ],
+            "StepId": 31099,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Front Bumper"
+}

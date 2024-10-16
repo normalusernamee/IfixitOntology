@@ -1,0 +1,107 @@
+{
+    "Title": "Mercedes W123 Fuel Filler Neck Seal Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20578,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "silicone grease",
+            "Url": "http://www.amazon.com/Super-Lube-Multi-Purpose-Grease-Syncolon/dp/B0037QG4BS/ref=sr_1_4?ie=UTF8&qid=1387820366&sr=8-4&keywords=superlube",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Fuel+Filler+Neck+Seal+Replacement/20578",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "when inspecting your fuel filler neck seal look for dryness , brittleness , or like on this particular diesel w123 obvious damage . this was caused by drips of b99 biodiesel on the already aged rubber seal ."
+                }
+            ],
+            "Text_raw": "When inspecting your fuel filler neck seal look for dryness, brittleness, or like on this particular diesel W123 obvious damage. This was caused by drips of B99 biodiesel on the already aged rubber seal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5Rlu5JOJIFISP3ap.standard"
+            ],
+            "StepId": 56564,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "gently pry around the edge of the old seal with a flat blade screwdriver or a large plastic spudger type tool . the old seals often stick slightly to the car ."
+                }
+            ],
+            "Text_raw": "Gently pry around the edge of the old seal with a flat blade screwdriver or a large plastic spudger type tool. The old seals often stick slightly to the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EBPhRf45mPHctWYO.standard"
+            ],
+            "StepId": 56565,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "pull the seal off of the fuel filler neck . it will look like this once the seal is off ."
+                }
+            ],
+            "Text_raw": "Pull the seal off of the fuel filler neck. It will look like this once the seal is off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZCBopUBTQSmiWyoB.standard"
+            ],
+            "StepId": 56566,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use your thumb to press the new seal in around the filler neck . the new seal has a lip on the back that must be pressed in to the hole around the neck . this lip will grip the metal edge of the hole for a tight seal ."
+                }
+            ],
+            "Text_raw": "Use your thumb to press the new seal in around the filler neck. The new seal has a lip on the back that must be pressed in to the hole around the neck. This lip will grip the metal edge of the hole for a tight seal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BTCheVrEc2tJaJwJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5cRPsUWtts611Whv.standard"
+            ],
+            "StepId": 56567,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "here's one last look at the damage done by the biodiesel . the owner of this w123 will be more careful in the future not to drip fuel on the filler neck seal when filling with b99 ; at that concentration , biodiesel is very caustic to rubber . lesson learned !"
+                }
+            ],
+            "Text_raw": "Here's one last look at the damage done by the biodiesel. The owner of this W123 will be more careful in the future not to drip fuel on the filler neck seal when filling with B99; at that concentration, biodiesel is very caustic to rubber. Lesson learned!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SMLFkHt6FGMAWlAS.standard"
+            ],
+            "StepId": 56568,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Fuel Filler Neck Seal"
+}

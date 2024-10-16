@@ -1,0 +1,222 @@
+{
+    "Title": "1997-2003 Chevrolet Malibu Front Brake Pads Replacement",
+    "Ancestors": [
+        "Chevrolet Malibu",
+        "Chevrolet",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11454,
+    "Category": "1997-2003 Chevrolet Malibu",
+    "Toolbox": [
+        {
+            "Name": "12 mm socket",
+            "Url": "/Item/12_mm_Socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431007052&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket wrench",
+            "Url": "http://www.amazon.com/TEKTON-1481-Polished-Release-72-Tooth/dp/B00A50N9VC/",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1997+1998+1999+2000+2001+2002+2003+Chevrolet+Malibu+Front+Brake+Pads+Replacement/11454",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "if using the car's emergency scissor-jack , identify the designated placement locations for this specific jack ."
+                },
+                {
+                    "Text": "the jack needs to be placed behind the front tire in one of the two slots indicated by the red markers ."
+                },
+                {
+                    "Text": "the slots are one foot behind each front tire , and 8-10 inches inward from the outer edge of the car ."
+                },
+                {
+                    "Text": "while on flat ground , put the jack in the slot closest to the front ."
+                }
+            ],
+            "Text_raw": "If using the car's emergency scissor-jack, identify the designated placement locations for this specific jack. The jack needs to be placed behind the front tire in one of the two slots indicated by the red markers. The slots are one foot behind each front tire, and 8-10 inches inward from the outer edge of the car. While on flat ground,  put the jack in the slot closest to the front.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/oXsRS2PE3hYaMVKx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ftLupvTPvN3LxDTK.standard"
+            ],
+            "StepId": 41066,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "'''do not go under the car unless the car is support by a jack stand . '''"
+                },
+                {
+                    "Text": "put a block in front of one of the rear tires and another block behind the same rear tire . this prevents the car from rolling in either direction while the front is jacked up ."
+                },
+                {
+                    "Text": "to operate the jack stand , turn clockwise to lift up and turn counter clockwise to low down ."
+                }
+            ],
+            "Text_raw": "'''Do not go under the car unless the car is support by a jack stand. ''' Put a block in front of one of the rear tires and another block behind the same rear tire. This prevents the car from rolling in either direction while the front is jacked up. To operate the jack stand, turn clockwise to lift up and turn counter clockwise to low down.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ouE5IiOw3ZfvGnxe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YwhMysvUVg5wZEEi.standard"
+            ],
+            "StepId": 41847,
+            "Tools_extracted": [
+                "hydraulic floor jack"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "loosen the plastic lug nuts , located on the hub-cap , with a 19 mm socket ."
+                },
+                {
+                    "Text": "when putting the hub-cap back onto the wheel , tighten the lugs until you feel firm resistance . do not over tighten because the threads will strip ."
+                }
+            ],
+            "Text_raw": "Loosen the plastic lug nuts, located on the hub-cap, with a 19mm socket. When putting the hub-cap back onto the wheel, tighten the lugs until you feel firm resistance. Do not over tighten because the threads will strip.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NvHNaHSHS4UYnDRE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KeJQVBQYUWt3Q3K1.standard"
+            ],
+            "StepId": 41067,
+            "Tools_extracted": [
+                "socket 19 mm"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "loosen and remove the five metal lug nuts with a 19 mm socket ."
+                },
+                {
+                    "Text": "torque the metal lug nuts to 100 ft-lbs when putting the wheels back on the car ."
+                }
+            ],
+            "Text_raw": "Loosen and remove the five metal lug nuts with a 19mm socket. Torque the metal lug nuts to 100 ft-lbs when putting the wheels back on the car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VBmZfBHgT4mXkMxo.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UVXvulJEfVY6Y3Wq.standard"
+            ],
+            "StepId": 41069,
+            "Tools_extracted": [
+                "socket 19 mm"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "remove the wheel from the hub ."
+                }
+            ],
+            "Text_raw": "Remove the wheel from the hub.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OUcbvcYKbXacYGUn.standard"
+            ],
+            "StepId": 41070,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "loosen and remove the two bolts located on the backside of the caliper with a 12 mm socket ."
+                },
+                {
+                    "Text": "torque the two bolts to 33 ft-lbs when putting the caliper back on the mounting bracket ."
+                },
+                {
+                    "Text": "remove the caliper from the mounting bracket ."
+                },
+                {
+                    "Text": "do not allow the caliper to hang freely . this will causes stretching or internal blocking of the brake line ."
+                },
+                {
+                    "Text": "tip : using hang wire to hang the caliper on the spring mount to keep it out of the way ."
+                }
+            ],
+            "Text_raw": "Loosen and remove the two bolts located on the backside of the caliper with a 12mm socket. Torque the two bolts to 33 ft-lbs when putting the caliper back on the mounting bracket. Remove the caliper from the mounting bracket. Do not allow the caliper to hang freely.  This will causes stretching or internal blocking of the brake line. TIP: Using hang wire to hang the caliper on the spring mount to keep it out of the way.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EwVpHNGrRbmXihN1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/4b6MetBNdGE3JpiE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jGbwKbkf3ydIJfTh.standard"
+            ],
+            "StepId": 41079,
+            "Tools_extracted": [
+                "12 mm socket"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "use a pry bar to remove the old brake pad from the bracket ."
+                },
+                {
+                    "Text": "use the same procedure for removing the pads on the other sides ."
+                },
+                {
+                    "Text": "tip : using c-clamp to compress the caliper to refit the new brake pads"
+                },
+                {
+                    "Text": "after removing the pads , you can check the rotor for irregular wear or damage . run your finger across the face of the rotor to feel for grooves or chipping ."
+                }
+            ],
+            "Text_raw": "Use a pry bar to remove the old brake pad from the bracket. Use the same procedure for removing the pads on the other sides. TIP: Using C-clamp to compress the caliper to refit the new brake pads After removing the pads, you can check the rotor for irregular wear or damage.  Run your finger across the face of the rotor to feel for grooves or chipping.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/P2TshZ4HqVqVHZ2V.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1jbXQiAqBLMcvnoD.standard"
+            ],
+            "StepId": 41080,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "pull the two caliper pins out of the mounting bracket by hand ."
+                },
+                {
+                    "Text": "if needed , apply brake lubricant to the two caliper pins . this fights corrosion buildup and allows the pins to slide off more smoothly ."
+                },
+                {
+                    "Text": "before putting the new brake pads on , apply disc brake quiet compound to the metal backing of the pads to keep them from squeaking ."
+                }
+            ],
+            "Text_raw": "Pull the two caliper pins out of the mounting bracket by hand. If needed,  apply \"Brake Lubricant\" to the two caliper pins. This fights corrosion buildup and allows the pins to slide off more smoothly. Before putting the new brake pads on, apply \"Disc Brake Quiet\" compound to the metal backing of the pads to keep them from squeaking.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NF5bWr64JoqhTWWm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SwvcKvHVWtdYcUCO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2GG6XUCRCKAXBrI6.standard"
+            ],
+            "StepId": 41085,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Front Brake Pads"
+}

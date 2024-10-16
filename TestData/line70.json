@@ -1,0 +1,217 @@
+{
+    "Title": "1986-1993 Volvo 240 Tie Rods Replacement",
+    "Ancestors": [
+        "Volvo",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 8388,
+    "Category": "1986-1993 Volvo 240",
+    "Toolbox": [
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431007052&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "groove joint pliers",
+            "Url": "http://www.amazon.com/Stanley-84-024-10-Inch-Bi-Material-Groove/dp/B000NNFSKG",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "impact wrench",
+            "Url": "http://www.amazon.com/Kawasaki-841337-2-Inch-Impact-12-Volt/dp/B00544EZQ2/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356974328&sr=1-1&keywords=electric+impact+gun",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1986+1987+1988+1989+1990+1991+1992+1993+Volvo+240+Tie+Rods+Replacement/8388",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "jack up the front of the car and place it on jack stands ."
+                },
+                {
+                    "Text": "never work on or underneath a car that is only supported by a jack . the jack may slip or fail , resulting in serious injury or even death ."
+                },
+                {
+                    "Text": "use an impact wrench or lug wrench to remove the five 19 mm lug nuts from the front wheel ."
+                },
+                {
+                    "Text": "the wheel lug nuts should be torqued to 85 ft-lbs when the wheels are put back on the car ."
+                },
+                {
+                    "Text": "pull the front wheel off the wheel lugs and set it aside ."
+                }
+            ],
+            "Text_raw": "Jack up the front of the car and place it on jack stands. Never work on or underneath a car that is only supported by a jack. The jack may slip or fail, resulting in serious injury or even death. Use an impact wrench or lug wrench to remove the five 19 mm lug nuts from the front wheel. The wheel lug nuts should be torqued to 85 ft-lbs when the wheels are put back on the car. Pull the front wheel off the wheel lugs and set it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WUDIKbAMUrokAxst.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/wjJnFMQpCMAKXxv2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vIWmA51vceY1Zdlr.standard"
+            ],
+            "StepId": 33105,
+            "Tools_extracted": [
+                "jack stand"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "use an impact wrench to remove the 19 mm tie rod end nut near the brake rotor ."
+                }
+            ],
+            "Text_raw": "Use an impact wrench to remove the 19 mm tie rod end nut near the brake rotor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uK1jHxGUAJbRjGnX.standard"
+            ],
+            "StepId": 33300,
+            "Tools_extracted": [
+                "impact wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use a pair of pliers to remove the zip tie or clamp securing the inner tie rod boot ."
+                }
+            ],
+            "Text_raw": "Use a pair of pliers to remove the zip tie or clamp securing the inner tie rod boot.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1sMygTOIFZPGDnCl.standard"
+            ],
+            "StepId": 33291,
+            "Tools_extracted": [
+                "groove joint pliers"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "unscrew the inner tie rod from the steering rack . it may be necessary to use a large pair of groove joint pliers to loosen it ."
+                },
+                {
+                    "Text": "remove the tie rod assembly once it is free from the steering rack ."
+                }
+            ],
+            "Text_raw": "Unscrew the inner tie rod from the steering rack. It may be necessary to use a large pair of groove joint pliers to loosen it. Remove the tie rod assembly once it is free from the steering rack.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BB1lB4vd3ghLoR6N.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/l1DAkuUVaxSdMjfS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IPJJOrHoYOkiONs3.standard"
+            ],
+            "StepId": 33292,
+            "Tools_extracted": [
+                "groove joint pliers"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "before installing the new tie rod assembly , you must adjust it to the correct length . keep one tie rod assembly together while assembling the other one ."
+                },
+                {
+                    "Text": "the outer tie rod simply screws onto the inner rod and can be removed by unscrewing it ."
+                },
+                {
+                    "Text": "screw the outer tie rod onto the inner tie rod ."
+                },
+                {
+                    "Text": "adjust the length of the tie rod assembly by spinning the outer tie rod so that it is the same length as the existing assembly . once it is the correct length , use the back-in nut to secure the outer tie rod in place ."
+                },
+                {
+                    "Text": "repeat this process for the other tie rod assembly , using the new assembly as your guideline for the proper length ."
+                }
+            ],
+            "Text_raw": "Before installing the new tie rod assembly, you must adjust it to the correct length. Keep one tie rod assembly together while assembling the other one. The outer tie rod simply screws onto the inner rod and can be removed by unscrewing it. Screw the outer tie rod onto the inner tie rod. Adjust the length of the tie rod assembly by spinning the outer tie rod so that it is the same length as the existing assembly. Once it is the correct length, use the back-in nut to secure the outer tie rod in place. Repeat this process for the other tie rod assembly, using the new assembly as your guideline for the proper length.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/esGNHQvFC4wDhYQN.standard"
+            ],
+            "StepId": 33294,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "install the inner tie rod end into the steering rack and tighten it with groove joint pliers ."
+                }
+            ],
+            "Text_raw": "Install the inner tie rod end into the steering rack and tighten it with groove joint pliers.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/objMJPIrWD36NReC.standard"
+            ],
+            "StepId": 33295,
+            "Tools_extracted": [
+                "groove joint pliers"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "pull the inner tie rod boot completely over the inner tie rod and onto the steering rack ."
+                },
+                {
+                    "Text": "secure the boot in place with whatever hardware came with your new tie rods ."
+                },
+                {
+                    "Text": "if your new tie rods did not include hardware for the boot , a zip tie will work just fine ."
+                }
+            ],
+            "Text_raw": "Pull the inner tie rod boot completely over the inner tie rod and onto the steering rack. Secure the boot in place with whatever hardware came with your new tie rods. If your new tie rods did not include hardware for the boot, a zip tie will work just fine.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/P1gH2PHZRJpwXCyy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kxZDAJW1xgdMuLpT.standard"
+            ],
+            "StepId": 33296,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "place the tie rod end through its hole next to the brake rotor ."
+                },
+                {
+                    "Text": "install the tie rod end nut and tighten it to 44 ft-lbs with a torque wrench or impact gun ."
+                }
+            ],
+            "Text_raw": "Place the tie rod end through its hole next to the brake rotor. Install the tie rod end nut and tighten it to 44 ft-lbs with a torque wrench or impact gun.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aWHGgaWH6cX4a2ab.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LXEH3BBp1xlHiYOZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DPp6BWYBnU3fhsMt.standard"
+            ],
+            "StepId": 33301,
+            "Tools_extracted": [
+                "torque wrench"
+            ]
+        }
+    ],
+    "Subject": "Tie Rods"
+}

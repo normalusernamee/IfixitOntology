@@ -1,0 +1,94 @@
+{
+    "Title": "Vanagon Westfalia ATE Brake Replacement",
+    "Ancestors": [
+        "Volkswagen",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 77254,
+    "Category": "Vanagon Westfalia",
+    "Toolbox": [
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431007052&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "14 mm socket wrench",
+            "Url": "https://www.amazon.com/TEKTON-WRN53114-Ratcheting-Combination-Wrench/dp/B01F511MHI/ref=sr_1_4?ie=UTF8&qid=1487884372&sr=8-4&keywords=14mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "11 wrench",
+            "Url": "https://www.amazon.com/TEKTON-WRN53111-Ratcheting-Combination-Wrench/dp/B01F511MB4/ref=sr_1_1?ie=UTF8&qid=1487888260&sr=8-1&keywords=11mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hammer",
+            "Url": "http://www.amazon.com/dp/B0000224VG/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "6 inch c-clamp",
+            "Url": "https://www.amazon.com/TEKTON-4027-Malleable-C-Clamp-Opening/dp/B000NY6QO2/ref=sr_1_2?s=power-hand-tools&ie=UTF8&qid=1487888644&sr=1-2&keywords=c+clamp",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "groove joint pliers",
+            "Url": "http://www.amazon.com/Stanley-84-024-10-Inch-Bi-Material-Groove/dp/B000NNFSKG",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "moly grease",
+            "Url": "http://www.oscaroparts.com/search/go?format=cat1&lbc=oscaro&method=and&original_keyword=grease&p=Q&ts=custom&uid=886967922&view=list&w=grease&format=cat1&af=cat3%3aoilfluidstools_lubricantsfluidsadhesives_mo",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Vanagon+Westfalia+ATE+Brake+Replacement/77254",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "part 1"
+                }
+            ],
+            "Text_raw": "Part 1",
+            "Images": [],
+            "StepId": 154020,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "part 2"
+                }
+            ],
+            "Text_raw": "Part 2",
+            "Images": [],
+            "StepId": 154016,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "1980-1985 Front Brakes"
+}

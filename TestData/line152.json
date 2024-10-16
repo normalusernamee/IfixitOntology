@@ -1,0 +1,144 @@
+{
+    "Title": "Mercedes W123 Radiator Hose Replacement",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 22771,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        },
+        {
+            "Name": "hose removal tool",
+            "Url": "/Item/Hose_Removal_Tool",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Mercedes+W123+Radiator+Hose+Replacement/22771",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "begin by draining your radiator of coolant as guide . you will not need to drain the block for this process ."
+                },
+                {
+                    "Text": "as always , never work on your coolant system when it is hot . this is very very dangerous ."
+                }
+            ],
+            "Text_raw": "Begin by draining your radiator of coolant as [guide|21437|described in the coolant change guide]. You will not need to drain the block for this process. As always, never work on your coolant system when it is hot. This is very very dangerous.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BmjkDIuiZpAqK5mF.standard"
+            ],
+            "StepId": 59661,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "find your upper coolant hose connection at the upper driver's side of the radiator ."
+                },
+                {
+                    "Text": "loosen the hose clamp on this end of the hose ."
+                }
+            ],
+            "Text_raw": "Find your upper coolant hose connection at the upper driver's side of the radiator. Loosen the hose clamp on this end of the hose.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/xaDbMolUcw1Kpvcf.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hiyiiSAxJUBmqamZ.standard"
+            ],
+            "StepId": 59662,
+            "Tools_extracted": [
+                "hose removal tool"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "follow this hose to the top of the engine block , where it enters the thermostat housing ."
+                },
+                {
+                    "Text": "loosen the hose clamp on this end of the hose ."
+                }
+            ],
+            "Text_raw": "Follow this hose to the top of the engine block, where it enters the thermostat housing. Loosen the hose clamp on this end of the hose.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QfVNjdhmpeQyO2a2.standard"
+            ],
+            "StepId": 59663,
+            "Tools_extracted": [
+                "hose removal tool"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "then use a hose clamp removal hook or other appropriate tools to work around under the edge of the hose . this will help break them free ; they often stick to the necks they attach to over time ."
+                },
+                {
+                    "Text": "pull the hose off fully on both ends ."
+                }
+            ],
+            "Text_raw": "Then use a hose clamp removal hook or other appropriate tools to work around under the edge of the hose. This will help break them free; they often stick to the necks they attach to over time. Pull the hose off fully on both ends.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/fGBSMLdSkGi2ZZvK.standard"
+            ],
+            "StepId": 59664,
+            "Tools_extracted": [
+                "hose removal tool"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "continue by loosening the clamp on the lower radiator hose where it connects to the thermostat housing ."
+                }
+            ],
+            "Text_raw": "Continue by loosening the clamp on the lower radiator hose where it connects to the thermostat housing.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dllkr5ME1RJSmT2b.standard"
+            ],
+            "StepId": 59665,
+            "Tools_extracted": [
+                "hose removal tool"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "then go underneath the car and loosen the clamp on the lower radiator hose where it connects to the radiator ."
+                },
+                {
+                    "Text": "remove the hose in the same manner you did the upper hose ."
+                },
+                {
+                    "Text": "now replace both hoses , and secure with hose clamps . replace the hose clamps with new ones if they were difficult to open due to corrosion or stripped screw heads ."
+                },
+                {
+                    "Text": "finish by filling the system with coolant and bleeding the system as guide"
+                }
+            ],
+            "Text_raw": "Then go underneath the car and loosen the clamp on the lower radiator hose where it connects to the radiator. Remove the hose in the same manner you did the upper hose. Now replace both hoses, and secure with hose clamps. Replace the hose clamps with new ones if they were difficult to open due to corrosion or stripped screw heads. Finish by filling the system with coolant and bleeding the system as [guide|21437|described in the coolant change guide.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hLtaZUx2QoJJATMF.standard"
+            ],
+            "StepId": 59666,
+            "Tools_extracted": [
+                "hose removal tool"
+            ]
+        }
+    ],
+    "Subject": "Radiator Hose"
+}

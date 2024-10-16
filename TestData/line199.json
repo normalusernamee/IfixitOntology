@@ -1,0 +1,119 @@
+{
+    "Title": "1999-2004 Jeep Grand Cherokee Headlight Bulb Replacement",
+    "Ancestors": [
+        "Jeep Grand Cherokee",
+        "Jeep",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 38283,
+    "Category": "1999-2004 Jeep Grand Cherokee",
+    "Toolbox": [
+        {
+            "Name": "7 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-21241-7mm-Combination-Wrench/dp/B000NY8Q8G/ref=sr_1_2?ie=UTF8&qid=1388418409&sr=8-2&keywords=7mm+wrench",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1999+2000+2001+2002+2003+2004+Jeep+Grand+Cherokee+Headlight+Bulb+Replacement/38283",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "here is a 2000 jeep grand cherokee with a burned out driver side headlight bulb ."
+                },
+                {
+                    "Text": "open the hood . on top of the affected headlight assembly is a single 7 mm hex bolt ."
+                },
+                {
+                    "Text": "remove the bolt"
+                }
+            ],
+            "Text_raw": "Here is a 2000 Jeep Grand Cherokee with a burned out driver side headlight bulb. Open the hood. On top of the affected headlight assembly is a single 7mm hex bolt. Remove the bolt",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WnPWDDV1QZ42vQYD.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WUgMDhDuqWatFgKw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SqHUIhDTfENvdGfD.standard"
+            ],
+            "StepId": 86847,
+            "Tools_extracted": [
+                "7 mm socket"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "remove the bolt . it is approximately 6 inches long ."
+                },
+                {
+                    "Text": "grab the headlight assembly on the fender side ,"
+                },
+                {
+                    "Text": "as well as the grill side ."
+                }
+            ],
+            "Text_raw": "Remove the bolt. It is approximately 6 inches long. Grab the headlight assembly on the fender side, as well as the grill side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JCUmf6CiyJVLlaQu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PJudCUhRfHquVtgd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/UBZSEtjZZt5vftiy.standard"
+            ],
+            "StepId": 86848,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "then pull the assembly straight out"
+                },
+                {
+                    "Text": "the light bulbs will now be accessible ."
+                },
+                {
+                    "Text": "remove the bulb by twisting it in a counter clockwise direction , then pulling it out of the headlight assembly ."
+                }
+            ],
+            "Text_raw": "Then pull the assembly straight out The light bulbs will now be accessible. Remove the bulb by twisting it in a counter clockwise direction, then pulling it out of the headlight assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mshfCQVQwE4vtAXZ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/agrPYkNNEqG5yMSv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HZLkyAeCreuN4gXj.standard"
+            ],
+            "StepId": 86849,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "use a flathead screwdriver ( or similar tool ) to lift the socket clip of the tab on the bulb and remove the bulb ."
+                },
+                {
+                    "Text": "change the bulb and the result will be fully functional headlights ."
+                }
+            ],
+            "Text_raw": "Use a flathead screwdriver (or similar tool) to lift the socket clip of the tab on the bulb and remove the bulb. Change the bulb and the result will be fully functional headlights.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dcIRLLFghGrBMohI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XTbpTZl2HYiAPy5u.standard"
+            ],
+            "StepId": 86850,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        }
+    ],
+    "Subject": "Headlight Bulb"
+}

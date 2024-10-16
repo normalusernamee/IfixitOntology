@@ -1,0 +1,1158 @@
+{
+    "Title": "Fixing 2004-2010 Volkswagen Touareg Touareg Gas Leak",
+    "Ancestors": [
+        "Volkswagen Touareg",
+        "Volkswagen",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11326,
+    "Category": "2002-2010 Volkswagen Touareg",
+    "Toolbox": [
+        {
+            "Name": "10 mm triple square",
+            "Url": "http://www.amazon.com/8Pc-Triple-Square-4Mm-16Mm-Set/dp/B000I1Q60O",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "10 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "t10202",
+            "Url": "/Item/T10202",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "t30 torx driver",
+            "Url": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=t30+torx&rh=i%3Aaps%2Ck%3At30+torx",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Fixing+2004+2005+2006+2007+2008+2009+2010+Volkswagen+Touareg+Touareg+Gas+Leak/11326",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "start by removing the rear seat backs . here's some detailed steps ."
+                },
+                {
+                    "Text": "flip the bottom of the seats forward . remove the headrests , and lay the seat-backs down flat ."
+                }
+            ],
+            "Text_raw": "Start by removing the rear seat backs.  Here's some detailed steps. Flip the bottom of the seats forward.  Remove the headrests, and lay the seat-backs down flat.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/qQsncRLCdy2aKlqJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PngcrF2p4GXyiNYG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CBQ2XHDGUhZTUhZK.standard"
+            ],
+            "StepId": 40543,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "using a t30 torx driver , remove the bolt that secures the clip in place ."
+                },
+                {
+                    "Text": "remove the clip . do this by rotating the clip toward the front of the car - don't worry if you can't get it completely out . you can remove the clip after the left seatback is removed . just be sure you can get the left seatback loose ."
+                }
+            ],
+            "Text_raw": "Using a T30 Torx driver, remove the bolt that secures the clip in place. Remove the clip.  Do this by rotating the clip toward the front of the car - don't worry if you can't get it completely out.  You can remove the clip after the left seatback is removed.  Just be sure you can get the left seatback loose.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bfjFa2g3yQXQAkTu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OWuciAoRWHNkJYQ2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Kd3VI5yGsfpnHnTO.standard"
+            ],
+            "StepId": 40558,
+            "Tools_extracted": [
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "remove the left seatback ."
+                },
+                {
+                    "Text": "to accomplish this , the seatback needs to be free of the mounting bracket toward the inside of the car ( see previous step ) ."
+                },
+                {
+                    "Text": "the seat needs to lean forward then pushed toward the center of the car to release it from the side of the vehicle ."
+                },
+                {
+                    "Text": "see the pics to get an idea of the angle needed and what the mounting pin looks like on the side of the vehicle ."
+                },
+                {
+                    "Text": "'''a couple important notes about my pictures : '''"
+                },
+                {
+                    "Text": "the picture of the seatback leaning forward shows the seat bottom being used as a support - this was for the photo only to give you an idea of the angle . when removing the seatback , the seat bottom needs to be all the way forward ."
+                },
+                {
+                    "Text": "the picture of the seat ( removed from the vehicle ) lets you see inside the hole that engages the mounting pin . there's a piece of plastic trim missing from this photo . my trim broke during a prior removal attempt . . ."
+                }
+            ],
+            "Text_raw": "Remove the left seatback. To accomplish this, the seatback needs to be free of the mounting bracket toward the inside of the car (see previous step). The seat needs to lean forward then pushed toward the center of the car to release it from the side of the vehicle. See the pics to get an idea of the angle needed and what the mounting pin looks like on the side of the vehicle. '''A couple important notes about my pictures:''' The picture of the seatback leaning forward shows the seat bottom being used as a support - this was for the photo only to give you an idea of the angle.  When removing the seatback, the seat bottom needs to be all the way forward. The picture of the seat (removed from the vehicle) lets you see inside the hole that engages the mounting pin.  There's a piece of plastic trim missing from this photo.  My trim broke during a prior removal attempt...",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Rg6f4QmsqvImigOH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6YWSRRNFymrfB6DY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jwuZBeir3bHIMI3v.standard"
+            ],
+            "StepId": 40559,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "prepare to cut the carpet to access the fuel tank ports ."
+                },
+                {
+                    "Text": "raise the left seatback and lock it in place ."
+                }
+            ],
+            "Text_raw": "Prepare to cut the carpet to access the fuel tank ports. Raise the left seatback and lock it in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dIj3UpZJN1G2OfQI.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XSyUcJZ1CW1mGeyP.standard"
+            ],
+            "StepId": 40560,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "cut open the carpet to access the fuel tank ports . notice that the interior carpet is perforated giving you a guide of where to cut ."
+                },
+                {
+                    "Text": "do this on both sides of the vehicle ."
+                }
+            ],
+            "Text_raw": "Cut open the carpet to access the fuel tank ports.  Notice that the interior carpet is perforated giving you a guide of where to cut. Do this on both sides of the vehicle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/pOxyWTJFp1lZalwL.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XZEXrLgNLN2KOSNy.standard"
+            ],
+            "StepId": 40544,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "remove the seatback bracket ."
+                },
+                {
+                    "Text": "use a 10 mm triple square driver to remove the 4 bolts on the seatback bracket ."
+                },
+                {
+                    "Text": "you will have to move the right seatback around a bit to free it up from the bracket ."
+                },
+                {
+                    "Text": "when free , remove the bracket from the vehicle ."
+                }
+            ],
+            "Text_raw": "Remove the seatback bracket. Use a 10mm triple square driver to remove the 4 bolts on the seatback bracket. You will have to move the right seatback around a bit to free it up from the bracket. When free, remove the bracket from the vehicle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bdlCwibldObJsdGe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QUICZEZmAk25f1H6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eZqEsJmFmsMTmFSR.standard"
+            ],
+            "StepId": 40561,
+            "Tools_extracted": [
+                "10 mm triple square"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "remove the right seatback ."
+                },
+                {
+                    "Text": "this is similar to the left seatback ."
+                },
+                {
+                    "Text": "lean the seat forward 30 or so . while leaning forward , push the seat toward the center of the vehicle to release the seat from the pin on the side of the vehicle ."
+                },
+                {
+                    "Text": "the center seatbelt is attached to the floor . you need to remove the 10 mm triple square bolt before the seat can be removed from the vehicle ."
+                },
+                {
+                    "Text": "once the seatback is free , remove it from the vehicle ."
+                }
+            ],
+            "Text_raw": "Remove the right seatback. This is similar to the left seatback. Lean the seat forward 30\u00b0 or so.  While leaning forward, push the seat toward the center of the vehicle to release the seat from the pin on the side of the vehicle. The center seatbelt is attached to the floor.  You need to remove the 10mm triple square bolt before the seat can be removed from the vehicle. Once the seatback is free, remove it from the vehicle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QuY3KiWeVekDuhGM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/miJmVwlBEnltMtOE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hEFw5GEdZHTxfahe.standard"
+            ],
+            "StepId": 40562,
+            "Tools_extracted": [
+                "10 mm triple square"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "remove the seatbelt bracket for the right side ."
+                },
+                {
+                    "Text": "to do this , remove the three 10 mm triple square bolts attaching the bracket to the floor ."
+                }
+            ],
+            "Text_raw": "Remove the seatbelt bracket for the right side. To do this, remove the three 10mm triple square bolts attaching the bracket to the floor.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/eEkhKWqitGGjUmnY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/VGLPI2otIgymLFbJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/x3HfMdmavV44jRTf.standard"
+            ],
+            "StepId": 40563,
+            "Tools_extracted": [
+                "10 mm triple square"
+            ]
+        },
+        {
+            "Order": 8,
+            "Lines": [
+                {
+                    "Text": "here's some notes about the triple square tool and bolts ."
+                },
+                {
+                    "Text": "i've tried a number of triple square drivers over the years , mostly with poor results . good ones are expensive !"
+                },
+                {
+                    "Text": "here's a rather inexpensive triple square driver set ( around 30 ) : from amazon"
+                },
+                {
+                    "Text": "i had a set from sk tools that was very poor - the drivers were very loose when you put them in the bolt head you were trying to remove . they'd slip and strip the head of the bolt . not recommended !"
+                },
+                {
+                    "Text": "please note that these triple square bolts are extremely tight and difficult to remove . it's not that their just tight , they have lock-tight or something on them that make them hard to remove all together . they don't just break loose ."
+                },
+                {
+                    "Text": "the official vw repair manual states these bolts are to be replaced and not re-used . vw part number for these : n 910 260 03. available from impex ."
+                }
+            ],
+            "Text_raw": "Here's some notes about the triple square tool and bolts. I've tried a number of triple square drivers over the years, mostly with poor results.  Good ones are expensive! Here's a rather inexpensive triple square driver set (around $30):  [http://www.amazon.com/8Pc-Triple-Square-4Mm-16Mm-Set/dp/B000I1Q60O|VIMXZN100 from Amazon] I had a set from SK Tools that was very poor - the drivers were very loose when you put them in the bolt head you were trying to remove.  They'd slip and strip the head of the bolt.  Not recommended! Please note that these triple square bolts are extremely tight and difficult to remove.  It's not that their just tight, they have lock-tight or something on them that make them hard to remove all together.  They don't just \"break loose\". The official VW repair manual states these bolts are to be replaced and not re-used.  VW part number for these: N 910 260 03.  Available from [http://www.worldimpex.com/search_by_partno.html?searchmode=partno&partno=N+910+260+03&x=0&y=0|World Impex].",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hrm1NSpMO3bEKN2O.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hKpZMerNUWe3gNOG.standard"
+            ],
+            "StepId": 40546,
+            "Tools_extracted": [
+                "10 mm triple square",
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 9,
+            "Lines": [
+                {
+                    "Text": "using a 10 mm socket , remove the 4 bolts that cover the gas tank access cover ."
+                },
+                {
+                    "Text": "remove the covers - on mine , the smell of gas was very much present now !"
+                },
+                {
+                    "Text": "do this on both sides of the vehicle ."
+                }
+            ],
+            "Text_raw": "Using a 10mm socket, remove the 4 bolts that cover the gas tank access cover. Remove the covers - on mine, the smell of gas was very much present now! Do this on both sides of the vehicle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BuSP2BcfJvcsBJTu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cyPlnyTp4GdWgDog.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DpKSJ2i5iLp6SWMG.standard"
+            ],
+            "StepId": 40548,
+            "Tools_extracted": [
+                "10 mm socket"
+            ]
+        },
+        {
+            "Order": 10,
+            "Lines": [
+                {
+                    "Text": "look here ! there's gas floating around on top of the driver's side . it also looks clean and shiny ( compared to the passenger side ) ."
+                },
+                {
+                    "Text": "upon closer inspection ( and a tip from the leak is at the top of the dome . zooming in shows about a 1 /8 crack seen in the pictures as a discoloration at the top of the dome ."
+                },
+                {
+                    "Text": "when the fuel pump is on , the gas is flowing . even after the pump stops , the gas keeps coming out ( as i imagine the system is still under pressure ) ."
+                },
+                {
+                    "Text": "vw part number for this assembly is 7 l0 919 679. world impex has a vdo equivalent ( the original is made by vdo as well ) for under 100. here ."
+                }
+            ],
+            "Text_raw": "Look here!  There's gas floating around on top of the driver's side.  It also looks \"clean\" and shiny (compared to the passenger side). Upon closer inspection (and a tip from [http://www.clubtouareg.com/forums/f43/gas-leak-on-2005-touareg-80027.html#post375000|Crazyhippy]) the leak is at the top of the dome.  Zooming in shows about a 1/8\" crack seen in the pictures as a discoloration at the top of the dome. When the fuel pump is on, the gas is flowing.  Even after the pump stops, the gas keeps coming out (as I imagine the system is still under pressure). VW part number for this assembly is 7L0 919 679.  World Impex has a VDO equivalent (the original is made by VDO as well) for under $100.  [http://www.worldimpex.com/parts/vdo-fuel-filter_3646321.html|See here.]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/a4rTGRsymwMTkaKA.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IQOcuRArJyhOOud1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cTi1XJMHDukDuIjW.standard"
+            ],
+            "StepId": 40549,
+            "Tools_extracted": [
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 11,
+            "Lines": [
+                {
+                    "Text": "on the passenger side , the gas tank looks dirty and un-touched . i don't think there's a gas leak here ."
+                },
+                {
+                    "Text": "you can see that some gas is present outside of the access port - i suspect this is from the leak on the driver side being splashed around ."
+                }
+            ],
+            "Text_raw": "On the passenger side, the gas tank looks dirty and un-touched.  I don't think there's a gas leak here. You can see that some gas is present outside of the access port - I suspect this is from the leak on the driver side being splashed around.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5fxH3Fi6eQhrjbEi.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/C5UH3fmpf5rpGmxm.standard"
+            ],
+            "StepId": 40550,
+            "Tools_extracted": [
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 12,
+            "Lines": [
+                {
+                    "Text": "remove the fuses for the fuel pumps . these are fuse number 13 and 14 ( according to the vw service manual ) . these are found under the hood ."
+                },
+                {
+                    "Text": "pop the hood"
+                },
+                {
+                    "Text": "remove the two access panels on the driver's side near the firewall ."
+                },
+                {
+                    "Text": "use a large flat blade screwdriver to open each . the screws turn 90 to disengage ."
+                },
+                {
+                    "Text": "these fuses are highlighted and removed in the next step ."
+                }
+            ],
+            "Text_raw": "Remove the fuses for the fuel pumps.  These are fuse number 13 and 14 (according to the VW service manual).  These are found under the hood. Pop the hood Remove the two access panels on the driver's side near the firewall. Use a large flat blade screwdriver to open each.  The screws turn 90\u00b0 to disengage. These fuses are highlighted and removed in the next step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mxJCmThxPxHPf2MJ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Yb6WFxSxyUTEwxAg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IZCEonJhIqkN6Njp.standard"
+            ],
+            "StepId": 41388,
+            "Tools_extracted": [
+                "flathead screwdriver",
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 13,
+            "Lines": [
+                {
+                    "Text": "fuses 13 and 14 are highlighted . note that these are marked as 15 amp fuses ."
+                },
+                {
+                    "Text": "pull them out and set them aside ."
+                }
+            ],
+            "Text_raw": "Fuses 13 and 14 are highlighted.  Note that these are marked as 15 amp fuses. Pull them out and set them aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/r4o1Q1YAqbtCfxYm.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5aWLRsFchhXADysE.standard"
+            ],
+            "StepId": 41389,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 14,
+            "Lines": [
+                {
+                    "Text": "go back to the fuel tank access ports ."
+                },
+                {
+                    "Text": "remove the electrical connector for the fuel pump ."
+                },
+                {
+                    "Text": "use a large flat blade screwdriver to insert into the tab . gently push the top of the screwdriver toward the wires ."
+                },
+                {
+                    "Text": "pull up on the connector . if yours is difficult to remove , you can get some extra leverage from a 90 screwdriver as shown ."
+                },
+                {
+                    "Text": "be sure to release the latch ( using the large flat blade screwdriver ) before prying up with the 90 screwdriver ."
+                }
+            ],
+            "Text_raw": "Go back to the fuel tank access ports. Remove the electrical connector for the fuel pump. Use a large flat blade screw driver to insert into the tab.  Gently push the top of the screw driver toward the wires. Pull up on the connector.  If yours is difficult to remove, you can get some extra leverage from a 90\u00b0 screwdriver as shown. Be sure to release the latch (using the large flat blade screwdriver) before prying up with the 90\u00b0 screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZcdImTqUOgXM6Rdy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SJp3mHjUDmtAHrYA.standard"
+            ],
+            "StepId": 41390,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 15,
+            "Lines": [
+                {
+                    "Text": "on my vehicle , the amount of gas that was leaking caused the gasket in the electrical connector to breakdown ."
+                },
+                {
+                    "Text": "as you can see here , the gasket came out and was in pieces ."
+                },
+                {
+                    "Text": "we'll fix this later ."
+                }
+            ],
+            "Text_raw": "On my vehicle, the amount of gas that was leaking caused the gasket in the electrical connector to breakdown. As you can see here, the gasket came out and was in pieces. We'll fix this later.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/QwVhEGiEEOHdHQgl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sTgklYNi2rbTclOI.standard"
+            ],
+            "StepId": 41391,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 16,
+            "Lines": [
+                {
+                    "Text": "remove the vent hose from the fuel filter assembly ."
+                },
+                {
+                    "Text": "do this by pressing down on the small tab on top of the connector ."
+                },
+                {
+                    "Text": "this tab stands out as a white part on the otherwise black connector ."
+                },
+                {
+                    "Text": "while the tab is pressed down , slide the connector off the filter assembly and push it aside ."
+                }
+            ],
+            "Text_raw": "Remove the vent hose from the fuel filter assembly. Do this by pressing down on the small tab on top of the connector. This tab stands out as a white part on the otherwise black connector. While the tab is pressed down, slide the connector off the filter assembly and push it aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/3LxkdSGKtlC1pu24.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NAAAPYqKrVW1KRkC.standard"
+            ],
+            "StepId": 41392,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 17,
+            "Lines": [
+                {
+                    "Text": "place vw tool t10202 on the ring that secures the fuel filter assembly in place ."
+                },
+                {
+                    "Text": "use t10202 to remove the ring ."
+                },
+                {
+                    "Text": "pull the ring off and set it aside ."
+                },
+                {
+                    "Text": "tool t10202 is a specialty tool that can be ordered from a few vw tool places for 25-50."
+                },
+                {
+                    "Text": "this tool made things incredibly easy to remove ( and later reinstall ) the ring . the alternative is to beat around in here with a screwdriver and hammer . i can't imagine doing that ."
+                },
+                {
+                    "Text": "this tool was worth every penny for this job !"
+                }
+            ],
+            "Text_raw": "Place VW Tool T10202 on the ring that secures the fuel filter assembly in place. Use T10202 to remove the ring. Pull the ring off and set it aside. Tool T10202 is a specialty tool that can be ordered from a few VW tool places for $25-$50. This tool made things incredibly easy to remove (and later reinstall) the ring.  The alternative is to beat around in here with a screwdriver and hammer.  I can't imagine doing that. This tool was worth every penny for this job!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bnhu1FGieSfo3RZQ.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jdaAg3XfRsvyYlL3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YtDcPxt2mhaA6DDg.standard"
+            ],
+            "StepId": 41393,
+            "Tools_extracted": [
+                "t10202",
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 18,
+            "Lines": [
+                {
+                    "Text": "pull the fuel filter assembly out of the gas tank ."
+                },
+                {
+                    "Text": "there are many connections on the assembly that will restrict you from pulling it out ."
+                },
+                {
+                    "Text": "the first thing you'll run into are the electrical connections ."
+                },
+                {
+                    "Text": "pull these off and set them aside . they are going to fall into the tank . you may be able to rest them on something - or you may have to fish them out of the tank later if you lose track of them ."
+                },
+                {
+                    "Text": "notice how these connectors are installed so you can reinstall them later . one is polarized ( meaning it can only attach in one direction ) - the other is not . i suspect that the non-polarized connector can go on either way without harm - but i wouldn't chance it ."
+                },
+                {
+                    "Text": "pay attention to the direction it is when you take it off so you can reinstall it the same way later ."
+                }
+            ],
+            "Text_raw": "Pull the fuel filter assembly out of the gas tank. There are many connections on the assembly that will restrict you from pulling it out. The first thing you'll run into are the electrical connections. Pull these off and set them aside.  They are going to fall into the tank.  You may be able to rest them on something - or you may have to fish them out of the tank later if you lose track of them. Notice how these connectors are installed so you can reinstall them later.  One is polarized (meaning it can only attach in one direction) - the other is not.  I suspect that the non-polarized connector can go on either way without harm - but I wouldn't chance it. Pay attention to the direction it is when you take it off so you can reinstall it the same way later.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YSnqi4TMOfobodcs.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/S5WVN3FDpQilPU2k.standard"
+            ],
+            "StepId": 41394,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 19,
+            "Lines": [
+                {
+                    "Text": "remove the fuel lines from the fuel filter assembly ."
+                },
+                {
+                    "Text": "there are three lines - you are only removing two of them ."
+                },
+                {
+                    "Text": "remove the two lines that have plastic connectors on the ends ."
+                },
+                {
+                    "Text": "release the connections by pressing in on the plastic tabs similar to the vent hose connection we did in a previous step ."
+                },
+                {
+                    "Text": "the large fuel line has two tabs ( one on each side ) - i was able to squeeze this with my fingers to remove ."
+                },
+                {
+                    "Text": "the small fuel line has one tab - i used a screwdriver to push that tab in ."
+                },
+                {
+                    "Text": "after you push the tab ( s ) in , pull the fuel line off ."
+                },
+                {
+                    "Text": "the third hose on the fuel filter assembly is fastened by a metal clip - do not remove this one . we'll remove the other end of this hose in the next step ."
+                }
+            ],
+            "Text_raw": "Remove the fuel lines from the fuel filter assembly. There are three lines - you are only removing two of them. Remove the two lines that have plastic connectors on the ends. Release the connections by pressing in on the plastic tabs similar to the vent hose connection we did in a previous step. The large fuel line has two tabs (one on each side) - I was able to squeeze this with my fingers to remove. The small fuel line has one tab - I used a screw driver to push that tab in. After you push the tab(s) in, pull the fuel line off. The third hose on the fuel filter assembly is fastened by a metal clip - do not remove this one.  We'll remove the other end of this hose in the next step.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/rRLBrUIXdcqLmpAw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Zop4KsPsSVmI6cBU.standard"
+            ],
+            "StepId": 41395,
+            "Tools_extracted": [
+                "flathead screwdriver"
+            ]
+        },
+        {
+            "Order": 20,
+            "Lines": [
+                {
+                    "Text": "now move to the passenger side ."
+                },
+                {
+                    "Text": "remove the fuel pump electrical connector just like you did on the other side ."
+                },
+                {
+                    "Text": "remove the vent hose the same as you did on the other side ( the white line ) ."
+                },
+                {
+                    "Text": "remove the black fuel line by pressing in on the tab as shown . when the tab is depressed , gently pull up on the fuel line ."
+                },
+                {
+                    "Text": "i had a little gas come out of the fuel line - so have a rag handy to clean it up ."
+                }
+            ],
+            "Text_raw": "Now move to the passenger side. Remove the fuel pump electrical connector just like you did on the other side. Remove the vent hose the same as you did on the other side (the white line). Remove the black fuel line by pressing in on the tab as shown.  When the tab is depressed, gently pull up on the fuel line. I had a little gas come out of the fuel line - so have a rag handy to clean it up.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/sAK4SVXZhlDZkS1H.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vEHNvRjcTJl2ZjDd.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/atlwflctbyQZXWNP.standard"
+            ],
+            "StepId": 41396,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 21,
+            "Lines": [
+                {
+                    "Text": "use the t10202 tool again here to remove the retaining ring . set the ring aside ."
+                }
+            ],
+            "Text_raw": "Use the T10202 tool again here to remove the retaining ring.  Set the ring aside.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/kiQCmnx22cc54Gcx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XYrkAlMMdTSMBEsw.standard"
+            ],
+            "StepId": 41397,
+            "Tools_extracted": [
+                "t10202"
+            ]
+        },
+        {
+            "Order": 22,
+            "Lines": [
+                {
+                    "Text": "pull this fuel assembly up and out of the fuel tank ."
+                },
+                {
+                    "Text": "you need to remove the fuel line indicated in the picture . this is the line that connects to the fuel filter assembly on the other end ( and the other end is permanently attached to the fuel filter assembly ) ."
+                },
+                {
+                    "Text": "like all the other connections , this connector is removed by depressing the tab and pulling the fuel line off ."
+                }
+            ],
+            "Text_raw": "Pull this fuel assembly up and out of the fuel tank. You need to remove the fuel line indicated in the picture.  This is the line that connects to the fuel filter assembly on the other end (and the other end is permanently attached to the fuel filter assembly). Like all the other connections, this connector is removed by depressing the tab and pulling the fuel line off.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/vPnDBT14yYgITS3d.standard"
+            ],
+            "StepId": 41398,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 23,
+            "Lines": [
+                {
+                    "Text": "now go back to the driver's side ."
+                },
+                {
+                    "Text": "you can pull the fuel filter assembly out of the vehicle ."
+                }
+            ],
+            "Text_raw": "Now go back to the driver's side. You can pull the fuel filter assembly out of the vehicle.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/yvQgT5cQUqX1euf3.standard"
+            ],
+            "StepId": 41399,
+            "Tools_extracted": [
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 24,
+            "Lines": [
+                {
+                    "Text": "prepare the new fuel filter assembly for installation ."
+                },
+                {
+                    "Text": "temporarily place a new fuel tank gasket on the fuel filter assembly ( the gasket is orange )"
+                },
+                {
+                    "Text": "remove the protective caps from the new fuel filter assembly . they are found on every fuel line connection ."
+                }
+            ],
+            "Text_raw": "Prepare the new fuel filter assembly for installation. Temporarily place a new fuel tank gasket on the fuel filter assembly (the gasket is orange) Remove the protective caps from the new fuel filter assembly.  They are found on every fuel line connection.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DNhS15DyaA6QriwR.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uNfFyxfIPq6CiKUg.standard"
+            ],
+            "StepId": 41400,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 25,
+            "Lines": [
+                {
+                    "Text": "now you need to fish the long fuel line through the gas tank to the passenger side port ."
+                },
+                {
+                    "Text": "start by inserting the new fuel filter assembly and fuel line into the driver's side ."
+                },
+                {
+                    "Text": "go to the passenger side and find the new fuel line and pull it far enough to reach the assembly on that side ."
+                },
+                {
+                    "Text": "attach the new fuel line to the existing passenger side assembly ."
+                },
+                {
+                    "Text": "push the new fuel line on until you hear or feel a click ."
+                },
+                {
+                    "Text": "when successfully mated , you shouldn't be able to pull the fuel line off ( unless you press on the tabs ) ."
+                },
+                {
+                    "Text": "temporarily set things down on the passenger side and go back to the driver's side ."
+                }
+            ],
+            "Text_raw": "Now you need to fish the long fuel line through the gas tank to the passenger side port. Start by inserting the new fuel filter assembly and fuel line into the driver's side. Go to the passenger side and find the new fuel line and pull it far enough to reach the assembly on that side. Attach the new fuel line to the existing passenger side assembly. Push the new fuel line on until you hear or feel a click. When successfully mated, you shouldn't be able to pull the fuel line off (unless you press on the tabs). Temporarily set things down on the passenger side and go back to the driver's side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OHEmYvCc2OrWJMnq.standard"
+            ],
+            "StepId": 41401,
+            "Tools_extracted": [
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 26,
+            "Lines": [
+                {
+                    "Text": "back on the driver's side . . ."
+                },
+                {
+                    "Text": "connect the two fuel lines inside the fuel tank to the fuel filter assembly ."
+                },
+                {
+                    "Text": "these lines are different sizes so you can't mix them up ."
+                },
+                {
+                    "Text": "again , press these lines on until you hear or feel a click . you shouldn't be able to remove the hose by pulling on it ( unless you press the release tab ) ."
+                },
+                {
+                    "Text": "place the new gasket in place on the fuel tank as shown . clean the mating edge of the fuel tank first so you get a good seal ."
+                },
+                {
+                    "Text": "continue connecting the electrical connections to the fuel filter assembly . these connections should be the same as when you removed the original fuel filter assembly ."
+                }
+            ],
+            "Text_raw": "Back on the driver's side... Connect the two fuel lines inside the fuel tank to the fuel filter assembly. These lines are different sizes so you can't mix them up. Again, press these lines on until you hear or feel a click.  You shouldn't be able to remove the hose by pulling on it (unless you press the release tab). Place the new gasket in place on the fuel tank as shown.  Clean the mating edge of the fuel tank first so you get a good seal. Continue connecting the electrical connections to the fuel filter assembly.  These connections should be the same as when you removed the original fuel filter assembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ULE6ZUoDGKBRbYpF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/OROnd2SVeLogDIRq.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MsMGKPtbS2CYHIAN.standard"
+            ],
+            "StepId": 41402,
+            "Tools_extracted": [
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 27,
+            "Lines": [
+                {
+                    "Text": "press the fuel filter assembly into the gas tank ."
+                },
+                {
+                    "Text": "it shouldn't take much force - you're just overcoming the friction of the gasket ."
+                },
+                {
+                    "Text": "the fuel filter assembly has a tab to align it with the gas tank ."
+                },
+                {
+                    "Text": "remove the protective cover from the vent hose connection , but don't connect the vent hose yet ."
+                }
+            ],
+            "Text_raw": "Press the fuel filter assembly into the gas tank. It shouldn't take much force - you're just overcoming the friction of the gasket. The fuel filter assembly has a tab to align it with the gas tank. Remove the protective cover from the vent hose connection, but don't connect the vent hose yet.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TmLEU2j5ip6GMmZo.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mSasD2Nd3ZGKEHv2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KrTpWYhU1jvsTnUC.standard"
+            ],
+            "StepId": 41403,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 28,
+            "Lines": [
+                {
+                    "Text": "move back to the passenger side ."
+                },
+                {
+                    "Text": "remove the gas tank old gasket . i was able to slide this over the assembly without needing to remove it ."
+                },
+                {
+                    "Text": "likewise , install a new gasket ( shown in orange here ) . again , i could slip this over the existing assembly without much effort ."
+                },
+                {
+                    "Text": "clean the mating surface of the gasket before installation to ensure a good seal ."
+                },
+                {
+                    "Text": "push the assembly back into place . the assembly has a tab to align it to the proper direction ."
+                },
+                {
+                    "Text": "do not make any connections yet ."
+                }
+            ],
+            "Text_raw": "Move back to the passenger side. Remove the gas tank old gasket.  I was able to slide this over the assembly without needing to remove it. Likewise, install a new gasket (shown in orange here).  Again, I could slip this over the existing assembly without much effort. Clean the mating surface of the gasket before installation to ensure a good seal. Push the assembly back into place.  The assembly has a tab to align it to the proper direction. Do not make any connections yet.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Iqs4VMRSvZ5VSq1r.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Yq1HasJJ2xpCLQvK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GLICBbxQfVHDk4yd.standard"
+            ],
+            "StepId": 41404,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 29,
+            "Lines": [
+                {
+                    "Text": "place the retaining ring onto the assembly ."
+                },
+                {
+                    "Text": "use tool t10202 to tighten the ring ."
+                },
+                {
+                    "Text": "tighten to 110 nm ( 80 ft lbs )"
+                },
+                {
+                    "Text": "reconnect the fuel pump electrical connection . ensure it clicks and locks in place ."
+                },
+                {
+                    "Text": "reconnect the vent line . ensure you can't pull it off without using the release tab ."
+                },
+                {
+                    "Text": "reconnect the fuel line . ensure you can't pull it off without using the release tab ."
+                }
+            ],
+            "Text_raw": "Place the retaining ring onto the assembly. Use tool T10202 to tighten the ring. Tighten to 110 NM (80 ft lbs) Reconnect the fuel pump electrical connection.  Ensure it clicks and locks in place. Reconnect the vent line.  Ensure you can't pull it off without using the release tab. Reconnect the fuel line.  Ensure you can't pull it off without using the release tab.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/x1nDOAnha2CFFx2f.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SWZHtbBhqpMcKOBK.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/K4dGWhBDZpvHwBRg.standard"
+            ],
+            "StepId": 41405,
+            "Tools_extracted": [
+                "t10202"
+            ]
+        },
+        {
+            "Order": 30,
+            "Lines": [
+                {
+                    "Text": "go back to the driver's side ."
+                },
+                {
+                    "Text": "install the retaining ring ."
+                },
+                {
+                    "Text": "use tool t10202 to tighten to 110 nm ( 80 ft lbs ) ."
+                },
+                {
+                    "Text": "reconnect the fuel pump electrical connector ( remember , mine is missing the gasket - i'll come back later and fix that ) ."
+                },
+                {
+                    "Text": "reconnect the vent line . ensure you can't pull it off without using the release tab ."
+                }
+            ],
+            "Text_raw": "Go back to the driver's side. Install the retaining ring. Use tool T10202 to tighten to 110 NM (80 ft lbs). Reconnect the fuel pump electrical connector (remember, mine is missing the gasket - I'll come back later and fix that). Reconnect the vent line.  Ensure you can't pull it off without using the release tab.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Rut1ayvxMptAPYTg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2Dw1JDJcYJteN3Yt.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RCfefWcYWv1eAWlQ.standard"
+            ],
+            "StepId": 41406,
+            "Tools_extracted": [
+                "t10202",
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 31,
+            "Lines": [
+                {
+                    "Text": "reinstall fuses 13 and 14."
+                },
+                {
+                    "Text": "reinstall the covers and close the hood ."
+                },
+                {
+                    "Text": "start the car and let it run for a few minutes and see if you observe any gas leaks ."
+                },
+                {
+                    "Text": "if everything looks good - it's time for reassembly ."
+                }
+            ],
+            "Text_raw": "Reinstall fuses 13 and 14. Reinstall the covers and close the hood. Start the car and let it run for a few minutes and see if you observe any gas leaks. If everything looks good - it's time for reassembly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/dZt6BnjCMUUjDtWW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IB2nGoN5L21quFyS.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1agxWNslJAtVZRAo.standard"
+            ],
+            "StepId": 41407,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 32,
+            "Lines": [
+                {
+                    "Text": "here's a new gas tank connector with the gasket inside ."
+                },
+                {
+                    "Text": "push the purple locking mechanism in ."
+                },
+                {
+                    "Text": "gently remove the orange gasket from the connector body ."
+                },
+                {
+                    "Text": "i used a small pick to get underneath the gasket and slowly worked it out of the connector body ."
+                },
+                {
+                    "Text": "this connector is vw part number 1 j0 919 231. i bought mine from impex for about 6 bucks ."
+                }
+            ],
+            "Text_raw": "Here's a new gas tank connector with the gasket inside. Push the purple locking mechanism in. Gently remove the orange gasket from the connector body. I used a small pick to get underneath the gasket and slowly worked it out of the connector body. This connector is VW part number 1J0 919 231.  I bought mine from [http://www.worldimpex.com/search_by_partno.html?searchmode=partno&partno=1J0+919+231&x=0&y=0|World Impex] for about 6 bucks.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jLwQLUVVgM5tI66p.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/mQXoF1IIDYVoOnAW.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DFE6Ty5bCReKlE3m.standard"
+            ],
+            "StepId": 42140,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 33,
+            "Lines": [
+                {
+                    "Text": "disconnect the connector on the fuel filter assembly ."
+                },
+                {
+                    "Text": "gently push the new gasket all the way inside the connector ."
+                },
+                {
+                    "Text": "reattach the connector to the fuel filter assembly . you should hear a click when the lock mechanism engages ."
+                }
+            ],
+            "Text_raw": "Disconnect the connector on the fuel filter assembly. Gently push the new gasket all the way inside the connector. Reattach the connector to the fuel filter assembly.  You should hear a click when the lock mechanism engages.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AKkoanBnsYF1apyk.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/prH2FDZ22PlB1Nrr.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BcLgM3TZ55kncJVl.standard"
+            ],
+            "StepId": 42141,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 34,
+            "Lines": [
+                {
+                    "Text": "install the covers back on top of the gas tank ports ."
+                }
+            ],
+            "Text_raw": "Install the covers back on top of the gas tank ports.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RQVmcnG4cdiHwyIl.standard"
+            ],
+            "StepId": 42142,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 35,
+            "Lines": [
+                {
+                    "Text": "get your new bolts ready for installation ."
+                },
+                {
+                    "Text": "vw recommends that these bolts are replaced once removed ."
+                },
+                {
+                    "Text": "vw part number is n 910 260 03. you need 8 of them . i bought mine from impex for around 1.70 each ."
+                }
+            ],
+            "Text_raw": "Get your new bolts ready for installation. VW recommends that these bolts are replaced once removed. VW part number is N 910 260 03.  You need 8 of them.  I bought mine from [http://www.worldimpex.com/search_by_partno.html?searchmode=partno&partno=N+910+260+03&x=0&y=0|World Impex] for around $1.70 each.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CGK3dIIXHBLfj2hG.standard"
+            ],
+            "StepId": 42143,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 36,
+            "Lines": [
+                {
+                    "Text": "install the passenger side seat belt mount ."
+                },
+                {
+                    "Text": "vw states that the order of installation of these bolts is important . see the picture of the service manual for the order ."
+                },
+                {
+                    "Text": "torque these bolts to 20 nm ."
+                },
+                {
+                    "Text": "notice there's only 3 bolts on this side ."
+                }
+            ],
+            "Text_raw": "Install the passenger side seat belt mount. VW states that the order of installation of these bolts is important.  See the picture of the service manual for the order. Torque these bolts to 20 Nm. Notice there's only 3 bolts on this side.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/s1xvtyQeLWaNZZNu.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/FFsaPNRIaUoiQpha.standard"
+            ],
+            "StepId": 42144,
+            "Tools_extracted": [
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 37,
+            "Lines": [
+                {
+                    "Text": "the process is similar for the driver's side ."
+                },
+                {
+                    "Text": "again , vw recommends the order of bolt installation . see the service manual picture ."
+                },
+                {
+                    "Text": "torque these 4 bolts to 20 nm ."
+                }
+            ],
+            "Text_raw": "The process is similar for the driver's side. Again, VW recommends the order of bolt installation.  See the service manual picture. Torque these 4 bolts to 20 Nm.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KXXNecPOM1JTPRkb.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/jpXVW4nuoKfL4vKB.standard"
+            ],
+            "StepId": 42145,
+            "Tools_extracted": [
+                "t30 torx driver",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 38,
+            "Lines": [
+                {
+                    "Text": "go back to the passenger side ."
+                },
+                {
+                    "Text": "set the passenger side of the rear seat near it's final position ( i set mine up on the ledge of the trunk ) ."
+                },
+                {
+                    "Text": "install the seatbelt bolt ."
+                },
+                {
+                    "Text": "vw states to torque this bolt to 50 nm . yes that's right , 50 nm for this bolt . the other bolts from the previous steps had a different torque spec ."
+                }
+            ],
+            "Text_raw": "Go back to the passenger side. Set the passenger side of the rear seat near it's final position (I set mine up on the ledge of the \"trunk\"). Install the seatbelt bolt. VW states to torque this bolt to 50 Nm.  Yes that's right, 50 Nm for this bolt.  The other bolts from the previous steps had a different torque spec.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ylg1Jp6sHQBr25hc.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PFoiimn4ybZmZODF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/tvQ23jpFWb2VW1ga.standard"
+            ],
+            "StepId": 42146,
+            "Tools_extracted": [
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 39,
+            "Lines": [
+                {
+                    "Text": "install the passenger side seat back in place ."
+                },
+                {
+                    "Text": "this is similar to the removal step - you need to angle the seat back at about a 45 angle to get it to fit on the pin in the side of the vehicle ."
+                },
+                {
+                    "Text": "be sure to get the seat belt fastener on the right side of the seat ( i had to remove my seat to fix this because i didn't check the first time i set the seat in place ! )"
+                },
+                {
+                    "Text": "lay the passenger seat flat ."
+                },
+                {
+                    "Text": "install the driver's side seat back in a similar manner ( angle at 45 to install on the pin ) ."
+                }
+            ],
+            "Text_raw": "Install the passenger side seat back in place. This is similar to the removal step - you need to angle the seat back at about a 45\u00b0 angle to get it to fit on the pin in the side of the vehicle. Be sure to get the seat belt fastener on the right side of the seat (I had to remove my seat to fix this because I didn't check the first time I set the seat in place!) Lay the passenger seat flat. Install the driver's side seat back in a similar manner (angle at 45\u00b0 to install on the pin).",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aMHnHrARKiEXufBE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/g5vvE263CQIBtgZF.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AySY2pjGRQlydLuV.standard"
+            ],
+            "StepId": 42147,
+            "Tools_extracted": [
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 40,
+            "Lines": [
+                {
+                    "Text": "install the clip that retains the seat backs ."
+                },
+                {
+                    "Text": "install the torx screw to retain the clip ."
+                }
+            ],
+            "Text_raw": "Install the clip that retains the seat backs. Install the Torx screw to retain the clip.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LCGbDNt4nHIWDrBO.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/5ZakrlpGjWXTYx2t.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/GPA4ySxp2IAIuAp2.standard"
+            ],
+            "StepId": 42148,
+            "Tools_extracted": [
+                "t30 torx driver"
+            ]
+        },
+        {
+            "Order": 41,
+            "Lines": [
+                {
+                    "Text": "lift the seat backs up ."
+                },
+                {
+                    "Text": "install the head rests"
+                },
+                {
+                    "Text": "install the carpet over the fuel tank port covers ( i just set mine on top of the ports - no glue or anything ) ."
+                },
+                {
+                    "Text": "put the seats back in place"
+                },
+                {
+                    "Text": "you're done !"
+                }
+            ],
+            "Text_raw": "Lift the seat backs up. Install the head rests Install the carpet over the fuel tank port covers (I just set mine on top of the ports - no glue or anything). Put the seats back in place You're done!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cn2bapYXDZ1BWgFw.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ELwFqHgfxxnuJKrN.standard"
+            ],
+            "StepId": 42149,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": ""
+}

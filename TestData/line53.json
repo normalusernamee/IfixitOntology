@@ -1,0 +1,138 @@
+{
+    "Title": "Sony Xplod CDX-MP30 LCD Replacement",
+    "Ancestors": [
+        "Car Audio",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 7132,
+    "Category": "Sony Xplod CDX-MP30",
+    "Toolbox": [
+        {
+            "Name": "heavy-duty spudger",
+            "Url": "http://www.ifixit.com/Tools/Heavy-duty-Spudger/IF145-013",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/LnfuKliDtunRwbQ2.mini"
+        },
+        {
+            "Name": "ph0 phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/RRATSvQqRgZQRGVQ.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Sony+Xplod+CDX-MP30+LCD+Replacement/7132",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "press down the release button on the bottom left corner of the face plate ."
+                },
+                {
+                    "Text": "then remove the face plate carefully ."
+                }
+            ],
+            "Text_raw": "Press down the release button on the bottom left corner of the face plate. Then remove the face plate carefully.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/SIDJJyNVQ43ho5iE.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/1bSgn4rSQQxY4Zrx.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/aPP6XuJp2ZWccQsc.standard"
+            ],
+            "StepId": 28357,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "unscrew the four ( length - 11.11 mm ) phillips-head screws on the front screen ."
+                }
+            ],
+            "Text_raw": "Unscrew the four (length - 11.11mm) phillips-head screws on the front screen.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/cITDlK2GLOSjsAaR.standard"
+            ],
+            "StepId": 30394,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "use two fingers to create a small gap on the top of the faceplate , as indicated in the picture ."
+                }
+            ],
+            "Text_raw": "Use two fingers to create a small gap on the top of the faceplate, as indicated in the picture.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uLsP1UOS3VHQ2MZ4.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/TW6ZVtSVouaspnBG.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KBBff2TGvsJHsAYh.standard"
+            ],
+            "StepId": 30395,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "insert the flat end of the heavy-duty spudger into the opening you created ."
+                },
+                {
+                    "Text": "slide it to the right carefully , until you feel the screen pop off ."
+                },
+                {
+                    "Text": "make sure you keep the face of the screen pointed down as you carefully lift off the freed black portion of the screen - as shown in the picture ."
+                }
+            ],
+            "Text_raw": "Insert the flat end of the [product|IF145-013|Heavy-duty Spudger] into the opening you created. Slide it to the right carefully, until you feel the screen pop off. Make sure you keep the face of the screen pointed down as you carefully lift off the freed black portion of the screen - as shown in the picture.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/h2DJGDGVXIp3RwPM.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/lJ6YiwgtpYpYtVg6.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/RKpNVwSGC6DwAxcN.standard"
+            ],
+            "StepId": 30396,
+            "Tools_extracted": [
+                "heavy-duty spudger"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "gently grab the front motherboard - as indicated in the picture - and lift it from the rest of the screen ."
+                }
+            ],
+            "Text_raw": "Gently grab the Front Motherboard - as indicated in the picture - and lift it from the rest of the screen.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KFZqwjsjEEnI5n6C.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/MMYQjeRsAQg5yfYL.standard"
+            ],
+            "StepId": 30397,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "please refer to the topic : solderingifixit soldering guide for help removing the lcd screen ."
+                }
+            ],
+            "Text_raw": "Please refer to the [[Topic:Soldering|iFixit soldering guide]] for help removing the LCD screen.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/Ft5xTxJZReoKbNVX.standard"
+            ],
+            "StepId": 30398,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "LCD"
+}

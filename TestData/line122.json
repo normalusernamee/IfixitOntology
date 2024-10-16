@@ -1,0 +1,165 @@
+{
+    "Title": "Repairing Mercedes W123 Fuel Door Lock Actuator",
+    "Ancestors": [
+        "Mercedes-Benz",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 20408,
+    "Category": "Mercedes W123",
+    "Toolbox": [
+        {
+            "Name": "phillips screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/tomyuVXH5A5nqTmA.mini"
+        },
+        {
+            "Name": "8 mm socket",
+            "Url": "http://www.amazon.com/TEKTON-14189-Drive-Socket-6-Point/dp/B000NY4TYQ/ref=sr_1_4?ie=UTF8&qid=1388418081&sr=8-4&keywords=8mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "dielectric grease",
+            "Url": "http://www.amazon.com/dp/B000AL8VD2/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "vacuum hand pump with gauge",
+            "Url": "http://amzn.com/B00265M9SS",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/Repairing+Mercedes+W123+Fuel+Door+Lock+Actuator/20408",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "the gas door lock actuator is accessible in the trunk of the car . open the trunk , and then pull up the plastic paneling that covers the bottom of the trunk well on the passenger side of the vehicle . the picture shows the well after the panel has been removed ."
+                },
+                {
+                    "Text": "look up behind the trunk spring and you'll see the screws that hold the actuator to a panel within the trunk ."
+                }
+            ],
+            "Text_raw": "The gas door lock actuator is accessible in the trunk of the car. Open the trunk, and then pull up the plastic paneling that covers the bottom of the trunk well on the passenger side of the vehicle. The picture shows the well after the panel has been removed. Look up behind the trunk spring and you'll see the screws that hold the actuator to a panel within the trunk.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/AHIF1VVSnjUqeFM4.standard"
+            ],
+            "StepId": 56282,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "loosen the two phillips head screws that hold the actuator in place . they do not need to be removed fully , just loosened ."
+                },
+                {
+                    "Text": "late-style lock actuators may be fastened with 8 mm bolts ."
+                },
+                {
+                    "Text": "once loosened simply push up on the actuator and then push the screws out through the large holes just above them ."
+                },
+                {
+                    "Text": "once loose from the panel pull the actuator out , away from the front of the car and the lock shaft will pull out of the hole where it enters the fuel filler opening ."
+                },
+                {
+                    "Text": "disconnect the vacuum y connection from the fuel door lock actuator . at this point you can remove the actuator from the car for inspection ."
+                }
+            ],
+            "Text_raw": "Loosen the two Phillips head screws that hold the actuator in place. They do NOT need to be removed fully, just loosened. Late-style lock actuators may be fastened with 8mm bolts. Once loosened simply push up on the actuator and then push the screws out through the large holes just above them. Once loose from the panel pull the actuator out, away from the front of the car and the lock shaft will pull out of the hole where it enters the fuel filler opening. Disconnect the vacuum \"Y\" connection from the fuel door lock actuator. At this point you can remove the actuator from the car for inspection.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/HwaYOHRq6n44IoWT.standard"
+            ],
+            "StepId": 56283,
+            "Tools_extracted": [
+                "vacuum hand pump with gauge",
+                "8 mm socket",
+                "phillips screwdriver"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "once removed from the car the actuator can be inspected . the most common failure point is the rubber diaphragm ; the plastic body rarely cracks ."
+                },
+                {
+                    "Text": "there were no visible cracks in the diaphragm on this car ."
+                }
+            ],
+            "Text_raw": "Once removed from the car the actuator can be inspected. The most common failure point is the rubber diaphragm; the plastic body rarely cracks. There were no visible cracks in the diaphragm on this car.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/bkIaJFSoLW4LqsyE.standard"
+            ],
+            "StepId": 56285,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "to test the actuator connect your hand vacuum pump to it and pump up a vacuum of 10 to 15 hg . note that on this early style actuator there are two connections for vacuum ; however , only one is used . the actuator is reversible for mounting on the driver's side of the car . if you connect it and you are unable to pull any vacuum try switching them ."
+                },
+                {
+                    "Text": "watch for a vacuum leak . on this actuator there was a very slow leak of about 1 hg a minute . this explains why the system , which had been checked and fixed of all other leaks , was still leaking down overnight ."
+                }
+            ],
+            "Text_raw": "To test the actuator connect your hand vacuum pump to it and pump up a vacuum of 10 to 15Hg. Note that on this early style actuator there are two connections for vacuum; however, only one is used. The actuator is reversible for mounting on the driver's side of the car. If you connect it and you are unable to pull any vacuum try switching them. Watch for a vacuum leak. On this actuator there was a very slow leak of about 1Hg a minute. This explains why the system, which had been checked and fixed of all other leaks, was still leaking down overnight.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CEHTZujcISomeLE3.standard"
+            ],
+            "StepId": 56289,
+            "Tools_extracted": [
+                "vacuum hand pump with gauge"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "since the diaphragm was not torn on this actuator the diaphragm was removed , the actuator and diaphragm were cleaned with mild soap and water , and then the diaphragm was greased with synthetic grease such as dielectric ."
+                },
+                {
+                    "Text": "removing this diaphragm is very similar to removing the ones on the early style door lock vacuum actuators . guide"
+                }
+            ],
+            "Text_raw": "Since the diaphragm was not torn on this actuator the diaphragm was removed, the actuator and diaphragm were cleaned with mild soap and water, and then the diaphragm was greased with synthetic grease such as dielectric. Removing this diaphragm is very similar to removing the ones on the early style door lock vacuum actuators. [guide|20147|Click here to see that guide for some tips on removing the diaphragm.|stepid=55945]",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LySQiYeEREFHj2ce.standard"
+            ],
+            "StepId": 56292,
+            "Tools_extracted": [
+                "dielectric grease",
+                "vacuum hand pump with gauge"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "re-install the diaphragm and test the actuator again ."
+                },
+                {
+                    "Text": "after cleaning and greasing the diaphragm held a solid 16 hg vacuum for several minutes with no change . there must have been some debris under the edge of the diaphragm letting air in slowly . now that the leak has been fixed it can be re-installed ."
+                },
+                {
+                    "Text": "if cleaning and greasing the diaphragm does not stop the leaks , or if the diaphragm is visibly cracked or torn , the actuator will need to be replaced with a new or good/tested used actuator ."
+                }
+            ],
+            "Text_raw": "Re-install the diaphragm and test the actuator again. After cleaning and greasing the diaphragm held a solid 16Hg vacuum for several minutes with no change. There must have been some debris under the edge of the diaphragm letting air in slowly. Now that the leak has been fixed it can be re-installed. If cleaning and greasing the diaphragm does not stop the leaks, or if the diaphragm is visibly cracked or torn, the actuator will need to be replaced with a new or good/tested used actuator.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/M2TKVfeW4o3gKF2o.standard"
+            ],
+            "StepId": 56295,
+            "Tools_extracted": [
+                "vacuum hand pump with gauge"
+            ]
+        }
+    ],
+    "Subject": ""
+}

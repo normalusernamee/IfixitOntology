@@ -1,0 +1,116 @@
+{
+    "Title": "2002-2008 Dodge Ram 1500 Differential Oil Replacement",
+    "Ancestors": [
+        "Dodge Ram Pickup",
+        "Dodge",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 11638,
+    "Category": "2002-2008 Dodge Ram",
+    "Toolbox": [
+        {
+            "Name": "flathead screwdriver",
+            "Url": "http://www.ifixit.com/Tools/6-in-1-Screwdriver/IF145-067",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "vacuum oil pump",
+            "Url": "/Item/vacuum_oil_pump",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "13 mm socket",
+            "Url": "https://www.amazon.com/TEKTON-14145-8-Inch-Shallow-6-Point/dp/B000NY5CQK/ref=sr_1_1?ie=UTF8&qid=1488830200&sr=8-1&keywords=13mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "torque wrench",
+            "Url": "https://www.amazon.com/TEKTON-24335-2-Inch-ft-lb-13-6-203-5/dp/B00C5ZL0RU/ref=sr_1_4?s=power-hand-tools&ie=UTF8&qid=1487800135&sr=1-4&keywords=torque+wrench",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/2002+2003+2004+2005+2006+2007+2008+Dodge+Ram+1500+Differential+Oil+Replacement/11638",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "locate the twelve 10 mm long 14 mm hex head bolts holding on the backplate of the differential ."
+                },
+                {
+                    "Text": "position an oil pan under the differential ."
+                },
+                {
+                    "Text": "loosen the bottom 4 bolts first with the 14 mm socket wrench . slowly loosen the rest of the bolts in a random order until oil flows out and enters the drain pan ."
+                },
+                {
+                    "Text": "due to limited resources the oil was not actually replaced in this guide ."
+                }
+            ],
+            "Text_raw": "Locate the twelve 10mm long 14mm hex head bolts holding on the backplate of the differential. Position an oil pan under the differential. Loosen the bottom 4 bolts first with the 14mm socket wrench. Slowly loosen the rest of the bolts in a random order until oil flows out and enters the drain pan. Due to limited resources the oil was not actually replaced in this guide.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2UcBcMTdIRBTNEck.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZfBSQGd5EiLTBGNs.standard"
+            ],
+            "StepId": 41718,
+            "Tools_extracted": [
+                "vacuum oil pump"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "when tightening the bolts on the diff plate it is vital that you tighten them in a star pattern to avoid warping the plate . do not exceed a torque of 40 ft-lbs per bolt ."
+                },
+                {
+                    "Text": "repeat the last step in reverse to re-tighten the bolts on the differential cover while following the star method of tightening bolts . use a torque wrench to ensure proper torque specifications ."
+                },
+                {
+                    "Text": "now the differential is fully sealed and ready for new oil ."
+                }
+            ],
+            "Text_raw": "When tightening the bolts on the diff plate it is vital that you tighten them in a star pattern to avoid warping the plate. Do not exceed a torque of 40 ft-lbs per bolt. Repeat the last step in reverse to re-tighten the bolts on the differential cover while following the star method of tightening bolts. Use a torque wrench to ensure proper torque specifications. Now the differential is fully sealed and ready for new oil.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/K3QbVk3BHSQo26PG.standard"
+            ],
+            "StepId": 41720,
+            "Tools_extracted": [
+                "vacuum oil pump",
+                "torque wrench"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "locate the differential filler plug ."
+                },
+                {
+                    "Text": "use a 2 flathead screwdriver to lift the outer lip of the plug . pinch the outer lip of the rubber filler plug between your fingers and pull off ."
+                },
+                {
+                    "Text": "use a vacuum pump to pump in new differential fluid until the oil level reaches the bottom of the plug hole ."
+                },
+                {
+                    "Text": "re-insert the rubber filler plug ."
+                },
+                {
+                    "Text": "due to limited resources the differential oil was not changed in this guide ."
+                }
+            ],
+            "Text_raw": "Locate the differential filler plug. Use a #2 flathead screwdriver to lift the outer lip of the plug.  Pinch the outer lip of the rubber filler plug between your fingers and pull off. Use a vacuum pump to pump in new differential fluid until the oil level reaches the bottom of the plug hole. Re-insert the rubber filler plug. Due to limited resources the differential oil was not changed in this guide.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/DIyr3hHJ5dwSXXn1.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/t26ipaXR1pxm2qFJ.standard"
+            ],
+            "StepId": 41723,
+            "Tools_extracted": [
+                "flathead screwdriver",
+                "vacuum oil pump"
+            ]
+        }
+    ],
+    "Subject": "Differential Oil"
+}

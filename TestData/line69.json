@@ -1,0 +1,255 @@
+{
+    "Title": "How to bleed 1986-1993 Volvo 240 brakes",
+    "Ancestors": [
+        "Volvo",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 8349,
+    "Category": "1986-1993 Volvo 240",
+    "Toolbox": [
+        {
+            "Name": "socket 19 mm",
+            "Url": "http://www.amazon.com/TEKTON-14152-8-Inch-Shallow-6-Point/dp/B000NPULD8/ref=sr_1_3?ie=UTF8&qid=1431007052&sr=8-3&keywords=19+mm+socket",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "8 mm open end wrench",
+            "Url": "http://motiveproducts.3dcartstores.com/",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "hydraulic floor jack",
+            "Url": "http://www.oscaroparts.com/torin-jack-t83002-20498754-14315-p?ctx=%7b%22part.genart%22%3a%2214315%22%2c%22vehicle.oscvehicleconfig%22%3a%22102182%22%7d",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "impact wrench",
+            "Url": "http://www.amazon.com/Kawasaki-841337-2-Inch-Impact-12-Volt/dp/B00544EZQ2/ref=sr_1_1?s=automotive&ie=UTF8&qid=1356974328&sr=1-1&keywords=electric+impact+gun",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "jack stand",
+            "Url": "/Item/Jack_Stand",
+            "Thumbnail": ""
+        },
+        {
+            "Name": "motive power bleeder",
+            "Url": "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=motive+power+bleeder",
+            "Thumbnail": ""
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/How+to+bleed+1986+1987+1988+1989+1990+1991+1992+1993+Volvo+240+brakes/8349",
+    "Steps": [
+        {
+            "Order": 0,
+            "Lines": [
+                {
+                    "Text": "jack up the four corners of the car and remove the wheels ."
+                },
+                {
+                    "Text": "lift the hood and locate the brake fluid reservoir on the driver side of the engine bay ."
+                },
+                {
+                    "Text": "remove the cap from the brake fluid reservoir and set it aside ."
+                },
+                {
+                    "Text": "fill the reservoir to the maximum fill line with brake fluid ."
+                },
+                {
+                    "Text": "you may use any dot 3 or dot 4 brake fluid in your 240. don't worry if it's not bright blue ; our track-bound wagon received special treatment and was filled with racing brake fluid ."
+                }
+            ],
+            "Text_raw": "Jack up the four corners of the car and remove the wheels. Lift the hood and locate the brake fluid reservoir on the driver side of the engine bay. Remove the cap from the brake fluid reservoir and set it aside. Fill the reservoir to the maximum fill line with brake fluid. You may use any DOT 3 or DOT 4 brake fluid in your 240. Don't worry if it's not bright blue; our track-bound wagon received special treatment and was filled with racing brake fluid.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/NSEUQvkP44lNoSm2.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/myUnAnVxfeGZjrCu.standard"
+            ],
+            "StepId": 33216,
+            "Tools_extracted": [
+                "jack"
+            ]
+        },
+        {
+            "Order": 1,
+            "Lines": [
+                {
+                    "Text": "place the power bleeder hose through the power bleeder cap and place the cap on the brake fluid reservoir ."
+                },
+                {
+                    "Text": "tighten the cap , ensuring that the gasket inside seats properly ."
+                }
+            ],
+            "Text_raw": "Place the Power Bleeder hose through the Power Bleeder cap and place the cap on the brake fluid reservoir. Tighten the cap, ensuring that the gasket inside seats properly.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iKmquFOJbuS4mxFg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/uRXMekDgVujvQ4GU.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/CstoRlyJGGWdoxra.standard"
+            ],
+            "StepId": 33217,
+            "Tools_extracted": [
+                "motive power bleeder"
+            ]
+        },
+        {
+            "Order": 2,
+            "Lines": [
+                {
+                    "Text": "place the cap on the empty power bleeder tank and tighten it ."
+                },
+                {
+                    "Text": "pressurize the power bleeder to 10 psi and check all connections for leaks ."
+                },
+                {
+                    "Text": "before making any adjustments or continuing , relieve the pressure in the power bleeder by slowly loosening the cap on the tank ."
+                },
+                {
+                    "Text": "never remove the reservoir cap before relieving the pressure inside the tank ."
+                }
+            ],
+            "Text_raw": "Place the cap on the empty Power Bleeder tank and tighten it. Pressurize the Power Bleeder to 10 psi and check all connections for leaks. Before making any adjustments or continuing, relieve the pressure in the Power Bleeder by slowly loosening the cap on the tank. Never remove the reservoir cap before relieving the pressure inside the tank.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6b5tAoSbefHVnVDy.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PZjbItfPCACKhdfe.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gOpGxrJaAZwXjyr6.standard"
+            ],
+            "StepId": 33218,
+            "Tools_extracted": [
+                "motive power bleeder"
+            ]
+        },
+        {
+            "Order": 3,
+            "Lines": [
+                {
+                    "Text": "remove the cap from the power bleeder tank and fill the tank with two quarts of brake fluid ."
+                },
+                {
+                    "Text": "replace the power bleeder cap and tighten it fully ."
+                },
+                {
+                    "Text": "pressurize the system to a level between 15 and 20 psi ."
+                },
+                {
+                    "Text": "our race-ready volvo is equipped with high-strength stainless steel brake hoses and racing brake fluid , which can handle significantly higher pressures than rubber hoses and conventional hydraulic fluid ."
+                },
+                {
+                    "Text": "never exceed 20 psi when pressurizing the power bleeder . doing so may damage your hydraulic brake system ."
+                }
+            ],
+            "Text_raw": "Remove the cap from the Power Bleeder tank and fill the tank with two quarts of brake fluid. Replace the Power Bleeder cap and tighten it fully. Pressurize the system to a level between 15 and 20 psi. Our race-ready Volvo is equipped with high-strength stainless steel brake hoses and racing brake fluid, which can handle significantly higher pressures than rubber hoses and conventional hydraulic fluid. Never exceed 20 psi when pressurizing the Power Bleeder. Doing so may damage your hydraulic brake system.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/JbUII15rVvqjZMB3.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/YTbQ1lNjtKq1rADI.standard"
+            ],
+            "StepId": 33219,
+            "Tools_extracted": [
+                "hydraulic floor jack",
+                "motive power bleeder"
+            ]
+        },
+        {
+            "Order": 4,
+            "Lines": [
+                {
+                    "Text": "begin the bleeding procedure at the driver side rear brake caliper ."
+                },
+                {
+                    "Text": "attach an open end of the bleed tube to the bleed valve on the brake caliper ."
+                },
+                {
+                    "Text": "place the other end of the bleed valve in a suitable container , such as a bottle or drain pan ."
+                },
+                {
+                    "Text": "brake fluid is highly corrosive . take caution not to spill it when bleeding the brakes ."
+                }
+            ],
+            "Text_raw": "Begin the bleeding procedure at the driver side rear brake caliper. Attach an open end of the bleed tube to the bleed valve on the brake caliper. Place the other end of the bleed valve in a suitable container, such as a bottle or drain pan. Brake fluid is highly corrosive. Take caution not to spill it when bleeding the brakes.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/To2IbCILBuN3JMTn.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/2RwbNtxZsauXEDsY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/PYgbRFrWAIVT5Qpk.standard"
+            ],
+            "StepId": 33220,
+            "Tools_extracted": [
+                "8 mm open end wrench"
+            ]
+        },
+        {
+            "Order": 5,
+            "Lines": [
+                {
+                    "Text": "use an 8 mm open end wrench to loosen the bleed screw on the caliper ."
+                },
+                {
+                    "Text": "brake fluid will begin to flow through the bleed tube with many air bubbles . once the air bubbles stop completely , tighten the bleed screw to close the bleed valve ."
+                },
+                {
+                    "Text": "repeat steps 5 and 6 for the other three brake calipers , moving to passenger rear , driver front , and finally passenger front ."
+                },
+                {
+                    "Text": "as more fluid flows through the hydraulic system , you may need to pump additional pressure into the tank ."
+                }
+            ],
+            "Text_raw": "Use an 8 mm open end wrench to loosen the bleed screw on the caliper. Brake fluid will begin to flow through the bleed tube with many air bubbles. Once the air bubbles stop completely, tighten the bleed screw to close the bleed valve. Repeat steps 5 and 6 for the other three brake calipers, moving to passenger rear, driver front, and finally passenger front. As more fluid flows through the hydraulic system, you may need to pump additional pressure into the tank.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hBABekFDwmTiAFTY.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/LmLeAqt3qfJwXFSl.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/6iOFMRKTEDKSKvW3.standard"
+            ],
+            "StepId": 33252,
+            "Tools_extracted": [
+                "hydraulic floor jack",
+                "8 mm open end wrench"
+            ]
+        },
+        {
+            "Order": 6,
+            "Lines": [
+                {
+                    "Text": "if there is still fluid left in the tank after bleeding all four corners of the car , you will need to keep the bleed tube on the passenger front bleed valve ."
+                },
+                {
+                    "Text": "tilt the tank so that the pick-up tube is not submerged in brake fluid ."
+                },
+                {
+                    "Text": "open the bleed valve on the passenger side front caliper until air flows from the tank into the fluid reservoir and the brake fluid reservoir falls just below the maximum fill line . close the bleed valve once the fluid in the reservoir is at the appropriate level ."
+                }
+            ],
+            "Text_raw": "If there is still fluid left in the tank after bleeding all four corners of the car, you will need to keep the bleed tube on the passenger front bleed valve. Tilt the tank so that the pick-up tube is not submerged in brake fluid. Open the bleed valve on the passenger side front caliper until air flows from the tank into the fluid reservoir and the brake fluid reservoir falls just below the maximum fill line. Close the bleed valve once the fluid in the reservoir is at the appropriate level.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/reH1awtcT4WAPdWN.standard"
+            ],
+            "StepId": 33253,
+            "Tools_extracted": [
+                "8 mm open end wrench"
+            ]
+        },
+        {
+            "Order": 7,
+            "Lines": [
+                {
+                    "Text": "slowly loosen the cap on the bleeder tank to relieve the pressure ."
+                },
+                {
+                    "Text": "remove the cap from the brake fluid reservoir and top it off , if necessary ."
+                },
+                {
+                    "Text": "reinstall the original brake fluid reservoir cap ."
+                },
+                {
+                    "Text": "place the wheels back on the car and lower it to the ground ; you're done !"
+                }
+            ],
+            "Text_raw": "Slowly loosen the cap on the bleeder tank to relieve the pressure. Remove the cap from the brake fluid reservoir and top it off, if necessary. Reinstall the original brake fluid reservoir cap. Place the wheels back on the car and lower it to the ground; you're done!",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/d3VZSelPyEoan4Qj.standard"
+            ],
+            "StepId": 33254,
+            "Tools_extracted": [
+                "motive power bleeder"
+            ]
+        }
+    ],
+    "Subject": ""
+}

@@ -1,0 +1,212 @@
+{
+    "Title": "1998 Honda Accord Center Dash Disassembly",
+    "Ancestors": [
+        "Honda Accord",
+        "Honda",
+        "Car and Truck",
+        "Root"
+    ],
+    "Guidid": 2243,
+    "Category": "1998-2002 Honda Accord",
+    "Toolbox": [
+        {
+            "Name": "smart wrench",
+            "Url": "https://www.ifixit.com/Store/Parts/Smart-Wrench/IF145-231-1",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/bIqPGgt6wXCOMSeU.mini"
+        },
+        {
+            "Name": "phillips 2 screwdriver",
+            "Url": "http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/pA12avM2ULTkyk1o.mini"
+        },
+        {
+            "Name": "spudger",
+            "Url": "http://www.ifixit.com/Tools/Spudger/IF145-002",
+            "Thumbnail": "https://da2lh5cs8ikqj.cloudfront.net/cart-products/fIQ3oZSjd1yLgqpX.mini"
+        }
+    ],
+    "Url": "https://www.ifixit.com/Guide/1998+Honda+Accord+Center+Dash+Disassembly/2243",
+    "Steps": [
+        {
+            "Order": 0,
+            "Tools_annotated": [
+                "smart wrench"
+            ],
+            "Lines": [
+                {
+                    "Text": "before going any further : disconnect the battery . i keep a 10 mm wrench in my center console specifically for this purpose ."
+                },
+                {
+                    "Text": "use a 10 mm wrench to disconnect the negative battery terminal , followed by the positive terminal ."
+                }
+            ],
+            "Text_raw": "Before going any further: disconnect the battery. I keep a 10 mm wrench in my center console specifically for this purpose. Use a 10 mm wrench to disconnect the negative battery terminal, followed by the positive terminal.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/gFmsvkSdZK35H6ZL.standard"
+            ],
+            "StepId": 11407,
+            "Tools_extracted": [
+                "smart wrench"
+            ]
+        },
+        {
+            "Order": 1,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "note that the dash has been taken apart before , namely to install all those fancy gizmos you see in this picture ."
+                },
+                {
+                    "Text": "the disassembly procedure is exactly the same for stock factory systems , but may differ when taking out the radio itself ."
+                }
+            ],
+            "Text_raw": "Note that the dash has been taken apart before, namely to install all those fancy gizmos you see in this picture. The disassembly procedure is exactly the same for stock factory systems, but may differ when taking out the radio itself.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/KtDCOBQlHK5QA2Bb.standard"
+            ],
+            "StepId": 11408,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 2,
+            "Tools_annotated": [
+                "phillips 2 screwdriver"
+            ],
+            "Lines": [
+                {
+                    "Text": "use a 2 phillips screwdriver to remove the two screws holding the center of the dashboard in place ."
+                }
+            ],
+            "Text_raw": "Use a #2 Philips screwdriver to remove the two screws holding the center of the dashboard in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/y1d6Eal4fh6rsnjx.standard"
+            ],
+            "StepId": 11409,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 3,
+            "Tools_annotated": [
+                "spudger"
+            ],
+            "Lines": [
+                {
+                    "Text": "use a spudger for the following step or , if you don't have one handy , cover a flathead screwdriver with a rag ."
+                },
+                {
+                    "Text": "gently insert a spudger or flathead screwdriver directly underneath the clock , just enough so you can pry out the clock . perhaps a half inch or so will do it ."
+                }
+            ],
+            "Text_raw": "Use a [product|IF145-002|spudger] for the following step or, if you don't have one handy, cover a flathead screwdriver with a rag. Gently insert a spudger or flathead screwdriver directly underneath the clock, just enough so you can pry out the clock. Perhaps a half inch or so will do it.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/EKIENZDaGURXoMYH.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/hEuH3RCxXXGBq1sf.standard"
+            ],
+            "StepId": 11410,
+            "Tools_extracted": [
+                "spudger"
+            ]
+        },
+        {
+            "Order": 4,
+            "Tools_annotated": [
+                "phillips 2 screwdriver"
+            ],
+            "Lines": [
+                {
+                    "Text": "slide the clock out to expose a sole phillips screw ."
+                },
+                {
+                    "Text": "alternatively , you can first disconnect the clock ( see next step ) and then proceed to remove the screw . it might be slightly easier to do that instead of the method you see here , but either way will work fine ."
+                },
+                {
+                    "Text": "remove the screw using your phillips 2 screwdriver ."
+                }
+            ],
+            "Text_raw": "Slide the clock out to expose a sole Phillips screw. Alternatively, you can first disconnect the clock (see next step) and then proceed to remove the screw. It might be slightly easier to do that instead of the method you see here, but either way will work fine. Remove the screw using your Phillips #2 screwdriver.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ekIRAw3VqO1NxfOv.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/XZ2ACvgF3NIwFxTY.standard"
+            ],
+            "StepId": 11411,
+            "Tools_extracted": [
+                "phillips 2 screwdriver"
+            ]
+        },
+        {
+            "Order": 5,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "unplug the smaller connector first . there's a tab on top of the connector that you have to push downwards , then pull the connector . make sure to grasp the connector itself , and not the wires ."
+                },
+                {
+                    "Text": "do the same with the larger connector . again , there's a tab on top that needs to be pushed downward ."
+                }
+            ],
+            "Text_raw": "Unplug the smaller connector first. There's a tab on top of the connector that you have to push downwards, then pull the connector. Make sure to grasp the connector itself, and not the wires. Do the same with the larger connector. Again, there's a tab on top that needs to be pushed downward.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/BpXB5XpFsrQp1TIg.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/IcCbFnNaHbsYwEcU.standard"
+            ],
+            "StepId": 11983,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 6,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "now , gently pull the bottom of the center console towards you . don't yank it out , there's two more connectors holding it in place ."
+                }
+            ],
+            "Text_raw": "Now, gently pull the bottom of the center console towards you. Don't yank it out, there's two more connectors holding it in place.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/WifQDZdLcAhlAKdw.standard"
+            ],
+            "StepId": 11984,
+            "Tools_extracted": [
+                "NA"
+            ]
+        },
+        {
+            "Order": 7,
+            "Tools_annotated": [
+                "NA"
+            ],
+            "Lines": [
+                {
+                    "Text": "first take off the red connector . just like before , there's a tab on top of the connector that you have to push downwards first ."
+                },
+                {
+                    "Text": "follow suit with the green connector ."
+                },
+                {
+                    "Text": "center dash can now be fully removed ."
+                }
+            ],
+            "Text_raw": "First take off the red connector. Just like before, there's a tab on top of the connector that you have to push downwards first. Follow suit with the green connector. Center dash can now be fully removed.",
+            "Images": [
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/iqFhyyNfuQQHWw5T.standard",
+                "https://d3nevzfk7ii3be.cloudfront.net/igi/ZIGWfd5UGYLmOVKq.standard"
+            ],
+            "StepId": 11988,
+            "Tools_extracted": [
+                "NA"
+            ]
+        }
+    ],
+    "Subject": "Center Dash"
+}
