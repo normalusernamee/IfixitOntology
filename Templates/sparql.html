@@ -37,14 +37,30 @@ HAVING (COUNT(?procedure) &gt; 10)
         <li>
             <h2>Find procedures including tools not mentioned in steps</h2>
             <pre>
-PREFIX ex: &lt;http://example.org/ifixit.owl#&gt;
-SELECT ?procedure ?tool WHERE {
-    ?procedure a ex:Procedure .
-    ?procedure ex:has_step ?step .
-    ?procedure ex:requiresTool ?tool .
+PREFIX ifixit: &lt;http://example.org/ifixit.owl#&gt;
+SELECT ?procedure ?tool
+WHERE {
+    ?procedure a ifixit:Procedure .
+    ?procedure ifixit:requires_tool ?tool .
+    
+    # Find tools required by the procedure
     FILTER NOT EXISTS {
-        ?step ex:requiresTool ?tool .
+        # Match steps within the procedure
+        ?procedure ifixit:has_step ?step .
+        # Match tools used in those steps
+        ?step ifixit:requiresTool ?tool .
     }
+}
+            </pre>
+        </li>
+        <li>
+            <h2>Find procedures with steps containing "careful" or "dangerous"</h2>
+            <pre>
+PREFIX ex: &lt;http://example.org/ifixit.owl#&gt;
+SELECT ?procedure ?step ?text WHERE {
+    ?procedure ex:has_step ?step .
+    ?step ex:stepText ?text .
+    FILTER (CONTAINS(LCASE(?text), "careful") || CONTAINS(LCASE(?text), "dangerous"))
 }
             </pre>
         </li>

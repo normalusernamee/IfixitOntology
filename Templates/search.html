@@ -4,14 +4,124 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Search Dataset</title>
+    <script>
+        function fillQueryTemplate(template) {
+            const queryTextArea = document.getElementById('query');
+            const templates = {
+                "complex1": `PREFIX ex: <http://example.org/ifixit.owl#>
+SELECT ?procedure
+WHERE {
+    ?procedure a ex:Procedure .
+    ?procedure ex:has_step ?step .
+}
+GROUP BY ?procedure
+HAVING (COUNT(?step) > 6)`,
+
+                "complex2": `PREFIX ex: <http://example.org/ifixit.owl#>
+SELECT ?item
+WHERE {
+    ?procedure a ex:Procedure .
+    ?procedure ex:has_Item ?item .
+}
+GROUP BY ?item
+HAVING (COUNT(?procedure) > 10)`,
+
+                "complex3": `PREFIX ifixit: <http://example.org/ifixit.owl#>
+SELECT ?procedure ?tool
+WHERE {
+    ?procedure a ifixit:Procedure .
+    ?procedure ifixit:requires_tool ?tool .
+
+    # Find tools required by the procedure
+    FILTER NOT EXISTS {
+        # Match steps within the procedure
+        ?procedure ifixit:has_step ?step .
+        # Match tools used in those steps
+        ?step ifixit:requiresTool ?tool .
+    }
+}`,
+
+                "complex4": `PREFIX ex: <http://example.org/ifixit.owl#>
+SELECT ?procedure ?step ?text WHERE {
+    ?procedure ex:has_step ?step .
+    ?step ex:stepText ?text .
+    FILTER (CONTAINS(LCASE(?text), "careful") || CONTAINS(LCASE(?text), "dangerous"))
+}`
+            };
+
+            // Set the selected template into the textarea
+            queryTextArea.value = templates[template];
+        }
+
+        function addCondition() {
+            const conditionsContainer = document.getElementById('conditions-container');
+            const conditionDiv = document.createElement('div');
+            conditionDiv.innerHTML = `
+                <input type="text" name="condition" placeholder="Enter condition (e.g., ?step ex:requiresTool ?tool)" required>
+                <select name="filter_operator">
+                    <option value="AND">AND</option>
+                    <option value="OR">OR</option>
+                </select>
+                <button type="button" onclick="removeCondition(this)">Remove</button>
+            `;
+            conditionsContainer.appendChild(conditionDiv);
+        }
+
+        function removeCondition(button) {
+            const conditionDiv = button.parentElement;
+            conditionDiv.remove();
+        }
+    </script>
 </head>
 <body>
     <h1>Search Dataset</h1>
+
+    <!-- Form for entering a custom SPARQL query -->
     <form action="{{ url_for('search') }}" method="POST">
         <label for="query">Enter your SPARQL query:</label><br>
         <textarea id="query" name="query" rows="4" cols="50" required></textarea><br>
         <input type="submit" value="Search">
     </form>
+
+    <hr>
+
+    <!-- Form for generating a complex SPARQL query -->
+    <h2>Create Complex SPARQL Query</h2>
+    <form action="{{ url_for('execute_query') }}" method="POST">
+        <label for="select">Select Clause:</label>
+        <input type="text" id="select" name="select" placeholder="e.g., ?procedure ?step" required><br><br>
+
+        <label for="where">WHERE Clause:</label>
+        <input type="text" id="where" name="where" placeholder="e.g., ?procedure ex:has_step ?step" required><br><br>
+
+        <label for="conditions">Additional Conditions:</label>
+        <div id="conditions-container">
+            <input type="text" name="condition" placeholder="Enter condition" required>
+        </div>
+        <button type="button" onclick="addCondition()">Add Condition</button><br><br>
+
+        <label for="groupBy">GROUP BY:</label>
+        <input type="text" id="groupBy" name="groupBy" placeholder="e.g., ?procedure"><br><br>
+
+        <label for="having">HAVING:</label>
+        <input type="text" id="having" name="having" placeholder="e.g., COUNT(?step) > 6"><br><br>
+
+        <input type="submit" value="Generate and Execute Query">
+    </form>
+
+    <hr>
+
+    <!-- Dropdown for complex query templates -->
+    <h2>Use a Predefined Complex Query</h2>
+    <label for="complex-query">Select a Complex Query:</label>
+    <select id="complex-query" onchange="fillQueryTemplate(this.value)">
+        <option value="">Select a query</option>
+        <option value="complex1">Find all procedures with more than 6 steps</option>
+        <option value="complex2">Find all items with more than 10 procedures</option>
+        <option value="complex3">Find procedures including tools not mentioned in steps</option>
+        <option value="complex4">Find procedures with steps containing "careful" or "dangerous"</option>
+    </select><br><br>
+
     <p><a href="{{ url_for('home') }}">Back to Home</a></p>
 </body>
 </html>

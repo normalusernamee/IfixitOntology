@@ -95,6 +95,10 @@ def parse_car_truck_procedure(guide_data):
 
     
             tool_instance = onto.Tool(tool_name)  # Use existing instance if it already exists
+
+            procedure_instance.requires_tool.append(tool_instance) # add tool to procedure's toolbox
+
+
                 # Only append the URL if it's not None
             url = tool_data.get('Url')
             if url is not None:
@@ -154,7 +158,13 @@ def parse_auto_part_procedure(guide_data):
 
     
             tool_instance = onto.Tool(tool_name)  # Use existing instance if it already exists
-            tool_instance.toolURL.append(tool_data.get('Url', ''))  # Use append() method
+
+            procedure_instance.requires_tool.append(tool_instance) # add tool to procedure's toolbox
+
+                            # Only append the URL if it's not None
+            url = tool_data.get('Url')
+            if url is not None:
+                tool_instance.toolURL.append(url)
 
             # If there's a thumbnail image, create ToolImage instance
             if tool_data.get('Thumbnail'):
@@ -212,6 +222,9 @@ def parse_auto_accessory_procedure(guide_data):
 
     
             tool_instance = onto.Tool(tool_name)
+
+            procedure_instance.requires_tool.append(tool_instance) # add tool to procedure's toolbox
+            
                 # Only append the URL if it's not None
             url = tool_data.get('Url')
             if url is not None:

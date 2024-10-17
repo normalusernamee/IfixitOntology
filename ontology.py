@@ -37,7 +37,18 @@ with onto:
     
 
     # Define Properties
-    
+
+    # Procedure has required tools
+    class requires_tool(Procedure >> Tool, ObjectProperty):
+        domain = [Procedure]
+        range = [Tool]
+
+    # Inverse of the above: Tool is used in procedures
+    class used_in(Tool >> Procedure, ObjectProperty):
+        domain = [Tool]
+        range = [Procedure]
+        inverse_property = requires_tool  # Inverse function
+
     
         # Tools used in a step of the procedure appear in the toolbox of the procedure
     

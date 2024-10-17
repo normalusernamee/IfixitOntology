@@ -8,6 +8,18 @@
 
 <owl:Ontology rdf:about="http://example.org/ifixit.owl"/>
 
+<owl:ObjectProperty rdf:about="#requires_tool">
+  <rdfs:domain rdf:resource="#Procedure"/>
+  <rdfs:range rdf:resource="#Tool"/>
+  <owl:inverseOf rdf:resource="#used_in"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#used_in">
+  <rdfs:domain rdf:resource="#Tool"/>
+  <rdfs:range rdf:resource="#Procedure"/>
+  <owl:inverseOf rdf:resource="#requires_tool"/>
+</owl:ObjectProperty>
+
 <owl:ObjectProperty rdf:about="#requiresTool">
   <rdfs:domain rdf:resource="#Step"/>
   <rdfs:range rdf:resource="#Tool"/>
