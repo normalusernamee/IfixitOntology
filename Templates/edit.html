@@ -15,11 +15,17 @@
             <option value="delete">Delete</option>
         </select><br>
 
-        <label for="data">Enter Data (in RDF format):</label><br>
+        <label for="data">Enter Data (in Turtle/RDF format):</label><br>
         <textarea id="data" name="data" rows="4" cols="50" required></textarea><br>
         
         <input type="submit" value="Submit">
     </form>
+    
+    <!-- Display a message after an operation -->
+    {% if message %}
+        <p>{{ message }}</p>
+    {% endif %}
+
     <p><a href="{{ url_for('home') }}">Back to Home</a></p>
 </body>
 </html>

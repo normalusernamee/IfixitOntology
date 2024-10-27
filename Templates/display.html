@@ -5,30 +5,67 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Display Data</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-</head><body>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            margin-top: 20px;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        .instances-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+    </style>
+</head>
+<body>
     <h1>Ontology Data</h1>
+    
     <h2>Classes:</h2>
-    <ul>
+    <table>
+        <tr>
+            <th>Class Name</th>
+        </tr>
         {% for cls in ontology.classes() %}
-        <li>{{ cls.name }}</li>
+        <tr>
+            <td>{{ cls.name }}</td>
+        </tr>
         {% endfor %}
-    </ul>
+    </table>
     
     <h2>Instances:</h2>
-    <ul>
-        {% for cls_name, instances in instances_by_class.items() %}
-            <h3>{{ cls_name }}</h3>
-            <ul>
-                {% if instances %}
-                    {% for inst in instances %}
-                        <li>{{ inst.name }}</li>
-                    {% endfor %}
-                {% else %}
-                    <li>No instances found.</li>
-                {% endif %}
-            </ul>
-        {% endfor %}
-    </ul>
+    {% for cls_name, instances in instances_by_class.items() %}
+        <h3>{{ cls_name }}</h3>
+        <div class="instances-grid">
+            {% if instances %}
+                {% for inst in instances %}
+                    <div class="instance-card">
+                        <a href="{{ url_for('instance_details', instance_name=inst.name) }}">{{ inst.name }}</a>
+                    </div>
+                {% endfor %}
+            {% else %}
+                <div class="instance-card">No instances found.</div>
+            {% endif %}
+        </div>
+    {% endfor %}
     
     <p><a href="{{ url_for('home') }}">Back to Home</a></p>
 </body>

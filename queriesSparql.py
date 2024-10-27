@@ -39,18 +39,18 @@ HAVING (COUNT(?procedure) > 10)
 # Find all procedures that include a tool not mentioned in any of their steps
 query3 = """
 
-PREFIX ifixit: <http://example.org/ifixit.owl#>
+PREFIX ex: <http://example.org/ifixit.owl#>
 SELECT ?procedure ?tool
 WHERE {
-    ?procedure a ifixit:Procedure .
-    ?procedure ifixit:requires_tool ?tool .
+    ?procedure a ex:Procedure .
+    ?procedure ex:requires_tool ?tool .
     
     # Find tools required by the procedure
     FILTER NOT EXISTS {
         # Match steps within the procedure
-        ?procedure ifixit:has_step ?step .
+        ?procedure ex:has_step ?step .
         # Match tools used in those steps
-        ?step ifixit:requiresTool ?tool .
+        ?step ex:requiresTool ?tool .
     }
 }
 """
@@ -72,36 +72,23 @@ results2 = g.query(query2)
 results3 = g.query(query3)
 results4 = g.query(query4)
 
-# # Print results
-# print("Procedures with more than 6 steps:")
-# for row in results1:
-#     print(row)
-
-# print("\nItems with more than 10 procedures:")
-# for row in results2:
-#     print(row)
-
-# print("\nProcedures that include a tool not mentioned in any of their steps:")
-# for row in results3:
-#     print(row)
-
-
-# # Print results of the fourth query (Flagged potential hazards in procedures)
-# print("\nFlagged potential hazards in procedures:")
-# for row in results4:
-#     print(row)
-
-
-q1='''
-    PREFIX ex: <http://example.org/ifixit.owl#>
-    SELECT ?tool WHERE {
-        ?tool a ex:Tool .
-        ?tool ex:toolURL ?relatedEntity .
-    }
-'''
-# Execute the queries
-r = g.query(q1)
-# Print results of the fourth query (Flagged potential hazards in procedures)
-print("\nTESTING:")
-for row in r:
+# Print results
+print("Procedures with more than 6 steps:")
+for row in results1:
     print(row)
+
+print("\nItems with more than 10 procedures:")
+for row in results2:
+    print(row)
+
+print("\nProcedures that include a tool not mentioned in any of their steps:")
+for row in results3:
+    print(row)
+
+
+# Print results of the fourth query (Flagged potential hazards in procedures)
+print("\nFlagged potential hazards in procedures:")
+for row in results4:
+    print(row)
+
+

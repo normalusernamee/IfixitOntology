@@ -4,7 +4,7 @@ import glob
 
 
 # Load the modified ontology
-onto = get_ontology("file:///Users/wissam/Dheya/KnowledgeRep/cars_trucks_ontology.owl").load()
+onto = get_ontology("cars_trucks_ontology.owl").load()
 
 
 
@@ -283,3 +283,4 @@ onto.save(file="updated_cars_trucks_ontology.owl", format="rdfxml")
         
 print(c1, c2, c3)
 print(len(json_files))
+print("parsed successfuly and updated_cars_trucks_ontology.owl has been created")

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instance Details</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Details for Instance: {{ instance_name }}</h1>
+
+    <h2>Properties and Relationships:</h2>
+
+    <table>
+        <tr>
+            <th>Property</th>
+            <th>Values</th>
+        </tr>
+        {% for prop, values in properties.items() %}
+        <tr>
+            <td>{{ prop }}</td>
+            <td>
+                {% for value in values %}
+                    {{ value }}{% if not loop.last %}, {% endif %}
+                {% endfor %}
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <p><a href="{{ url_for('home') }}">Back to Home</a></p>
+    <p><a href="{{ url_for('display_data') }}">Back to Instances</a></p>
+</body>
+</html>

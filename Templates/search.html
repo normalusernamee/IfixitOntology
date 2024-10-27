@@ -26,18 +26,18 @@ WHERE {
 GROUP BY ?item
 HAVING (COUNT(?procedure) > 10)`,
 
-                "complex3": `PREFIX ifixit: <http://example.org/ifixit.owl#>
+                "complex3": `PREFIX ex: <http://example.org/ifixit.owl#>
 SELECT ?procedure ?tool
 WHERE {
-    ?procedure a ifixit:Procedure .
-    ?procedure ifixit:requires_tool ?tool .
+    ?procedure a ex:Procedure .
+    ?procedure ex:requires_tool ?tool .
 
     # Find tools required by the procedure
     FILTER NOT EXISTS {
         # Match steps within the procedure
-        ?procedure ifixit:has_step ?step .
+        ?procedure ex:has_step ?step .
         # Match tools used in those steps
-        ?step ifixit:requiresTool ?tool .
+        ?step ex:requiresTool ?tool .
     }
 }`,
 
@@ -57,7 +57,7 @@ SELECT ?procedure ?step ?text WHERE {
             const conditionsContainer = document.getElementById('conditions-container');
             const conditionDiv = document.createElement('div');
             conditionDiv.innerHTML = `
-                <input type="text" name="condition" placeholder="Enter condition (e.g., ?step ex:requiresTool ?tool)" required>
+                <input type="text" name="condition" placeholder="Enter condition" required>
                 <select name="filter_operator">
                     <option value="AND">AND</option>
                     <option value="OR">OR</option>
@@ -71,10 +71,25 @@ SELECT ?procedure ?step ?text WHERE {
             const conditionDiv = button.parentElement;
             conditionDiv.remove();
         }
+
+        function addFilter() {
+            const filterContainer = document.getElementById('filters-container');
+            const filterDiv = document.createElement('div');
+            filterDiv.innerHTML = `
+                <input type="text" name="filter" placeholder="Enter FILTER condition">
+                <button type="button" onclick="removeFilter(this)">Remove</button>
+            `;
+            filterContainer.appendChild(filterDiv);
+        }
+
+        function removeFilter(button) {
+            const filterDiv = button.parentElement;
+            filterDiv.remove();
+        }
     </script>
 </head>
 <body>
-    <h1>Search Dataset</h1>
+    <h1>Search Dataset (dont add ''' '''')</h1>
 
     <!-- Form for entering a custom SPARQL query -->
     <form action="{{ url_for('search') }}" method="POST">
@@ -91,14 +106,20 @@ SELECT ?procedure ?step ?text WHERE {
         <label for="select">Select Clause:</label>
         <input type="text" id="select" name="select" placeholder="e.g., ?procedure ?step" required><br><br>
 
-        <label for="where">WHERE Clause:</label>
+        <label for="where">WHERE Clause (do not add '.' at the end):</label>
         <input type="text" id="where" name="where" placeholder="e.g., ?procedure ex:has_step ?step" required><br><br>
 
-        <label for="conditions">Additional Conditions:</label>
+        <label for="conditions">Additional Conditions: (do not add '.' at the end)</label>
         <div id="conditions-container">
             <input type="text" name="condition" placeholder="Enter condition" required>
         </div>
         <button type="button" onclick="addCondition()">Add Condition</button><br><br>
+
+        <label for="filters">FILTER Conditions (Optional):</label>
+        <div id="filters-container">
+            <input type="text" name="filter" placeholder="Enter FILTER condition">
+        </div>
+        <button type="button" onclick="addFilter()">Add FILTER Condition</button><br><br>
 
         <label for="groupBy">GROUP BY:</label>
         <input type="text" id="groupBy" name="groupBy" placeholder="e.g., ?procedure"><br><br>
